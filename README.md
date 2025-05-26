@@ -5,7 +5,7 @@ Step into the edge of the collapse with Echoes of Tarkov – Requisitions, a sta
 
 This mod is designed as a content preview—no quests, no traders—just raw equipment and cold steel. Requisitions brings you a curated selection of original weapons, attachments, and cosmetics from the upcoming full release of Echoes of Tarkov, letting you arm up and get a taste of the arsenal before the story unfolds.
 
-Key Features:
+### Key Features:
 
 WTT - UMP 9 – Tactical and deadly.
 
@@ -14,14 +14,14 @@ TTI Pit Viper – Precision-built competition handgun.
 Custom Storage Options – Small Armor Plate Box, Large Ammo Box.
 
 
-Suppressors Galore – Over 20 unique suppressor variants including:
+### Suppressors Galore – Over 20 unique suppressor variants including:
 
 Strikewrap 46 Multicaliber Suppressor (10 variants)
 
 XENON 45 ACP, Nightfall LX USP, Manta, Echoes Armament Afterburn, and more
 
 
-Original Attachments – Tactical handguards, stocks, grips, and mounts like:
+### Original Attachments – Tactical handguards, stocks, grips, and mounts like:
 
 DS Arms RPD Handguard & Trigger Group
 
