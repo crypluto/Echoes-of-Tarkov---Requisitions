@@ -6,6 +6,7 @@ Step into the edge of the collapse with Echoes of Tarkov – Requisitions, a sta
 This mod is designed as a content preview—no quests, no traders—just raw equipment and cold steel. Requisitions brings you a curated selection of original weapons, attachments, and cosmetics from the upcoming full release of Echoes of Tarkov, letting you arm up and get a taste of the arsenal before the story unfolds.
 
 Key Features:
+
 WTT - UMP 9 – Tactical and deadly.
 TTI Pit Viper – Precision-built competition handgun.
 Custom Storage Options – Small Armor Plate Box, Large Ammo Box.
