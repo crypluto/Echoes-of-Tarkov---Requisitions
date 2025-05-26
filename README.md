@@ -1,5 +1,5 @@
 # Echoes of Tarkov – Requisitions
-## A standalone gear preview from the upcoming total conversion mod, Echoes of Tarkov
+ A standalone gear preview from the upcoming total conversion mod, Echoes of Tarkov
 
 Step into the edge of the collapse with Echoes of Tarkov – Requisitions, a standalone items-only mod that offers a sneak peek into the brutal, gear-driven world of the full Echoes of Tarkov experience.
 
@@ -42,3 +42,12 @@ Echoes Armament 03-07 Dovetail Mount
 
 Keegan Balaclava, Ryzhy Balaclava, M50 Gas Mask, Black Boss Cap, Pit Viper Sunglasses, Joey Jordison Mask, Echoes Armament Blackout Goggles, Cigarette (Face item)
 
+# TEAM
+### RheddElBozo
+Team Lead - Assets - Code - Teacher - The whole shebang
+
+### DefoNotMaple
+Assets - Item Code - Advisor
+
+### Pigeon
+Modeler - Item Code - Assets
