@@ -1,0 +1,132 @@
+{
+	"683246a74073e586d112af9f": {
+		"itemTplToClone": "5a6086ea4f39f99cd479502f",
+		"parentId": "5485a8684bdc2da71d8b4567",
+		"handbookParentId": "5b47574386f77428ca22b33b",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Ammo/patron_65cm_match.bundle",
+				"rcid": ""
+			},
+			"InitialSpeed": 885,
+			"ArmorDamage": 51,
+			"PenetrationPower": 43,
+			"Damage": 77,
+			"BulletMassGram": 8,
+			"Tracer": false,
+			"TracerColor": "green",
+			"TracerDistance": 0,
+			"LightBleedingDelta": 0.35,
+			"HeavyBleedingDelta": 0.50,
+			"StackMaxSize": 2500,
+			"Weight": 0.024,
+			"casingMass": 52.5,
+			"ExaminedByDefault": true,
+			"Caliber": "Caliber6.5x48mm",
+			"DiscardingBlock": false,
+			"DiscardLimit": 0,
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "6.5x48mm Creedmoor Norma Match",
+				"shortName": "Match",
+				"description": "6.5x48mm Creedmoor is a centrefire rifle cartridge introduced by Hornady in 2007. The 6.5mm Creedmoor was designed specifically for long-range target shooting, although it has been used successfully in medium game hunting. Bullet-for-bullet, the 6.5mm Creedmoor achieves a slower muzzle velocity than longer cartridges such as the 6.5-284 Norma or magnum cartridges such as the 6.5mm Remington Magnum. However, with an overall length of 2.825 inches (71.8 mm), it can be chambered in short-action rifles."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 751,
+		"handbookPriceRoubles": 400,
+		"addtoTraders": true,
+		"traderId": "JAEGER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 401,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+		"Probability": 250
+	},
+	"68325a63730b17c69ee176eb": {
+		"itemTplToClone": "5a6086ea4f39f99cd479502f",
+		"parentId": "5485a8684bdc2da71d8b4567",
+		"handbookParentId": "5b47574386f77428ca22b33b",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Ammo/patron_65cm_match.bundle",
+				"rcid": ""
+			},
+			"InitialSpeed": 868,
+			"ArmorDamage": 45,
+			"PenetrationPower": 31,
+			"Damage": 91,
+			"BulletMassGram": 8.5,
+			"Tracer": true,
+			"TracerColor": "red",
+			"TracerDistance": 0,
+			"LightBleedingDelta": 0.35,
+			"HeavyBleedingDelta": 0.50,
+			"StackMaxSize": 2500,
+			"Weight": 0.024,
+			"casingMass": 52,
+			"ExaminedByDefault": true,
+			"Caliber": "Caliber6.5x48mm",
+			"DiscardingBlock": false,
+			"DiscardLimit": 0,
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "6.5x48mm Creedmoor HPBT Match",
+				"shortName": "HPBT",
+				"description": "6.5x48mm Creedmoor HPBT (Hollow Point Boat Tail) is a rifle round intended for use against big game at long range, and as such has very little penetration in favour of high flesh-based damage. Red Tracer version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 411,
+		"handbookPriceRoubles": 220,
+		"addtoTraders": true,
+		"traderId": "JAEGER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 221,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"addtoBots": false,
+		"addtoStaticLootContainers": false,
+		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
+		"Probability": 250
+	}
+}

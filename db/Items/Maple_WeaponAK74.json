@@ -1,0 +1,142 @@
+{
+	"682f527ae74a24cfa1d3f5c5": {
+		"itemTplToClone": "5bf3e03b0db834001d2c4a9c",
+		"parentId": "ASSAULT_RIFLE",
+		"handbookParentId": "WEAPONS_ASSAULTRIFLES",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "assets/content/weapons/ak74/weapon_izhmash_ak74_545x39_container.bundle",
+				"rcid": ""
+			},
+			"weapFireType": [
+				"single"
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Riley Defense RAK74-P semi-automatic rifle",
+				"shortName": "RAK74-P",
+				"description": "An American-Produced civilian variant of the AK-74-series of rifle, likely imported by a USEC PMC. This rifle is limited to semi-automatic only due to it's nature as a civilian rifle. Manufactured by Riley Defense."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 38731,
+		"handbookPriceRoubles": 28281,
+		"addtoTraders": true,
+		"traderId": "PRAPOR",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 2
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 28281,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 350
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 200
+			}
+		],
+		"masteries": true,
+		"masterySections": [
+			{
+				"Name": "AK74",
+				"Templates": [
+					"682f527ae74a24cfa1d3f5c5"
+				]
+			}
+		],
+		"addweaponpreset": true,
+		"weaponpresets": [
+			{
+				"_changeWeaponName": false,
+				"_encyclopedia": "682f527ae74a24cfa1d3f5c5",
+				"_id": "682a28820829583fc1786032",
+				"_items": [
+					{
+						"_id": "682f5799deba132290047aba",
+						"_tpl": "682f527ae74a24cfa1d3f5c5",
+						"upd": {
+							"StackObjectsCount": 99,
+							"Repairable": {
+								"MaxDurability": 100,
+								"Durability": 100
+							},
+							"FireMode": {
+								"FireMode": "single"
+							}
+						}
+					},
+					{
+						"_id": "682f5799deba132290047abb",
+						"_tpl": "59c6633186f7740cf0493bb9",
+						"slotId": "mod_gas_block",
+						"parentId": "682f5799deba132290047aba"
+					},
+					{
+						"_id": "682f5799deba132290047abc",
+						"_tpl": "5649aa744bdc2ded0b8b457e",
+						"slotId": "mod_muzzle",
+						"parentId": "682f5799deba132290047aba"
+					},
+					{
+						"_id": "682f5799deba132290047abd",
+						"_tpl": "5649ade84bdc2d1b2b8b4587",
+						"slotId": "mod_pistol_grip",
+						"parentId": "682f5799deba132290047aba"
+					},
+					{
+						"_id": "682f5799deba132290047abe",
+						"_tpl": "5649af094bdc2df8348b4586",
+						"slotId": "mod_reciever",
+						"parentId": "682f5799deba132290047aba"
+					},
+					{
+						"_id": "682f5799deba132290047abf",
+						"_tpl": "5649b0544bdc2d1b2b8b458a",
+						"slotId": "mod_sight_rear",
+						"parentId": "682f5799deba132290047aba"
+					},
+					{
+						"_id": "682f5799deba132290047ac0",
+						"_tpl": "5649b0fc4bdc2d17108b4588",
+						"slotId": "mod_stock",
+						"parentId": "682f5799deba132290047aba"
+					},
+					{
+						"_id": "682f5799deba132290047ac1",
+						"_tpl": "5aaa4194e5b5b055d06310a5",
+						"slotId": "mod_magazine",
+						"parentId": "682f5799deba132290047aba"
+					},
+					{
+						"_id": "682f5799deba132290047ac2",
+						"_tpl": "5648b1504bdc2d9d488b4584",
+						"slotId": "mod_handguard",
+						"parentId": "682f5799deba132290047abb"
+					}
+				],
+				"_name": "RAK74 stock preset",
+				"_parent": "682f5799deba132290047aba",
+				"_type": "Preset"
+			}
+		]
+	}
+}

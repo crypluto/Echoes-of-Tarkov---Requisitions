@@ -1,0 +1,407 @@
+{
+    "68291dcbc8bb6e883871070f": {
+		"itemTplToClone": "6499849fc93611967b034949",
+		"parentId": "ASSAULT_RIFLE",
+		"handbookParentId": "WEAPONS_ASSAULTRIFLES",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "assets/content/weapons/ak12/weapon_izhmash_ak12_545x39_container.bundle",
+				"rcid": ""
+			},
+			"RecoilForceBack": 394,
+			"RecoilForceUp": 139,
+			"Slots": [
+				{
+					"_name": "mod_gas_block",
+					"_id": "68291e58c932411754fe1a62",
+					"_parent": "68291dcbc8bb6e883871070f",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"649ec107961514b22506b10c"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_launcher",
+					"_id": "68291e56273dcb0f02f446a1",
+					"_parent": "68291dcbc8bb6e883871070f",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5648b62b4bdc2d9d488b4585",
+									"62e7e7bbe6da9612f743f1e0"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_muzzle",
+					"_id": "68291e55589b2afbe224a351",
+					"_parent": "68291dcbc8bb6e883871070f",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5ac72e7d5acfc40016339a02",
+									"5ac72e895acfc43b321d4bd5",
+									"5f633f791b231926f2329f13",
+									"5a9ea27ca2750c00137fa672",
+									"5cc9ad73d7f00c000e2579d4",
+									"5649ab884bdc2ded0b8b457f",
+									"59bffc1f86f77435b128b872",
+									"5e208b9842457a4a7a33d074",
+									"5a0d63621526d8dba31fe3bf",
+									"59fb257e86f7742981561852",
+									"5a9fbacda2750c00141e080f"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_pistol_grip",
+					"_id": "68291e541b56ff33e18ebbfe",
+					"_parent": "68291dcbc8bb6e883871070f",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5f6341043ada5942720e2dc5",
+									"6087e663132d4d12c81fd96b",
+									"623c3be0484b5003161840dc",
+									"5beec8ea0db834001a6f9dbf",
+									"5649ad3f4bdc2df8348b4585",
+									"5649ade84bdc2d1b2b8b4587",
+									"59e62cc886f77440d40b52a1",
+									"5a0071d486f77404e23a12b2",
+									"57e3dba62459770f0c32322b",
+									"5cf54404d7f00c108840b2ef",
+									"5e2192a498a36665e8337386",
+									"5b30ac585acfc433000eb79c",
+									"59e6318286f77444dd62c4cc",
+									"5cf50850d7f00c056e24104c",
+									"5cf508bfd7f00c056e24104e",
+									"628a664bccaab13006640e47",
+									"628c9ab845c59e5b80768a81",
+									"5947f92f86f77427344a76b1",
+									"5947fa2486f77425b47c1a9b",
+									"5c6bf4aa2e2216001219b0ae",
+									"5649ae4a4bdc2d1b2b8b4588",
+									"5998517986f7746017232f7e",
+									"63f4da90f31d4a33b87bd054",
+									"648ae3e356c6310a830fc291",
+									"651580dc71a4f10aec4b6056"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_reciever",
+					"_id": "68291e5275cd8060693353bd",
+					"_parent": "68291dcbc8bb6e883871070f",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"649ec2f3961514b22506b111"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_stock_001",
+					"_id": "68291e50000d72c88b1e46ae",
+					"_parent": "68291dcbc8bb6e883871070f",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5ac50c185acfc400163398d4",
+									"5cf50fc5d7f00c056c53f83c",
+									"5beec8b20db834001961942a",
+									"6386300124a1dc425c00577a",
+									"649ec87d8007560a9001ab36",
+									"9d387502b50d1f4b0fb8b0ce",
+									"df1d3bfbd9835563f1574809"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_magazine",
+					"_id": "68291e4ffdd69be757539783",
+					"_parent": "68291dcbc8bb6e883871070f",
+					"_props": {
+						"filters": [
+							{
+								"AnimationIndex": -1,
+								"Filter": [
+									"5a01c29586f77474660c694c",
+									"5ac66bea5acfc43b321d4aec",
+									"59d625f086f774661516605d",
+									"5b1fd4e35acfc40018633c39",
+									"5a0060fc86f7745793204432",
+									"59e5f5a486f7746c530b3ce2",
+									"5b1fb3e15acfc4001637f068",
+									"59d6272486f77466146386ff",
+									"5e21a3c67e40bd02257a008a",
+									"5cbdc23eae9215001136a407",
+									"5c6175362e221600133e3b94",
+									"59fafc5086f7740dbe19f6c3",
+									"59fafc9386f774067d462453",
+									"5cfe8010d7ad1a59283b14c6",
+									"6272874a6c47bd74f92e2087",
+									"64b9cf0ac12b9c38db26923a"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c394bdc2dae468b4577"
+				},
+				{
+					"_name": "mod_charge",
+					"_id": "68291e4dbcd0a3510f8e37af",
+					"_parent": "68291dcbc8bb6e883871070f",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"6130ca3fd92c473c77020dbd",
+									"5648ac824bdc2ded0b8b457d"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_handguard",
+					"_id": "68291e4c530e0bbd977e791e",
+					"_parent": "68291dcbc8bb6e883871070f",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"649ec127c93611967b034957"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"ammoCaliber": "Caliber762x39",
+			"defMagType": "5ac66bea5acfc43b321d4aec",
+			"defAmmo": "5656d7c34bdc2d9d198b4587",
+			"Chambers": [
+				{
+					"_name": "patron_in_weapon",
+					"_id": "68291e4b6032e40a96253bde",
+					"_parent": "68291dcbc8bb6e883871070f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"59e0d99486f7744a32234762",
+									"59e4d3d286f774176a36250a",
+									"5656d7c34bdc2d9d198b4587",
+									"59e4cf5286f7741778269d8a",
+									"59e4d24686f7741776641ac7",
+									"601aa3d2b2bcb34913271e6d",
+									"64b7af5a8532cf95ee0a0dbd",
+									"64b7af434b75259c590fa893",
+									"64b7af734b75259c590fa895"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d4af244bdc2d962f8b4571"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Kalashnikov AK-15 7.62x39 assault rifle",
+				"shortName": "AK-15",
+				"description": "The AK-15 is an assault rifle used by the special operations units of the Russian military and other law enforcement agencies. This specific version is chambered in 7.62x39. The AK-15 is part of the Ratnik equipment kit."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 72544,
+		"handbookPriceRoubles": 59520,
+		"addtoTraders": true,
+		"traderId": "PRAPOR",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 111200,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": true,
+		"masterySections": [
+			{
+				"Name": "AK74",
+				"Templates": [
+					"68291de3d187863a4f828f7f"
+				]
+			}
+		],
+		"addweaponpreset": true,
+		"weaponpresets": [
+			{
+				"_changeWeaponName": false,
+				"_encyclopedia": "68291dcbc8bb6e883871070f",
+				"_id": "68291de3d187863a4f828f7f",
+				"_items": [
+					{
+						"_id": "68291dea997f859208bd7800",
+						"_tpl": "68291dcbc8bb6e883871070f",
+						"upd": {
+							"StackObjectsCount": 99,
+							"Repairable": {
+								"MaxDurability": 100,
+								"Durability": 100
+							},
+							"Foldable": {
+								"Folded": false
+							},
+							"FireMode": {
+								"FireMode": "single"
+							}
+						}
+					},
+					{
+						"_id": "68291e2417ff82be8208eb81",
+						"_tpl": "5beec8ea0db834001a6f9dbf",
+						"parentId": "68291dea997f859208bd7800",
+						"slotId": "mod_pistol_grip"
+					},
+					{
+						"_id": "682920743f8da293f4ddfed5",
+						"_tpl": "5ac72e7d5acfc40016339a02",
+						"parentId": "68291dea997f859208bd7800",
+						"slotId": "mod_muzzle"
+					},
+					{
+						"_id": "68291e25e674a6c5e4f35368",
+						"_tpl": "5ac66bea5acfc43b321d4aec",
+						"parentId": "68291dea997f859208bd7800",
+						"slotId": "mod_magazine"
+					},
+					{
+						"_id": "68291e1a2520fbf1d25555f1",
+						"_tpl": "649ec87d8007560a9001ab36",
+						"parentId": "68291dea997f859208bd7800",
+						"slotId": "mod_stock_001"
+					},
+					{
+						"_id": "6829092098d0583cbf9d0558",
+						"_tpl": "5beec8c20db834001d2c465c",
+						"parentId": "68291e1a2520fbf1d25555f1",
+						"slotId": "mod_stock"
+					},
+					{
+						"_id": "68291e12082731c06913306e",
+						"_tpl": "649ec2f3961514b22506b111",
+						"parentId": "68291dea997f859208bd7800",
+						"slotId": "mod_reciever"
+					},
+					{
+						"_id": "68291e150e558045f064e7a2",
+						"_tpl": "649ec2da59cbb3c813042dca",
+						"parentId": "68291e12082731c06913306e",
+						"slotId": "mod_sight_rear"
+					},
+					{
+						"_id": "68291e298f81cb796cbe5780",
+						"_tpl": "649ec2cec93611967b03495e",
+						"parentId": "68291e150e558045f064e7a2",
+						"slotId": "mod_sight_rear"
+					},
+					{
+						"_id": "68291e2acf386d06806b85c4",
+						"_tpl": "649ec107961514b22506b10c",
+						"parentId": "68291dea997f859208bd7800",
+						"slotId": "mod_gas_block"
+					},
+					{
+						"_id": "68291e2bb067d60ce0e539be",
+						"_tpl": "649ec127c93611967b034957",
+						"parentId": "68291dea997f859208bd7800",
+						"slotId": "mod_handguard"
+					}
+				],
+				"_name": "AK15 stock preset",
+				"_parent": "68291dea997f859208bd7800",
+				"_type": "Preset"
+			}
+		]
+	}
+}
