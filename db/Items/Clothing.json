@@ -25,6 +25,21 @@
 		"addtoInventorySlots": [],
 		"addtoModSlots": false,
 		"modSlot": [],
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 6704,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 5000,
@@ -75,6 +90,21 @@
 		"addtoInventorySlots": [],
 		"addtoModSlots": false,
 		"modSlot": [],
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 768,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 500,
@@ -116,15 +146,30 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Tactical Black Half Mask",
+				"name": "Echoes Defense Black Half Mask",
 				"shortName": "Half-mask",
-				"description": "A minimalist yet menacing half-mask from Echoes Tactical, covering the lower face with matte-black material designed for both style and practicality. Favored by those who wish to conceal their identity while keeping their movements unrestricted, it provides basic protection against environmental hazards. Its sleek, understated design makes it ideal for covert missions or intimidation tactics, ensuring the wearer remains both unseen and unforgettable."
+				"description": "A minimalist yet menacing half-mask from Echoes Defense, covering the lower face with matte-black material designed for both style and practicality. Favored by those who wish to conceal their identity while keeping their movements unrestricted, it provides basic protection against environmental hazards. Its sleek, understated design makes it ideal for covert missions or intimidation tactics, ensuring the wearer remains both unseen and unforgettable."
 			}
 		},
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
 		"addtoModSlots": false,
 		"modSlot": [],
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 6704,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 500,
@@ -175,6 +220,21 @@
 		"addtoInventorySlots": [],
 		"addtoModSlots": false,
 		"modSlot": [],
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 2
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 232376,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 4,
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 263250,
@@ -313,6 +373,21 @@
 		"addtoInventorySlots": [],
 		"addtoModSlots": false,
 		"modSlot": [],
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 2
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 74533,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 50000,
@@ -363,6 +438,21 @@
 		"addtoInventorySlots": [],
 		"addtoModSlots": false,
 		"modSlot": [],
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 5353,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 3000,
@@ -404,15 +494,30 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Tactical Blackout™",
-				"shortName": "Echoes Tactical Blackout™",
-				"description": "High-performance black-tinted goggles from the shadowy Echoes Tactical, designed for operatives who thrive in harsh conditions. These sleek, wraparound lenses offer full protection from bright light, dust, and debris, while maintaining a dark, intimidating aesthetic. Although visibility in low-light situations is reduced, these goggles give wearers a cold, calculating look that unnerves opponents and solidifies their reputation on the field."
+				"name": "Echoes Defense Blackout™",
+				"shortName": "Echoes Defense Blackout™",
+				"description": "High-performance black-tinted goggles from the shadowy Echoes Defense, designed for operatives who thrive in harsh conditions. These sleek, wraparound lenses offer full protection from bright light, dust, and debris, while maintaining a dark, intimidating aesthetic. Although visibility in low-light situations is reduced, these goggles give wearers a cold, calculating look that unnerves opponents and solidifies their reputation on the field."
 			}
 		},
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
 		"addtoModSlots": false,
 		"modSlot": [],
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 18329,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 9000,
@@ -468,17 +573,17 @@
 		"fleaPriceRoubles": 6000,
 		"handbookPriceRoubles": 6000,
 		"CanSellOnRagFair": true,
-		"addtoTraders": false,
-		"traderId": "THERAPIST",
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
 		"traderItems": [
 			{
-				"unlimitedCount": true,
-				"stackObjectsCount": 99
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 600000,
+				"count": 6765,
 				"_tpl": "ROUBLES"
 			}
 		],

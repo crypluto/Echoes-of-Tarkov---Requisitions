@@ -11,7 +11,7 @@
 			"Weight": -15,
 			"Height": 2,
 			"Width": 2,
-			"IsUndiscardable": false,
+			"IsUndiscardable": true,
 			"addtoSpecialSlots": true,
 			"CanSellOnRagfair": false,
 			"DiscardLimit": 1
@@ -89,12 +89,12 @@
 		"fleaPriceRoubles": 600000,
 		"handbookPriceRoubles": 600000,
 		"CanSellOnRagFair": true,
-		"addtoTraders": false,
-		"traderId": "THERAPIST",
+		"addtoTraders": true,
+		"traderId": "PRAPOR",
 		"traderItems": [
 			{
-				"unlimitedCount": true,
-				"stackObjectsCount": 99
+				"unlimitedCount": false,
+				"stackObjectsCount": 3
 			}
 		],
 		"barterScheme": [
@@ -103,9 +103,9 @@
 				"_tpl": "ROUBLES"
 			}
 		],
-		"loyallevelitems": 2,
+		"loyallevelitems": 3,
 		"addtoBots": false,
-		"addtostaticlootcontainer": true,
+		"addtostaticlootcontainer": false,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -170,9 +170,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Tactical Armor Plate Box",
+				"name": "Echoes Defense Armor Plate Box",
 				"shortName": "Plates",
-				"description": "The Echoes Tactical Armor Plate Box is a heavy-duty storage unit crafted to securely house and organize your armor plates. Built with tactical durability in mind, this Box features reinforced walls and internal compartments tailored to hold a variety of plate sizes, ensuring they're protected and ready for rapid deployment. Unlike a plate carrier, the Armor Plate Box is designed for stationary or transport use, making it ideal for secure locations or mobile bases. Depend on Echoes Tactical's trusted quality to keep your armor inventory safe, accessible, and battle-ready at ales."
+				"description": "The Echoes Defense Armor Plate Box is a heavy-duty storage unit crafted to securely house and organize your armor plates. Built with tactical durability in mind, this Box features reinforced walls and internal compartments tailored to hold a variety of plate sizes, ensuring they're protected and ready for rapid deployment. Unlike a plate carrier, the Armor Plate Box is designed for stationary or transport use, making it ideal for secure locations or mobile bases. Depend on Echoes Defense's trusted quality to keep your armor inventory safe, accessible, and battle-ready at ales."
 			}
 		},
 		"clearClonedProps": false,
@@ -182,23 +182,23 @@
 		"fleaPriceRoubles": 450000,
 		"handbookPriceRoubles": 450000,
 		"CanSellOnRagFair": true,
-		"addtoTraders": false,
-		"traderId": "THERAPIST",
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
 		"traderItems": [
 			{
-				"unlimitedCount": true,
-				"stackObjectsCount": 99
+				"unlimitedCount": false,
+				"stackObjectsCount": 5
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 600000,
+				"count": 450000,
 				"_tpl": "ROUBLES"
 			}
 		],
 		"loyallevelitems": 2,
 		"addtoBots": false,
-		"addtostaticlootcontainer": true,
+		"addtostaticlootcontainer": false,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
