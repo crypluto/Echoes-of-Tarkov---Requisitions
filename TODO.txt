@@ -1,0 +1,69 @@
+# ATTACHMENTS
+
+M16A1 Upper Reciever
+M16A2 Upper Reciever
+M16A2 Long Handguard
+M16A1 Triangular Handguard
+M16A1 Triangular Short Handguard
+AR15 AEM Muzzlebrake
+AR15 AEM Suppressor
+M231 Stock extended
+M231 Stock Collapsed
+M16A1 3 Prong Muzzlebrake
+M16A1 Stock
+M16A2 Stock
+AR15 LSW Handguard
+AR15 LSW Foregrip
+M16A1 CH Mount
+M16A1 XM148 GL Handguard
+CAR-15 Stock
+M16A1 A1 Pistolgrip
+XM177 Muzzlebrake
+
+
+
+## COD ASSETS
+
+### BO6
+ASVAL CHF Barrel
+ASVAL Gain Twist barrel
+ASVAL long barrel
+ASVAL Reinforced barrel
+XM4 Short Handguard
+XM4 CHF Handguard
+XM4 Fast Mag II
+XM4 Combat Stock
+XM4 Buffer Weight Stock
+AK74 Long Handguard
+AK74 Fast Mag I
+AK74 Balanced Stock
+SA80 CHF Barrel
+SA80 Long Barrel
+DML10 Handguard
+
+### MW3
+STRIKER (ump45) Recon Long barrel
+STRIKER Recon Series Stock
+STRIKER Elite Long Barrel
+Striker FSS Priority Tactical Stock
+Lachman MK2 Light Stock
+Holger 556 (G36) Light Barrel
+SIG SPEAR PARTS
+
+### MW2
+M4 Tempus Trench Pro barrel
+M4 Tempus Firebrand barrel
+AUG Bruen TURACO 686 barrel
+FTAC Recon Bull Rider barrel
+MP7 Schlager RV-8 Barrel
+MP7 Assault-60 stock
+
+
+
+
+
+# CLOTHES RETEXTURES
+EMR 
+Multicam (all ver)
+PENCOTT
+British DPM
