@@ -81,9 +81,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Tactical 03-07 Dovetail Mount",
+				"name": "Echoes Defense 03-07 Dovetail Mount",
 				"shortName": "03-07",
-				"description": "Engineered by Echoes Tactical, the 03-07 is the perfect choice for any of your Dovetail needs"
+				"description": "Engineered by Echoes Defense, the 03-07 is the perfect choice for any of your Dovetail needs"
 			}
 		},
 		"clearClonedProps": false,
@@ -92,6 +92,21 @@
 		"modSlot": [
 			"mod_scope"
 		],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 14535,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 12000,
@@ -130,9 +145,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament EA-RPD \"Afterburn\" 7.62x39 sound suppressor",
+				"name": "Echoes Defense EA-RPD \"Afterburn\" 7.62x39 sound suppressor",
 				"shortName": "Afterburn",
-				"description": "The Echoes Armament EA-RPD 7.62mm suppressor is a device manufactured by Echoes Armament Company for use with the RPD 7.62x39 light machine gun, providing a stylish and effective method of suppressing the RPD."
+				"description": "The Echoes Defense EA-RPD 7.62mm suppressor is a device manufactured by Echoes Defense Company for use with the RPD 7.62x39 light machine gun, providing a stylish and effective method of suppressing the RPD."
 			}
 		},
 		"clearClonedProps": false,
@@ -143,6 +158,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 82372,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 70000,
 		"handbookPriceRoubles": 70000,
 		"addtoStaticLootContainers": true,
@@ -347,6 +377,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 13325,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 10120,
 		"handbookPriceRoubles": 10120,
 		"addtoStaticLootContainers": true,
@@ -487,6 +532,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 24732,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 12554,
 		"handbookPriceRoubles": 10120,
 		"addtoStaticLootContainers": true,
@@ -576,6 +636,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12112,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 10120,
 		"handbookPriceRoubles": 10120,
 		"addtoStaticLootContainers": true,
@@ -612,9 +687,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Strikewrap 46 Multi-Caliber sound suppressor (Alpine)",
+				"name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Alpine)",
 				"shortName": "Strikewrap",
-				"description": "Engineered by Echoes Tactical, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
+				"description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
 			}
 		},
 		"clearClonedProps": false,
@@ -625,6 +700,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 74533,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 70000,
 		"handbookPriceRoubles": 70000,
 		"addtoStaticLootContainers": true,
@@ -663,9 +753,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Strikewrap 46 Multi-Caliber sound suppressor (Supreme)",
+				"name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Supreme)",
 				"shortName": "Strikewrap",
-				"description": "Engineered by Echoes Tactical, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
+				"description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
 			}
 		},
 		"clearClonedProps": false,
@@ -713,9 +803,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Strikewrap 46 Multi-Caliber sound suppressor (MC-Arid)",
+				"name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (MC-Arid)",
 				"shortName": "Strikewrap",
-				"description": "Engineered by Echoes Tactical, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
+				"description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
 			}
 		},
 		"clearClonedProps": false,
@@ -726,6 +816,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 74533,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 70000,
 		"handbookPriceRoubles": 70000,
 		"addtoStaticLootContainers": true,
@@ -762,9 +867,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Strikewrap 46 Multi-Caliber sound suppressor (Highlander)",
+				"name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Highlander)",
 				"shortName": "Strikewrap",
-				"description": "Engineered by Echoes Tactical, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
+				"description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
 			}
 		},
 		"clearClonedProps": false,
@@ -775,6 +880,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 74533,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 70000,
 		"handbookPriceRoubles": 70000,
 		"addtoStaticLootContainers": true,
@@ -811,9 +931,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Strikewrap 46 Multi-Caliber sound suppressor",
+				"name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor",
 				"shortName": "Strikewrap",
-				"description": "Engineered by Echoes Tactical, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
+				"description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
 			}
 		},
 		"clearClonedProps": false,
@@ -824,6 +944,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 74533,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 70000,
 		"handbookPriceRoubles": 70000,
 		"addtoStaticLootContainers": true,
@@ -860,9 +995,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Strikewrap 46 Multi-Caliber sound suppressor (Coyote Tan)",
+				"name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Coyote Tan)",
 				"shortName": "Strikewrap",
-				"description": "Engineered by Echoes Tactical, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
+				"description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
 			}
 		},
 		"clearClonedProps": false,
@@ -873,6 +1008,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 74533,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 70000,
 		"handbookPriceRoubles": 70000,
 		"addtoStaticLootContainers": true,
@@ -909,9 +1059,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Strikewrap 46 Multi-Caliber sound suppressor (Mandrake)",
+				"name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Mandrake)",
 				"shortName": "Strikewrap",
-				"description": "Engineered by Echoes Tactical, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
+				"description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
 			}
 		},
 		"clearClonedProps": false,
@@ -922,6 +1072,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 74533,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 70000,
 		"handbookPriceRoubles": 70000,
 		"addtoStaticLootContainers": true,
@@ -958,9 +1123,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Strikewrap 46 Multi-Caliber sound suppressor (MC-Black)",
+				"name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (MC-Black)",
 				"shortName": "Strikewrap",
-				"description": "Engineered by Echoes Tactical, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
+				"description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
 			}
 		},
 		"clearClonedProps": false,
@@ -971,6 +1136,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 74533,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 70000,
 		"handbookPriceRoubles": 70000,
 		"addtoStaticLootContainers": true,
@@ -1007,9 +1187,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Strikewrap 46 Multi-Caliber sound suppressor (Multicam)",
+				"name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Multicam)",
 				"shortName": "Strikewrap",
-				"description": "Engineered by Echoes Tactical, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
+				"description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
 			}
 		},
 		"clearClonedProps": false,
@@ -1020,6 +1200,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 74533,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 70000,
 		"handbookPriceRoubles": 70000,
 		"addtoStaticLootContainers": true,
@@ -1056,9 +1251,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Strikewrap 46 Multi-Caliber sound suppressor (OD)",
+				"name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (OD)",
 				"shortName": "Strikewrap",
-				"description": "Engineered by Echoes Tactical, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
+				"description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
 			}
 		},
 		"clearClonedProps": false,
@@ -1069,6 +1264,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 74533,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 70000,
 		"handbookPriceRoubles": 70000,
 		"addtoStaticLootContainers": true,
@@ -1105,9 +1315,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Strikewrap 46 Multi-Caliber sound suppressor (Typhoon)",
+				"name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Typhoon)",
 				"shortName": "Strikewrap",
-				"description": "Engineered by Echoes Tactical, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
+				"description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
 			}
 		},
 		"clearClonedProps": false,
@@ -1118,6 +1328,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 74533,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 70000,
 		"handbookPriceRoubles": 70000,
 		"addtoStaticLootContainers": true,
@@ -1154,9 +1379,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Strikewrap 46 Multi-Caliber sound suppressor (Woodland)",
+				"name": "Echoes Defense Strikewrap 46 Multi-Caliber sound suppressor (Woodland)",
 				"shortName": "Strikewrap",
-				"description": "Engineered by Echoes Tactical, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
+				"description": "Engineered by Echoes Defense, the Strikewrap 46 is a high-performance .46 caliber multicaliber suppressor designed for maximum versatility and stealth. Built to dampen the loudest shots with exceptional efficiency, this silencer ensures precision and control in any combat scenario. Available in 12 distinct camouflage variants, the Strikewrap 46 seamlessly adapts to various environments, giving operators the upper hand in tactical engagements. Whether navigating urban warfare or traversing dense terrain, this suppressor’s rugged build and sleek design make it the go-to choice for pros who value silence and adaptability."
 			}
 		},
 		"clearClonedProps": false,
@@ -1167,6 +1392,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 74533,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 70000,
 		"handbookPriceRoubles": 70000,
 		"addtoStaticLootContainers": true,
@@ -1215,7 +1455,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Nightfall LX .45 ACP sound suppressor",
+				"name": "Echoes Defense Nightfall LX .45 ACP sound suppressor",
 				"shortName": "Nightfall LX",
 				"description": "A pristine .45 ACP suppressor crafted for the USP, its flawless finish gleams under the light, reflecting the craftsmanship of a tool untouched by battle. Silent, sleek, and ready for flawless execution."
 			}
@@ -1228,6 +1468,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 45345,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 30000,
 		"handbookPriceRoubles": 30000,
 		"addtoStaticLootContainers": true,
@@ -1275,7 +1530,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Armament Nightfall LX .45 ACP sound suppressor (Worn)",
+				"name": "Echoes Defense Nightfall LX .45 ACP sound suppressor (Worn)",
 				"shortName": "Nightfall LX",
 				"description": "A well-worn .45 ACP suppressor for the USP, bearing scratches and faded engravings that hint at years of silent work in the field. Despite its weathered look, it still delivers deadly quiet precision."
 			}
@@ -1288,6 +1543,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 34246,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 30000,
 		"handbookPriceRoubles": 30000,
 		"addtoStaticLootContainers": true,
@@ -1352,6 +1622,21 @@
 		"ModdableItemBlacklist": [
 			"SILENCER_OMEGA_45K"
 		],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 34223,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 30000,
 		"handbookPriceRoubles": 30000,
 		"addtoStaticLootContainers": true,
@@ -1407,6 +1692,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 34343,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 30000,
 		"handbookPriceRoubles": 30000,
 		"addtoStaticLootContainers": true,
@@ -1460,6 +1760,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12111,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -1513,6 +1828,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12111,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -1566,6 +1896,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12332,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -1619,6 +1963,21 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12332,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -1672,6 +2031,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12332,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -1726,6 +2099,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 15232,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -1780,6 +2167,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 15232,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -1834,6 +2235,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 15232,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -1888,6 +2303,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 10963,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -1942,6 +2371,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 10963,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -1996,6 +2439,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 10963,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -2047,6 +2504,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 45434,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -2098,6 +2569,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 45434,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -2149,6 +2634,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 45434,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -2202,6 +2701,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12325,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -2255,6 +2768,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12325,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -2308,6 +2835,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12325,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -2358,6 +2899,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 9867,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -2408,6 +2963,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 9867,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -2458,6 +3027,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 9867,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -2508,6 +3091,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 9867,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -2558,6 +3155,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "PRAPOR",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 9867,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -2634,6 +3245,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 9867,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
