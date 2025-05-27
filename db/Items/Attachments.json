@@ -2591,11 +2591,31 @@
 				"rcid": ""
 			},
 			"Weight": 0.090,
-			"Ergonomics": 4
+			"Ergonomics": 4,
+			"Slots": [
+				{
+					"_id": "6835c3ad38a064dab37fc675",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_tactical_000",
+					"_parent": "6835a63bdbc98d9bc34e025b",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"PUT Your LASER IDS HERE"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				}
+			]
 		},
 		"locales": {
 			"en": {
-				"name": "COL m4a1 gas block with Mossie Midnight 1913 FSB Mount",
+				"name": "COLT M4A1 gas block with Mossie Midnight 1913 FSB Mount",
 				"shortName": "FSB Mount",
 				"description": "The Mossie Midnight Mount is designed to place a 1913 Picatinny based weapon light at 12 o'clock for ambidextrous use. It easily installs on most standard and F marked front sight bases (FSB). The host weapon is not modified, which is especially important to many law enforcement officers who may not be allowed to alter their issued weapons."
 			}
@@ -2605,9 +2625,7 @@
 		"addtoModSlots": true,
 		"modSlot": [
 			"mod_gas_block"
-
 		],
-
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 9000,

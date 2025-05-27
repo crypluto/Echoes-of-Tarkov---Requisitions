@@ -33,19 +33,19 @@
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_SAFE",
-				"Probability": 700
+				"Probability": 7
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-				"Probability": 600
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE",
-				"Probability": 500
+				"Probability": 5
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_JACKET",
-				"Probability": 100
+				"Probability": 1
 			}
 		]
 	},
@@ -83,19 +83,19 @@
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_SAFE",
-				"Probability": 700
+				"Probability": 7
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-				"Probability": 600
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE",
-				"Probability": 500
+				"Probability": 5
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_JACKET",
-				"Probability": 100
+				"Probability": 1
 			}
 		]
 	},
@@ -133,19 +133,19 @@
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_SAFE",
-				"Probability": 700
+				"Probability": 7
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-				"Probability": 600
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE",
-				"Probability": 500
+				"Probability": 5
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
-				"Probability": 100
+				"Probability": 1
 			}
 		]
 	},
@@ -182,20 +182,20 @@
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
-				"ContainerName": "LOOTCONTAINER_DRAWER",
-				"Probability": 700
+				"ContainerName": "LOOTCONTAINER_SAFE",
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-				"Probability": 600
+				"Probability": 6
 			},
 			{
-				"ContainerName": "LOOTCONTAINER_JACKET",
-				"Probability": 500
+				"ContainerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE",
+				"Probability": 8
 			},
 			{
-				"ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
-				"Probability": 100
+				"ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+				"Probability": 7
 			}
 		]
 	},
@@ -487,20 +487,20 @@
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
-				"ContainerName": "LOOTCONTAINER_DRAWER",
-				"Probability": 700
+				"ContainerName": "LOOTCONTAINER_SAFE",
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-				"Probability": 600
+				"Probability": 6
 			},
 			{
-				"ContainerName": "LOOTCONTAINER_JACKET",
-				"Probability": 500
+				"ContainerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE",
+				"Probability": 8
 			},
 			{
-				"ContainerName": "LOOTCONTAINER_PLASTIC_SUITCASE",
-				"Probability": 100
+				"ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+				"Probability": 7
 			}
 		],
 		"masteries": false,
