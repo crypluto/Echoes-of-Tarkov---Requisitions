@@ -556,6 +556,14 @@
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
+    },
+        {
+      "key": "Attachments/lasergasblock.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
     }
   ]
 }
