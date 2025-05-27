@@ -2602,7 +2602,13 @@
 						"filters": [
 							{
 								"Filter": [
-									"PUT Your LASER IDS HERE"
+									"5b07dd285acfc4001754240d",
+									"56def37dd2720bec348b456a",
+									"5a7b483fe899ef0016170d15",
+									"5cc9c20cd7f00c001336c65d",
+									"5d2369418abbc306c62e0c80",
+									"6272379924e29f06af4d5ecb",
+									"6272370ee4013c5d7e31f418"
 								],
 								"Shift": 0
 							}
