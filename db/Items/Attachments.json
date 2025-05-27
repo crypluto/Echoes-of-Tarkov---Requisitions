@@ -469,7 +469,7 @@
 					},
 					"_proto": "55d30c4c4bdc2db4468b457e",
 					"_required": false
-				} 
+				}
 			]
 		},
 		"locales": {
@@ -2306,6 +2306,308 @@
 		"modSlot": [
 			"mod_foregrip"
 		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683368ab9e96f9b3e2abf1d0": {
+		"itemTplToClone": "5aaa5dfee5b5b000140293d3",
+		"parentId": "5448bc234bdc2d3c308b4569",
+		"handbookParentId": "5b5f754a86f774094242f19b",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/pmagtab.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.090,
+			"Ergonomics": 4
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine With Paracord Pull Tab",
+				"shortName": "Magpul",
+				"description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68338f4801ba4290915da736": {
+		"itemTplToClone": "5aaa5dfee5b5b000140293d3",
+		"parentId": "5448bc234bdc2d3c308b4569",
+		"handbookParentId": "5b5f754a86f774094242f19b",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/pmagtabfde.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.090,
+			"Ergonomics": 4
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine With Paracord Pull Tab FDE",
+				"shortName": "Magpul",
+				"description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6833970200939258111e5a56": {
+		"itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+		"parentId": "5448bc234bdc2d3c308b4569",
+		"handbookParentId": "5b5f754a86f774094242f19b",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/pmag20tabfde.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.090,
+			"Ergonomics": 4
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 5.56x45 Magpul PMAG 20 GEN M3 W STANAG 20-round magazine With Paracord Pull Tab",
+				"shortName": "Magpul",
+				"description": "A 20-round polymer Magpul PMAG GEN M3 20 magazine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683397e656ccb7971bd5fa9e": {
+		"itemTplToClone": "5c6d42cb2e2216000e69d7d1",
+		"parentId": "5448bc234bdc2d3c308b4569",
+		"handbookParentId": "5b5f754a86f774094242f19b",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/stanagtab.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.090,
+			"Ergonomics": 4
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 5.56x45 Colt STANAG 30-round magazine",
+				"shortName": "Stanag",
+				"description": "AR-15 5.56x45 Colt STANAG 30-round magazine."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6834452e20ebf01ead39f660": {
+		"itemTplToClone": "5cbdaf89ae9215000e5b9c94",
+		"parentId": "5448bc234bdc2d3c308b4569",
+		"handbookParentId": "5b5f754a86f774094242f19b",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/plumtape.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.090,
+			"Ergonomics": 4
+		},
+		"locales": {
+			"en": {
+				"name": "AK-74 5.45x39 6L23 30-round magazine Taped (Plum) ",
+				"shortName": "PLum",
+				"description": "AK-74 5.45x39 6L23 30-round magazine Taped (Plum)."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6835a63bdbc98d9bc34e025b": {
+		"itemTplToClone": "5ae30e795acfc408fb139a0b",
+		"parentId": "56ea9461d2720b67698b456f",
+		"handbookParentId": "5b5f760586f774093e6cb509",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/gaspistolrail.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.090,
+			"Ergonomics": 4
+		},
+		"locales": {
+			"en": {
+				"name": "COL m4a1 gas block with Mossie Midnight 1913 FSB Mount",
+				"shortName": "FSB Mount",
+				"description": "The Mossie Midnight Mount is designed to place a 1913 Picatinny based weapon light at 12 o'clock for ambidextrous use. It easily installs on most standard and F marked front sight bases (FSB). The host weapon is not modified, which is especially important to many law enforcement officers who may not be allowed to alter their issued weapons."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_gas_block"
+
+		],
+
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 9000,
