@@ -46,7 +46,7 @@ Keegan Balaclava, Ryzhy Balaclava, M50 Gas Mask, Black Boss Cap, Pit Viper Sungl
 ### RheddElBozo
 Team Lead - Assets - Code - Teacher - The whole shebang
 
-### DefoNotMaple
+### DefoNotMaple (eukyre)
 Assets - Item Code - Advisor
 
 ### Pigeon
