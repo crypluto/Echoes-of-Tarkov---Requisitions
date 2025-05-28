@@ -1468,6 +1468,22 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
-        }
+        },
+        {
+            "key": "Attachments/x300.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+            "key": "Attachments/gasblock3.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    }
   ]
 }
