@@ -3363,5 +3363,588 @@
 				"Probability": 1
 			}
 		]
+	},
+	"68343b29f48104d3a6265db3": {
+		"itemTplToClone": "5fc4b97bab884124df0cd5e3",
+		"parentId": "550aa4cd4bdc2dd8348b456c",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Suppressors/silencer_blackhawk_smokestack_1143x23_blk.bundle",
+				"rcid": ""
+			},
+			"loudness": -30,
+			"Ergonomics": -20,
+			"ExtraSizeLeft": 1,
+			"Width": 2
+		},
+		"locales": {
+			"en": {
+				"name": "Blackhawk! Smoke Stack .45 ACP sound suppressor",
+				"shortName": "Smoke Stack",
+				"description": "The BLACKHAWK! Smoke Stack Sound Suppressor is engineered for centerfire pistols up to .45ACP. Its durable construction, easy disassembly, and effective noise reduction make it a top choice for both professional and recreational shooters. The included accessories and user-friendly design ensure reliable performance and maintenance."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 75832,
+		"handbookPriceRoubles": 37742,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68343c10334d72dc0066a8f3": {
+		"itemTplToClone": "5fc4b97bab884124df0cd5e3",
+		"parentId": "550aa4cd4bdc2dd8348b456c",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Suppressors/silencer_blackhawk_smokestack_1143x23_fde.bundle",
+				"rcid": ""
+			},
+			"loudness": -30,
+			"Ergonomics": -20,
+			"ExtraSizeLeft": 1,
+			"Width": 2
+		},
+		"locales": {
+			"en": {
+				"name": "Blackhawk! Smoke Stack .45 ACP sound suppressor (FDE)",
+				"shortName": "Smoke Stack",
+				"description": "The BLACKHAWK! Smoke Stack Sound Suppressor is engineered for centerfire pistols up to .45ACP. Its durable construction, easy disassembly, and effective noise reduction make it a top choice for both professional and recreational shooters. The included accessories and user-friendly design ensure reliable performance and maintenance. Flat Dark Earth version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 75832,
+		"handbookPriceRoubles": 37742,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68350ff39748ffaecb636c6e": {
+		"itemTplToClone": "61faa91878830f069b6b7967",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Stocks/stock_sv98_digital_flora.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "SV-98 wooden stock (Digital Flora)",
+				"shortName": "SV98 wood",
+				"description": "A standard-issue wooden stock for the SV-98, manufactured by Izhmash. Digital Flora version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_stock"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 6751,
+		"handbookPriceRoubles": 3780,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68351058699470f269c98eab": {
+		"itemTplToClone": "61faa91878830f069b6b7967",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Stocks/stock_sv98_flora_winter.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "SV-98 wooden stock (Winter Flora)",
+				"shortName": "SV98 wood",
+				"description": "A standard-issue wooden stock for the SV-98, manufactured by Izhmash. Digital Flora Winter version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_stock"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 4510,
+		"handbookPriceRoubles": 3780,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683510625b6fd52fe74c8b0c": {
+		"itemTplToClone": "61faa91878830f069b6b7967",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Stocks/stock_sv98_kmlk.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "SV-98 wooden stock (KMLK)",
+				"shortName": "SV98 wood",
+				"description": "A standard-issue wooden stock for the SV-98, manufactured by Izhmash. KMLK (Kamuflirovannyi Letnyi Maskirovochnyi Kombinezon or, 'Camouflaged Summer Disguise Coverall') version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_stock"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 3510,
+		"handbookPriceRoubles": 3780,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683510aa16c0a8efa99385d1": {
+		"itemTplToClone": "61faa91878830f069b6b7967",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Stocks/stock_sv98_mandrake.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "SV-98 wooden stock (Mandrake)",
+				"shortName": "SV98 wood",
+				"description": "A standard-issue wooden stock for the SV-98, manufactured by Izhmash. Kryptek Mandrake version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_stock"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 4530,
+		"handbookPriceRoubles": 3780,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683510bfbc971d605251b860": {
+		"itemTplToClone": "61faa91878830f069b6b7967",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Stocks/stock_sv98_tiger.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "SV-98 wooden stock (Tiger Stripe)",
+				"shortName": "SV98 wood",
+				"description": "A standard-issue wooden stock for the SV-98, manufactured by Izhmash. Tiger Stripe version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_stock"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 8642,
+		"handbookPriceRoubles": 3780,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6836413a03209f8dd9418b47": {
+		"itemTplToClone": "626a9cb151cb5849f6002890",
+		"parentId": "PISTOLGRIP",
+		"handbookParentId": "MOD_PISTOLGRIP",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Grips/pistolgrip_m1911_acajou.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "M1911 custom side grips (Acajou Wood)",
+				"shortName": "1911",
+				"description": "Custom-made side grip panels for the M1911A1 pistol, manufactured by Echoes Defence. Acajou Wood finish version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_pistol_grip"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 942,
+		"handbookPriceRoubles": 800,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683641bc924a022369e8b818": {
+		"itemTplToClone": "626a9cb151cb5849f6002890",
+		"parentId": "PISTOLGRIP",
+		"handbookParentId": "MOD_PISTOLGRIP",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Grips/pistolgrip_m1911_gold.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "M1911 Kiba Arms Geneburn side grips (Silver)",
+				"shortName": "Geneburn",
+				"description": "Custom grip panels for the M1911 pistol, spray-painted silver attempting to emulate a real metal finish. Likely manufactured by a Scav."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_pistol_grip"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 15638,
+		"handbookPriceRoubles": 9600,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683642d774c8a3249e433193": {
+		"itemTplToClone": "626a9cb151cb5849f6002890",
+		"parentId": "PISTOLGRIP",
+		"handbookParentId": "MOD_PISTOLGRIP",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Grips/pistolgrip_m1911_hex.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "M1911 custom side grips (Plastic Hex)",
+				"shortName": "1911",
+				"description": "Custom-made side grip panels for the M1911A1 pistol, manufactured by Echoes Defence. Hexagonal Plastic version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_pistol_grip"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 942,
+		"handbookPriceRoubles": 800,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683642e9e4842d8783ec31f1": {
+		"itemTplToClone": "626a9cb151cb5849f6002890",
+		"parentId": "PISTOLGRIP",
+		"handbookParentId": "MOD_PISTOLGRIP",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Grips/pistolgrip_m1911_ivory.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "M1911 custom side grips (Ivory)",
+				"shortName": "1911",
+				"description": "Custom-made side grip panels for the M1911A1 pistol, manufactured by Echoes Defence. Rare Ivory version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_pistol_grip"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 25871,
+		"handbookPriceRoubles": 12500,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6836435fa5c9a5c64140f957": {
+		"itemTplToClone": "626a9cb151cb5849f6002890",
+		"parentId": "PISTOLGRIP",
+		"handbookParentId": "MOD_PISTOLGRIP",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Grips/pistolgrip_m1911_rubber.bundle",
+				"rcid": ""
+			},
+			"CanSellOnRagfair": true,
+			"Ergonomics": 6
+		},
+		"locales": {
+			"en": {
+				"name": "M1911 rubber side grips",
+				"shortName": "1911 Rubber",
+				"description": "Custom-made side grip panels for the M1911A1 pistol made of highly-ergonomic rubber for better gripping. manufactured by Echoes Defence."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_pistol_grip"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 5723,
+		"handbookPriceRoubles": 2900,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
