@@ -254,7 +254,7 @@
       ]
     },
     {
-      "key": "Item_statics/item_container_ft_armor_box.bundle",
+      "key": "Item_Statics/item_container_ft_armor_box.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -318,7 +318,7 @@
       ]
     },
     {
-      "key": "Item_statics/viperammobox.bundle",
+      "key": "Item_Statics/viperammobox.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",

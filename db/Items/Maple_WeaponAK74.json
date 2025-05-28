@@ -1,8 +1,8 @@
 {
 	"682f527ae74a24cfa1d3f5c5": {
 		"itemTplToClone": "5bf3e03b0db834001d2c4a9c",
-		"parentId": "ASSAULT_RIFLE",
-		"handbookParentId": "WEAPONS_ASSAULTRIFLES",
+		"parentId": "ASSAULT_CARBINE",
+		"handbookParentId": "WEAPONS_CARBINES",
 		"overrideProperties": {
 			"Prefab": {
 				"path": "assets/content/weapons/ak74/weapon_izhmash_ak74_545x39_container.bundle",
