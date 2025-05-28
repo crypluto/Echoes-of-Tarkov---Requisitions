@@ -1,8 +1,8 @@
 {
     "682a543094114c092df7373e": {
 		"itemTplToClone": "587e02ff24597743df3deaeb",
-		"parentId": "ASSAULT_RIFLE",
-		"handbookParentId": "WEAPONS_ASSAULTRIFLES",
+		"parentId": "ASSAULT_CARBINE",
+		"handbookParentId": "WEAPONS_CARBINES",
 		"overrideProperties": {
 			"Prefab": {
 				"path": "assets/content/weapons/sks/weapon_molot_op_sks_762x39_container.bundle",
