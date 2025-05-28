@@ -161,7 +161,7 @@
 		"locales": {
 			"en": {
 				"name": "6.5x48mm Creedmoor Hornady ELD-X",
-				"shortName": "HPBT",
+				"shortName": "ELD-X",
 				"description": "6.5x48mm Creedmoor Hornady ELD-X (Extremely Low Drag - eXpanding) is a precision-engineered cartridge tailored for long-range hunting and tactical applications. Pairing the aerodynamic efficiency of the ELD-X projectile with a compact, high-efficiency 48mm case, this round delivers exceptional terminal performance, flat trajectories, and consistent expansion across a wide range of velocities."
 			}
 		},
@@ -201,7 +201,7 @@
 		"handbookParentId": "5b47574386f77428ca22b33b",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Ammo/patron_65cm_norma_ap.bundle",
+				"path": "Ammo/patron_65cm_ap.bundle",
 				"rcid": ""
 			},
 			"InitialSpeed": 839,
@@ -396,7 +396,7 @@
 		"handbookParentId": "5b47574386f77428ca22b33b",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Ammo/patron_65cm_chp_yeah.bundle",
+				"path": "Ammo/patron_65cm_chp.bundle",
 				"rcid": ""
 			},
 			"InitialSpeed": 829,

@@ -494,14 +494,6 @@
       ]
     },
     {
-      "key": "Ammo/patron_65cm_match.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
       "key": "Attachments/handbrakegreen.bundle",
       "dependencyKeys": [
         "shaders",
@@ -782,7 +774,7 @@
             ]
         },
         {
-            "key": "Ammo/patron_65cm_norma_ap.bundle",
+            "key": "Ammo/patron_65cm_ap.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -790,7 +782,7 @@
             ]
         },
         {
-            "key": "Ammo/patron_65cm_chp_yeah.bundle",
+            "key": "Ammo/patron_65cm_chp.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -799,14 +791,6 @@
         },
         {
             "key": "Ammo/patron_65cm_terminal_ascent.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "clothing/Armor/armor_zhuk6a_emr_winter.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
