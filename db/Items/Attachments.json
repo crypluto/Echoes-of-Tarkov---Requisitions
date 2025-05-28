@@ -3946,5 +3946,472 @@
 				"Probability": 1
 			}
 		]
+	},
+	"68336505ff3b852822eb0d1f": {
+		"itemTplToClone": "5bfeb32b0db834001a6694d9",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/stock_m700_hogue_overmolded_kryptek_highlander_stock.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.265,
+			"InsuranceDisabled": false,
+			"Ergonomics": 14,
+			"Recoil": -21
+		},
+		"modSlot": [
+			"MOD_STOCK"
+		],
+		"locales": {
+			"en": {
+				"name": "M700 Hogue Overmolded Ghillie stock (Highlander)",
+				"shortName": "Overmolded Ghillie",
+				"description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Kryptek Highlander version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 41032,
+		"handbookPriceRoubles": 8500,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68338b87fc8103da63185201": {
+		"itemTplToClone": "5bfeb32b0db834001a6694d9",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/stock_m700_hogue_overmolded_ahegao_stock.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.285,
+			"InsuranceDisabled": false,
+			"Ergonomics": 14,
+			"Recoil": -21,
+			"CanSellOnRagfair": true
+		},
+		"modSlot": [
+			"MOD_STOCK"
+		],
+		"locales": {
+			"en": {
+				"name": "M700 Hogue Overmolded Ghillie stock (Funny)",
+				"shortName": "Overmolded Ghillie",
+				"description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Funny version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 69420,
+		"handbookPriceRoubles": 69420,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6833bdf80131ff59f7a66603": {
+		"itemTplToClone": "5bfeb32b0db834001a6694d9",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/stock_m700_hogue_overmolded_dpm_stock.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.285,
+			"InsuranceDisabled": false,
+			"Ergonomics": 14,
+			"Recoil": -21,
+			"CanSellOnRagfair": true
+		},
+		"modSlot": [
+			"MOD_STOCK"
+		],
+		"locales": {
+			"en": {
+				"name": "M700 Hogue Overmolded Ghillie stock (DPM)",
+				"shortName": "Overmolded Ghillie",
+				"description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. '90s DPM version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 41032,
+		"handbookPriceRoubles": 28500,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6833df274c23dc6c04c9b871": {
+		"itemTplToClone": "5bfeb32b0db834001a6694d9",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/stock_m700_hogue_overmolded_black_stock.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.255,
+			"InsuranceDisabled": false,
+			"Ergonomics": 14,
+			"Recoil": -21,
+			"CanSellOnRagfair": true
+		},
+		"modSlot": [
+			"MOD_STOCK"
+		],
+		"locales": {
+			"en": {
+				"name": "M700 Hogue Overmolded Ghillie stock (Black)",
+				"shortName": "Overmolded Ghillie",
+				"description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Solid Black version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 41032,
+		"handbookPriceRoubles": 28500,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6833e472ced13fc24fb637c7": {
+		"itemTplToClone": "5bfeb32b0db834001a6694d9",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/stock_m700_hogue_overmolded_olive_stock.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.215,
+			"InsuranceDisabled": false,
+			"Ergonomics": 13.5,
+			"Recoil": -21,
+			"CanSellOnRagfair": true
+		},
+		"modSlot": [
+			"MOD_STOCK"
+		],
+		"locales": {
+			"en": {
+				"name": "M700 Hogue Overmolded Ghillie stock (Worn Olive)",
+				"shortName": "Overmolded Ghillie",
+				"description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Worn Olive version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 41032,
+		"handbookPriceRoubles": 28500,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6833ef7b6a70be570968799f": {
+		"itemTplToClone": "5bfeb32b0db834001a6694d9",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/stock_m700_hogue_overmolded_badlands_stock.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.215,
+			"InsuranceDisabled": false,
+			"Ergonomics": 13.5,
+			"Recoil": -21,
+			"CanSellOnRagfair": true
+		},
+		"modSlot": [
+			"MOD_STOCK"
+		],
+		"locales": {
+			"en": {
+				"name": "M700 Hogue Overmolded Ghillie stock (Badlands)",
+				"shortName": "Overmolded Ghillie",
+				"description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Badlands version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 41032,
+		"handbookPriceRoubles": 28500,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6833ef99823dfcc6cfaf86cd": {
+		"itemTplToClone": "5bfeb32b0db834001a6694d9",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/stock_m700_hogue_overmolded_erdl_stock.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.215,
+			"InsuranceDisabled": false,
+			"Ergonomics": 13.5,
+			"Recoil": -21,
+			"CanSellOnRagfair": true
+		},
+		"modSlot": [
+			"MOD_STOCK"
+		],
+		"locales": {
+			"en": {
+				"name": "M700 Hogue Overmolded Ghillie stock (ERDL Woodland)",
+				"shortName": "Overmolded Ghillie",
+				"description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. ERDL Woodland version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 41032,
+		"handbookPriceRoubles": 28500,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6833efad6df4433edf26c14c": {
+		"itemTplToClone": "5bfeb32b0db834001a6694d9",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/stock_m700_hogue_overmolded_hunting_stock.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.215,
+			"InsuranceDisabled": false,
+			"Ergonomics": 13.5,
+			"Recoil": -21,
+			"CanSellOnRagfair": true
+		},
+		"modSlot": [
+			"MOD_STOCK"
+		],
+		"locales": {
+			"en": {
+				"name": "M700 Hogue Overmolded Ghillie stock (Hunting)",
+				"shortName": "Overmolded Ghillie",
+				"description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Hunting camo version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 41032,
+		"handbookPriceRoubles": 28500,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6833efc07461f78c2a3c8015": {
+		"itemTplToClone": "5bfeb32b0db834001a6694d9",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/stock_m700_hogue_overmolded_typhon_stock.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.215,
+			"InsuranceDisabled": false,
+			"Ergonomics": 13.5,
+			"Recoil": -21,
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "M700 Hogue Overmolded Ghillie stock (Typhon)",
+				"shortName": "Overmolded Ghillie",
+				"description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. Typhon version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_stock"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 41032,
+		"handbookPriceRoubles": 28500,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			}, 
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }

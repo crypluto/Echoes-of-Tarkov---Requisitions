@@ -1,0 +1,67 @@
+{
+	"68344fde01679388cdcc9f49": {
+		"itemTplToClone": "55d355e64bdc2d962f8b4569",
+		"parentId": "RECEIVER",
+		"handbookParentId": "MOD_RECEIVER",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "DDM4/reciever_ar15_dandefence_ddm4v7_std.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": []
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 Daniel Defence DDM4V7 5.56x45 upper reciever",
+				"shortName": "DDM4V7",
+				"description": "An upper receiver for the AR-15 series of assault rifles manufactured by Daniel Defence. Equipped with a mount for attaching additional devices."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_reciever",
+			"mod_scope",
+			"mod_barrel",
+			"mod_handguard",
+			"mod_sight_rear"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 16200,
+		"handbookPriceRoubles": 16200,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3951,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	}
+}
