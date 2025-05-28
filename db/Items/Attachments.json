@@ -3575,9 +3575,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "SV-98 wooden stock (KMLK)",
+				"name": "SV-98 wooden stock (KLMK)",
 				"shortName": "SV98 wood",
-				"description": "A standard-issue wooden stock for the SV-98, manufactured by Izhmash. KMLK (Kamuflirovannyi Letnyi Maskirovochnyi Kombinezon or, 'Camouflaged Summer Disguise Coverall') version."
+				"description": "A standard-issue wooden stock for the SV-98, manufactured by Izhmash. KLMK (Kamuflirovannyi Letnyi Maskirovochnyi Kombinezon or, 'Camouflaged Summer Disguise Coverall') version."
 			}
 		},
 		"clearClonedProps": false,
