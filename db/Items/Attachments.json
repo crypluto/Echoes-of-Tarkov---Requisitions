@@ -3282,7 +3282,7 @@
 			}
 		]
 	},
-		"6835ec3c422a8b7b258768af": {
+	"6835ec3c422a8b7b258768af": {
 		"itemTplToClone": "5ae30e795acfc408fb139a0b",
 		"parentId": "56ea9461d2720b67698b456f",
 		"handbookParentId": "5b5f760586f774093e6cb509",
@@ -3317,7 +3317,6 @@
 									"5d2369418abbc306c62e0c80",
 									"6272379924e29f06af4d5ecb",
 									"6272370ee4013c5d7e31f418"
-									
 								],
 								"Shift": 0
 							}
@@ -3500,7 +3499,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -3548,7 +3547,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -3596,7 +3595,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -3644,7 +3643,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -3692,7 +3691,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -3740,7 +3739,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -3788,7 +3787,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -3836,7 +3835,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -3884,7 +3883,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -3933,7 +3932,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -3984,7 +3983,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -4036,7 +4035,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -4088,7 +4087,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -4140,7 +4139,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -4192,7 +4191,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -4244,7 +4243,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -4296,7 +4295,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -4348,7 +4347,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -4400,7 +4399,7 @@
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
 				"Probability": 7
-			}, 
+			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
 				"Probability": 6
@@ -4415,7 +4414,7 @@
 			}
 		]
 	},
-		"68363c6fbfd14a9526e8601b": {
+	"68363c6fbfd14a9526e8601b": {
 		"itemTplToClone": "5b07dd285acfc4001754240d",
 		"parentId": "55818b164bdc2ddc698b456c",
 		"handbookParentId": "5b5f737886f774093e6cb4fb",
@@ -4425,14 +4424,14 @@
 				"path": "Attachments/x300.bundle",
 				"rcid": ""
 			},
-			"Weight": 0.090,
-			"Ergonomics": 4
+			"Weight": 0.100,
+			"Ergonomics": -1
 		},
 		"locales": {
 			"en": {
 				"name": "SureFire X300 Ultra tactical flashlight",
-				"shortName": "X300",
-				"description": "The X300U flashlight by SureFire is engineered to fit virtually any rail-equipped pistol or rifle."
+				"shortName": "X300U",
+				"description": "The SureFire X300 Ultra weapon-mounted tactical flashlight features a high-performance LED that generates 1000 lumens of stunning white light to produce a tight beam with extended reach and significant surround light for peripheral vision. The X300U is engineered to fit virtually any rail-equipped pistol or rifle. "
 			}
 		},
 		"clearClonedProps": false,
@@ -4443,7 +4442,8 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"traderId": "PRAPOR",
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
 		"traderItems": [
 			{
 				"unlimitedCount": false,
@@ -4452,13 +4452,13 @@
 		],
 		"barterScheme": [
 			{
-				"count": 9867,
+				"count": 24732,
 				"_tpl": "ROUBLES"
 			}
 		],
 		"loyallevelitems": 2,
-		"fleaPriceRoubles": 9000,
-		"handbookPriceRoubles": 9000,
+		"fleaPriceRoubles": 27748,
+		"handbookPriceRoubles": 19573,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
@@ -4479,7 +4479,7 @@
 			}
 		]
 	},
-		"6836e6fef34cc1ae734b444c": {
+	"6836e6fef34cc1ae734b444c": {
 		"itemTplToClone": "5ae30e795acfc408fb139a0b",
 		"parentId": "56ea9461d2720b67698b456f",
 		"handbookParentId": "5b5f760586f774093e6cb509",
@@ -4514,7 +4514,6 @@
 									"5d2369418abbc306c62e0c80",
 									"6272379924e29f06af4d5ecb",
 									"6272370ee4013c5d7e31f418"
-									
 								],
 								"Shift": 0
 							}
