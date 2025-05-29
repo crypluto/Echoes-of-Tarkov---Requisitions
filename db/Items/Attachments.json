@@ -2880,9 +2880,7 @@
 			"Prefab": {
 				"path": "Attachments/pmagtab.bundle",
 				"rcid": ""
-			},
-			"Weight": 0.090,
-			"Ergonomics": 4
+			}
 		},
 		"locales": {
 			"en": {
@@ -2944,13 +2942,11 @@
 			"Prefab": {
 				"path": "Attachments/pmagtabfde.bundle",
 				"rcid": ""
-			},
-			"Weight": 0.090,
-			"Ergonomics": 4
+			}
 		},
 		"locales": {
 			"en": {
-				"name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine With Paracord Pull Tab FDE",
+				"name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine With Paracord Pull Tab (FDE)",
 				"shortName": "Magpul",
 				"description": "A 30-round polymer Magpul PMAG GEN M3 30 magazine."
 			}
@@ -3008,9 +3004,7 @@
 			"Prefab": {
 				"path": "Attachments/pmag20tabfde.bundle",
 				"rcid": ""
-			},
-			"Weight": 0.090,
-			"Ergonomics": 4
+			}
 		},
 		"locales": {
 			"en": {
@@ -3072,9 +3066,7 @@
 			"Prefab": {
 				"path": "Attachments/stanagtab.bundle",
 				"rcid": ""
-			},
-			"Weight": 0.090,
-			"Ergonomics": 4
+			}
 		},
 		"locales": {
 			"en": {
@@ -3136,9 +3128,7 @@
 			"Prefab": {
 				"path": "Attachments/plumtape.bundle",
 				"rcid": ""
-			},
-			"Weight": 0.090,
-			"Ergonomics": 4
+			}
 		},
 		"locales": {
 			"en": {
@@ -3201,8 +3191,8 @@
 				"path": "Attachments/gaspistolrail.bundle",
 				"rcid": ""
 			},
-			"Weight": 0.090,
-			"Ergonomics": 4,
+			"Weight": 0.2,
+			"Ergonomics": -1,
 			"Slots": [
 				{
 					"_id": "6835c3ad38a064dab37fc675",
@@ -3292,8 +3282,8 @@
 				"path": "Attachments/lasergasblock.bundle",
 				"rcid": ""
 			},
-			"Weight": 0.090,
-			"Ergonomics": 4,
+			"Weight": 0.2,
+			"Ergonomics": -1,
 			"Slots": [
 				{
 					"_id": "6835c3ad38a064dab37fc675",
@@ -4540,8 +4530,8 @@
 				"path": "Attachments/gasblock3.bundle",
 				"rcid": ""
 			},
-			"Weight": 0.090,
-			"Ergonomics": 4,
+			"Weight": 0.3,
+			"Ergonomics": -1.5,
 			"Slots": [
 				{
 					"_id": "6835c3ad38a064dab37fc675",
@@ -4831,6 +4821,7 @@
 				"path": "Attachments/Receivers/receiver_m1911_rmr.bundle",
 				"rcid": ""
 			},
+			"Weight": 0.38,
 			"Slots": [
 				{
 					"_name": "mod_sight_rear",
