@@ -1,0 +1,397 @@
+{
+    "682a543094114c092df7373e": {
+		"itemTplToClone": "587e02ff24597743df3deaeb",
+		"parentId": "ASSAULT_CARBINE",
+		"handbookParentId": "WEAPONS_CARBINES",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "assets/content/weapons/sks/weapon_molot_op_sks_762x39_container.bundle",
+				"rcid": ""
+			},
+			"RecoilForceBack": 394,
+			"RecoilForceUp": 139,
+			"Slots": [
+				{
+					"_name": "mod_stock",
+					"_id": "68291e58c932411754fe1a62",
+					"_parent": "682a543094114c092df7373e",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5d0236dad7ad1a0940739d29",
+									"587e0531245977466077a0f7",
+									"5afd7ded5acfc40017541f5e",
+									"574dad8024597745964bf05c",
+									"653ecef836fae5a82f02b869"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_barrel",
+					"_id": "68291e56273dcb0f02f446a1",
+					"_parent": "682a543094114c092df7373e",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"682a687311702a43c945c16b"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_magazine",
+					"_id": "68291e55589b2afbe224a351",
+					"_parent": "682a543094114c092df7373e",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"61695095d92c473c7702147a",
+                					"5c5970672e221602b21d7855",
+                 					"587df583245977373c4f1129",
+                  					"587df3a12459772c28142567"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount",
+					"_id": "68291e541b56ff33e18ebbfe",
+					"_parent": "682a543094114c092df7373e",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"587e08ee245977446b4410cf",
+                  					"6415d33eda439c6a97048b5b"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_reciever",
+					"_id": "68291e5275cd8060693353bd",
+					"_parent": "682a543094114c092df7373e",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"634f06262e5def262d0b30ca",
+									"634f05ca517ccc8a960fc748",
+									"6415c694da439c6a97048b56"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			],
+			"ammoCaliber": "Caliber366TKM",
+			"defMagType": "587df3a12459772c28142567",
+			"defAmmo": "59e6542b86f77411dc52a77a",
+			"CenterOfImpact": 1.00,
+			"Chambers": [
+				{
+					"_name": "patron_in_weapon",
+					"_id": "68291e4b6032e40a96253bde",
+					"_parent": "682a543094114c092df7373e",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"59e655cb86f77411dc52a77b",
+									"59e6542b86f77411dc52a77a",
+									"59e6658b86f77411d949b250",
+									"5f0596629e22f464da6bbdd9"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d4af244bdc2d962f8b4571"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Molot Arms VPO-208 .366 TKM carbine",
+				"shortName": "VPO-208",
+				"description": "The VPO-208 carbine is a .366 TKM conversion of the Simonov SKS intended to fill a gap in the Russian civilian market. Due to the smoothbore barrel and the profile of the round, this gun is legally considered a shotgun in Russia."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 38543,
+		"handbookPriceRoubles": 33300,
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 34340,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": true,
+		"masterySections": [
+			{
+				"Name": "SKS",
+				"Templates": [
+					"682a5a4ecf42e9fba10cfe5e"
+				]
+			}
+		],
+		"addweaponpreset":  true,
+		"weaponpresets": [
+			{
+				"_changeWeaponName": false,
+				"_encyclopedia": "682a543094114c092df7373e",
+				"_id": "682a5a4ecf42e9fba10cfe5e",
+				"_items": [
+					{
+						"_id": "682a5a55a46624da1aa25f93",
+						"_tpl": "682a543094114c092df7373e",
+						"upd": {
+							"StackObjectsCount": 99,
+							"Repairable": {
+								"MaxDurability": 100,
+								"Durability": 100
+							},
+							"Foldable": {
+								"Folded": false
+							},
+							"FireMode": {
+								"FireMode": "single"
+							}
+						}
+					},
+					{
+						"_id": "682a59a85193f1619c04619d",
+						"_tpl": "574dad8024597745964bf05c",
+						"slotId": "mod_stock",
+						"parentId": "682a5a55a46624da1aa25f93"
+					},
+					{
+						"_id": "682a5a76f3e95f3a4c048c1b",
+						"_tpl": "682a687311702a43c945c16b",
+						"slotId": "mod_barrel",
+						"parentId": "682a5a55a46624da1aa25f93"
+					},
+					{
+						"_id": "682a59a85193f1619c04619f",
+						"_tpl": "587df3a12459772c28142567",
+						"slotId": "mod_magazine",
+						"parentId": "682a5a55a46624da1aa25f93"
+					},
+					{
+						"_id": "682a59a85193f1619c0461a0",
+						"_tpl": "634f05ca517ccc8a960fc748",
+						"slotId": "mod_reciever",
+						"parentId": "682a5a55a46624da1aa25f93"
+					},
+					{
+						"_id": "682a5a79f724f3cddcb3ce79",
+						"_tpl": "634f04d82e5def262d0b30c6",
+						"slotId": "mod_mount_000",
+						"parentId": "682a5a76f3e95f3a4c048c1b"
+					},
+					{
+						"_id": "682a5a866b096d9777c2c579",
+						"_tpl": "634f02d7517ccc8a960fc744",
+						"slotId": "mod_gas_block",
+						"parentId": "682a5a79f724f3cddcb3ce79"
+					},
+					{
+						"_id": "682a59a85193f1619c0461a3",
+						"_tpl": "574db213245977459a2f3f5d",
+						"slotId": "mod_sight_rear",
+						"parentId": "682a5a79f724f3cddcb3ce79"
+					},
+					{
+						"_id": "682a59a85193f1619c0461a4",
+						"_tpl": "634f08a21f9f536910079b5a",
+						"slotId": "mod_mount_000",
+						"parentId": "682a5a866b096d9777c2c579"
+					}
+				],
+				"_name": "VPO-208 stock preset",
+				"_parent": "682a5a55a46624da1aa25f93",
+				"_type": "Preset"
+			}
+		]
+	},
+	"682a687311702a43c945c16b": {
+		"itemTplToClone": "634eff66517ccc8a960fc735",
+		"parentId": "BARREL",
+		"handbookParentId": "MOD_BARREL",
+		"overrideProperties": {
+			"ExaminedByDefault": false,
+			"Prefab": {
+				"path": "assets/content/items/mods/barrels/barrel_sks_molot_520mm_762x39.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"587e02ff24597743df3deaeb",
+				"574d967124597745970e7c94"
+			],
+			"Recoil": -4,
+			"Slots": [
+				{
+					"_name": "mod_muzzle",
+					"_id": "682a687fc3b54e9a12627e88",
+					"_parent": "682a687311702a43c945c16b",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"593d490386f7745ee97a1555",
+									"5cf67cadd7f00c065a5abab7"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_000",
+					"_id": "682a68acdfb8507bfc1dbbc0",
+					"_parent": "682a687311702a43c945c16b",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"634f05a21f9f536910079b56",
+									"634f04d82e5def262d0b30c6"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_001",
+					"_id": "682a6aa379abc030ee25132f",
+					"_parent": "682a687311702a43c945c16b",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"593d1fa786f7746da62d61ac"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "VPO-208 .366 TKM 520mm smoothbore barrel",
+				"shortName": "VPO 208 520mm",
+				"description": "A standard-issue 520mm barrel for the VPO-208 carbine. Manufactured by Molot Arms."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_barrel",
+			"mod_mount_000",
+			"mod_mount_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 10270,
+		"handbookPriceRoubles": 4116,
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3951,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	}
+}
