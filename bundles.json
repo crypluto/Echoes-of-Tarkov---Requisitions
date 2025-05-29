@@ -1524,6 +1524,22 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
       ]
+    },
+        {
+            "key": "Attachments/clamshellqxl.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+            {
+            "key": "Attachments/qxl.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
     }
   ]
 }

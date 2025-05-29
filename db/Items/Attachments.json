@@ -4954,5 +4954,141 @@
 				"Probability": 1
 			}
 		]
+	},
+		"68376430e87603a6a5237129": {
+		"itemTplToClone": "5ae30db85acfc408fb139a05",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/clamshellqxl.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.090,
+			"Ergonomics": 4,
+			"Slots": [
+				{
+					"_id": "6835c3ad38a064dab37fc675",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_tactical_001",
+					"_parent": "6835a63bdbc98d9bc34e025b",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"6837716de936d83c13099eea"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "COLT M4A1 gas block with Promag bayonet lug rail",
+				"shortName": "FSB Lug Rail",
+				"description": "with a much lower cost than quad rail. The forward mount does not affect the standard hand guard when not using the bi-pod. very stable platform with the set screw take up hardware."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6837716de936d83c13099eea": {
+		"itemTplToClone": "5b07dd285acfc4001754240d",
+		"parentId": "55818b164bdc2ddc698b456c",
+		"handbookParentId": "5b5f737886f774093e6cb4fb",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/qxl.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.100,
+			"Ergonomics": -1
+		},
+		"locales": {
+			"en": {
+				"name": "SureFire X300 Ultra tactical flashlight",
+				"shortName": "X300U",
+				"description": "The SureFire X300 Ultra weapon-mounted tactical flashlight features a high-performance LED that generates 1000 lumens of stunning white light to produce a tight beam with extended reach and significant surround light for peripheral vision. The X300U is engineered to fit virtually any rail-equipped pistol or rifle. "
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_tactical"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 24732,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 27748,
+		"handbookPriceRoubles": 19573,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
+	
 }
