@@ -678,7 +678,7 @@
             ]
         },
         {
-            "key": "Attachments/stock_m700_hogue_overmolded_kryptek_highlander_stock.bundle",
+            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_kryptek_highlander_stock.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -686,7 +686,7 @@
             ]
         },
         {
-            "key": "Attachments/stock_m700_hogue_overmolded_ahegao_stock.bundle",
+            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_ahegao_stock.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -694,7 +694,7 @@
             ]
         },
         {
-            "key": "Attachments/stock_m700_hogue_overmolded_dpm_stock.bundle",
+            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_dpm_stock.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -702,7 +702,7 @@
             ]
         },
         {
-            "key": "Attachments/stock_m700_hogue_overmolded_black_stock.bundle",
+            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_black_stock.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -710,7 +710,7 @@
             ]
         },
         {
-            "key": "Attachments/stock_m700_hogue_overmolded_olive_stock.bundle",
+            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_olive_stock.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -718,7 +718,7 @@
             ]
         },
         {
-            "key": "Attachments/stock_m700_hogue_overmolded_badlands_stock.bundle",
+            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_badlands_stock.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -726,7 +726,7 @@
             ]
         },
         {
-            "key": "Attachments/stock_m700_hogue_overmolded_erdl_stock.bundle",
+            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_erdl_stock.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -734,7 +734,7 @@
             ]
         },
         {
-            "key": "Attachments/stock_m700_hogue_overmolded_hunting_stock.bundle",
+            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_hunting_stock.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -742,7 +742,15 @@
             ]
         },
         {
-            "key": "Attachments/stock_m700_hogue_overmolded_typhon_stock.bundle",
+            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_typhon_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_cadpat.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -1479,6 +1487,38 @@
     },
     {
             "key": "Attachments/gasblock3.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+            "key": "Attachments/Suppressors/silencer_yhm_phantom_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+            "key": "Attachments/Suppressors/silencer_yhm_phantom_fde.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+            "key": "Attachments/Suppressors/silencer_yhm_phantom_wraith.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+            "key": "Attachments/Receivers/receiver_m1911_rmr.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",

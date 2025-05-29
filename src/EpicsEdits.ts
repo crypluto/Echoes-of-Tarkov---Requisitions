@@ -79,6 +79,14 @@ export class epicItemClass {
                 fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f",
                     "68325a63730b17c69ee176eb");
             } //Pushing 6.5x48mm to SR-25 Mags
+            if (fileData._id === "5fbbfacda56d053a3543f799") {
+                fileData._props.Slots[1]._props.filters[0].Filter.push("68343b29f48104d3a6265db3",
+                    "68343c10334d72dc0066a8f3");
+            } //Pushing Smoke Stack Suppressor to .300BLK
+            if (fileData._id === "5fbbfabed5cb881a7363194e") {
+                fileData._props.Slots[1]._props.filters[0].Filter.push("68343b29f48104d3a6265db3",
+                    "68343c10334d72dc0066a8f3");
+            } //Pushing Smoke Stack Suppressor to .300BLK
         }
     }
 }
