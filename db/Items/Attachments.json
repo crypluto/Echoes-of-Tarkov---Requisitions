@@ -3953,7 +3953,7 @@
 		"handbookParentId": "MOD_STOCK",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/stock_m700_hogue_overmolded_kryptek_highlander_stock.bundle",
+				"path": "Attachments/Stocks/stock_m700_hogue_overmolded_kryptek_highlander_stock.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.265,
@@ -3998,13 +3998,64 @@
 			}
 		]
 	},
+	"6837c322fc2a43f4deea2cf4": {
+		"itemTplToClone": "5bfeb32b0db834001a6694d9",
+		"parentId": "STOCK",
+		"handbookParentId": "MOD_STOCK",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Stocks/stock_m700_hogue_overmolded_cadpat.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.265,
+			"InsuranceDisabled": false,
+			"Ergonomics": 14,
+			"Recoil": -21
+		},
+		"modSlot": [
+			"MOD_STOCK"
+		],
+		"locales": {
+			"en": {
+				"name": "M700 Hogue Overmolded Ghillie stock (CADPAT TW)",
+				"shortName": "Overmolded Ghillie",
+				"description": "The Overmolded Ghillie stock for the Remington Model 700 bolt-action sniper rifle. Manufactured by Hogue. CADPAT version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 41032,
+		"handbookPriceRoubles": 8500,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
 	"68338b87fc8103da63185201": {
 		"itemTplToClone": "5bfeb32b0db834001a6694d9",
 		"parentId": "STOCK",
 		"handbookParentId": "MOD_STOCK",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/stock_m700_hogue_overmolded_ahegao_stock.bundle",
+				"path": "Attachments/Stocks/stock_m700_hogue_overmolded_ahegao_stock.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.285,
@@ -4056,7 +4107,7 @@
 		"handbookParentId": "MOD_STOCK",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/stock_m700_hogue_overmolded_dpm_stock.bundle",
+				"path": "Attachments/Stocks/stock_m700_hogue_overmolded_dpm_stock.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.285,
@@ -4108,7 +4159,7 @@
 		"handbookParentId": "MOD_STOCK",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/stock_m700_hogue_overmolded_black_stock.bundle",
+				"path": "Attachments/Stocks/stock_m700_hogue_overmolded_black_stock.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.255,
@@ -4160,7 +4211,7 @@
 		"handbookParentId": "MOD_STOCK",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/stock_m700_hogue_overmolded_olive_stock.bundle",
+				"path": "Attachments/Stocks/stock_m700_hogue_overmolded_olive_stock.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.215,
@@ -4212,7 +4263,7 @@
 		"handbookParentId": "MOD_STOCK",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/stock_m700_hogue_overmolded_badlands_stock.bundle",
+				"path": "Attachments/Stocks/stock_m700_hogue_overmolded_badlands_stock.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.215,
@@ -4264,7 +4315,7 @@
 		"handbookParentId": "MOD_STOCK",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/stock_m700_hogue_overmolded_erdl_stock.bundle",
+				"path": "Attachments/Stocks/stock_m700_hogue_overmolded_erdl_stock.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.215,
@@ -4316,7 +4367,7 @@
 		"handbookParentId": "MOD_STOCK",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/stock_m700_hogue_overmolded_hunting_stock.bundle",
+				"path": "Attachments/Stocks/stock_m700_hogue_overmolded_hunting_stock.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.215,
@@ -4368,7 +4419,7 @@
 		"handbookParentId": "MOD_STOCK",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/stock_m700_hogue_overmolded_typhon_stock.bundle",
+				"path": "Attachments/Stocks/stock_m700_hogue_overmolded_typhon_stock.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.215,
@@ -4541,6 +4592,358 @@
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68377cc2b7f87dd53a2380ad": {
+		"itemTplToClone": "5fbe7618d6fa9c00c571bb6c",
+		"parentId": "550aa4cd4bdc2dd8348b456c",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Suppressors/silencer_yhm_phantom_blk.bundle",
+				"rcid": ""
+			},
+			"loudness": -30,
+			"Ergonomics": -24,
+			"CoolFactor": 1.06,
+			"DurabilityBurnModificator": 1.59,
+			"HeatFactor": 1.15,
+			"Recoil": -5,
+			"ExtraSizeLeft": 1,
+			"Width": 2
+		},
+		"locales": {
+			"en": {
+				"name": "Yankee Hill Phantom M2 QD 7.62x51 sound suppressor",
+				"shortName": "Phantom M2 QD",
+				"description": "The 7.62 Phantom M2 QD silencer employs rugged stainless steel and Inconel 718 construction for increased strength, superior durability, and remarkable weight savings. This suppressor offers outstanding sound reduction (32 dB). YHM’s QD muzzle devices are as durable as they come, allowing this suppressor to silence its host firearm in an impressive manner."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 62183,
+				"_tpl": "ROUBLES"
+			}
+		],
+        "loyallevelitems": 3,
+		"fleaPriceRoubles": 60132,
+		"handbookPriceRoubles": 43500,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68377e40800180a1a99c73a3": {
+		"itemTplToClone": "5fbe7618d6fa9c00c571bb6c",
+		"parentId": "550aa4cd4bdc2dd8348b456c",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Suppressors/silencer_yhm_phantom_fde.bundle",
+				"rcid": ""
+			},
+			"loudness": -30,
+			"Ergonomics": -24,
+			"CoolFactor": 1.06,
+			"DurabilityBurnModificator": 1.59,
+			"HeatFactor": 1.15,
+			"Recoil": -5,
+			"ExtraSizeLeft": 1,
+			"Width": 2
+		},
+		"locales": {
+			"en": {
+				"name": "Yankee Hill Phantom M2 QD 7.62x51 sound suppressor (FDE)",
+				"shortName": "Phantom M2 QD",
+				"description": "The 7.62 Phantom M2 QD silencer employs rugged stainless steel and Inconel 718 construction for increased strength, superior durability, and remarkable weight savings. This suppressor offers outstanding sound reduction (32 dB). YHM’s QD muzzle devices are as durable as they come, allowing this suppressor to silence its host firearm in an impressive manner. Flat Dark Earth version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 62183,
+				"_tpl": "ROUBLES"
+			}
+		],
+        "loyallevelitems": 3,
+		"fleaPriceRoubles": 60132,
+		"handbookPriceRoubles": 43500,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68377e36c0ce47ccaae55254": {
+		"itemTplToClone": "5fbe7618d6fa9c00c571bb6c",
+		"parentId": "550aa4cd4bdc2dd8348b456c",
+		"handbookParentId": "5b5f731a86f774093e6cb4f9",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Suppressors/silencer_yhm_phantom_wraith.bundle",
+				"rcid": ""
+			},
+			"loudness": -30,
+			"Ergonomics": -24,
+			"CoolFactor": 1.06,
+			"DurabilityBurnModificator": 1.59,
+			"HeatFactor": 1.15,
+			"Recoil": -5,
+			"ExtraSizeLeft": 1,
+			"Width": 2
+		},
+		"locales": {
+			"en": {
+				"name": "Yankee Hill Phantom M2 QD 7.62x51 sound suppressor (Wraith)",
+				"shortName": "Phantom M2 QD",
+				"description": "The 7.62 Phantom M2 QD silencer employs rugged stainless steel and Inconel 718 construction for increased strength, superior durability, and remarkable weight savings. This suppressor offers outstanding sound reduction (32 dB). YHM’s QD muzzle devices are as durable as they come, allowing this suppressor to silence its host firearm in an impressive manner. Kryptek Wraith version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 62183,
+				"_tpl": "ROUBLES"
+			}
+		],
+        "loyallevelitems": 3,
+		"fleaPriceRoubles": 60132,
+		"handbookPriceRoubles": 43500,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6837aa4c2491fc57390a6cc4": {
+		"itemTplToClone": "5e81edc13397a21db957f6a1",
+		"parentId": "RECEIVER",
+		"handbookParentId": "MOD_RECEIVER",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Receivers/receiver_m1911_rmr.bundle",
+				"rcid": ""
+			},
+			"Slots": [
+				{
+					"_name": "mod_sight_rear",
+					"_id": "6837abb142534b60e6dd176c",
+					"_parent": "6837aa4c2491fc57390a6cc4",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5e81ee4dcb2b95385c177582"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_sight_front",
+					"_id": "6837abafce7e0b18361e8b18",
+					"_parent": "6837aa4c2491fc57390a6cc4",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5e81ee213397a21db957f6a6"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_scope",
+					"_id": "6837abac38fe2c3c67155541",
+					"_parent": "6837aa4c2491fc57390a6cc4",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a32aa8bc4a2826c6e06d737",
+									"5a1539825682a7fa06dc4243",
+									"2f5f355a48a470aeb12452b1"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_muzzle",
+					"_id": "6837abac6e1aa0829c978e47",
+					"_parent": "6837aa4c2491fc57390a6cc4",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ef61964ec7f42238c31e0c1"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "M1911A1 pistol slide with RMR mount",
+				"shortName": "1911 RMR",
+				"description": "A standard-issue slide for the M1911A1 pistol, modified to accept an RMR pistol optic. Manufactured by Colt."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle",
+			"mod_scope",
+			"mod_sight_front",
+			"mod_sight_rear",
+			"mod_reciever"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12,
+				"_tpl": "DOLLARS"
+			}
+		],
+        "loyallevelitems": 1,
+		"fleaPriceRoubles": 36863,
+		"handbookPriceRoubles": 1700,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
