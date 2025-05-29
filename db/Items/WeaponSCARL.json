@@ -1,0 +1,1031 @@
+{
+	"682a97a707ec1d7ca369afc4": {
+		"itemTplToClone": "6184055050224f204c1da540",
+		"parentId": "ASSAULT_RIFLE",
+		"handbookParentId": "WEAPONS_ASSAULTRIFLES",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "assets/content/weapons/scar/weapon_fn_mk16_556x45_container.bundle",
+				"rcid": ""
+			},
+			"RecoilForceBack": 312,
+			"RecoilForceUp": 100,
+			"RecoilCamera": 0.07,
+			"Slots": [
+				{
+					"_id": "682a94dd1b64f3d741d89fb4",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_pistol_grip",
+					"_parent": "682a97a707ec1d7ca369afc4",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"55d4b9964bdc2d1d4e8b456e",
+									"571659bb2459771fb2755a12",
+									"602e71bd53a60014f9705bfa",
+									"6113c3586c780c1e710c90bc",
+									"6113cc78d3a39d50044c065a",
+									"6113cce3d92c473c770200c7",
+									"5cc9bcaed7f00c011c04e179",
+									"5bb20e18d4351e00320205d5",
+									"5bb20e0ed4351e3bac1212dc",
+									"6193dcd0f8ee7e52e4210a28",
+									"5d025cc1d7ad1a53845279ef",
+									"5c6d7b3d2e221600114c9b7d",
+									"57c55efc2459772d2c6271e7",
+									"57af48872459771f0b2ebf11",
+									"57c55f092459772d291a8463",
+									"57c55f112459772d28133310",
+									"57c55f172459772d27602381",
+									"5a339805c4a2826c6e06d73d",
+									"55802f5d4bdc2dac148b458f",
+									"5d15cf3bd7ad1a67e71518b2",
+									"59db3a1d86f77429e05b4e92",
+									"5fbcbd6c187fea44d52eda14",
+									"59db3acc86f7742a2c4ab912",
+									"59db3b0886f77429d72fb895",
+									"615d8faecabb9b7ad90f4d5d",
+									"5b07db875acfc40dc528a5f6",
+									"63f5feead259b42f0b4d6d0f",
+									"652911675ae2ae97b80fdf3c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": true
+				},
+				{
+					"_id": "682a94dc8db684026c9f12d9",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_magazine",
+					"_parent": "682a97a707ec1d7ca369afc4",
+					"_props": {
+						"filters": [
+							{
+								"AnimationIndex": -1,
+								"Filter": [
+									"55d4887d4bdc2d962f8b4570",
+									"61840bedd92c473c77021635",
+									"61840d85568c120fdd2962a5",
+									"5c05413a0db834001c390617",
+									"5c6d450c2e221600114c997d",
+									"5c6d42cb2e2216000e69d7d1",
+									"59c1383d86f774290a37e0ca",
+									"5aaa5e60e5b5b000140293d6",
+									"5448c1d04bdc2dff2f8b4569",
+									"5aaa5dfee5b5b000140293d3",
+									"5d1340b3d7ad1a0b52682ed7",
+									"544a378f4bdc2d30388b4567",
+									"5d1340bdd7ad1a0e8d245aab",
+									"55802d5f4bdc2dac148b458e",
+									"5d1340cad7ad1a0b0b249869",
+									"6241c2c2117ad530666a5108",
+									"5c6592372e221600133e47d7",
+									"544a37c44bdc2d25388b4567",
+									"5c6d46132e221601da357d56"
+								]
+							}
+						]
+					},
+					"_proto": "55d30c394bdc2dae468b4577",
+					"_required": false
+				},
+				{
+					"_id": "682a94e12c8ede4d4dcd96e0",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_reciever",
+					"_parent": "682a97a707ec1d7ca369afc4",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"682b2a1b3326cca5a1ced18d"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": true
+				},
+				{
+					"_id": "682a94e42dae1bd9dc4932d8",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_stock",
+					"_parent": "682a97a707ec1d7ca369afc4",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"61816734d8e3106d9806c1f3",
+									"61825d06d92c473c770215de",
+									"66ffbfb1a73a7bce3d0b45a8",
+									"66ffc20ba73a7bce3d0b45ab",
+									"66ffc246a81a4f85e70d4d06"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": true
+				},
+				{
+					"_id": "682a94e666f81ff6dcb3372e",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_charge",
+					"_parent": "682a97a707ec1d7ca369afc4",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"6181688c6c780c1e710c9b04"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": true
+				}
+			],
+			"ammoCaliber": "Caliber762x35",
+			"defMagType": "55d4887d4bdc2d962f8b4570",
+			"defAmmo": "5fbe3ffdf8b6a877a729ea82",
+			"Chambers": [
+				{
+					"_name": "patron_in_weapon",
+					"_id": "68291e4b6032e40a96253bde",
+					"_parent": "682a97a707ec1d7ca369afc4",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5fbe3ffdf8b6a877a729ea82",
+									"5fd20ff893a8961fc660a954",
+									"619636be6db0f2477964e710",
+									"6196364158ef8c428c287d9f",
+									"6196365d58ef8c428c287da1",
+									"64b8725c4b75259c590fa899"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d4af244bdc2d962f8b4571"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "FN SCAR-L MK2 .300 Blackout assault rifle",
+				"shortName": "SCAR-L",
+				"description": "The FN SCAR-L (Special Operations Forces Combat Assault Rifle - Light) assault rifle chambered in 5.56x45 NATO rounds, was adopted by the US SOCOM as the Mk 16. Features a side-folding polymer stock and a free-floating, cold hammer-forged Mil-Spec barrel with hardchromed bore. Fully-ambidextrous operating controls instantly adapt the SCAR to any user or any shooting position. The receiver-integrated optical rail plus three accessory rails enable mounting of a wide variety of scopes, electronic sights, tactical lights and lasers. Manufactured by Fabrique Nationale Herstal."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 72544,
+		"handbookPriceRoubles": 17000,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 321,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [
+			{
+				"Name": "M4",
+				"Templates": [
+					"682a99300fd0db52b791604a"
+				]
+			}
+		],
+		"addweaponpreset": true,
+		"weaponpresets": [
+			{
+				"_changeWeaponName": false,
+				"_encyclopedia": "682a97a707ec1d7ca369afc4",
+				"_id": "682a99300fd0db52b791604a",
+				"_items": [
+					{
+						"_id": "682b22401ca8a96aab54fc00",
+						"_tpl": "682a97a707ec1d7ca369afc4",
+						"upd": {
+							"StackObjectsCount": 99,
+							"Repairable": {
+								"MaxDurability": 100,
+								"Durability": 100
+							},
+							"Foldable": {
+								"Folded": false
+							},
+							"FireMode": {
+								"FireMode": "single"
+							}
+						}
+					},
+					{
+						"_id": "68290e59351be344b1025859",
+						"_tpl": "55d4b9964bdc2d1d4e8b456e",
+						"parentId": "682b22401ca8a96aab54fc00",
+						"slotId": "mod_pistol_grip"
+					},
+					{
+						"_id": "682b233c194ff2e8df10b0ba",
+						"_tpl": "682b2d48d13aded50d00dd7e",
+						"slotId": "mod_barrel",
+						"parentId": "682908135d15d23d2af25d3b"
+					},
+					{
+						"_id": "682a79798bed2e1cf4062b01",
+						"_tpl": "6181688c6c780c1e710c9b04",
+						"slotId": "mod_charge",
+						"parentId": "682b22401ca8a96aab54fc00"
+					},
+					{
+						"_id": "682b2492ba2e65e8d2123601",
+						"_tpl": "618178aa1cb55961fa0fdc80",
+						"slotId": "mod_muzzle",
+						"parentId": "682b233c194ff2e8df10b0ba"
+					},
+					{
+						"_id": "682b23574cc3288e7fddaf93",
+						"_tpl": "61816fcad92c473c770215cc",
+						"slotId": "mod_sight_front",
+						"parentId": "682b233c194ff2e8df10b0ba"
+					},
+					{
+						"_id": "68290e5a425d56ba635162e2",
+						"_tpl": "61840bedd92c473c77021635",
+						"parentId": "682b22401ca8a96aab54fc00",
+						"slotId": "mod_magazine"
+					},
+					{
+						"_id": "682b229b3eccd4b8ee29c871",
+						"_tpl": "61816734d8e3106d9806c1f3",
+						"parentId": "682b22401ca8a96aab54fc00",
+						"slotId": "mod_stock"
+					},
+					{
+						"_id": "682b22a005663adb2e568b3d",
+						"_tpl": "618167528004cc50514c34f9",
+						"slotId": "mod_stock_001",
+						"parentId": "682b229b3eccd4b8ee29c871"
+					},
+					{
+						"_id": "682b229f60180546b60ba6cb",
+						"_tpl": "618167441cb55961fa0fdc71",
+						"slotId": "mod_stock_002",
+						"parentId": "682b229b3eccd4b8ee29c871"
+					},
+					{
+						"_id": "682a79798bed2e1cf4062b0a",
+						"_tpl": "618167616ef05c2ce828f1a8",
+						"slotId": "mod_stock",
+						"parentId": "682b22a005663adb2e568b3d"
+					},
+					{
+						"_id": "682908135d15d23d2af25d3b",
+						"_tpl": "682b2a1b3326cca5a1ced18d",
+						"parentId": "682b22401ca8a96aab54fc00",
+						"slotId": "mod_reciever"
+					},
+					{
+						"_id": "68290e2e3550c66792675ffc",
+						"_tpl": "61817865d3a39d50044c13a4",
+						"parentId": "682908135d15d23d2af25d3b",
+						"slotId": "mod_sight_rear"
+					},
+					{
+						"_id": "682a79798bed2e1cf4062b04",
+						"_tpl": "61816df1d3a39d50044c139e",
+						"slotId": "mod_mount_000",
+						"parentId": "682908135d15d23d2af25d3b"
+					},
+					{
+						"_id": "682b22f1d79850e29a0a7a95",
+						"_tpl": "66ffe66a20771d839f0fb4a9",
+						"slotId": "mod_mount_001",
+						"parentId": "682908135d15d23d2af25d3b"
+					}
+				],
+				"_name": "SCAR300 preset",
+				"_parent": "682b22401ca8a96aab54fc00",
+				"_type": "Preset"
+			}
+		]
+	},
+	"682b26375d8f048fff0b6aab": {
+		"itemTplToClone": "6183fc15d3a39d50044c13e9",
+		"parentId": "BARREL",
+		"handbookParentId": "MOD_BARREL",
+		"overrideProperties": {
+			"ExaminedByDefault": false,
+			"Prefab": {
+				"path": "assets/content/items/mods/barrels/barrel_mk16_fn_254mm_556x45.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"619666f4af1f5202c57a952d",
+				"66ffc6ceb7ff397142017c3a",
+				"66ffe2fbab3336cc0106382b",
+				"66ffe5edfe9b38259606530d"
+			],
+			"Recoil": 2,
+			"Slots": [
+				{
+				  "_name": "mod_muzzle",
+				  "_id": "682b26d4e1f658bff36f0f99",
+				  "_parent": "682b26375d8f048fff0b6aab",
+				  "_props": {
+					"filters": [
+					  {
+						"Shift": 0,
+						"Filter": [
+							"5c7954d52e221600106f4cc7",
+							"5fbc22ccf24b94483f726483",
+							"59bffc1f86f77435b128b872",
+							"5fbe7618d6fa9c00c571bb6c",
+							"612e0d3767085e45ef14057f",
+							"5b7d693d5acfc43bca706a3d",
+							"5a34fd2bc4a282329a73b4c5",
+							"618178aa1cb55961fa0fdc80",
+							"6065c6e7132d4d12c81fd8e1",
+							"5d1f819086f7744b355c219b",
+							"5dcbe965e4ed22586443a79d",
+							"5d026791d7ad1a04a067ea63",
+							"5dfa3cd1b33c0951220c079b",
+							"6130c43c67085e45ef1405a1",
+							"5cdd7685d7f00c000f260ed2",
+							"5c878e9d2e2216000f201903",
+							"5d02677ad7ad1a04a15c0f95",
+							"5bbdb8bdd4351e4502011460",
+							"5cdd7693d7f00c0010373aa5",
+							"607ffb988900dc2d9a55b6e4",
+							"615d8eb350224f204c1da1cf",
+							"612e0e3c290d254f5e6b291d",
+							"5d443f8fa4b93678dd4a01aa",
+							"5cf78496d7f00c065703d6ca",
+							"628a66b41d5e41750e314f34",
+							"6642f63667f5cb56a00662eb"
+						]
+					  }
+					]
+				  },
+				  "_required": false,
+				  "_mergeSlotWithChildren": false,
+				  "_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+				  "_name": "mod_sight_front",
+				  "_id": "682b26d579c45874f09000e2",
+				  "_parent": "682b26375d8f048fff0b6aab",
+				  "_props": {
+					"filters": [
+					  {
+						"Shift": 0,
+						"Filter": [
+						  "61816fcad92c473c770215cc"
+						]
+					  }
+					]
+				  },
+				  "_required": false,
+				  "_mergeSlotWithChildren": false,
+				  "_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			  ]
+		},
+		"locales": {
+			"en": {
+				"name": "FN SCAR-L MK.2 .300 Blackout 10 inch barrel",
+				"shortName": "MK.2 10\"",
+				"description": "A 10 inches long (254mm) CQB barrel for the SCAR-series weapons chambered in .300 Blackout ammo."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_barrel",
+			"mod_sight_front"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 84341,
+		"handbookPriceRoubles": 30500,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 275,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"682b2d48d13aded50d00dd7e": {
+		"itemTplToClone": "6183fd911cb55961fa0fdce9",
+		"parentId": "BARREL",
+		"handbookParentId": "MOD_BARREL",
+		"overrideProperties": {
+			"ExaminedByDefault": false,
+			"Prefab": {
+				"path": "assets/content/items/mods/barrels/barrel_mk16_fn_355mm_556x45.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+			],
+			"Recoil": 1,
+			"Slots": [
+				{
+				  "_name": "mod_muzzle",
+				  "_id": "682b26d4e1f658bff36f0f99",
+				  "_parent": "682b2d48d13aded50d00dd7e",
+				  "_props": {
+					"filters": [
+					  {
+						"Shift": 0,
+						"Filter": [
+							"5c7954d52e221600106f4cc7",
+							"5fbc22ccf24b94483f726483",
+							"59bffc1f86f77435b128b872",
+							"5fbe7618d6fa9c00c571bb6c",
+							"612e0d3767085e45ef14057f",
+							"5b7d693d5acfc43bca706a3d",
+							"5a34fd2bc4a282329a73b4c5",
+							"618178aa1cb55961fa0fdc80",
+							"6065c6e7132d4d12c81fd8e1",
+							"5d1f819086f7744b355c219b",
+							"5dcbe965e4ed22586443a79d",
+							"5d026791d7ad1a04a067ea63",
+							"5dfa3cd1b33c0951220c079b",
+							"6130c43c67085e45ef1405a1",
+							"5cdd7685d7f00c000f260ed2",
+							"5c878e9d2e2216000f201903",
+							"5d02677ad7ad1a04a15c0f95",
+							"5bbdb8bdd4351e4502011460",
+							"5cdd7693d7f00c0010373aa5",
+							"607ffb988900dc2d9a55b6e4",
+							"615d8eb350224f204c1da1cf",
+							"612e0e3c290d254f5e6b291d",
+							"5d443f8fa4b93678dd4a01aa",
+							"5cf78496d7f00c065703d6ca",
+							"628a66b41d5e41750e314f34",
+							"6642f63667f5cb56a00662eb"
+						]
+					  }
+					]
+				  },
+				  "_required": false,
+				  "_mergeSlotWithChildren": false,
+				  "_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+				  "_name": "mod_sight_front",
+				  "_id": "682b26d579c45874f09000e2",
+				  "_parent": "682b2d48d13aded50d00dd7e",
+				  "_props": {
+					"filters": [
+					  {
+						"Shift": 0,
+						"Filter": [
+						  "61816fcad92c473c770215cc"
+						]
+					  }
+					]
+				  },
+				  "_required": false,
+				  "_mergeSlotWithChildren": false,
+				  "_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			  ]
+		},
+		"locales": {
+			"en": {
+				"name": "FN SCAR-L MK.2 .300 Blackout 14 inch barrel",
+				"shortName": "MK.2 14\"",
+				"description": "A 14 inches long (355mm) STD barrel for the SCAR-series weapons chambered in .300 Blackout ammo."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_barrel",
+			"mod_sight_front"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 79341,
+		"handbookPriceRoubles": 24000,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 216,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"682b2e33350460eec842c33f": {
+		"itemTplToClone": "6183fd9e8004cc50514c358f",
+		"parentId": "BARREL",
+		"handbookParentId": "MOD_BARREL",
+		"overrideProperties": {
+			"ExaminedByDefault": false,
+			"Prefab": {
+				"path": "assets/content/items/mods/barrels/barrel_mk16_fn_457mm_556x45.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+			],
+			"Recoil": -2,
+			"Slots": [
+				{
+				  "_name": "mod_muzzle",
+				  "_id": "682b26d4e1f658bff36f0f99",
+				  "_parent": "682b2e33350460eec842c33f",
+				  "_props": {
+					"filters": [
+					  {
+						"Shift": 0,
+						"Filter": [
+							"5c7954d52e221600106f4cc7",
+							"5fbc22ccf24b94483f726483",
+							"59bffc1f86f77435b128b872",
+							"5fbe7618d6fa9c00c571bb6c",
+							"612e0d3767085e45ef14057f",
+							"5b7d693d5acfc43bca706a3d",
+							"5a34fd2bc4a282329a73b4c5",
+							"618178aa1cb55961fa0fdc80",
+							"6065c6e7132d4d12c81fd8e1",
+							"5d1f819086f7744b355c219b",
+							"5dcbe965e4ed22586443a79d",
+							"5d026791d7ad1a04a067ea63",
+							"5dfa3cd1b33c0951220c079b",
+							"6130c43c67085e45ef1405a1",
+							"5cdd7685d7f00c000f260ed2",
+							"5c878e9d2e2216000f201903",
+							"5d02677ad7ad1a04a15c0f95",
+							"5bbdb8bdd4351e4502011460",
+							"5cdd7693d7f00c0010373aa5",
+							"607ffb988900dc2d9a55b6e4",
+							"615d8eb350224f204c1da1cf",
+							"612e0e3c290d254f5e6b291d",
+							"5d443f8fa4b93678dd4a01aa",
+							"5cf78496d7f00c065703d6ca",
+							"628a66b41d5e41750e314f34",
+							"6642f63667f5cb56a00662eb"
+						]
+					  }
+					]
+				  },
+				  "_required": false,
+				  "_mergeSlotWithChildren": false,
+				  "_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+				  "_name": "mod_sight_front",
+				  "_id": "682b26d579c45874f09000e2",
+				  "_parent": "682b2e33350460eec842c33f",
+				  "_props": {
+					"filters": [
+					  {
+						"Shift": 0,
+						"Filter": [
+						  "61816fcad92c473c770215cc"
+						]
+					  }
+					]
+				  },
+				  "_required": false,
+				  "_mergeSlotWithChildren": false,
+				  "_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			  ]
+		},
+		"locales": {
+			"en": {
+				"name": "FN SCAR-L MK.2 .300 Blackout 18 inch barrel",
+				"shortName": "MK.2 18\"",
+				"description": "A 18 inches long (456mm) LB barrel for the SCAR-series weapons chambered in .300 Blackout ammo."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_barrel",
+			"mod_sight_front"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 33591,
+		"handbookPriceRoubles": 38950,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 310,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	},
+	"682b2a1b3326cca5a1ced18d": {
+		"itemTplToClone": "618405198004cc50514c3594",
+		"parentId": "55818a304bdc2db5418b457d",
+		"handbookParentId": "MOD_RECIEVER",
+		"overrideProperties": {
+			"ExaminedByDefault": false,
+			"Prefab": {
+				"path": "assets/content/items/mods/recievers/reciever_mk16_fn_scar_l_std.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"6184055050224f204c1da540",
+				"618428466ef05c2ce828f218"
+			],
+			"Slots": [
+				{
+				  "_name": "mod_scope",
+				  "_id": "682b285294552d9978d83869",
+				  "_parent": "682b2a1b3326cca5a1ced18d",
+				  "_props": {
+					"filters": [
+					  {
+						"Shift": 0,
+						"Filter": [
+							"57ac965c24597706be5f975c",
+							"57aca93d2459771f2c7e26db",
+							"544a3f024bdc2d1d388b4568",
+							"544a3a774bdc2d3a388b4567",
+							"5d2dc3e548f035404a1a4798",
+							"57adff4f24597737f373b6e6",
+							"5c0517910db83400232ffee5",
+							"591c4efa86f7741030027726",
+							"570fd79bd2720bc7458b4583",
+							"570fd6c2d2720bc6458b457f",
+							"558022b54bdc2dac148b458d",
+							"5c07dd120db834001c39092d",
+							"5c0a2cec0db834001b7ce47d",
+							"58491f3324597764bc48fa02",
+							"584924ec24597768f12ae244",
+							"5b30b0dc5acfc400153b7124",
+							"6165ac8c290d254f5e6b2f6c",
+							"60a23797a37c940de7062d02",
+							"5d2da1e948f035477b1ce2ba",
+							"5c0505e00db834001b735073",
+							"609a63b6e2ff132951242d09",
+							"584984812459776a704a82a6",
+							"59f9d81586f7744c7506ee62",
+							"570fd721d2720bc5458b4596",
+							"57ae0171245977343c27bfcf",
+							"5dfe6104585a0c3e995c7b82",
+							"544a3d0a4bdc2d1b388b4567",
+							"5d1b5e94d7ad1a2b865a96b0",
+							"609bab8b455afd752b2e6138",
+							"58d39d3d86f77445bb794ae7",
+							"616554fe50224f204c1da2aa",
+							"5c7d55f52e221644f31bff6a",
+							"616584766ef05c2ce828ef57",
+							"5b3b6dc75acfc47a8773fb1e",
+							"615d8d878004cc50514c3233",
+							"5b2389515acfc4771e1be0c0",
+							"577d128124597739d65d0e56",
+							"618b9643526131765025ab35",
+							"618bab21526131765025ab3f",
+							"5c86592b2e2216000e69e77c",
+							"5a37ca54c4a282000d72296a",
+							"5d0a29fed7ad1a002769ad08",
+							"5c064c400db834001d23f468",
+							"58d2664f86f7747fec5834f6",
+							"57c69dd424597774c03b7bbc",
+							"5b3b99265acfc4704b4a1afb",
+							"5aa66a9be5b5b0214e506e89",
+							"5aa66c72e5b5b00016327c93",
+							"5c1cdd302e221602b3137250",
+							"61714b2467085e45ef140b2c",
+							"6171407e50224f204c1da3c5",
+							"61713cc4d8e3106d9806c109",
+							"5b31163c5acfc400153b71cb",
+							"5a33b652c4a28232996e407c",
+							"5a33b2c9c4a282000c5a9511",
+							"59db7eed86f77461f8380365",
+							"5a1ead28fcdbcb001912fa9f",
+							"5dff77c759400025ea5150cf",
+							"626bb8532c923541184624b4",
+							"62811f461d5df4475f46a332",
+							"63fc449f5bd61c6cf3784a88",
+							"6477772ea8a38bb2050ed4db",
+							"6478641c19d732620e045e17",
+							"64785e7c19d732620e045e15",
+							"65392f611406374f82152ba5",
+							"653931da5db71d30ab1d6296",
+							"655f13e0a246670fb0373245",
+							"6567e751a715f85433025998",
+							"67641a851b2899700609901a",
+							"6761759e7ee06333f108bf86"
+						]
+					  }
+					]
+				  },
+				  "_required": false,
+				  "_mergeSlotWithChildren": false,
+				  "_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+				  "_name": "mod_barrel",
+				  "_id": "682b284f70cc1d882e5e72d2",
+				  "_parent": "682b2a1b3326cca5a1ced18d",
+				  "_props": {
+					"filters": [
+					  {
+						"Shift": 0,
+						"Filter": [
+						  "682b26375d8f048fff0b6aab",
+						  "682b2d48d13aded50d00dd7e",
+						  "682b2e33350460eec842c33f"
+						]
+					  }
+					]
+				  },
+				  "_required": true,
+				  "_mergeSlotWithChildren": false,
+				  "_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+				  "_name": "mod_sight_rear",
+				  "_id": "682b2899b8506729f2c23c1e",
+				  "_parent": "682b2a1b3326cca5a1ced18d",
+				  "_props": {
+					"filters": [
+					  {
+						"Shift": 0,
+						"Filter": [
+						    "61817865d3a39d50044c13a4",
+							"5bb20e49d4351e3bac1212de",
+							"5ba26b17d4351e00367f9bdd",
+							"5dfa3d7ac41b2312ea33362a",
+							"5c1780312e221602b66cc189",
+							"5fb6564947ce63734e3fa1da",
+							"5bc09a18d4351e003562b68e",
+							"5c18b9192e2216398b5a8104",
+							"5fc0fa957283c4046c58147e",
+							"5894a81786f77427140b8347",
+							"55d5f46a4bdc2d1b198b4567",
+							"5ae30bad5acfc400185c2dc4"
+						]
+					  }
+					]
+				  },
+				  "_required": false,
+				  "_mergeSlotWithChildren": false,
+				  "_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+				  "_name": "mod_tactical_000",
+				  "_id": "682b28e1fdd5cab75f61b709",
+				  "_parent": "682b2a1b3326cca5a1ced18d",
+				  "_props": {
+					"filters": [
+					  {
+						"Shift": 0,
+						"Filter": [
+						    "57fd23e32459772d0805bcf1",
+							"544909bb4bdc2d6f028b4577",
+							"5d10b49bd7ad1a1a560708b0",
+							"5c06595c0db834001a66af6c",
+							"5a7b483fe899ef0016170d15",
+							"61605d88ffa6e502ac5e7eeb",
+							"5c5952732e2216398b5abda2",
+							"644a3df63b0b6f03e101e065"
+						]
+					  }
+					]
+				  },
+				  "_required": false,
+				  "_mergeSlotWithChildren": false,
+				  "_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+				  "_name": "mod_mount_000",
+				  "_id": "682b28e1fdd5cab75f61b709",
+				  "_parent": "682b2a1b3326cca5a1ced18d",
+				  "_props": {
+					"filters": [
+					  {
+						"Shift": 0,
+						"Filter": [
+						    "61816df1d3a39d50044c139e",
+							"619666f4af1f5202c57a952d",
+							"66ffc72082d36dec82030c1f",
+							"66ffc903fe9b382596065304",
+							"66ffc6ceb7ff397142017c3a",
+							"66ffe811f5d758d71101e89a",
+							"66ffea06132225f0fe061394"
+						]
+					  }
+					]
+				  },
+				  "_required": true,
+				  "_mergeSlotWithChildren": false,
+				  "_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+				  "_name": "mod_mount_001",
+				  "_id": "682b28e1fdd5cab75f61b709",
+				  "_parent": "682b2a1b3326cca5a1ced18d",
+				  "_props": {
+					"filters": [
+					  {
+						"Shift": 0,
+						"Filter": [
+						    "61816dfa6ef05c2ce828f1ad",
+							"66ffe66a20771d839f0fb4a9",
+							"66ffe6916f11538c7d0581e1",
+							"66ffe6c36f11538c7d0581e3",
+							"66ffe7bab8da88805e07a03e"
+						]
+					  }
+					]
+				  },
+				  "_required": false,
+				  "_mergeSlotWithChildren": false,
+				  "_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+				  "_name": "mod_mount_002",
+				  "_id": "682b28e1fdd5cab75f61b709",
+				  "_parent": "682b2a1b3326cca5a1ced18d",
+				  "_props": {
+					"filters": [
+					  {
+						"Shift": 0,
+						"Filter": [
+						    "5649a2464bdc2d91118b45a8"
+						]
+					  }
+					]
+				  },
+				  "_required": false,
+				  "_mergeSlotWithChildren": false,
+				  "_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			  ]
+		},
+		"locales": {
+			"en": {
+				"name": "FN SCAR-L MK.2 .300 Blackout upper receiver",
+				"shortName": "MK.2",
+				"description": "An upper receiver for the SCAR-L assault rifle, manufactured by Fabrique Nationale Herstal. Features a top rail for installation of additional equipment."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_scope",
+			"mod_barrel",
+			"mod_sight_rear",
+			"mod_mount_000",
+			"mod_mount_001",
+			"mod_mount_002",
+			"mod_tactical_000"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 87341,
+		"handbookPriceRoubles": 7200,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 66,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": false,
+		"masterySections": [],
+		"addweaponpreset": false,
+		"weaponpresets": []
+	}
+}
