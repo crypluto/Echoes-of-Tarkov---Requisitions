@@ -87,6 +87,56 @@ export class epicItemClass {
                 fileData._props.Slots[1]._props.filters[0].Filter.push("68343b29f48104d3a6265db3",
                     "68343c10334d72dc0066a8f3");
             } //Pushing Smoke Stack Suppressor to .300BLK
+            if (fileData._id === "5fbbfacda56d053a3543f799") {
+                fileData._props.Slots[1]._props.filters[0].Filter.push("68395bb9f92a92ea0555e4a1",
+                    "6838e20d9d86f2aa3a05fc37",
+                    "56ea6fafd2720b844b8b4593");
+            } //Pushing Noveske KX3 to .300BLK (5/8"x24)
+            if (fileData._id === "5fbbfabed5cb881a7363194e") {
+                fileData._props.Slots[1]._props.filters[0].Filter.push("68395bb9f92a92ea0555e4a1",
+                    "6838e20d9d86f2aa3a05fc37",
+                    "56ea6fafd2720b844b8b4593");
+            } //Pushing Noveske KX3 to .300BLK (5/8"x24)
+            if (fileData._id === "652910565ae2ae97b80fdf35") {
+                fileData._props.Slots[1]._props.filters[0].Filter.push("68395bb9f92a92ea0555e4a1",
+                    "6838e20d9d86f2aa3a05fc37",
+                    "56ea6fafd2720b844b8b4593");
+            } //Pushing Noveske KX3 to 6.8 (5/8"x24)
+            if (fileData._id === "5dcbe9431e1f4616d354987e") {
+                fileData._props.Slots[1]._props.filters[0].Filter.push("68395bb9f92a92ea0555e4a1",
+                    "6838e20d9d86f2aa3a05fc37",
+                    "56ea6fafd2720b844b8b4593");
+            } //Pushing Noveske KX3 to 308 MDR (5/8"x24)
+            if (fileData._id === "5f2aa46b878ef416f538b567") {
+                fileData._props.Slots[1]._props.filters[0].Filter.push("68395bb9f92a92ea0555e4a1",
+                    "6838e20d9d86f2aa3a05fc37",
+                    "56ea6fafd2720b844b8b4593");
+            } //Pushing Noveske KX3 to RFB (5/8"x24)
+            if (fileData._id === "6183b084a112697a4b3a6e6c") {
+                fileData._props.Slots[1]._props.filters[0].Filter.push("68395bb9f92a92ea0555e4a1",
+                    "6838e20d9d86f2aa3a05fc37",
+                    "56ea6fafd2720b844b8b4593");
+            } //Pushing Noveske KX3 to SCAR-H (5/8"x24)
+            if (fileData._id === "618168b350224f204c1da4d8") {
+                fileData._props.Slots[1]._props.filters[0].Filter.push("68395bb9f92a92ea0555e4a1",
+                    "6838e20d9d86f2aa3a05fc37",
+                    "56ea6fafd2720b844b8b4593");
+            } //Pushing Noveske KX3 to SCAR-H (5/8"x24)
+            if (fileData._id === "6183b0711cb55961fa0fdcad") {
+                fileData._props.Slots[1]._props.filters[0].Filter.push("68395bb9f92a92ea0555e4a1",
+                    "6838e20d9d86f2aa3a05fc37",
+                    "56ea6fafd2720b844b8b4593");
+            } //Pushing Noveske KX3 to SCAR-H (5/8"x24)
+            if (fileData._id === "5bfebc320db8340019668d79") {
+                fileData._props.Slots[1]._props.filters[0].Filter.push("68395bb9f92a92ea0555e4a1",
+                    "6838e20d9d86f2aa3a05fc37",
+                    "56ea6fafd2720b844b8b4593");
+            } //Pushing Noveske KX3 to M700 (5/8"x24)
+            if (fileData._id === "5d2703038abbc3105103d94c") {
+                fileData._props.Slots[1]._props.filters[0].Filter.push("68395bb9f92a92ea0555e4a1",
+                    "6838e20d9d86f2aa3a05fc37",
+                    "56ea6fafd2720b844b8b4593");
+            } //Pushing Noveske KX3 to M700 (5/8"x24)
         }
     }
 }
