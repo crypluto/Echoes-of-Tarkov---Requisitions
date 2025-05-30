@@ -425,7 +425,10 @@
 			},
 			"ConflictingItems": [
 				"6357c98711fb55120211f7e1",
-				"5c079ed60db834001a66b372"
+				"5c079ed60db834001a66b372",
+				"68376430e87603a6a5237129",
+				"6835a63bdbc98d9bc34e025b",
+				"6835ec3c422a8b7b258768af"
 			],
 			"Ergonomics": 7,
 			"Weight": 0.43,
@@ -4649,7 +4652,7 @@
 				"_tpl": "ROUBLES"
 			}
 		],
-        "loyallevelitems": 3,
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 60132,
 		"handbookPriceRoubles": 43500,
 		"addtoStaticLootContainers": true,
@@ -4719,7 +4722,7 @@
 				"_tpl": "ROUBLES"
 			}
 		],
-        "loyallevelitems": 3,
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 60132,
 		"handbookPriceRoubles": 43500,
 		"addtoStaticLootContainers": true,
@@ -4789,7 +4792,7 @@
 				"_tpl": "ROUBLES"
 			}
 		],
-        "loyallevelitems": 3,
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 60132,
 		"handbookPriceRoubles": 43500,
 		"addtoStaticLootContainers": true,
@@ -4932,7 +4935,7 @@
 				"_tpl": "DOLLARS"
 			}
 		],
-        "loyallevelitems": 1,
+		"loyallevelitems": 1,
 		"fleaPriceRoubles": 36863,
 		"handbookPriceRoubles": 1700,
 		"addtoStaticLootContainers": true,
@@ -4954,8 +4957,8 @@
 				"Probability": 1
 			}
 		]
-		},
-		"68376430e87603a6a5237129": {
+	},
+	"68376430e87603a6a5237129": {
 		"itemTplToClone": "5ae30db85acfc408fb139a05",
 		"parentId": "55818a104bdc2db9688b4569",
 		"handbookParentId": "5b5f75e486f77447ec5d7712",
@@ -5036,76 +5039,7 @@
 				"path": "Attachments/qxl.bundle",
 				"rcid": ""
 			},
-			"Weight": 0.100,
-			"Ergonomics": -3,
-			"Recoil": -5 
-		},
-		"locales": {
-			"en": {
-				"name": "Super QXL Dive Light modified for use on clamshell style handguards",
-				"shortName": "SUPER QXL",
-				"description": "Super rare Dive light modified to fit on clamshell handguards, via stretching a bicycle inner tuber over and affixing hoseclamps for mounting (Note delta did this back in the 90's) Outputs 70-80 lumens"
-			}
-		},
-		"clearClonedProps": false,
-		"addtoInventorySlots": [],
-		"addtoModSlots": true,
-		"modSlot": [
-			"mod_tactical"
-		],
-		"ModdableItemWhitelist": [],
-		"ModdableItemBlacklist": [],
-		"addtoTraders": true,
-		"traderId": "MECHANIC",
-		"traderItems": [
-			{
-				"unlimitedCount": false,
-				"stackObjectsCount": 10
-			}
-		],
-		"barterScheme": [
-			{
-				"count": 5000,
-				"_tpl": "ROUBLES"
-			}
-		],
-		"loyallevelitems": 2,
-		"fleaPriceRoubles": 27748,
-		"handbookPriceRoubles": 19573,
-		"addtoStaticLootContainers": true,
-		"StaticLootContainers": [
-			{
-				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-				"Probability": 7
-			},
-			{
-				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-				"Probability": 6
-			},
-			{
-				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-				"Probability": 5
-			},
-			{
-				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
-				"Probability": 1
-			}
-		]
-	},
-		"68398cd864a9d113ebab1b77": {
-		"itemTplToClone": "5b07dd285acfc4001754240d",
-		"parentId": "55818b164bdc2ddc698b456c",
-		"handbookParentId": "5b5f737886f774093e6cb4fb",
-		"overrideProperties": {
-			"ExaminedByDefault": true,
-			"Prefab": {
-				"path": "Attachments/qxlcam.bundle",
-				"rcid": ""
-			},
-			"Weight": 0.100,
-			"Ergonomics": -3,
-			"Recoil": -5 ,
-			"ConflictingItems":[
+			"ConflictingItems": [
 				"5de8f237bbaf010b10528a70",
 				"5a7ad74e51dfba0015068f45",
 				"62ebd290c427473eff0baafb",
@@ -5177,18 +5111,22 @@
 				"669fa409933e898cce0c2166",
 				"633ec7c2a6918cb895019c6c",
 				"56d59856d2720bd8418b456a"
-			]
+			],
+			"Weight": 0.100,
+			"Ergonomics": -3,
+			"Width": 2,
+			"Height": 1
 		},
 		"locales": {
 			"en": {
-				"name": "Super QXL Dive Light modified for use on clamshell style handguards (camo wrap)",
+				"name": "Super QXL Diving flashlight",
 				"shortName": "SUPER QXL",
 				"description": "Super rare Dive light modified to fit on clamshell handguards, via stretching a bicycle inner tuber over and affixing hoseclamps for mounting (Note delta did this back in the 90's) Outputs 70-80 lumens"
 			}
 		},
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
-		"addtoModSlots": true,
+		"addtoModSlots": false,
 		"modSlot": [
 			"mod_tactical"
 		],
@@ -5198,19 +5136,159 @@
 		"traderId": "MECHANIC",
 		"traderItems": [
 			{
-				"unlimitedCount": false,
-				"stackObjectsCount": 10
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 5000,
+				"count": 8531,
 				"_tpl": "ROUBLES"
 			}
 		],
 		"loyallevelitems": 2,
-		"fleaPriceRoubles": 27748,
-		"handbookPriceRoubles": 19573,
+		"fleaPriceRoubles": 18587,
+		"handbookPriceRoubles": 8531,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68398cd864a9d113ebab1b77": {
+		"itemTplToClone": "5b07dd285acfc4001754240d",
+		"parentId": "55818b164bdc2ddc698b456c",
+		"handbookParentId": "5b5f737886f774093e6cb4fb",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/qxlcam.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"5de8f237bbaf010b10528a70",
+				"5a7ad74e51dfba0015068f45",
+				"62ebd290c427473eff0baafb",
+				"57ffaea724597779f52b3a4d",
+				"5b30bc285acfc47a8608615d",
+				"5b30bc165acfc40016387293",
+				"591ee00d86f774592f7b841e",
+				"623c2f652febb22c2777d8d7",
+				"623c2f4242aee3103f1c44b7",
+				"67111094d1758189fc0bd223",
+				"6086b5392535c57a13424d70",
+				"5cc7012ae4a949001252b43e",
+				"67069d3bb29a2cd338033390",
+				"5fc5396e900b1d5091531e72",
+				"619624b26db0f2477964e6b0",
+				"55818b224bdc2dde698b456f",
+				"65434a4e4e3a01736a6c9706",
+				"5b800ed086f7747baf6e2f9e",
+				"5b84038986f774774913b0c1",
+				"5fce0f9b55375d18a253eff2",
+				"5ef369b08cef260c0642acaf",
+				"607ea812232e5a31c233d53c",
+				"576a7c512459771e796e0e17",
+				"5de8fc0b205ddc616a6bc51b",
+				"58a56f8d86f774651579314c",
+				"5b7be47f5acfc400170e2dd2",
+				"6269220d70b6c02e665f2635",
+				"6269545d0e57f218e4548ca2",
+				"5df35eb2b11454561e3923e2",
+				"5b3a08b25acfc4001754880c",
+				"57ee59b42459771c7b045da5",
+				"6388c4478d895f557a0c6512",
+				"5c0102aa0db834001b734ba1",
+				"62ed189fb3608410ef5a2bfc",
+				"62ed1921b3608410ef5a2c04",
+				"673dd5f73f92dc7e120d20a9",
+				"673dd617912f68467c0615b6",
+				"5a9d6d00a2750c5c985b5305",
+				"5a9d6d21a2750c00137fa649",
+				"5b4736a986f774040571e998",
+				"5a7b4900e899ef197b331a2a",
+				"66992f7d9950f5f4cd0602a8",
+				"57a3459f245977764a01f703",
+				"5a9fc7e6a2750c0032157184",
+				"5b7be4575acfc400161d0832",
+				"5b7be4645acfc400170e2dcc",
+				"59e0bdb186f774156f04ce82",
+				"59e0be5d86f7742d48765bd2",
+				"5addbf175acfc408fb13965b",
+				"5bfeb32b0db834001a6694d9",
+				"65ae4f57e343f0acc00824da",
+				"5c617a5f2e2216000f1e81b3",
+				"6568a6bf2c5fb7afc70bc424",
+				"67405ef125beb509e8070276",
+				"6698c8f4710a4525fe0e9e57",
+				"62ebba1fb658e07ef9082b5a",
+				"62e7c8f91cd3fde4d503d690",
+				"61a4c8884f95bc3b2c5dc96f",
+				"5d3eb3b0a4b93615055e84d2",
+				"5d67abc1a4b93614ec50137f",
+				"63088377b5cd696784087147",
+				"5a7ae0c351dfba0017554310",
+				"5b1fa9b25acfc40018633c01",
+				"602a9740da11d6478d5a06dc",
+				"669fa39b48fc9f8db6035a0c",
+				"669fa3d876116c89840b1217",
+				"669fa3f88abd2662d80eee77",
+				"668fe5a998b5ad715703ddd6",
+				"669fa409933e898cce0c2166",
+				"633ec7c2a6918cb895019c6c",
+				"56d59856d2720bd8418b456a"
+			],
+			"Weight": 0.100,
+			"Ergonomics": -3,
+			"Width": 2,
+			"Height": 1
+		},
+		"locales": {
+			"en": {
+				"name": "Super QXL Diving flashlight (Woodland Wrap)",
+				"shortName": "SUPER QXL",
+				"description": "Super rare Dive light modified to fit on clamshell handguards, via stretching a bicycle inner tuber over and affixing hoseclamps for mounting (Note delta did this back in the 90's) Outputs 70-80 lumens"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_tactical"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 8531,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 18587,
+		"handbookPriceRoubles": 8531,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
@@ -5331,7 +5409,7 @@
 				"_tpl": "DOLLARS"
 			}
 		],
-        "loyallevelitems": 2,
+		"loyallevelitems": 2,
 		"fleaPriceRoubles": 36863,
 		"handbookPriceRoubles": 1700,
 		"addtoStaticLootContainers": true,
@@ -5393,7 +5471,7 @@
 				"_tpl": "ROUBLES"
 			}
 		],
-        "loyallevelitems": 3,
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 11598,
 		"handbookPriceRoubles": 7237,
 		"addtoStaticLootContainers": true,
@@ -5455,7 +5533,7 @@
 				"_tpl": "ROUBLES"
 			}
 		],
-        "loyallevelitems": 3,
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 11598,
 		"handbookPriceRoubles": 7237,
 		"addtoStaticLootContainers": true,
@@ -5524,7 +5602,7 @@
 				"_tpl": "ROUBLES"
 			}
 		],
-        "loyallevelitems": 3,
+		"loyallevelitems": 3,
 		"fleaPriceRoubles": 91954,
 		"handbookPriceRoubles": 16118,
 		"addtoStaticLootContainers": true,

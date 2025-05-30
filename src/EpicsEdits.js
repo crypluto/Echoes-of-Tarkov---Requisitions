@@ -16,50 +16,62 @@ class epicItemClass {
         for (let file in dbItems) {
             let fileData = dbItems[file];
             if (fileData._id === "5d25a6538abbc306c62e630d") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to M700 Mags
             if (fileData._id === "5d25a4a98abbc30b917421a4") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to M700 Mags
             if (fileData._id === "5d25a7b88abbc3054f3e60bc") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to M700 Mags
             if (fileData._id === "5ce69cbad7f00c00b61c5098") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to M700 Mags
             if (fileData._id === "5d25a6a48abbc306c62e6310") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to M700 Mags
             if (fileData._id === "5d25af8f8abbc3055079fec5") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to M700 Mags
             if (fileData._id === "5cf12a15d7f00c05464b293f") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to M700 Mags
             if (fileData._id === "5bfeaa0f0db834001b734927") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to M700 Mags
             if (fileData._id === "5bfea7ad0db834001c38f1ee") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to M700 Mags
             if (fileData._id === "5df8f535bb49d91fb446d6b0") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to SR-25 Mags
             if (fileData._id === "5df8f541c41b2312ea3335e3") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to SR-25 Mags
             if (fileData._id === "5a3501acc4a282000d72293a") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to SR-25 Mags
             if (fileData._id === "65293c38fc460e50a509cb25") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to SR-25 Mags
             if (fileData._id === "65293c7a17e14363030ad308") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to SR-25 Mags
             if (fileData._id === "6761770e48fa5c377e06fc3c") {
-                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb");
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
             } //Pushing 6.5x48mm to SR-25 Mags
+            if (fileData._id === "683997f125039545c12878e9") {
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
+            } //Pushing 6.5x48mm to L7AWM Retextured Mags
+            if (fileData._id === "683998905b1e1abba12906fa") {
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
+            } //Pushing 6.5x48mm to L7AWM Retextured Mags
+            if (fileData._id === "683998a2a3d4391d033bfd14") {
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
+            } //Pushing 6.5x48mm to L7AWM Retextured Mags
+            if (fileData._id === "683998dc60787632112a564b") {
+                fileData._props.Cartridges[0]._props.filters[0].Filter.push("683246a74073e586d112af9f", "68325a63730b17c69ee176eb", "6833baea86387d71b68abd6f", "6833bae4baa31474639bea7d", "6833ba38a1c9ff155c04e56f", "6833b8cb54aa764b2deefdfe", "6834e6f28f5570aec23ca0c2");
+            } //Pushing 6.5x48mm to L7AWM Retextured Mags
             if (fileData._id === "5fbbfacda56d053a3543f799") {
                 fileData._props.Slots[0]._props.filters[0].Filter.push("68343b29f48104d3a6265db3", "68343c10334d72dc0066a8f3");
             } //Pushing Smoke Stack Suppressor to .300BLK
