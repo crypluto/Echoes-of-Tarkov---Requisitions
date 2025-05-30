@@ -359,10 +359,386 @@
 				"count": 24732,
 				"_tpl": "ROUBLES"
 			}
-        ],
-        "loyallevelitems": 4,
+		],
+		"loyallevelitems": 4,
 		"fleaPriceRoubles": 57310,
 		"handbookPriceRoubles": 19572,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683997f125039545c12878e9": {
+		"itemTplToClone": "65293c38fc460e50a509cb25",
+		"parentId": "MAGAZINE",
+		"handbookParentId": "MOD_MAGAZINE",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Mags/mag_ar10_lancer_l7awm_black.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"ExaminedByDefault": true,
+			"InsuranceDisabled": false,
+			"CanSellOnRagfair": true,
+			"VisibleAmmoRangesString": "1-3",
+			"Cartridges": [
+				{
+					"_name": "cartridges",
+					"_id": "683998f0fa1f0ef1a1e59920",
+					"_parent": "683997f125039545c12878e9",
+					"_max_count": 20,
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a6086ea4f39f99cd479502f",
+									"5a608bf24f39f98ffc77720e",
+									"58dd3ad986f77403051cba8f",
+									"5e023e53d4353e3302577c4c",
+									"5efb0c1bd79ff02a1f5e68d9",
+									"5e023e6e34d52a55c3304f71",
+									"5e023e88277cce2b522ff2b1",
+									"6529243824cbe3c74a05e5c1",
+									"6529302b8c26af6326029fb7",
+									"6768c25aa7b238f14a08d3f6"
+								]
+							}
+						]
+					},
+					"_proto": "5748538b2459770af276a261"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "AR-10 7.62x51 Lancer L7AWM 20-round magazine (Black)",
+				"shortName": "L7AWM",
+				"description": "A 20-round double-stack L7AWM 20 magazine for 7.62x51 NATO ammunition. Manufactured by Lancer Systems."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 34,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"fleaPriceRoubles": 12169,
+		"handbookPriceRoubles": 3716,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683998905b1e1abba12906fa": {
+		"itemTplToClone": "65293c38fc460e50a509cb25",
+		"parentId": "MAGAZINE",
+		"handbookParentId": "MOD_MAGAZINE",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Mags/mag_ar10_lancer_l7awm_od.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"ExaminedByDefault": true,
+			"InsuranceDisabled": false,
+			"CanSellOnRagfair": true,
+			"VisibleAmmoRangesString": "1-3",
+			"Cartridges": [
+				{
+					"_name": "cartridges",
+					"_id": "683998ebd1f045efc13696ba",
+					"_parent": "683998905b1e1abba12906fa",
+					"_max_count": 20,
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a6086ea4f39f99cd479502f",
+									"5a608bf24f39f98ffc77720e",
+									"58dd3ad986f77403051cba8f",
+									"5e023e53d4353e3302577c4c",
+									"5efb0c1bd79ff02a1f5e68d9",
+									"5e023e6e34d52a55c3304f71",
+									"5e023e88277cce2b522ff2b1",
+									"6529243824cbe3c74a05e5c1",
+									"6529302b8c26af6326029fb7",
+									"6768c25aa7b238f14a08d3f6"
+								]
+							}
+						]
+					},
+					"_proto": "5748538b2459770af276a261"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "AR-10 7.62x51 Lancer L7AWM 20-round magazine (OD)",
+				"shortName": "L7AWM",
+				"description": "A 20-round double-stack L7AWM 20 magazine for 7.62x51 NATO ammunition. Manufactured by Lancer Systems."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 34,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"fleaPriceRoubles": 12169,
+		"handbookPriceRoubles": 3716,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683998a2a3d4391d033bfd14": {
+		"itemTplToClone": "65293c38fc460e50a509cb25",
+		"parentId": "MAGAZINE",
+		"handbookParentId": "MOD_MAGAZINE",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Mags/mag_ar10_lancer_l7awm25_blk.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"ExaminedByDefault": true,
+			"InsuranceDisabled": false,
+			"CanSellOnRagfair": true,
+			"VisibleAmmoRangesString": "1-3",
+			"Cartridges": [
+				{
+					"_name": "cartridges",
+					"_id": "683998e770e3e8ecfd4d2cd0",
+					"_parent": "683998a2a3d4391d033bfd14",
+					"_max_count": 25,
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a6086ea4f39f99cd479502f",
+									"5a608bf24f39f98ffc77720e",
+									"58dd3ad986f77403051cba8f",
+									"5e023e53d4353e3302577c4c",
+									"5efb0c1bd79ff02a1f5e68d9",
+									"5e023e6e34d52a55c3304f71",
+									"5e023e88277cce2b522ff2b1",
+									"6529243824cbe3c74a05e5c1",
+									"6529302b8c26af6326029fb7",
+									"6768c25aa7b238f14a08d3f6"
+								]
+							}
+						]
+					},
+					"_proto": "5748538b2459770af276a261"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "AR-10 7.62x51 Lancer L7AWM 25-round magazine",
+				"shortName": "L7AWM",
+				"description": "A 25-round double-stack L7AWM 25 magazine for 7.62x51 NATO ammunition. Manufactured by Lancer Systems."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 45,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"fleaPriceRoubles": 77739,
+		"handbookPriceRoubles": 3716,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683998dc60787632112a564b": {
+		"itemTplToClone": "65293c38fc460e50a509cb25",
+		"parentId": "MAGAZINE",
+		"handbookParentId": "MOD_MAGAZINE",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Mags/mag_ar10_lancer_l7awm25_od.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"ExaminedByDefault": true,
+			"InsuranceDisabled": false,
+			"CanSellOnRagfair": true,
+			"VisibleAmmoRangesString": "1-3",
+			"Cartridges": [
+				{
+					"_name": "cartridges",
+					"_id": "683998df1884a439852dbc7d",
+					"_parent": "683998dc60787632112a564b",
+					"_max_count": 25,
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5a6086ea4f39f99cd479502f",
+									"5a608bf24f39f98ffc77720e",
+									"58dd3ad986f77403051cba8f",
+									"5e023e53d4353e3302577c4c",
+									"5efb0c1bd79ff02a1f5e68d9",
+									"5e023e6e34d52a55c3304f71",
+									"5e023e88277cce2b522ff2b1",
+									"6529243824cbe3c74a05e5c1",
+									"6529302b8c26af6326029fb7",
+									"6768c25aa7b238f14a08d3f6"
+								]
+							}
+						]
+					},
+					"_proto": "5748538b2459770af276a261"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "AR-10 7.62x51 Lancer L7AWM 25-round magazine",
+				"shortName": "L7AWM",
+				"description": "A 25-round double-stack L7AWM 25 magazine for 7.62x51 NATO ammunition. Manufactured by Lancer Systems."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 45,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"fleaPriceRoubles": 77739,
+		"handbookPriceRoubles": 3716,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
