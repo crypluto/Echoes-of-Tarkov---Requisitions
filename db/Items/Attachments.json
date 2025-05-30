@@ -5337,5 +5337,74 @@
 				"Probability": 1
 			}
 		]
+	},
+	"68396f06a46bcb7eff21b8b9": {
+		"itemTplToClone": "5fbbfacda56d053a3543f799",
+		"parentId": "BARREL",
+		"handbookParentId": "MOD_BARREL",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Barrels/barrel_mcx_406mm_762x35.bundle",
+				"rcid": ""
+			},
+			"Width": 3,
+			"Velocity": -2.73,
+			"HeatFactor": 0.98,
+			"CoolFactor": 1.01,
+			"Ergonomics": -8,
+			"Weight": 0.853,
+			"CenterOfImpact": 0.065
+		},
+		"locales": {
+			"en": {
+				"name": "MCX .300 BLK 16 inch barrel",
+				"shortName": "MCX 16\"",
+				"description": "A 16 inch (406mm) barrel for MCX-based weapons, chambered in .300 BLK."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_barrel"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 41531,
+				"_tpl": "ROUBLES"
+			}
+		],
+        "loyallevelitems": 3,
+		"fleaPriceRoubles": 91954,
+		"handbookPriceRoubles": 16118,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
