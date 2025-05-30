@@ -1605,13 +1605,12 @@
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
-    },
-                {
-            "key": "Attachments/qxlcam.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+    {
+      "key": "Attachments/qxlcam.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     }
   ]
