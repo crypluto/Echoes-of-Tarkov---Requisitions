@@ -1,8 +1,8 @@
 {
 	"6831efcaf17211a895bbccc4": {
 		"itemTplToClone": "5df8ce05b11454561e39243b",
-		"parentId": "ASSAULT_RIFLE",
-		"handbookParentId": "WEAPONS_ASSAULTRIFLES",
+		"parentId": "5447b6194bdc2d67278b4567",
+		"handbookParentId": "WEAPONS_DMR",
 		"overrideProperties": {
 			"ExaminedByDefault": true,
 			"Prefab": {
@@ -12,7 +12,7 @@
 			"ConflictingItems": [],
 			"defAmmo": "5e023e53d4353e3302577c4c",
 			"defMagType": "5a3501acc4a282000d72293a",
-			"SingleFireRate": 650,
+			"SingleFireRate": 550,
 			"RecoilCamera": 0.06,
 			"Weight": 0.54,
 			"Chambers": [
@@ -40,7 +40,7 @@
 					"_required": false
 				}
 			],
-			"ammoCaliber": "Caliber6.5x48mm"
+			"ammoCaliber": "Caliber6.5x48"
 		},
 		"locales": {
 			"en": {

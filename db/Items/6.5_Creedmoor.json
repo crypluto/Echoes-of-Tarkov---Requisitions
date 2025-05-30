@@ -22,7 +22,7 @@
 			"Weight": 0.024,
 			"casingMass": 52.5,
 			"ExaminedByDefault": true,
-			"Caliber": "Caliber6.5x48mm",
+			"Caliber": "Caliber6.5x48",
 			"DiscardingBlock": false,
 			"DiscardLimit": 0,
 			"CanSellOnRagfair": true
@@ -87,7 +87,7 @@
 			"Weight": 0.024,
 			"casingMass": 52,
 			"ExaminedByDefault": true,
-			"Caliber": "Caliber6.5x48mm",
+			"Caliber": "Caliber6.5x48",
 			"DiscardingBlock": false,
 			"DiscardLimit": 0,
 			"CanSellOnRagfair": true
@@ -153,7 +153,7 @@
 			"Weight": 0.024,
 			"casingMass": 52,
 			"ExaminedByDefault": true,
-			"Caliber": "Caliber6.5x48mm",
+			"Caliber": "Caliber6.5x48",
 			"DiscardingBlock": false,
 			"DiscardLimit": 0,
 			"CanSellOnRagfair": true
@@ -219,7 +219,7 @@
 			"Weight": 0.024,
 			"casingMass": 52,
 			"ExaminedByDefault": true,
-			"Caliber": "Caliber6.5x48mm",
+			"Caliber": "Caliber6.5x48",
 			"DiscardingBlock": false,
 			"DiscardLimit": 0,
 			"CanSellOnRagfair": true
@@ -284,7 +284,7 @@
 			"StackMaxSize": 2500,
 			"casingMass": 52,
 			"ExaminedByDefault": true,
-			"Caliber": "Caliber6.5x48mm",
+			"Caliber": "Caliber6.5x48",
 			"DiscardingBlock": false,
 			"DiscardLimit": 0,
 			"CanSellOnRagfair": true
@@ -348,7 +348,7 @@
 			"StackMaxSize": 2500,
 			"casingMass": 52,
 			"ExaminedByDefault": true,
-			"Caliber": "Caliber6.5x48mm",
+			"Caliber": "Caliber6.5x48",
 			"DiscardingBlock": false,
 			"DiscardLimit": 0,
 			"CanSellOnRagfair": true
@@ -412,7 +412,7 @@
 			"StackMaxSize": 2500,
 			"casingMass": 52,
 			"ExaminedByDefault": true,
-			"Caliber": "Caliber6.5x48mm",
+			"Caliber": "Caliber6.5x48",
 			"DiscardingBlock": false,
 			"DiscardLimit": 0,
 			"CanSellOnRagfair": true
