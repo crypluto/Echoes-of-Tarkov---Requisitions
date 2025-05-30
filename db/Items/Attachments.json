@@ -4533,6 +4533,9 @@
 				"path": "Attachments/gasblock3.bundle",
 				"rcid": ""
 			},
+			"ConflictingItems": [
+				"6357c98711fb55120211f7e1"
+			],
 			"Weight": 0.3,
 			"Ergonomics": -1.5,
 			"Slots": [
@@ -4959,23 +4962,27 @@
 		]
 	},
 	"68376430e87603a6a5237129": {
-		"itemTplToClone": "5ae30db85acfc408fb139a05",
+		"itemTplToClone": "637f57a68d137b27f70c4968",
 		"parentId": "55818a104bdc2db9688b4569",
 		"handbookParentId": "5b5f75e486f77447ec5d7712",
 		"overrideProperties": {
 			"ExaminedByDefault": true,
 			"Prefab": {
-				"path": "Attachments/clamshellqxl.bundle",
+				"path": "Attachments/Handguards/handguard_fsb_clam_lower.bundle",
 				"rcid": ""
 			},
+			"ConflictingItems": [
+				"6836e6fef34cc1ae734b444c",
+				"6357c98711fb55120211f7e1"
+			],
 			"Weight": 0.090,
 			"Ergonomics": 4,
 			"Slots": [
 				{
-					"_id": "6835c3ad38a064dab37fc675",
+					"_id": "6839dc0ee79bd02bfe3361a7",
 					"_mergeSlotWithChildren": false,
 					"_name": "mod_tactical_001",
-					"_parent": "6835a63bdbc98d9bc34e025b",
+					"_parent": "68376430e87603a6a5237129",
 					"_props": {
 						"filters": [
 							{
@@ -4994,9 +5001,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "COLT M4A1 gas block with Promag bayonet lug rail",
-				"shortName": "FSB Lug Rail",
-				"description": "with a much lower cost than quad rail. The forward mount does not affect the standard hand guard when not using the bi-pod. very stable platform with the set screw take up hardware."
+				"name": "AR-15 Colt M4 Carbine Length FSB lower handguard",
+				"shortName": "FSB",
+				"description": "A carbine length lower handguard part manufactured by Colt, a standard-issue handguard for the M4A1 assault rifles. Modified to accept a vintage Super QXL Diving flashlight."
 			}
 		},
 		"clearClonedProps": false,
@@ -5007,8 +5014,23 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"fleaPriceRoubles": 9000,
-		"handbookPriceRoubles": 9000,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 10,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"fleaPriceRoubles": 1024,
+		"handbookPriceRoubles": 1024,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
@@ -5120,7 +5142,7 @@
 		"locales": {
 			"en": {
 				"name": "Super QXL Diving flashlight",
-				"shortName": "SUPER QXL",
+				"shortName": "QXL",
 				"description": "Super rare Dive light modified to fit on clamshell handguards, via stretching a bicycle inner tuber over and affixing hoseclamps for mounting (Note delta did this back in the 90's) Outputs 70-80 lumens"
 			}
 		},
@@ -5260,7 +5282,7 @@
 		"locales": {
 			"en": {
 				"name": "Super QXL Diving flashlight (Woodland Wrap)",
-				"shortName": "SUPER QXL",
+				"shortName": "QXL",
 				"description": "Super rare Dive light modified to fit on clamshell handguards, via stretching a bicycle inner tuber over and affixing hoseclamps for mounting (Note delta did this back in the 90's) Outputs 70-80 lumens"
 			}
 		},
