@@ -549,7 +549,7 @@
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
-        {
+    {
       "key": "Attachments/lasergasblock.bundle",
       "dependencyKeys": [
         "shaders",
@@ -558,995 +558,1011 @@
       ]
     },
     {
-            "key": "Attachments/Stocks/stock_sv98_digital_flora.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_sv98_flora_winter.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_sv98_kmlk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_sv98_tiger.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_sv98_mandrake.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Grips/pistolgrip_m1911_acajou.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Grips/pistolgrip_m1911_gold.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Grips/pistolgrip_m1911_hex.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Grips/pistolgrip_m1911_ivory.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Grips/pistolgrip_m1911_rubber.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Suppressors/silencer_blackhawk_smokestack_1143x23_fde.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Suppressors/silencer_blackhawk_smokestack_1143x23_blk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/mag_ar15_762x39_std.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/mag_stanag_ar15_762x39_fde.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/mag_stanag_ar15_762x39_banan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_kryptek_highlander_stock.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_ahegao_stock.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_dpm_stock.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_black_stock.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_olive_stock.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_badlands_stock.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_erdl_stock.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_hunting_stock.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_typhon_stock.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_m700_hogue_overmolded_cadpat.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/patron_65cm_match.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/patron_65cm_venari_sp.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/patron_65cm_eldx.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/patron_65cm_ap.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/patron_65cm_chp.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/patron_65cm_terminal_ascent.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/15pmagblk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/15pmaggrn.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/15pmagred.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/15pmagtan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/25ak7blk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/25ak7grn.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/25ak7red.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/25ak7tan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/25pmagblk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/25pmaggrn.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/25pmagred.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/25pmagtan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/35ak7blkblk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/35ak7blkgrn.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/35ak7blkred.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/35ak7blktan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/35ak7fdeblk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/35ak7fdegrn.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/35ak7fdered.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/35ak7fdetan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/35pmagblk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/35pmaggrn.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/35pmagred.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/35pmagtan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/45ak5blkblk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/45ak5blkgrn.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/45ak5blkred.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/45ak5blktan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/45ak5fdeblk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/45ak5fdegrn.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/45ak5fdered.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/45ak5fdetan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/45pmagblk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/45pmaggrn.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/45pmagred.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/45pmagtan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/57extendedblk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/57extendedfde.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/63blk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/63grn.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/63red.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/63tan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/9a9130.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/aics10plusblk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/aics10plusgrn.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/aics10plusred.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/aics10plustan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/aics5plusblk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/aics5plusgrn.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/aics5plusred.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/aics5plustan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/aps35.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/aps50.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/arsenal35.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/arsenal40.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/arsenal45.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/ash25.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/CHOPPED60.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/dvl15.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/dvl20.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/extended1911.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/falscar.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/ks23stendo.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/m9a3plus.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/mbx140mmred.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/mbx170mmred.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/mp540.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/orsis10.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/pp1940.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/pp1940red.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/pp9140.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/pp9160.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/saigabuddy.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/sr25270mm.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/sr25348mm.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/sr25drum.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/sr25plusblk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/sr25plusgrn.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/sr25plusred.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/sr25plustan.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/sr3m35.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/sr3m40.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/sr3m45.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Mags/toz10.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/x300.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+      "key": "Attachments/Stocks/stock_sv98_digital_flora.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
-            "key": "Attachments/gasblock3.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+      "key": "Attachments/Stocks/stock_sv98_flora_winter.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
-            "key": "Attachments/Suppressors/silencer_yhm_phantom_blk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+      "key": "Attachments/Stocks/stock_sv98_kmlk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
-            "key": "Attachments/Suppressors/silencer_yhm_phantom_fde.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+      "key": "Attachments/Stocks/stock_sv98_tiger.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
-            "key": "Attachments/Suppressors/silencer_yhm_phantom_wraith.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+      "key": "Attachments/Stocks/stock_sv98_mandrake.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
-            "key": "Attachments/Receivers/receiver_m1911_rmr.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+      "key": "Attachments/Grips/pistolgrip_m1911_acajou.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
-        {
-            "key": "Attachments/clamshellqxl.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+    {
+      "key": "Attachments/Grips/pistolgrip_m1911_gold.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
-            {
-            "key": "Attachments/qxl.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+    {
+      "key": "Attachments/Grips/pistolgrip_m1911_hex.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
-                    {
-            "key": "Attachments/Receivers/reciever_m45a1_acro.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
+    {
+      "key": "Attachments/Grips/pistolgrip_m1911_ivory.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Grips/pistolgrip_m1911_rubber.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Suppressors/silencer_blackhawk_smokestack_1143x23_fde.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Suppressors/silencer_blackhawk_smokestack_1143x23_blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/mag_ar15_762x39_std.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/mag_stanag_ar15_762x39_fde.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/mag_stanag_ar15_762x39_banan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Stocks/stock_m700_hogue_overmolded_kryptek_highlander_stock.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Stocks/stock_m700_hogue_overmolded_ahegao_stock.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Stocks/stock_m700_hogue_overmolded_dpm_stock.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Stocks/stock_m700_hogue_overmolded_black_stock.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Stocks/stock_m700_hogue_overmolded_olive_stock.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Stocks/stock_m700_hogue_overmolded_badlands_stock.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Stocks/stock_m700_hogue_overmolded_erdl_stock.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Stocks/stock_m700_hogue_overmolded_hunting_stock.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Stocks/stock_m700_hogue_overmolded_typhon_stock.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Stocks/stock_m700_hogue_overmolded_cadpat.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Ammo/patron_65cm_match.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Ammo/patron_65cm_venari_sp.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Ammo/patron_65cm_eldx.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Ammo/patron_65cm_ap.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Ammo/patron_65cm_chp.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Ammo/patron_65cm_terminal_ascent.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/15pmagblk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/15pmaggrn.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/15pmagred.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/15pmagtan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/25ak7blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/25ak7grn.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/25ak7red.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/25ak7tan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/25pmagblk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/25pmaggrn.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/25pmagred.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/25pmagtan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/35ak7blkblk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/35ak7blkgrn.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/35ak7blkred.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/35ak7blktan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/35ak7fdeblk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/35ak7fdegrn.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/35ak7fdered.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/35ak7fdetan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/35pmagblk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/35pmaggrn.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/35pmagred.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/35pmagtan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/45ak5blkblk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/45ak5blkgrn.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/45ak5blkred.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/45ak5blktan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/45ak5fdeblk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/45ak5fdegrn.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/45ak5fdered.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/45ak5fdetan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/45pmagblk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/45pmaggrn.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/45pmagred.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/45pmagtan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/57extendedblk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/57extendedfde.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/63blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/63grn.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/63red.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/63tan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/9a9130.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/aics10plusblk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/aics10plusgrn.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/aics10plusred.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/aics10plustan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/aics5plusblk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/aics5plusgrn.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/aics5plusred.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/aics5plustan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/aps35.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/aps50.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/arsenal35.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/arsenal40.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/arsenal45.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/ash25.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/CHOPPED60.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/dvl15.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/dvl20.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/extended1911.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/falscar.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/ks23stendo.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/m9a3plus.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/mbx140mmred.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/mbx170mmred.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/mp540.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/orsis10.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/pp1940.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/pp1940red.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/pp9140.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/pp9160.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/saigabuddy.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/sr25270mm.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/sr25348mm.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/sr25drum.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/sr25plusblk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/sr25plusgrn.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/sr25plusred.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/sr25plustan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/sr3m35.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/sr3m40.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/sr3m45.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Mags/toz10.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/x300.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/gasblock3.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Suppressors/silencer_yhm_phantom_blk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Suppressors/silencer_yhm_phantom_fde.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Suppressors/silencer_yhm_phantom_wraith.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Receivers/receiver_m1911_rmr.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/clamshellqxl.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/qxl.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Receivers/reciever_m45a1_acro.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Muzzles/muzzle_ar15_noveske_kx3_fde.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Muzzles/muzzle_ar15_noveske_kx3_od.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     }
   ]

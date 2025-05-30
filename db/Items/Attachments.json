@@ -5035,14 +5035,15 @@
 				"path": "Attachments/qxl.bundle",
 				"rcid": ""
 			},
-			"Weight": 0.100,
-			"Ergonomics": -1
+			"Weight": 0.64,
+			"Ergonomics": -4,
+			"Width": 2
 		},
 		"locales": {
 			"en": {
-				"name": "SureFire X300 Ultra tactical flashlight",
-				"shortName": "X300U",
-				"description": "The SureFire X300 Ultra weapon-mounted tactical flashlight features a high-performance LED that generates 1000 lumens of stunning white light to produce a tight beam with extended reach and significant surround light for peripheral vision. The X300U is engineered to fit virtually any rail-equipped pistol or rifle. "
+				"name": "QXL divelight (Woodland Wrap)",
+				"shortName": "QXL",
+				"description": "The QXL Divelight is a waterproof underwater diving flashlight designed for use in various water sports like scuba diving and snorkeling; however, it found use among early Delta Force operators in the 70s."
 			}
 		},
 		"clearClonedProps": false,
@@ -5054,22 +5055,22 @@
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
 		"addtoTraders": true,
-		"traderId": "MECHANIC",
+		"traderId": "SKIER",
 		"traderItems": [
 			{
 				"unlimitedCount": false,
-				"stackObjectsCount": 10
+				"stackObjectsCount": 4
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 24732,
+				"count": 3291,
 				"_tpl": "ROUBLES"
 			}
 		],
-		"loyallevelitems": 2,
-		"fleaPriceRoubles": 27748,
-		"handbookPriceRoubles": 19573,
+		"loyallevelitems": 1,
+		"fleaPriceRoubles": 5830,
+		"handbookPriceRoubles": 3291,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
@@ -5180,7 +5181,7 @@
 		"traderId": "PEACEKEEPER",
 		"traderItems": [
 			{
-				"unlimitedCount": false,
+				"unlimitedCount": true,
 				"stackObjectsCount": 10
 			}
 		],
@@ -5193,6 +5194,130 @@
         "loyallevelitems": 2,
 		"fleaPriceRoubles": 36863,
 		"handbookPriceRoubles": 1700,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68395bb9f92a92ea0555e4a1": {
+		"itemTplToClone": "56ea6fafd2720b844b8b4593",
+		"parentId": "FLASHHIDER",
+		"handbookParentId": "MOD_MUZZLE",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Muzzles/muzzle_ar15_noveske_kx3_fde.bundle",
+				"rcid": ""
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 Noveske KX3 5.56x45 flash hider (Desert)",
+				"shortName": "KX3 556",
+				"description": "The Noveske KX3 Flash hider, aka the Burning Pig, is designed to increase reliability in short-barreled members of AR-15 family by increasing backpressure and directing the muzzle blast forward of the shooter. Although originally designed for short-barreled AR-15s, it will work on any barrel length and have since been introduced for a variety of mounts. This particular KX3 may be used on \n5.56mm = 1/2x28 \n300BLK, 6.8, & 7.62 = 5/8x24\nGerman rifles = M15x1 \nM14x1LH"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 7237,
+				"_tpl": "ROUBLES"
+			}
+		],
+        "loyallevelitems": 3,
+		"fleaPriceRoubles": 11598,
+		"handbookPriceRoubles": 7237,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68395c7abb2e79c208842d7e": {
+		"itemTplToClone": "56ea6fafd2720b844b8b4593",
+		"parentId": "FLASHHIDER",
+		"handbookParentId": "MOD_MUZZLE",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Muzzles/muzzle_ar15_noveske_kx3_od.bundle",
+				"rcid": ""
+			}
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 Noveske KX3 5.56x45 flash hider (OD)",
+				"shortName": "KX3 556",
+				"description": "The Noveske KX3 Flash hider, aka the Burning Pig, is designed to increase reliability in short-barreled members of AR-15 family by increasing backpressure and directing the muzzle blast forward of the shooter. Although originally designed for short-barreled AR-15s, it will work on any barrel length and have since been introduced for a variety of mounts. This particular KX3 may be used on \n5.56mm = 1/2x28 \n300BLK, 6.8, & 7.62 = 5/8x24\nGerman rifles = M15x1 \nM14x1LH"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 7237,
+				"_tpl": "ROUBLES"
+			}
+		],
+        "loyallevelitems": 3,
+		"fleaPriceRoubles": 11598,
+		"handbookPriceRoubles": 7237,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
