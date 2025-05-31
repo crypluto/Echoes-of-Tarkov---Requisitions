@@ -71,9 +71,9 @@
 			},
 			"Slots": [
 				{
-					"_id": "683a31f60d45a6c4afcf0b6b",
+					"_id": "683a55be89d8378262680672",
 					"_mergeSlotWithChildren": false,
-					"_name": "mod_tactical_000",
+					"_name": "mod_mount_001",
 					"_parent": "683a308a21a62828638e5d05",
 					"_props": {
 						"filters": [
@@ -101,9 +101,9 @@
 					"_required": false
 				},
 				{
-					"_id": "683a31f4146957c2f3dd9994",
+					"_id": "683a55c030cdc5bdf6249b6b",
 					"_mergeSlotWithChildren": false,
-					"_name": "mod_mount_000",
+					"_name": "mod_foregrip",
 					"_parent": "683a308a21a62828638e5d05",
 					"_props": {
 						"filters": [
@@ -148,9 +148,9 @@
 					"_required": false
 				},
 				{
-					"_id": "683a31f21033de729e5e3326",
+					"_id": "683a55c39417636da193ffc4",
 					"_mergeSlotWithChildren": false,
-					"_name": "mod_tactical_001",
+					"_name": "mod_mount_001",
 					"_parent": "683a308a21a62828638e5d05",
 					"_props": {
 						"filters": [
@@ -178,7 +178,7 @@
 					"_required": false
 				},
 				{
-					"_id": "683a31f06394985215ccc6b3",
+					"_id": "683a55c4a55b18b969191206",
 					"_mergeSlotWithChildren": false,
 					"_name": "mod_sight",
 					"_parent": "683a308a21a62828638e5d05",
