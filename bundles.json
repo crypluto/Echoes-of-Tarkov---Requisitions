@@ -642,6 +642,9 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -650,6 +653,9 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -1498,6 +1504,9 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -1506,6 +1515,9 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -1514,6 +1526,9 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -1663,6 +1678,22 @@
     },
     {
       "key": "Mags/ar1520.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Item_Statics/item_barter_bass_maple.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Handguards/handguard_velociraptor_railed.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
