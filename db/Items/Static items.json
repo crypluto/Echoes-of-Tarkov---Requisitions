@@ -220,5 +220,70 @@
 		],
 		"addweaponpreset": false,
 		"weaponpresets": []
+	},
+	"683b619a7d4aa2d4645e369e": {
+		"itemTplToClone": "655c673673a43e23e857aebd",
+		"parentId": "57864a3d24597754843f8721",
+		"handbookParentId": "BARTER_VALUABLES",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Item_Statics/item_barter_bass_maple.bundle",
+				"rcid": ""
+			},
+			"Height": 3
+		},
+		"locales": {
+			"en": {
+				"name": "Eukyre's Jazz Bass",
+				"shortName": "Bass",
+				"description": "A miniature-scale Fender Jazz Bass guitar, used as a collectible. Created based on a 'Miami Vice' color scheme."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 48500,
+		"handbookPriceRoubles": 50000,
+		"CanSellOnRagFair": true,
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 5
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 450000,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 5
+			}
+		],
+		"masteries": false,
+		"masterySections": [
+			{
+				"Name": "M4",
+				"Templates": [
+					"4b81488c78c8a8ac7d37f9b9"
+				]
+			}
+		],
+		"addweaponpreset": false,
+		"weaponpresets": []
 	}
 }

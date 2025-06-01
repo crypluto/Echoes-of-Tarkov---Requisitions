@@ -243,6 +243,25 @@ export class epicItemClass {
                     "68395c7abb2e79c208842d7e",
                     "56ea6fafd2720b844b8b4593");
             } //Pushing Noveske KX3 to M700 (5/8"x24)
+
+            if (fileData._id === "63dbd45917fff4dee40fe16e") {
+                fileData._props.Slots[9]._props.filters[0].Filter.push("683b619a7d4aa2d4645e369e");
+            } //Pushing large barters to large trophy case
+            if (fileData._id === "63dbd45917fff4dee40fe16e") {
+                fileData._props.Slots[10]._props.filters[0].Filter.push("683b619a7d4aa2d4645e369e");
+            } //Pushing large barters to large trophy case
+            if (fileData._id === "63dbd45917fff4dee40fe16e") {
+                fileData._props.Slots[11]._props.filters[0].Filter.push("683b619a7d4aa2d4645e369e");
+            } //Pushing large barters to large trophy case
+            if (fileData._id === "63dbd45917fff4dee40fe16e") {
+                fileData._props.Slots[12]._props.filters[0].Filter.push("683b619a7d4aa2d4645e369e");
+            } //Pushing large barters to large trophy case
+            if (fileData._id === "63dbd45917fff4dee40fe16e") {
+                fileData._props.Slots[13]._props.filters[0].Filter.push("683b619a7d4aa2d4645e369e");
+            } //Pushing large barters to large trophy case
+            if (fileData._id === "63dbd45917fff4dee40fe16e") {
+                fileData._props.Slots[14]._props.filters[0].Filter.push("683b619a7d4aa2d4645e369e");
+            } //Pushing large barters to large trophy case
         }
     }
 }
