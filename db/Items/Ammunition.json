@@ -453,5 +453,330 @@
 		"addtoStaticLootContainers": false,
 		"StaticLootContainer": "LOOTCONTAINER_WEAPON_BOX_4X4",
 		"Probability": 250
+	},
+	"683d1b69d6f6778f205e9dfd": {
+		"itemTplToClone": "6529302b8c26af6326029fb7",
+		"parentId": "5485a8684bdc2da71d8b4567",
+		"handbookParentId": "5b47574386f77428ca22b33b",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "assets/content/items/ammo/patrons/patron_68x51_fmj.bundle",
+				"rcid": ""
+			},
+			"InitialSpeed": 826,
+			"ArmorDamage": 30,
+			"PenetrationPower": 24,
+			"Damage": 99,
+			"StackMaxSize": 2500,
+			"ExaminedByDefault": true,
+			"Caliber": "Caliber68x51",
+			"DiscardingBlock": false,
+			"DiscardLimit": 0,
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "6.8x51mm SIG Venari SP",
+				"shortName": "SP",
+				"description": "The Sig Sauer Venari Soft Point ammunition is a high-performance hunting round designed for the .277 Sig Fury cartridge. This traditional soft-point hunting ammunition features a 130-grain soft-point bullet loaded into reloadable brass cases. With a muzzle velocity of 2710 fps and muzzle energy of 2120 ft-lbs, it delivers excellent terminal performance on deer-sized and big game animals. The Venari line combines SIG SAUER's renowned quality with the versatility needed for various hunting scenarios, making it an ideal choice for hunters seeking reliable and effective ammunition for their .277 Sig Fury rifles."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 751,
+		"handbookPriceRoubles": 529,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 4,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		]
+	},
+	"683a1844ac7f29765fc135b2": {
+		"itemTplToClone": "6529243824cbe3c74a05e5c1",
+		"parentId": "5485a8684bdc2da71d8b4567",
+		"handbookParentId": "5b47574386f77428ca22b33b",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "assets/content/items/ammo/patrons/patron_68x51.bundle",
+				"rcid": ""
+			},
+			"ArmorDamage": 24,
+			"PenetrationPower": 19,
+			"Damage": 105,
+			"StackMaxSize": 2500,
+			"ExaminedByDefault": true,
+			"Caliber": "Caliber68x51",
+			"CanSellOnRagfair": false
+		},
+		"locales": {
+			"en": {
+				"name": "6.8x51mm SIG HiPower",
+				"shortName": "HP",
+				"description": "The 6.8x51mm SIG HiPower round has been custom designed by Echoes Defense to maximise damage when hitting a flesh-based target, maximising tunneling and cavity damage when penetrating flesh. \"Section 80, HiiiPower.\""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 3305,
+		"handbookPriceRoubles": 1456,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 100
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 34,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 10
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 5
+			}
+		]
+	},
+	"683d1ba7b5a2063de35a8c39": {
+		"itemTplToClone": "5fc382b6d6fa9c00c571bbc3",
+		"parentId": "5485a8684bdc2da71d8b4567",
+		"handbookParentId": "5b47574386f77428ca22b33b",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Ammo/patron_86x43_ap.bundle",
+				"rcid": ""
+			},
+			"InitialSpeed": 320,
+			"ArmorDamage": 79,
+			"PenetrationPower": 68,
+			"Damage": 77,
+			"StackMaxSize": 2500,
+			"ExaminedByDefault": true,
+			"Caliber": "Caliber86x43",
+			"DiscardingBlock": false,
+			"DiscardLimit": 0,
+			"BulletMassGram": 22,
+			"CanSellOnRagfair": false
+		},
+		"locales": {
+			"en": {
+				"name": "8.6 Blackout AP-Subsonic",
+				"shortName": "AP-S",
+				"description": "A specialized subsonic armor-piercing cartridge, the 8.6x43 Blackout AP is engineered for suppressed rifles, combining stealth with punch. Featuring a hardened penetrator core, it maintains effectiveness against light armor and barriers at subsonic velocities (~1,000 fps). Ideal for special operations requiring quiet, hard-hitting firepower."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 751,
+		"handbookPriceRoubles": 529,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 39,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 2
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 1
+			}
+		]
+	},
+	"683d1e142cee4317689e75e4": {
+		"itemTplToClone": "5fc382b6d6fa9c00c571bbc3",
+		"parentId": "5485a8684bdc2da71d8b4567",
+		"handbookParentId": "5b47574386f77428ca22b33b",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Ammo/patron_86x43_copper.bundle",
+				"rcid": ""
+			},
+			"InitialSpeed": 321,
+			"ArmorDamage": 64,
+			"PenetrationPower": 51,
+			"Damage": 82,
+			"StackMaxSize": 2500,
+			"ExaminedByDefault": true,
+			"Caliber": "Caliber86x43",
+			"DiscardingBlock": false,
+			"DiscardLimit": 0,
+			"BulletMassGram": 18.4,
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "8.6 Blackout Copper Solid",
+				"shortName": "Copper",
+				"description": "Designed for precision and terminal effectiveness, the 8.6 Blackout Copper Solid features a monolithic copper construction optimized for controlled tumbling on contact. This subsonic round delivers deep penetration and rapid energy transfer, making it ideal for hunting and tactical use where barrier-blind performance and consistent expansion are critical."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 5893,
+		"handbookPriceRoubles": 3450,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 24,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 2
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 1
+			}
+		]
+	},
+	"683d1ec4f7164f4f77ea7a85": {
+		"itemTplToClone": "5fc382b6d6fa9c00c571bbc3",
+		"parentId": "5485a8684bdc2da71d8b4567",
+		"handbookParentId": "5b47574386f77428ca22b33b",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Ammo/patron_86x43_rex.bundle",
+				"rcid": ""
+			},
+			"InitialSpeed": 314,
+			"ArmorDamage": 58,
+			"PenetrationPower": 45,
+			"Damage": 103,
+			"StackMaxSize": 2500,
+			"ExaminedByDefault": true,
+			"Caliber": "Caliber86x43",
+			"DiscardingBlock": false,
+			"DiscardLimit": 0,
+			"BulletMassGram": 19,
+			"CanSellOnRagfair": true
+		},
+		"locales": {
+			"en": {
+				"name": "8.6 Blackout REX Subsonic",
+				"shortName": "REX",
+				"description": "The 8.6 Blackout REX (Rapidly Expanding) Subsonic is a heavy, subsonic round built for maximum energy transfer at low velocity. Featuring an expanding projectile designed to create massive wound channels, the REX excels in suppressed platforms where stealth and stopping power are essential. Ideal for close- to mid-range applications in hunting and tactical environments."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_muzzle"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 8537,
+		"handbookPriceRoubles": 5140,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 39,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 2
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 1
+			}
+		]
 	}
 }

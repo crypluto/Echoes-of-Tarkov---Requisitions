@@ -192,5 +192,195 @@
 				"_type": "Preset"
 			}
 		]
+	},
+	"683d23831960b7bac66f4f05": {
+		"itemTplToClone": "5df8ce05b11454561e39243b",
+		"parentId": "5447b6194bdc2d67278b4567",
+		"handbookParentId": "WEAPONS_DMR",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "assets/content/weapons/sr25/weapon_kac_sr25_762x51_container.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"defAmmo": "5e023e53d4353e3302577c4c",
+			"defMagType": "5a3501acc4a282000d72293a",
+			"SingleFireRate": 550,
+			"RecoilCamera": 0.06,
+			"Weight": 0.54,
+			"Chambers": [
+				{
+					"_id": "6831ffc98a890c316f834ad5",
+					"_mergeSlotWithChildren": false,
+					"_name": "patron_in_weapon",
+					"_parent": "6831efcaf17211a895bbccc4",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"683d1ec4f7164f4f77ea7a85",
+									"683d1e142cee4317689e75e4",
+									"683d1ba7b5a2063de35a8c39"
+								]
+							}
+						]
+					},
+					"_proto": "55d4af244bdc2d962f8b4571",
+					"_required": false
+				}
+			],
+			"ammoCaliber": "Caliber86x43"
+		},
+		"locales": {
+			"en": {
+				"name": "Echoes Defence SR-8.6 8.6 Blackout assault rifle",
+				"shortName": "SR-8.6",
+				"description": "The SR-8.6 Precision Rifle is the latest evolution of the precision semi-automatic rifle. An ambidextrous bolt release, selector, and magazine release offers the left-handed user the ergonomic advantages inherent to AR-15 based controls, as well as giving right-handed users alternate methods of manipulation to increase efficiency of movement. The Drop-In 2-Stage Trigger serves as an aid to long range precision marksmanship. The E2 bolt and gas system provides superior reliability in function whether suppressed or unsuppressed. Chambered in 8.6 Blackout."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"CanSellOnRagfair": false,
+		"fleaPriceRoubles": 105821,
+		"handbookPriceRoubles": 45602,
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 45602,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 4,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": true,
+		"masterySections": [
+			{
+				"Name": "SR25",
+				"Templates": [
+					"6831efcaf17211a895bbccc4"
+				]
+			}
+		],
+		"addweaponpreset": true,
+		"weaponpresets": [
+			{
+				"_changeWeaponName": false,
+				"_encyclopedia": "6831efcaf17211a895bbccc4",
+				"_id": "6831fd293baa154a67b68896",
+				"_items": [
+					{
+						"_id": "6831f1fa62e3bf66540357ea",
+						"_tpl": "6831efcaf17211a895bbccc4",
+						"upd": {
+							"Repairable": {
+								"MaxDurability": 100,
+								"Durability": 100
+							},
+							"FireMode": {
+								"FireMode": "single"
+							}
+						}
+					},
+					{
+						"_id": "6831f1fa62e3bf66540357eb",
+						"_tpl": "57c55efc2459772d2c6271e7",
+						"slotId": "mod_pistol_grip",
+						"parentId": "6831f1fa62e3bf66540357ea"
+					},
+					{
+						"_id": "6831f1fa62e3bf66540357ec",
+						"_tpl": "5df8f541c41b2312ea3335e3",
+						"slotId": "mod_magazine",
+						"parentId": "6831f1fa62e3bf66540357ea"
+					},
+					{
+						"_id": "6831f1fa62e3bf66540357ed",
+						"_tpl": "5649be884bdc2d79388b4577",
+						"slotId": "mod_stock",
+						"parentId": "6831f1fa62e3bf66540357ea"
+					},
+					{
+						"_id": "6831f1fa62e3bf66540357ee",
+						"_tpl": "5df8e4080b92095fd441e594",
+						"slotId": "mod_reciever",
+						"parentId": "6831f1fa62e3bf66540357ea"
+					},
+					{
+						"_id": "6831f1fa62e3bf66540357ef",
+						"_tpl": "5df8e053bb49d91fb446d6a6",
+						"slotId": "mod_charge",
+						"parentId": "6831f1fa62e3bf66540357ea"
+					},
+					{
+						"_id": "6831f1fa62e3bf66540357f0",
+						"_tpl": "5ae30c9a5acfc408fb139a03",
+						"slotId": "mod_stock_000",
+						"parentId": "6831f1fa62e3bf66540357ed"
+					},
+					{
+						"_id": "6831f1fa62e3bf66540357f1",
+						"_tpl": "5df917564a9f347bc92edca3",
+						"slotId": "mod_barrel",
+						"parentId": "6831f1fa62e3bf66540357ee"
+					},
+					{
+						"_id": "6831f1fa62e3bf66540357f2",
+						"_tpl": "5df916dfbb49d91fb446d6b9",
+						"slotId": "mod_handguard",
+						"parentId": "6831f1fa62e3bf66540357ee"
+					},
+					{
+						"_id": "6831f1fa62e3bf66540357f3",
+						"_tpl": "5dfa3d7ac41b2312ea33362a",
+						"slotId": "mod_sight_rear",
+						"parentId": "6831f1fa62e3bf66540357ee"
+					},
+					{
+						"_id": "6831f1fa62e3bf66540357f4",
+						"_tpl": "5dfa3cd1b33c0951220c079b",
+						"slotId": "mod_muzzle",
+						"parentId": "6831f1fa62e3bf66540357f1"
+					},
+					{
+						"_id": "6831f1fa62e3bf66540357f5",
+						"_tpl": "6065dc8a132d4d12c81fd8e3",
+						"slotId": "mod_gas_block",
+						"parentId": "6831f1fa62e3bf66540357f1"
+					},
+					{
+						"_id": "6831f1fa62e3bf66540357f6",
+						"_tpl": "5c17804b2e2216152006c02f",
+						"slotId": "mod_sight_front",
+						"parentId": "6831f1fa62e3bf66540357f2"
+					}
+				],
+				"_name": "SR-8.6 stock preset",
+				"_parent": "6831f1fa62e3bf66540357ea",
+				"_type": "Preset"
+			}
+		]
 	}
 }
