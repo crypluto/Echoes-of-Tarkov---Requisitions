@@ -1699,6 +1699,22 @@
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
+    },
+    {
+      "key": "Attachments/Handguards/handguard_l1a1_wood.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "Attachments/Stocks/stock_l1a1_wood.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
     }
   ]
 }
