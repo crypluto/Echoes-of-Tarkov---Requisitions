@@ -1,0 +1,196 @@
+{
+	"683df636e1e3fa1bf165f7ed": {
+		"itemTplToClone": "5fbcc1d9016cce60e8341ab3",
+		"parentId": "ASSAULT_RIFLE",
+		"handbookParentId": "WEAPONS_ASSAULTRIFLES",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "assets/content/weapons/mcx/weapon_sig_mcx_gen1_762x35_container.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"SingleFireRate": 800,
+			"Chambers": [
+				{
+					"_id": "683df641e4575e53a61191b7",
+					"_mergeSlotWithChildren": false,
+					"_name": "patron_in_weapon",
+					"_parent": "683df636e1e3fa1bf165f7ed",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"59e6920f86f77411d82aa167",
+									"59e6927d86f77411da468256",
+									"54527a984bdc2d4e668b4567",
+									"54527ac44bdc2d36668b4567",
+									"59e68f6f86f7746c9f75e846",
+									"59e6906286f7746c9f75e847",
+									"59e690b686f7746c9f75e848",
+									"59e6918f86f7746c9f75e849",
+									"60194943740c5d77f6705eea",
+									"601949593ae8f707c4608daa",
+									"5c0d5ae286f7741e46554302",
+									"5fbe3ffdf8b6a877a729ea82",
+									"5fd20ff893a8961fc660a954",
+									"619636be6db0f2477964e710",
+									"6196364158ef8c428c287d9f",
+									"6196365d58ef8c428c287da1",
+									"64b8725c4b75259c590fa899"
+								]
+							}
+						]
+					},
+					"_proto": "55d4af244bdc2d962f8b4571",
+					"_required": false
+				}
+			],
+			"ammoCaliber": "Caliber5.56x45/.300BLK"
+		},
+		"locales": {
+			"en": {
+				"name": "SIG MCX Multicaliber assault rifle",
+				"shortName": "MCX",
+				"description": "The 5.56/.300BLK MCX line, designed and manufactured by SIG Sauer, is available in both semi-automatic and automatic versions and features a short-stroke gas piston system, which is inherited from the earlier SIG MPX submachine gun. The .300 Blackout ammo and the MCX are compatible with all AR-15 magazines."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"CanSellOnRagfair": true,
+		"fleaPriceRoubles": 95000,
+		"handbookPriceRoubles": 31000,
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 35831,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 4,
+		"addtoBots": false,
+		"addtostaticlootcontainer": false,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 250
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 150
+			}
+		],
+		"masteries": true,
+		"masterySections": [
+			{
+				"Name": "MCX",
+				"Templates": [
+					"683df636e1e3fa1bf165f7ed"
+				]
+			}
+		],
+		"addweaponpreset": true,
+		"weaponpresets": [
+			{
+				"_changeWeaponName": false,
+				"_encyclopedia": "683df636e1e3fa1bf165f7ed",
+				"_id": "6831fd293baa154a67b68896",
+				"_items": [
+					{
+						"_id": "683dffbccbbd7057100401db",
+						"_tpl": "683df636e1e3fa1bf165f7ed",
+						"upd": {
+							"Repairable": {
+								"MaxDurability": 100,
+								"Durability": 100
+							},
+							"FireMode": {
+								"FireMode": "single"
+							}
+						}
+					},
+					{
+						"_id": "683dffbccbbd7057100401dc",
+						"_tpl": "5fbcbd6c187fea44d52eda14",
+						"slotId": "mod_pistol_grip",
+						"parentId": "683dffbccbbd7057100401db"
+					},
+					{
+						"_id": "683dffbccbbd7057100401dd",
+						"_tpl": "55d4887d4bdc2d962f8b4570",
+						"slotId": "mod_magazine",
+						"parentId": "683dffbccbbd7057100401db"
+					},
+					{
+						"_id": "683dffbccbbd7057100401de",
+						"_tpl": "5fbcc3e4d6fa9c00c571bb58",
+						"slotId": "mod_reciever",
+						"parentId": "683dffbccbbd7057100401db"
+					},
+					{
+						"_id": "683dffbccbbd7057100401df",
+						"_tpl": "5fbcc437d724d907e2077d5c",
+						"slotId": "mod_stock",
+						"parentId": "683dffbccbbd7057100401db"
+					},
+					{
+						"_id": "683dffbccbbd7057100401e0",
+						"_tpl": "5fbcc640016cce60e8341acc",
+						"slotId": "mod_charge",
+						"parentId": "683dffbccbbd7057100401db"
+					},
+					{
+						"_id": "683dffbccbbd7057100401e1",
+						"_tpl": "683dfa33e56f6b8928521a6b",
+						"slotId": "mod_barrel",
+						"parentId": "683dffbccbbd7057100401de"
+					},
+					{
+						"_id": "683dffbccbbd7057100401e2",
+						"_tpl": "5fbc227aa56d053a3543f79e",
+						"slotId": "mod_handguard",
+						"parentId": "683dffbccbbd7057100401de"
+					},
+					{
+						"_id": "683dffbccbbd7057100401e3",
+						"_tpl": "5fc0fa957283c4046c58147e",
+						"slotId": "mod_sight_rear",
+						"parentId": "683dffbccbbd7057100401de"
+					},
+					{
+						"_id": "683dffbccbbd7057100401e4",
+						"_tpl": "5c6d710d2e22165df16b81e7",
+						"slotId": "mod_muzzle",
+						"parentId": "683dffbccbbd7057100401e1"
+					},
+					{
+						"_id": "683dffbccbbd7057100401e5",
+						"_tpl": "5fbc210bf24b94483f726481",
+						"slotId": "mod_gas_block",
+						"parentId": "683dffbccbbd7057100401e1"
+					},
+					{
+						"_id": "683dffbccbbd7057100401e6",
+						"_tpl": "5fc0fa362770a0045c59c677",
+						"slotId": "mod_sight_front",
+						"parentId": "683dffbccbbd7057100401e2"
+					}
+				],
+				"_name": "MCX Multicaliber stock preset",
+				"_parent": "6831fd293baa154a67b68896",
+				"_type": "Preset"
+			}
+		]
+	}
+}

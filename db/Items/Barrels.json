@@ -1,5 +1,5 @@
 {
-    "682a687311702a43c945c16b": {
+	"682a687311702a43c945c16b": {
 		"itemTplToClone": "634eff66517ccc8a960fc735",
 		"parentId": "BARREL",
 		"handbookParentId": "MOD_BARREL",
@@ -124,7 +124,7 @@
 		"addweaponpreset": false,
 		"weaponpresets": []
 	},
-    "683b8b1c34db67335d606cde": {
+	"683b8b1c34db67335d606cde": {
 		"itemTplToClone": "55d35ee94bdc2d61338b4568",
 		"parentId": "BARREL",
 		"handbookParentId": "MOD_BARREL",
@@ -135,14 +135,14 @@
 				"rcid": ""
 			},
 			"ConflictingItems": [],
-            "Weight": 0.383,
+			"Weight": 0.383,
 			"Recoil": 1,
-            "Width": 2,
-            "Velocity": -20.14,
-            "Ergonomics": -5,
-            "DurabilityBurnModificator": 0.75,
-            "CenterOfImpact": 0.06,
-            "Loudness": 12
+			"Width": 2,
+			"Velocity": -20.14,
+			"Ergonomics": -5,
+			"DurabilityBurnModificator": 0.75,
+			"CenterOfImpact": 0.06,
+			"Loudness": 12
 		},
 		"locales": {
 			"en": {
@@ -192,5 +192,524 @@
 		"masterySections": [],
 		"addweaponpreset": false,
 		"weaponpresets": []
+	},
+	"68396f06a46bcb7eff21b8b9": {
+		"itemTplToClone": "5fbbfacda56d053a3543f799",
+		"parentId": "BARREL",
+		"handbookParentId": "MOD_BARREL",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Barrels/barrel_mcx_406mm_762x35.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"59e6920f86f77411d82aa167",
+				"59e6927d86f77411da468256",
+				"54527a984bdc2d4e668b4567",
+				"54527ac44bdc2d36668b4567",
+				"59e68f6f86f7746c9f75e846",
+				"59e6906286f7746c9f75e847",
+				"59e690b686f7746c9f75e848",
+				"59e6918f86f7746c9f75e849",
+				"60194943740c5d77f6705eea",
+				"601949593ae8f707c4608daa",
+				"5c0d5ae286f7741e46554302"
+			],
+			"Width": 3,
+			"Velocity": -2.73,
+			"HeatFactor": 0.98,
+			"CoolFactor": 1.01,
+			"Ergonomics": -8,
+			"Weight": 0.853,
+			"CenterOfImpact": 0.065,
+			"ExtraSizeLeft": 3
+		},
+		"locales": {
+			"en": {
+				"name": "MCX .300 BLK 16 inch barrel",
+				"shortName": "MCX 16\"",
+				"description": "A 16 inch (406mm) barrel for MCX-based weapons, chambered in .300 BLK."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_barrel"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 41531,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 91954,
+		"handbookPriceRoubles": 16118,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683dfa33e56f6b8928521a6b": {
+		"itemTplToClone": "5fbbfacda56d053a3543f799",
+		"parentId": "BARREL",
+		"handbookParentId": "MOD_BARREL",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Barrels/barrel_mcx_406mm_762x35.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"5fbe3ffdf8b6a877a729ea82",
+				"5fd20ff893a8961fc660a954",
+				"619636be6db0f2477964e710",
+				"6196364158ef8c428c287d9f",
+				"6196365d58ef8c428c287da1",
+				"64b8725c4b75259c590fa899",
+				"5fbcc1d9016cce60e8341ab3"
+			],
+			"Width": 3,
+			"Velocity": -4.4,
+			"HeatFactor": 0.98,
+			"CoolFactor": 1.01,
+			"Ergonomics": -8,
+			"Weight": 0.853,
+			"CenterOfImpact": 0.065,
+			"ExtraSizeLeft": 3,
+			"Slots": [
+				{
+					"_name": "mod_muzzle",
+					"_id": "683dfa3aca28c6deb034a998",
+					"_parent": "683dfa33e56f6b8928521a6b",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5b3a16655acfc40016387a2a",
+									"5c7e5f112e221600106f4ede",
+									"5c0fafb6d174af02a96260ba",
+									"612e0cfc8004cc50514c2d9e",
+									"5cf6937cd7f00c056c53fb39",
+									"544a38634bdc2d58388b4568",
+									"5cff9e5ed7ad1a09407397d4",
+									"5c48a2a42e221602b66d1e07",
+									"5f6372e2865db925d54f3869",
+									"615d8e2f1cb55961fa0fd9a4",
+									"56ea8180d2720bf2698b456a",
+									"5d02676dd7ad1a049e54f6dc",
+									"56ea6fafd2720b844b8b4593",
+									"5943ee5a86f77413872d25ec",
+									"609269c3b0e443224b421cc1",
+									"5c7fb51d2e2216001219ce11",
+									"5ea172e498dacb342978818e",
+									"5c6d710d2e22165df16b81e7",
+									"612e0e55a112697a4b3a66e7",
+									"5d440625a4b9361eec4ae6c5",
+									"5cc9b815d7f00c000e2579d6",
+									"5a7c147ce899ef00150bd8b8",
+									"5c7954d52e221600106f4cc7",
+									"59bffc1f86f77435b128b872",
+									"5a9fbb84a2750c00137fa685",
+									"626667e87379c44d557b7550",
+									"62669bccdb9ebb4daa44cd14",
+									"626a74340be03179a165e30c",
+									"6386120cd6baa055ad1e201c",
+									"63ac5c9658d0485fc039f0b8",
+									"6405ff6bd4578826ec3e377a",
+									"64943b74e9998d641b0412ed",
+									"6621455e3aceea9e2b0b01e7",
+									"664301213dd83ddae20dda18"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_gas_block",
+					"_id": "683dfa3864140fd7688ea9be",
+					"_parent": "683dfa33e56f6b8928521a6b",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5fbc210bf24b94483f726481"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "MCX 5.56x45 16 inch barrel",
+				"shortName": "MCX 5.56 16\"",
+				"description": "A 16 inch (406mm) barrel for MCX-based weapons, chambered in 5.56x45."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_barrel"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 41531,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 75983,
+		"handbookPriceRoubles": 16118,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683dfe5498130dba46752d1c": {
+		"itemTplToClone": "5fbbfacda56d053a3543f799",
+		"parentId": "BARREL",
+		"handbookParentId": "MOD_BARREL",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "assets/content/items/mods/barrels/barrel_mcx_229mm_762x35.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"5fbe3ffdf8b6a877a729ea82",
+				"5fd20ff893a8961fc660a954",
+				"619636be6db0f2477964e710",
+				"6196364158ef8c428c287d9f",
+				"6196365d58ef8c428c287da1",
+				"64b8725c4b75259c590fa899",
+				"5fbcc1d9016cce60e8341ab3"
+			],
+			"Velocity": -22,
+			"Slots": [
+				{
+					"_name": "mod_muzzle",
+					"_id": "683dfe5beca836c5b172cb84",
+					"_parent": "683dfe5498130dba46752d1c",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5b3a16655acfc40016387a2a",
+									"5c7e5f112e221600106f4ede",
+									"5c0fafb6d174af02a96260ba",
+									"612e0cfc8004cc50514c2d9e",
+									"5cf6937cd7f00c056c53fb39",
+									"544a38634bdc2d58388b4568",
+									"5cff9e5ed7ad1a09407397d4",
+									"5c48a2a42e221602b66d1e07",
+									"5f6372e2865db925d54f3869",
+									"615d8e2f1cb55961fa0fd9a4",
+									"56ea8180d2720bf2698b456a",
+									"5d02676dd7ad1a049e54f6dc",
+									"56ea6fafd2720b844b8b4593",
+									"5943ee5a86f77413872d25ec",
+									"609269c3b0e443224b421cc1",
+									"5c7fb51d2e2216001219ce11",
+									"5ea172e498dacb342978818e",
+									"5c6d710d2e22165df16b81e7",
+									"612e0e55a112697a4b3a66e7",
+									"5d440625a4b9361eec4ae6c5",
+									"5cc9b815d7f00c000e2579d6",
+									"5a7c147ce899ef00150bd8b8",
+									"5c7954d52e221600106f4cc7",
+									"59bffc1f86f77435b128b872",
+									"5a9fbb84a2750c00137fa685",
+									"626667e87379c44d557b7550",
+									"62669bccdb9ebb4daa44cd14",
+									"626a74340be03179a165e30c",
+									"6386120cd6baa055ad1e201c",
+									"63ac5c9658d0485fc039f0b8",
+									"6405ff6bd4578826ec3e377a",
+									"64943b74e9998d641b0412ed",
+									"6621455e3aceea9e2b0b01e7",
+									"664301213dd83ddae20dda18"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_gas_block",
+					"_id": "683dfe593278a9da26f5b2be",
+					"_parent": "683dfe5498130dba46752d1c",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5fbc210bf24b94483f726481"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "MCX 5.56x45 9 inch barrel",
+				"shortName": "MCX 5.56 9\"",
+				"description": "A 9 inch (229mm) barrel for MCX-based weapons, chambered in 5.56x45."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_barrel"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 19410,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 31920,
+		"handbookPriceRoubles": 19410,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683dfeaeff18ffe3496e1a9b": {
+		"itemTplToClone": "5fbbfabed5cb881a7363194e",
+		"parentId": "BARREL",
+		"handbookParentId": "MOD_BARREL",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "assets/content/items/mods/barrels/barrel_mcx_171mm_762x35.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"5fbe3ffdf8b6a877a729ea82",
+				"5fd20ff893a8961fc660a954",
+				"619636be6db0f2477964e710",
+				"6196364158ef8c428c287d9f",
+				"6196365d58ef8c428c287da1",
+				"64b8725c4b75259c590fa899",
+				"5fbcc1d9016cce60e8341ab3"
+			],
+			"Velocity": -42,
+			"Slots": [
+				{
+					"_name": "mod_muzzle",
+					"_id": "683dfeb478b6a89a7d1d8c62",
+					"_parent": "683dfeaeff18ffe3496e1a9b",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5b3a16655acfc40016387a2a",
+									"5c7e5f112e221600106f4ede",
+									"5c0fafb6d174af02a96260ba",
+									"612e0cfc8004cc50514c2d9e",
+									"5cf6937cd7f00c056c53fb39",
+									"544a38634bdc2d58388b4568",
+									"5cff9e5ed7ad1a09407397d4",
+									"5c48a2a42e221602b66d1e07",
+									"5f6372e2865db925d54f3869",
+									"615d8e2f1cb55961fa0fd9a4",
+									"56ea8180d2720bf2698b456a",
+									"5d02676dd7ad1a049e54f6dc",
+									"56ea6fafd2720b844b8b4593",
+									"5943ee5a86f77413872d25ec",
+									"609269c3b0e443224b421cc1",
+									"5c7fb51d2e2216001219ce11",
+									"5ea172e498dacb342978818e",
+									"5c6d710d2e22165df16b81e7",
+									"612e0e55a112697a4b3a66e7",
+									"5d440625a4b9361eec4ae6c5",
+									"5cc9b815d7f00c000e2579d6",
+									"5a7c147ce899ef00150bd8b8",
+									"5c7954d52e221600106f4cc7",
+									"59bffc1f86f77435b128b872",
+									"5a9fbb84a2750c00137fa685",
+									"626667e87379c44d557b7550",
+									"62669bccdb9ebb4daa44cd14",
+									"626a74340be03179a165e30c",
+									"6386120cd6baa055ad1e201c",
+									"63ac5c9658d0485fc039f0b8",
+									"6405ff6bd4578826ec3e377a",
+									"64943b74e9998d641b0412ed",
+									"6621455e3aceea9e2b0b01e7",
+									"664301213dd83ddae20dda18"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_gas_block",
+					"_id": "683dfeb2727e55cb5e1e8d80",
+					"_parent": "683dfeaeff18ffe3496e1a9b",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5fbc210bf24b94483f726481"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "MCX 5.56x45 6.75 inch barrel",
+				"shortName": "MCX 5.56 6.75\"",
+				"description": "A 6.75 inch (171mm) barrel for MCX-based weapons, chambered in 5.56x45."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_barrel"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 16118,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 29580,
+		"handbookPriceRoubles": 16118,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
