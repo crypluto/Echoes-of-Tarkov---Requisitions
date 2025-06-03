@@ -263,15 +263,43 @@
 		],
 		"loyallevelitems": 1,
 		"addtoBots": false,
-		"addtostaticlootcontainer": false,
+		"addtostaticlootcontainer": true,
 		"StaticLootContainers": [
 			{
-				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-				"Probability": 5
+				"ContainerName": "LOOTCONTAINER_WOODEN_AMMO_BOX",
+				"Probability": 340
 			},
 			{
-				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
-				"Probability": 5
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 300
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 760
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 400
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 850
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 1500
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+				"Probability": 1000
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 1200
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_COMMON_FUND_STASH",
+				"Probability": 900
 			}
 		],
 		"masteries": false,
