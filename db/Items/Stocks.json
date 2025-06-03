@@ -1225,5 +1225,371 @@
                 "Probability": 1
             }
         ]
+    },
+    "683f0510d6e616e483b9bbcb": {
+        "itemTplToClone": "5d4406a8a4b9361e4f6eb8b7",
+        "parentId": "STOCK",
+        "handbookParentId": "MOD_STOCK",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Attachments/Stocks/stock_ar15_fiberlite.bundle",
+                "rcid": ""
+            },
+            "CanSellOnRagfair": true
+        },
+        "locales": {
+            "en": {
+                "name": "PLacerholder",
+                "shortName": "help me",
+                "description": "AHHHHHH"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_stock"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3400,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "fleaPriceRoubles": 3000,
+        "handbookPriceRoubles": 3400,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ]
+    },
+    "683f054fe68ee1c225002090": {
+        "itemTplToClone": "5d4406a8a4b9361e4f6eb8b7",
+        "parentId": "STOCK",
+        "handbookParentId": "MOD_STOCK",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Attachments/Stocks/stock_ar15_m16a1.bundle",
+                "rcid": ""
+            },
+            "CanSellOnRagfair": true
+        },
+        "locales": {
+            "en": {
+                "name": "PLacerholder",
+                "shortName": "help me",
+                "description": "AHHHHHH"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_stock"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3400,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "fleaPriceRoubles": 3000,
+        "handbookPriceRoubles": 3400,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ]
+    },
+    "683f056981079dd84d52681d": {
+        "itemTplToClone": "5d4406a8a4b9361e4f6eb8b7",
+        "parentId": "STOCK",
+        "handbookParentId": "MOD_STOCK",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Attachments/Stocks/stock_ar15_wood_m16a1.bundle",
+                "rcid": ""
+            },
+            "CanSellOnRagfair": true
+        },
+        "locales": {
+            "en": {
+                "name": "PLacerholder",
+                "shortName": "help me",
+                "description": "AHHHHHH"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_stock"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3400,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "fleaPriceRoubles": 3000,
+        "handbookPriceRoubles": 3400,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ]
+    },
+    "683f0586083dc0841a3ae0fc": {
+        "itemTplToClone": "5649be884bdc2d79388b4577",
+        "parentId": "STOCK",
+        "handbookParentId": "MOD_STOCK",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Attachments/Stocks/stock_ar15_pdw_extended.bundle",
+                "rcid": ""
+            },
+            "CanSellOnRagfair": true
+        },
+        "locales": {
+            "en": {
+                "name": "PLacerholder",
+                "shortName": "help me",
+                "description": "AHHHHHH"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_stock"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3400,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "fleaPriceRoubles": 3000,
+        "handbookPriceRoubles": 3400,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ]
+    },
+    "683f05abfde64f8d79afaa5e": {
+        "itemTplToClone": "5649be884bdc2d79388b4577",
+        "parentId": "STOCK",
+        "handbookParentId": "MOD_STOCK",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Attachments/Stocks/stock_ar15_padded_buffertube.bundle",
+                "rcid": ""
+            },
+            "CanSellOnRagfair": true
+        },
+        "locales": {
+            "en": {
+                "name": "PLacerholder",
+                "shortName": "help me",
+                "description": "AHHHHHH"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_stock"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3400,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "fleaPriceRoubles": 3000,
+        "handbookPriceRoubles": 3400,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ]
+    },
+    "683f059f370de8b72f4eb839": {
+        "itemTplToClone": "5649be884bdc2d79388b4577",
+        "parentId": "STOCK",
+        "handbookParentId": "MOD_STOCK",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Attachments/Stocks/stock_ar15_pdw_collapsed.bundle",
+                "rcid": ""
+            },
+            "CanSellOnRagfair": true
+        },
+        "locales": {
+            "en": {
+                "name": "PLacerholder",
+                "shortName": "help me",
+                "description": "AHHHHHH"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_stock"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3400,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "fleaPriceRoubles": 3000,
+        "handbookPriceRoubles": 3400,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ]
     }
 }

@@ -466,82 +466,7 @@
 			}
 		]
 	},
-	"683b8002a11c0a80563589af": {
-		"itemTplToClone": "63f4ba71f31d4a33b87bd046",
-		"parentId": "55818a104bdc2db9688b4569",
-		"handbookParentId": "5b5f75e486f77447ec5d7712",
-		"overrideProperties": {
-			"ExaminedByDefault": true,
-			"Prefab": {
-				"path": "Attachments/Handguards/170mm smooth.bundle",
-				"rcid": ""
-			},
-			"ConflictingItems": [
-				"55d3632e4bdc2d972f8b4569",
-				"5d440b93a4b9364276578d4b",
-				"5d440b9fa4b93601354d480c",
-				"5c0e2f94d174af029f650d56",
-				"63d3ce0446bd475bcb50f55f",
-				"63d3d44a2a49307baf09386d"
-			],
-			"Ergonomics": 10,
-			"Weight": 0.121,
-			"CoolFactor": 1.084,
-			"HeatFactor": 0.944,
-			"Slots": []
-		},
-		"locales": {
-			"en": {
-				"name": "AR-15 DPMS \"Kitty Cat\" 4 inch knurled tube handguard",
-				"shortName": "\"Kitty Cat\"",
-				"description": "The DPMS \"Kitty Cat\" 4 inch (101mm) handguard is a knurled tube free-float handguard, meaning it does not make contact with the barrel."
-			}
-		},
-		"clearClonedProps": false,
-		"addtoInventorySlots": [],
-		"addtoModSlots": true,
-		"modSlot": [
-			"mod_handguard"
-		],
-		"ModdableItemWhitelist": [],
-		"ModdableItemBlacklist": [],
-		"addtoTraders": true,
-		"traderId": "PEACEKEEPER",
-		"traderItems": [
-			{
-				"unlimitedCount": true,
-				"stackObjectsCount": 99
-			}
-		],
-		"barterScheme": [
-			{
-				"count": 10,
-				"_tpl": "ROUBLES"
-			}
-		],
-		"loyallevelitems": 1,
-		"fleaPriceRoubles": 1024,
-		"handbookPriceRoubles": 1024,
-		"addtoStaticLootContainers": true,
-		"StaticLootContainers": [
-			{
-				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-				"Probability": 7
-			},
-			{
-				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-				"Probability": 6
-			},
-			{
-				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-				"Probability": 5
-			},
-			{
-				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
-				"Probability": 1
-			}
-		]
-	},
+
 	"683bc86a38cff254bc388eb7": {
 		"itemTplToClone": "674d5e287075e056160e0176",
 		"parentId": "55818a104bdc2db9688b4569",
@@ -730,7 +655,7 @@
 			}
 		]
 	},
-		"683efa184b18a7908c86ed28": {
+	"683efa184b18a7908c86ed28": {
 		"itemTplToClone": "619b5db699fb192e7430664f",
 		"parentId": "55818a104bdc2db9688b4569",
 		"handbookParentId": "5b5f75e486f77447ec5d7712",
@@ -795,9 +720,8 @@
 				"Probability": 1
 			}
 		]
-	}
-	,
-		"683efaf9331c7a5ce371647e": {
+	},
+	"683efaf9331c7a5ce371647e": {
 		"itemTplToClone": "619b5db699fb192e7430664f",
 		"parentId": "55818a104bdc2db9688b4569",
 		"handbookParentId": "5b5f75e486f77447ec5d7712",
@@ -805,6 +729,732 @@
 			"ExaminedByDefault": true,
 			"Prefab": {
 				"path": "Attachments/Handguards/handguard_ar15_kittykat.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.63,
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder m16 handguard",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 4014,
+		"handbookPriceRoubles": 3002,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683efdcfceb019abc8a0e386": {
+		"itemTplToClone": "619b5db699fb192e7430664f",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_dd_ris_iii_blk.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.63,
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder m16 handguard",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 4014,
+		"handbookPriceRoubles": 3002,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683efdc53116a4b8bbbe6a73": {
+		"itemTplToClone": "619b5db699fb192e7430664f",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_gen_iii_delta_carbon_fiber_forearm_carbine_length.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.63,
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder m16 handguard",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 4014,
+		"handbookPriceRoubles": 3002,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683efdbae549dfcc0132c41d": {
+		"itemTplToClone": "619b5db699fb192e7430664f",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_kac_short_quad_rail.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.63,
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder m16 handguard",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 4014,
+		"handbookPriceRoubles": 3002,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683efdb7db86d6db51c97819": {
+		"itemTplToClone": "619b5db699fb192e7430664f",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_keymod_gasblock_cutout.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.63,
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder m16 handguard",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 4014,
+		"handbookPriceRoubles": 3002,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683efdaed6c2ff9b59d1feaa": {
+		"itemTplToClone": "619b5db699fb192e7430664f",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_long_kac_quad_rail.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.63,
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder m16 handguard",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 4014,
+		"handbookPriceRoubles": 3002,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683efda465871989f2a4da9a": {
+		"itemTplToClone": "619b5db699fb192e7430664f",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_m16a1.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.63,
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder m16 handguard",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 4014,
+		"handbookPriceRoubles": 3002,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683efd8691b20f2253241411": {
+		"itemTplToClone": "619b5db699fb192e7430664f",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_m16a2.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.63,
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder m16 handguard",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 4014,
+		"handbookPriceRoubles": 3002,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683efd7cb750cc7bddbd232f": {
+		"itemTplToClone": "619b5db699fb192e7430664f",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_mlok_gasblock_cutout.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.63,
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder m16 handguard",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 4014,
+		"handbookPriceRoubles": 3002,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683efd71f59c98d2c4627562": {
+		"itemTplToClone": "619b5db699fb192e7430664f",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_round_mlok.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.63,
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder m16 handguard",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 4014,
+		"handbookPriceRoubles": 3002,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683efd600f2babf75038dc1c": {
+		"itemTplToClone": "619b5db699fb192e7430664f",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_slash_quad_rail.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.63,
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder m16 handguard",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 4014,
+		"handbookPriceRoubles": 3002,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"683efd541d3e10a927b1eb47": {
+		"itemTplToClone": "619b5db699fb192e7430664f",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_wood_mlok.bundle",
 				"rcid": ""
 			},
 			"ConflictingItems": [],
