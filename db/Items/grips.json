@@ -1,0 +1,337 @@
+{
+	"68448a8f65afa711f83c6c29": {
+		"itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+		"parentId": "55818a684bdc2ddd698b456d",
+		"handbookParentId": "5b5f761f86f774094242f1a1",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Grips/pistolgrip_ar15_metal+wood_nobeavertail.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.1,
+			"Height": 1,
+			"Width": 1,
+			"InsuranceDisabled": false,
+			"Ergonomics": 3,
+			"Recoil": -3
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_pistol_grip"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12332,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68448ab5f77d8f147af0135c": {
+		"itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+		"parentId": "55818a684bdc2ddd698b456d",
+		"handbookParentId": "5b5f761f86f774094242f1a1",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Grips/pistolgrip_ar15_plastic_beavertail.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.1,
+			"Height": 1,
+			"Width": 1,
+			"InsuranceDisabled": false,
+			"Ergonomics": 3,
+			"Recoil": -3
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_pistol_grip"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12332,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68448ab26eedaa77e5bc9b7d": {
+		"itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+		"parentId": "55818a684bdc2ddd698b456d",
+		"handbookParentId": "5b5f761f86f774094242f1a1",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Grips/pistolgrip_ar15_polymer_bbeavertail.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.1,
+			"Height": 1,
+			"Width": 1,
+			"InsuranceDisabled": false,
+			"Ergonomics": 3,
+			"Recoil": -3
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_pistol_grip"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12332,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68448ab00ad8edb85f513c71": {
+		"itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+		"parentId": "55818a684bdc2ddd698b456d",
+		"handbookParentId": "5b5f761f86f774094242f1a1",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Grips/pistolgrip_ar15_polymer_nobeavertail.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.1,
+			"Height": 1,
+			"Width": 1,
+			"InsuranceDisabled": false,
+			"Ergonomics": 3,
+			"Recoil": -3
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_pistol_grip"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12332,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68448aae27efb176e93b8d28": {
+		"itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+		"parentId": "55818a684bdc2ddd698b456d",
+		"handbookParentId": "5b5f761f86f774094242f1a1",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Grips/pistolgrip_ar15_wood_nobeavertail.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.1,
+			"Height": 1,
+			"Width": 1,
+			"InsuranceDisabled": false,
+			"Ergonomics": 3,
+			"Recoil": -3
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_pistol_grip"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 12332,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 9000,
+		"handbookPriceRoubles": 9000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	}
+}
