@@ -1207,9 +1207,108 @@
 		},
 		"locales": {
 			"en": {
-				"name": "placeholder",
-				"shortName": "m16 metal",
-				"description": "placeholder"
+				"name": "AR-15 USGI 5.56x45 20-round magazine",
+				"shortName": "USGI",
+				"description": "This AR-15 USGI 5.56x45mm 20-round magazine is a durable, military-grade mag designed for reliability and performance. Made from lightweight aluminum with a hard-anodized finish, it features a stainless steel spring and anti-tilt follower for smooth, consistent feeding. Compact and ideal for bench shooting or prone positions, it's a dependable choice for any AR-platform rifle chambered in 5.56 NATO or .223 Remington."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 3
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 19,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 1,
+		"fleaPriceRoubles": 3481,
+		"handbookPriceRoubles": 2300,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68456f9b6e8e7398568cb130": {
+		"itemTplToClone": "5448c1d04bdc2dff2f8b4569",
+		"parentId": "MAGAZINE",
+		"handbookParentId": "MOD_MAGAZINE",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Mags/mag_ar15_metal_20rnd.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": 2,
+			"ConflictingItems": [],
+			"VisibleAmmoRangesString": "1-3",
+			"Cartridges": [
+				{
+					"_name": "cartridges",
+					"_id": "68456fb79ad67d139b74c1e4",
+					"_parent": "68456f9b6e8e7398568cb130",
+					"_max_count": 18,
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"59e6920f86f77411d82aa167",
+									"59e6927d86f77411da468256",
+									"54527a984bdc2d4e668b4567",
+									"54527ac44bdc2d36668b4567",
+									"59e68f6f86f7746c9f75e846",
+									"59e6906286f7746c9f75e847",
+									"59e690b686f7746c9f75e848",
+									"59e6918f86f7746c9f75e849",
+									"60194943740c5d77f6705eea",
+									"601949593ae8f707c4608daa",
+									"5c0d5ae286f7741e46554302",
+									"5fbe3ffdf8b6a877a729ea82",
+									"5fd20ff893a8961fc660a954",
+									"619636be6db0f2477964e710",
+									"6196364158ef8c428c287d9f",
+									"6196365d58ef8c428c287da1",
+									"64b8725c4b75259c590fa899"
+								]
+							}
+						]
+					},
+					"_proto": "5748538b2459770af276a261"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 USGI Vintage 5.56x45 20-round magazine",
+				"shortName": "USGI Vintage",
+				"description": "A Vintage USGI 5.56x45 20-round magazine, manufactured around the time of the Vietnam War. These mags were often loaded with only 18-rounds to avoid spring fatigue and weapon jamming, as such it is not recommended to load above 18 rounds into this specific magazine."
 			}
 		},
 		"clearClonedProps": false,
@@ -1230,13 +1329,13 @@
 		],
 		"barterScheme": [
 			{
-				"count": 314,
+				"count": 1,
 				"_tpl": "DOLLARS"
 			}
 		],
-		"loyallevelitems": 4,
-		"fleaPriceRoubles": 3590,
-		"handbookPriceRoubles": 3000,
+		"loyallevelitems": 1,
+		"fleaPriceRoubles": 3481,
+		"handbookPriceRoubles": 2300,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{

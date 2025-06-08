@@ -1,6 +1,6 @@
 {
 	"68448a8f65afa711f83c6c29": {
-		"itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+		"itemTplToClone": "5b07db875acfc40dc528a5f6",
 		"parentId": "55818a684bdc2ddd698b456d",
 		"handbookParentId": "5b5f761f86f774094242f1a1",
 		"overrideProperties": {
@@ -8,18 +8,17 @@
 				"path": "Attachments/Grips/pistolgrip_ar15_metal+wood_nobeavertail.bundle",
 				"rcid": ""
 			},
-			"Weight": 0.1,
+			"Weight": 0.12,
 			"Height": 1,
 			"Width": 1,
 			"InsuranceDisabled": false,
-			"Ergonomics": 3,
-			"Recoil": -3
+			"Ergonomics": 7
 		},
 		"locales": {
 			"en": {
-				"name": "placeholder",
-				"shortName": "placeholder",
-				"description": "placeholder"
+				"name": "AR-15 Indignant Arms Streamline pistol grip (Walnut)",
+				"shortName": "Streamline",
+				"description": "The Indignant Arms Streamline pistol grip is designed off the standard Streamline grip but with some exotic wood accents for a classy and stylish look. Manufactured by Indignant Arms."
 			}
 		},
 		"clearClonedProps": false,
@@ -39,13 +38,13 @@
 		],
 		"barterScheme": [
 			{
-				"count": 12332,
+				"count": 24591,
 				"_tpl": "ROUBLES"
 			}
 		],
-		"loyallevelitems": 2,
-		"fleaPriceRoubles": 9000,
-		"handbookPriceRoubles": 9000,
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 67180,
+		"handbookPriceRoubles": 24500,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
@@ -67,7 +66,7 @@
 		]
 	},
 	"68448ab5f77d8f147af0135c": {
-		"itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+		"itemTplToClone": "55802f5d4bdc2dac148b458f",
 		"parentId": "55818a684bdc2ddd698b456d",
 		"handbookParentId": "5b5f761f86f774094242f1a1",
 		"overrideProperties": {
@@ -75,18 +74,16 @@
 				"path": "Attachments/Grips/pistolgrip_ar15_plastic_beavertail.bundle",
 				"rcid": ""
 			},
-			"Weight": 0.1,
 			"Height": 1,
 			"Width": 1,
 			"InsuranceDisabled": false,
-			"Ergonomics": 3,
-			"Recoil": -3
+			"Ergonomics": 9.5
 		},
 		"locales": {
 			"en": {
-				"name": "placeholder",
-				"shortName": "placeholder",
-				"description": "placeholder"
+				"name": "AR-15 Hogue MSR-15 polymer pistol grip",
+				"shortName": "MSR-15",
+				"description": "Made by Houge, this grip is molded out of an extremely durable thermoplastic, and features a cobblestone texture on the sides in order to maintain grip and accuracy."
 			}
 		},
 		"clearClonedProps": false,
@@ -134,7 +131,7 @@
 		]
 	},
 	"68448ab26eedaa77e5bc9b7d": {
-		"itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+		"itemTplToClone": "5b07db875acfc40dc528a5f6",
 		"parentId": "55818a684bdc2ddd698b456d",
 		"handbookParentId": "5b5f761f86f774094242f1a1",
 		"overrideProperties": {
@@ -146,14 +143,13 @@
 			"Height": 1,
 			"Width": 1,
 			"InsuranceDisabled": false,
-			"Ergonomics": 3,
-			"Recoil": -3
+			"Ergonomics": 10.5
 		},
 		"locales": {
 			"en": {
-				"name": "placeholder",
-				"shortName": "placeholder",
-				"description": "placeholder"
+				"name": "AR-15 Promag Industries Tactical pistol grip",
+				"shortName": "PM155",
+				"description": "The PM155 pistol grip is ambidextrous and ergonomic, allowing a comfortable grip for all operators, whether from the left or right side. Molded from a proprietary black polymer. It has a heavily textured surface for a positive grip with finger grooves and palm swell."
 			}
 		},
 		"clearClonedProps": false,
@@ -164,7 +160,7 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"traderId": "MECHANIC",
+		"traderId": "PEACEKEEPER",
 		"traderItems": [
 			{
 				"unlimitedCount": false,
@@ -173,13 +169,13 @@
 		],
 		"barterScheme": [
 			{
-				"count": 12332,
-				"_tpl": "ROUBLES"
+				"count": 82,
+				"_tpl": "DOLLARS"
 			}
 		],
-		"loyallevelitems": 2,
-		"fleaPriceRoubles": 9000,
-		"handbookPriceRoubles": 9000,
+		"loyallevelitems": 4,
+		"fleaPriceRoubles": 98127,
+		"handbookPriceRoubles": 10824,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
@@ -201,7 +197,7 @@
 		]
 	},
 	"68448ab00ad8edb85f513c71": {
-		"itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+		"itemTplToClone": "55802f5d4bdc2dac148b458f",
 		"parentId": "55818a684bdc2ddd698b456d",
 		"handbookParentId": "5b5f761f86f774094242f1a1",
 		"overrideProperties": {
@@ -209,18 +205,17 @@
 				"path": "Attachments/Grips/pistolgrip_ar15_polymer_nobeavertail.bundle",
 				"rcid": ""
 			},
-			"Weight": 0.1,
+			"Weight": 0.03,
 			"Height": 1,
 			"Width": 1,
 			"InsuranceDisabled": false,
-			"Ergonomics": 3,
-			"Recoil": -3
+			"Ergonomics": 11
 		},
 		"locales": {
 			"en": {
-				"name": "placeholder",
-				"shortName": "placeholder",
-				"description": "placeholder"
+				"name": "AR-15 Magpul MOE-K Low Profile pistol grip",
+				"shortName": "MOE-K AR15",
+				"description": "The Magpul MOE (Magpul original equipment) K grip is a drop in upgrade for your AR-15 rifle, pistol or AR lower receivers. The K Grip is and ergonomic, low profile pistol grip with a steeper grip angle designed with a smaller circumference. This one piece reinforced polymer pistol grip features aggressive texturing and is not storage core capable. This MOE K grip comes with all the hardware needed to mount the grip and the grips come in a variety of tactical and fun colors. This MOE K grip will also work with AR-10 type rifles and lower receivers."
 			}
 		},
 		"clearClonedProps": false,
@@ -231,20 +226,20 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"traderId": "MECHANIC",
+		"traderId": "PEACEKEEPER",
 		"traderItems": [
 			{
-				"unlimitedCount": false,
-				"stackObjectsCount": 10
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 12332,
-				"_tpl": "ROUBLES"
+				"count": 56,
+				"_tpl": "DOLLARS"
 			}
 		],
-		"loyallevelitems": 2,
+		"loyallevelitems": 4,
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 9000,
 		"addtoStaticLootContainers": true,
@@ -268,7 +263,7 @@
 		]
 	},
 	"68448aae27efb176e93b8d28": {
-		"itemTplToClone": "55d4b9964bdc2d1d4e8b456e",
+		"itemTplToClone": "57c55efc2459772d2c6271e7",
 		"parentId": "55818a684bdc2ddd698b456d",
 		"handbookParentId": "5b5f761f86f774094242f1a1",
 		"overrideProperties": {
@@ -276,18 +271,17 @@
 				"path": "Attachments/Grips/pistolgrip_ar15_wood_nobeavertail.bundle",
 				"rcid": ""
 			},
-			"Weight": 0.1,
+			"Weight": 0.15,
 			"Height": 1,
 			"Width": 1,
 			"InsuranceDisabled": false,
-			"Ergonomics": 3,
-			"Recoil": -3
+			"Ergonomics": 7
 		},
 		"locales": {
 			"en": {
-				"name": "placeholder",
-				"shortName": "placeholder",
-				"description": "placeholder"
+				"name": "AR-15 ergonomic wooden pistol grip",
+				"shortName": "Ergo Wood",
+				"description": "An ergonomic wooden pistol grip for the AR-15-series of rifles."
 			}
 		},
 		"clearClonedProps": false,
@@ -298,22 +292,22 @@
 		],
 		"ModdableItemWhitelist": [],
 		"ModdableItemBlacklist": [],
-		"traderId": "MECHANIC",
+		"traderId": "SKIER",
 		"traderItems": [
 			{
-				"unlimitedCount": false,
-				"stackObjectsCount": 10
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
 			}
 		],
 		"barterScheme": [
 			{
-				"count": 12332,
+				"count": 12932,
 				"_tpl": "ROUBLES"
 			}
 		],
 		"loyallevelitems": 2,
-		"fleaPriceRoubles": 9000,
-		"handbookPriceRoubles": 9000,
+		"fleaPriceRoubles": 49572,
+		"handbookPriceRoubles": 12500,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{
