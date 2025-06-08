@@ -1,0 +1,226 @@
+{
+	"68448bf2f4f9b64cb687698d": {
+		"itemTplToClone": "5c064c400db834001d23f468",
+		"parentId": "55818b224bdc2dde698b456f",
+		"handbookParentId": "5b5f755f86f77447ec5d770e",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_carryhandle.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": -2,
+			"Width": 2,
+			"Slots": [
+				{
+					"_id": "ac529575d88d7f8390488b2c",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_scope",
+					"_parent": "66713838ca123f9df8e7584e",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"591c4efa86f7741030027726",
+									"570fd79bd2720bc7458b4583",
+									"570fd6c2d2720bc6458b457f",
+									"558022b54bdc2dac148b458d",
+									"58491f3324597764bc48fa02",
+									"584924ec24597768f12ae244",
+									"5b30b0dc5acfc400153b7124",
+									"60a23797a37c940de7062d02",
+									"5d2da1e948f035477b1ce2ba",
+									"5c0505e00db834001b735073",
+									"609a63b6e2ff132951242d09",
+									"59f9d81586f7744c7506ee62",
+									"58d39d3d86f77445bb794ae7",
+									"616554fe50224f204c1da2aa",
+									"5c7d55f52e221644f31bff6a",
+									"616584766ef05c2ce828ef57",
+									"615d8d878004cc50514c3233",
+									"5b31163c5acfc400153b71cb",
+									"5a33b652c4a28232996e407c",
+									"64785e7c19d732620e045e15",
+									"655f13e0a246670fb0373245",
+									"93efffa7844876067d81dca5"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 27000,
+		"handbookPriceRoubles": 3500,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 27,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 1600
+			}
+		]
+	},
+		"68448c3ea713d53905743800": {
+		"itemTplToClone": "5c064c400db834001d23f468",
+		"parentId": "55818b224bdc2dde698b456f",
+		"handbookParentId": "5b5f755f86f77447ec5d770e",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_gooseneck.bundle",
+				"rcid": ""
+			},
+			"Ergonomics": -2,
+			"Width": 2,
+			"Slots": [
+				{
+					"_id": "ac529575d88d7f8390488b2c",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_scope",
+					"_parent": "66713838ca123f9df8e7584e",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"591c4efa86f7741030027726",
+									"570fd79bd2720bc7458b4583",
+									"570fd6c2d2720bc6458b457f",
+									"558022b54bdc2dac148b458d",
+									"58491f3324597764bc48fa02",
+									"584924ec24597768f12ae244",
+									"5b30b0dc5acfc400153b7124",
+									"60a23797a37c940de7062d02",
+									"5d2da1e948f035477b1ce2ba",
+									"5c0505e00db834001b735073",
+									"609a63b6e2ff132951242d09",
+									"59f9d81586f7744c7506ee62",
+									"58d39d3d86f77445bb794ae7",
+									"616554fe50224f204c1da2aa",
+									"5c7d55f52e221644f31bff6a",
+									"616584766ef05c2ce828ef57",
+									"615d8d878004cc50514c3233",
+									"5b31163c5acfc400153b71cb",
+									"5a33b652c4a28232996e407c",
+									"64785e7c19d732620e045e15",
+									"655f13e0a246670fb0373245",
+									"93efffa7844876067d81dca5"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 27000,
+		"handbookPriceRoubles": 3500,
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 27,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1600
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 1600
+			}
+		]
+	}
+}
