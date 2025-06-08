@@ -208,6 +208,8 @@
 			"defMagType": "5a3501acc4a282000d72293a",
 			"SingleFireRate": 550,
 			"RecoilCamera": 0.06,
+			"RecoilForceBack": 433,
+			"RecoilForceUp": 236,
 			"Weight": 0.54,
 			"Chambers": [
 				{
