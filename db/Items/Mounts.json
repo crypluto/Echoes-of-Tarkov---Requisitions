@@ -54,8 +54,8 @@
 		},
 		"locales": {
 			"en": {
-				"name": "placeholder",
-				"shortName": "placeholder",
+				"name": "AR-15 A1/A2 Carryhandle Piccatinny mount",
+				"shortName": "A2 Carry",
 				"description": "placeholder"
 			}
 		},
@@ -111,7 +111,7 @@
 			}
 		]
 	},
-		"68448c3ea713d53905743800": {
+	"68448c3ea713d53905743800": {
 		"itemTplToClone": "5c064c400db834001d23f468",
 		"parentId": "55818b224bdc2dde698b456f",
 		"handbookParentId": "5b5f755f86f77447ec5d770e",
@@ -166,8 +166,8 @@
 		},
 		"locales": {
 			"en": {
-				"name": "placeholder",
-				"shortName": "placeholder",
+				"name": "AR-15 A1/A2 Gooseneck Carryhandle mount",
+				"shortName": "Gooseneck",
 				"description": "placeholder"
 			}
 		},
@@ -220,6 +220,498 @@
 			{
 				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
 				"Probability": 1600
+			}
+		]
+	},
+	"6845a2443b726a816a6ca79e": {
+		"itemTplToClone": "5649a2464bdc2d91118b45a8",
+		"parentId": "55818b224bdc2dde698b456f",
+		"handbookParentId": "5b5f755f86f77447ec5d770e",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_cn_dual45_blk.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"6837716de936d83c13099eea",
+				"68398cd864a9d113ebab1b77",
+				"644a3df63b0b6f03e101e065"
+			],
+			"Slots": [
+				{
+					"_id": "6845a25ea626ec749461d950",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_scope",
+					"_parent": "6845a2443b726a816a6ca79e",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57ae0171245977343c27bfcf",
+									"609bab8b455afd752b2e6138",
+									"58d39d3d86f77445bb794ae7",
+									"616554fe50224f204c1da2aa",
+									"615d8d878004cc50514c3233",
+									"577d128124597739d65d0e56",
+									"58d2664f86f7747fec5834f6",
+									"5a33b2c9c4a282000c5a9511"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				},
+				{
+					"_id": "6845a26d5da508eab7a8dca2",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_tactical",
+					"_parent": "6845a2443b726a816a6ca79e",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "CN Armament DUAL45 Backup mount",
+				"shortName": "DUAL45",
+				"description": "A universal mount by CN Armament that allows installing an auxiliary sight and tactical device using two 45 degree picatinny mounts."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_mount",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9825,
+		"handbookPriceRoubles": 3588,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3485,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 16
+			}
+		]
+	},
+	"6845a36582114b67fdc12a16": {
+		"itemTplToClone": "5649a2464bdc2d91118b45a8",
+		"parentId": "55818b224bdc2dde698b456f",
+		"handbookParentId": "5b5f755f86f77447ec5d770e",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_cn_dual45_fde.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"6837716de936d83c13099eea",
+				"68398cd864a9d113ebab1b77",
+				"644a3df63b0b6f03e101e065"
+			],
+			"Slots": [
+				{
+					"_id": "6845a36a487b2de21c546ee3",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_scope",
+					"_parent": "6845a36582114b67fdc12a16",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57ae0171245977343c27bfcf",
+									"609bab8b455afd752b2e6138",
+									"58d39d3d86f77445bb794ae7",
+									"616554fe50224f204c1da2aa",
+									"615d8d878004cc50514c3233",
+									"577d128124597739d65d0e56",
+									"58d2664f86f7747fec5834f6",
+									"5a33b2c9c4a282000c5a9511"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				},
+				{
+					"_id": "6845a369c21e3695902ead3e",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_tactical",
+					"_parent": "6845a36582114b67fdc12a16",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "CN Armament DUAL45 Backup mount (FDE)",
+				"shortName": "DUAL45",
+				"description": "A universal mount by CN Armament that allows installing an auxiliary sight and tactical device using two 45 degree picatinny mounts. Flat Dark Earth version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_mount",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9825,
+		"handbookPriceRoubles": 3588,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3485,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 16
+			}
+		]
+	},
+	"6845a394ddfdb4cac936974e": {
+		"itemTplToClone": "5649a2464bdc2d91118b45a8",
+		"parentId": "55818b224bdc2dde698b456f",
+		"handbookParentId": "5b5f755f86f77447ec5d770e",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_cn_dual45_anth.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"6837716de936d83c13099eea",
+				"68398cd864a9d113ebab1b77",
+				"644a3df63b0b6f03e101e065"
+			],
+			"Slots": [
+				{
+					"_id": "6845a39a062adb981f47e59b",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_scope",
+					"_parent": "6845a394ddfdb4cac936974e",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57ae0171245977343c27bfcf",
+									"609bab8b455afd752b2e6138",
+									"58d39d3d86f77445bb794ae7",
+									"616554fe50224f204c1da2aa",
+									"615d8d878004cc50514c3233",
+									"577d128124597739d65d0e56",
+									"58d2664f86f7747fec5834f6",
+									"5a33b2c9c4a282000c5a9511"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				},
+				{
+					"_id": "6845a399bce4e6068ee50ee5",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_tactical",
+					"_parent": "6845a394ddfdb4cac936974e",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "CN Armament DUAL45 Backup mount (Anthracite)",
+				"shortName": "DUAL45",
+				"description": "A universal mount by CN Armament that allows installing an auxiliary sight and tactical device using two 45 degree picatinny mounts. Anthracite version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_mount",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9825,
+		"handbookPriceRoubles": 3588,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3485,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 16
+			}
+		]
+	},
+	"6845a930e3dfd938256267a2": {
+		"itemTplToClone": "5649a2464bdc2d91118b45a8",
+		"parentId": "55818b224bdc2dde698b456f",
+		"handbookParentId": "5b5f755f86f77447ec5d770e",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_cn_dual45_od.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"6837716de936d83c13099eea",
+				"68398cd864a9d113ebab1b77",
+				"644a3df63b0b6f03e101e065"
+			],
+			"Slots": [
+				{
+					"_id": "6845a39a062adb981f47e59b",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_scope",
+					"_parent": "6845a930e3dfd938256267a2",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57ae0171245977343c27bfcf",
+									"609bab8b455afd752b2e6138",
+									"58d39d3d86f77445bb794ae7",
+									"616554fe50224f204c1da2aa",
+									"615d8d878004cc50514c3233",
+									"577d128124597739d65d0e56",
+									"58d2664f86f7747fec5834f6",
+									"5a33b2c9c4a282000c5a9511"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				},
+				{
+					"_id": "6845a399bce4e6068ee50ee5",
+					"_mergeSlotWithChildren": false,
+					"_name": "mod_tactical",
+					"_parent": "6845a930e3dfd938256267a2",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "CN Armament DUAL45 Backup mount (Olive Drab)",
+				"shortName": "DUAL45",
+				"description": "A universal mount by CN Armament that allows installing an auxiliary sight and tactical device using two 45 degree picatinny mounts. Olive Drab version."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_mount",
+			"mod_scope_000",
+			"mod_scope_001"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 9825,
+		"handbookPriceRoubles": 3588,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3485,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 16
 			}
 		]
 	}
