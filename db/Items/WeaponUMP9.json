@@ -10,6 +10,7 @@
         "rcid": ""
       },
       "bFirerate": 700,
+      "SingleFireRate": 550,
       "Weight": 0.48,
       "defMagType": "67b05e48729b9634d308785b", 
       "ammoCaliber": "Caliber9x19PARA",
