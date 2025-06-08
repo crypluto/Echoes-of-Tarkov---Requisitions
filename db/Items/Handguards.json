@@ -599,7 +599,10 @@
 				"path": "Attachments/Handguards/handguard_l1a1_wood.bundle",
 				"rcid": ""
 			},
-			"ConflictingItems": [],
+			"ConflictingItems": [
+				"5b7be1125acfc4001876c0e5",
+				"5b099a765acfc47a8607efe3"
+			],
 			"Weight": 0.63,
 			"Slots": []
 		},
