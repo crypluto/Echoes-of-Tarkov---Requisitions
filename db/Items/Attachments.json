@@ -2537,7 +2537,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "COLT M4A1 gas block with Mossie Midnight 1913 FSB Mount",
+				"name": "Colt M4A1 gas block with Mossie Midnight 1913 FSB Mount",
 				"shortName": "FSB Mount",
 				"description": "The Mossie Midnight Mount is designed to place a 1913 Picatinny based weapon light at 12 o'clock for ambidextrous use. It easily installs on most standard and F marked front sight bases (FSB). The host weapon is not modified, which is especially important to many law enforcement officers who may not be allowed to alter their issued weapons."
 			}
@@ -3030,7 +3030,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "COLT M4A1 gas block with Promag bayonet lug rail",
+				"name": "Colt M4A1 gas block with Promag bayonet lug rail",
 				"shortName": "FSB Lug Rail",
 				"description": "with a much lower cost than quad rail. The forward mount does not affect the standard hand guard when not using the bi-pod. very stable platform with the set screw take up hardware."
 			}
