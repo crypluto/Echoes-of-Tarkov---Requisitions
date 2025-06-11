@@ -1343,6 +1343,72 @@
 			}
 		]
 	},
+	"6849dafc5c92377eeabaee5e": {
+		"itemTplToClone": "6034e3e20ddce744014cb878",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_wood_m16a1.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Weight": 0.63,
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "placeholder m16 handguard",
+				"shortName": "placeholder",
+				"description": "placeholder"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 4014,
+		"handbookPriceRoubles": 3002,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
 	"683efda465871989f2a4da9a": {
 		"itemTplToClone": "6034e3e20ddce744014cb878",
 		"parentId": "55818a104bdc2db9688b4569",
