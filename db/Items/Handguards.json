@@ -1350,7 +1350,7 @@
 		"overrideProperties": {
 			"ExaminedByDefault": true,
 			"Prefab": {
-				"path": "Attachments/Handguards/handguard_ar15_wood_m16a1.bundle",
+				"path": "Attachments/Handguards/handguard_ar15_m16a1_wood.bundle",
 				"rcid": ""
 			},
 			"ConflictingItems": [],

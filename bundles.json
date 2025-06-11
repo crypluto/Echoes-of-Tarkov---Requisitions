@@ -1773,6 +1773,14 @@
       ]
     },
     {
+      "key": "Attachments/Handguards/handguard_ar15_m16a1_wood.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "Attachments/Handguards/handguard_ar15_m16a2.bundle",
       "dependencyKeys": [
         "shaders",
@@ -1827,6 +1835,13 @@
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
+    },{
+      "key": "Attachments/Stocks/stock_ar15_wood_m16a1.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
     },
     {
       "key": "Attachments/Stocks/stock_ar15_m16a1.bundle",
@@ -1854,14 +1869,6 @@
     },
     {
       "key": "Attachments/Stocks/stock_ar15_pdw_extended.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "Attachments/Stocks/stock_ar15_wood_m16a1.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -1939,14 +1946,16 @@
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
-    },{
+    },
+    {
       "key": "Mags/mag_ar15_metal_20rnd.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
-    },{
+    },
+    {
       "key": "Mags/mag_ar15_20rnd.bundle",
       "dependencyKeys": [
         "shaders",
