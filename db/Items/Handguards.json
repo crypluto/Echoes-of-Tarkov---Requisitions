@@ -466,7 +466,6 @@
 			}
 		]
 	},
-
 	"683bc86a38cff254bc388eb7": {
 		"itemTplToClone": "674d5e287075e056160e0176",
 		"parentId": "55818a104bdc2db9688b4569",
@@ -659,7 +658,7 @@
 		]
 	},
 	"683efa184b18a7908c86ed28": {
-		"itemTplToClone": "619b5db699fb192e7430664f",
+		"itemTplToClone": "63f4ba71f31d4a33b87bd046",
 		"parentId": "55818a104bdc2db9688b4569",
 		"handbookParentId": "5b5f75e486f77447ec5d7712",
 		"overrideProperties": {
@@ -670,13 +669,165 @@
 			},
 			"ConflictingItems": [],
 			"Weight": 0.63,
-			"Slots": []
+			"Slots": [
+				{
+					"_name": "mod_mount_000",
+					"_id": "684b3e73d9feb51a2269f3f4",
+					"_parent": "683efa184b18a7908c86ed28",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_001",
+					"_id": "684b3e723e641aedf0751670",
+					"_parent": "683efa184b18a7908c86ed28",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_id": "684b3e79f0225a4adc9306cc",
+					"_parent": "683efa184b18a7908c86ed28",
+					"_name": "mod_sight",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57ac965c24597706be5f975c",
+									"57aca93d2459771f2c7e26db",
+									"544a3f024bdc2d1d388b4568",
+									"544a3a774bdc2d3a388b4567",
+									"5d2dc3e548f035404a1a4798",
+									"57adff4f24597737f373b6e6",
+									"5c0517910db83400232ffee5",
+									"591c4efa86f7741030027726",
+									"570fd79bd2720bc7458b4583",
+									"570fd6c2d2720bc6458b457f",
+									"558022b54bdc2dac148b458d",
+									"5c07dd120db834001c39092d",
+									"5c0a2cec0db834001b7ce47d",
+									"58491f3324597764bc48fa02",
+									"584924ec24597768f12ae244",
+									"5b30b0dc5acfc400153b7124",
+									"6165ac8c290d254f5e6b2f6c",
+									"60a23797a37c940de7062d02",
+									"5d2da1e948f035477b1ce2ba",
+									"5c0505e00db834001b735073",
+									"609a63b6e2ff132951242d09",
+									"584984812459776a704a82a6",
+									"59f9d81586f7744c7506ee62",
+									"570fd721d2720bc5458b4596",
+									"57ae0171245977343c27bfcf",
+									"5dfe6104585a0c3e995c7b82",
+									"5d1b5e94d7ad1a2b865a96b0",
+									"609bab8b455afd752b2e6138",
+									"58d39d3d86f77445bb794ae7",
+									"616554fe50224f204c1da2aa",
+									"5c7d55f52e221644f31bff6a",
+									"616584766ef05c2ce828ef57",
+									"5b3b6dc75acfc47a8773fb1e",
+									"615d8d878004cc50514c3233",
+									"577d128124597739d65d0e56",
+									"58d2664f86f7747fec5834f6",
+									"5c1cdd302e221602b3137250",
+									"61714b2467085e45ef140b2c",
+									"5b31163c5acfc400153b71cb",
+									"5a33b652c4a28232996e407c",
+									"5a33b2c9c4a282000c5a9511",
+									"59db7eed86f77461f8380365",
+									"5a1ead28fcdbcb001912fa9f",
+									"626bb8532c923541184624b4",
+									"63fc449f5bd61c6cf3784a88",
+									"6477772ea8a38bb2050ed4db",
+									"6478641c19d732620e045e17",
+									"64785e7c19d732620e045e15",
+									"65392f611406374f82152ba5",
+									"653931da5db71d30ab1d6296",
+									"55818b164bdc2ddc698b456c",
+									"655f13e0a246670fb0373245"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_proto": "55d30c4c4bdc2db4468b457e",
+					"_required": false
+				},
+				{
+					"_name": "mod_foregrip",
+					"_id": "684b3e7db3ca8ce22367c7b5",
+					"_parent": "683efa184b18a7908c86ed28",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5c7fc87d2e221644f31c0298",
+									"5cda9bcfd7f00c0c0b53e900",
+									"59f8a37386f7747af3328f06",
+									"619386379fb0c665d5490dbe",
+									"5c87ca002e221600114cb150",
+									"588226d124597767ad33f787",
+									"588226dd24597767ad33f789",
+									"588226e62459776e3e094af7",
+									"588226ef24597767af46e39c",
+									"59fc48e086f77463b1118392",
+									"5fce0cf655375d18a253eff0",
+									"5cf4fb76d7f00c065703d3ac",
+									"5b057b4f5acfc4771e1bd3e9",
+									"5c791e872e2216001219c40a",
+									"558032614bdc2de7118b4585",
+									"58c157be86f77403c74b2bb6",
+									"58c157c886f774032749fb06",
+									"5f6340d3ca442212f4047eb2",
+									"591af28e86f77414a27a9e1d",
+									"5c1cd46f2e22164bef5cfedb",
+									"5c1bc4812e22164bef5cfde7",
+									"5c1bc5612e221602b5429350",
+									"5c1bc5af2e221602b412949b",
+									"5c1bc5fb2e221602b1779b32",
+									"5c1bc7432e221602b412949d",
+									"5c1bc7752e221602b1779b34",
+									"66806fa80f466cb82a215008",
+									"668070f11aff0d6b0cd7fb13",
+									"66a5465a96a99e2e3fc3cb15",
+									"66ea3770d7c670434b6ed74f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
 		},
 		"locales": {
 			"en": {
-				"name": "one",
-				"shortName": "placeholder",
-				"description": "placeholder"
+				"name": "Echoes Defense \"Kat Scratch\" M4A1 Piccitiny rail",
+				"shortName": "Kat Scratch",
+				"description": "Compact and mean, the Kat Scratch delivers no-nonsense grip and rail space in a lightweight, minimalist package. Its aggressive slash-cut vents give it a distinctive look and enhanced cooling for rapid-fire runs."
 			}
 		},
 		"clearClonedProps": false,
@@ -725,7 +876,7 @@
 		]
 	},
 	"683efaf9331c7a5ce371647e": {
-		"itemTplToClone": "619b5db699fb192e7430664f",
+		"itemTplToClone": "63f4ba71f31d4a33b87bd046",
 		"parentId": "55818a104bdc2db9688b4569",
 		"handbookParentId": "5b5f75e486f77447ec5d7712",
 		"overrideProperties": {
@@ -740,9 +891,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "two",
-				"shortName": "placeholder",
-				"description": "placeholder"
+				"name": "DPMS \"Kitty Kat\" 7.5\" 5.56 C7 FSB CAR Brace Pistol",
+				"shortName": "Kitty Kat",
+				"description": "Built for the bite-sized beast, the Kitty Kat handguard is a stubby, no-frills CAR-style unit that hugs the 7.5\" barrel tight. Classic round polymer ribs offer a retro grip feel, while the short length keeps things nimble for fast, up-close work. Old school, compact, and ready to bark."
 			}
 		},
 		"clearClonedProps": false,
@@ -791,7 +942,7 @@
 		]
 	},
 	"683efdcfceb019abc8a0e386": {
-		"itemTplToClone": "619b5db699fb192e7430664f",
+		"itemTplToClone": "5ea16ada09aa976f2e7a51be",
 		"parentId": "55818a104bdc2db9688b4569",
 		"handbookParentId": "5b5f75e486f77447ec5d7712",
 		"overrideProperties": {
@@ -802,13 +953,149 @@
 			},
 			"ConflictingItems": [],
 			"Weight": 0.63,
-			"Slots": []
+			"Slots": [
+				{
+					"_name": "mod_mount_000",
+					"_id": "684b3bde458a0a8351b30b34",
+					"_parent": "683efdcfceb019abc8a0e386",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_001",
+					"_id": "684b3bda67b1777d8b255985",
+					"_parent": "683efdcfceb019abc8a0e386",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical",
+					"_id": "684b3be4c5c936b025ea4946",
+					"_parent": "683efdcfceb019abc8a0e386",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57fd23e32459772d0805bcf1",
+									"544909bb4bdc2d6f028b4577",
+									"5c06595c0db834001a66af6c",
+									"5d2369418abbc306c62e0c80",
+									"5a7b483fe899ef0016170d15",
+									"61605d88ffa6e502ac5e7eeb",
+									"5c5952732e2216398b5abda2",
+									"626becf9582c3e319310b837",
+									"644a3df63b0b6f03e101e065"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_sight_front",
+					"_id": "684b3be8a7c4574ca26f8055",
+					"_parent": "683efdcfceb019abc8a0e386",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ba26b01d4351e0085325a51",
+									"5dfa3d950dee1b22f862eae0",
+									"5c17804b2e2216152006c02f",
+									"5fb6567747ce63734e3fa1dc",
+									"5bc09a30d4351e00367fb7c8",
+									"5c18b90d2e2216152142466b",
+									"5fc0fa362770a0045c59c677",
+									"5894a73486f77426d259076c",
+									"55d4af3a4bdc2d972f8b456f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_foregrip",
+					"_id": "684b3becfee20f986efa841c",
+					"_parent": "683efdcfceb019abc8a0e386",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5c7fc87d2e221644f31c0298",
+									"5cda9bcfd7f00c0c0b53e900",
+									"59f8a37386f7747af3328f06",
+									"619386379fb0c665d5490dbe",
+									"5c87ca002e221600114cb150",
+									"588226d124597767ad33f787",
+									"588226dd24597767ad33f789",
+									"588226e62459776e3e094af7",
+									"588226ef24597767af46e39c",
+									"59fc48e086f77463b1118392",
+									"5fce0cf655375d18a253eff0",
+									"5cf4fb76d7f00c065703d3ac",
+									"5b057b4f5acfc4771e1bd3e9",
+									"5c791e872e2216001219c40a",
+									"558032614bdc2de7118b4585",
+									"58c157be86f77403c74b2bb6",
+									"58c157c886f774032749fb06",
+									"5f6340d3ca442212f4047eb2",
+									"591af28e86f77414a27a9e1d",
+									"5c1cd46f2e22164bef5cfedb",
+									"5c1bc4812e22164bef5cfde7",
+									"5c1bc5612e221602b5429350",
+									"5c1bc5af2e221602b412949b",
+									"5c1bc5fb2e221602b1779b32",
+									"5c1bc7432e221602b412949d",
+									"5c1bc7752e221602b1779b34",
+									"66806fa80f466cb82a215008",
+									"668070f11aff0d6b0cd7fb13",
+									"66a5465a96a99e2e3fc3cb15",
+									"66ea3770d7c670434b6ed74f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
 		},
 		"locales": {
 			"en": {
-				"name": "three",
-				"shortName": "placeholder",
-				"description": "placeholder"
+				"name": "Daniel Defense RIS II M4A1 AR-15 Handguard - 12.25\" Black",
+				"shortName": "RIS II",
+				"description": "The Daniel Defense Rail Interface System (RIS II) was designed at the request of the United States Special Operations Command (SOCOM) for the SOPMOD II program. SOCOM had a specific requirement for a free float M203 solution and Daniel Defense responded, designing a revolutionary product to meet the government’s need. The Daniel Defense RIS II allows the individual operator to free float the M203 grenade launcher without additional parts. As important, special tools are not required to mount the M203 grenade launcher. This was accomplished by integrating all of the needed parts to free float the M203 into the rail itself. The Daniel Defense RIS II is to be used in conjunction with the MK12 Low Profile Gas Block."
 			}
 		},
 		"clearClonedProps": false,
@@ -1054,13 +1341,149 @@
 			},
 			"ConflictingItems": [],
 			"Weight": 0.63,
-			"Slots": []
+			"Slots": [
+				{
+					"_name": "mod_mount_000",
+					"_id": "684b3b9429ba20547c722460",
+					"_parent": "683efdbae549dfcc0132c41d",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_001",
+					"_id": "684b3b99ce00b782b6df507a",
+					"_parent": "683efdbae549dfcc0132c41d",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical",
+					"_id": "684b3b9d7939e8a5e29cbb8e",
+					"_parent": "683efdbae549dfcc0132c41d",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57fd23e32459772d0805bcf1",
+									"544909bb4bdc2d6f028b4577",
+									"5c06595c0db834001a66af6c",
+									"5d2369418abbc306c62e0c80",
+									"5a7b483fe899ef0016170d15",
+									"61605d88ffa6e502ac5e7eeb",
+									"5c5952732e2216398b5abda2",
+									"626becf9582c3e319310b837",
+									"644a3df63b0b6f03e101e065"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_sight_front",
+					"_id": "684b3ba1292d3afc4316b8a0",
+					"_parent": "683efdbae549dfcc0132c41d",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ba26b01d4351e0085325a51",
+									"5dfa3d950dee1b22f862eae0",
+									"5c17804b2e2216152006c02f",
+									"5fb6567747ce63734e3fa1dc",
+									"5bc09a30d4351e00367fb7c8",
+									"5c18b90d2e2216152142466b",
+									"5fc0fa362770a0045c59c677",
+									"5894a73486f77426d259076c",
+									"55d4af3a4bdc2d972f8b456f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_foregrip",
+					"_id": "684b3ba62729c6f678ef5ac9",
+					"_parent": "683efdbae549dfcc0132c41d",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5c7fc87d2e221644f31c0298",
+									"5cda9bcfd7f00c0c0b53e900",
+									"59f8a37386f7747af3328f06",
+									"619386379fb0c665d5490dbe",
+									"5c87ca002e221600114cb150",
+									"588226d124597767ad33f787",
+									"588226dd24597767ad33f789",
+									"588226e62459776e3e094af7",
+									"588226ef24597767af46e39c",
+									"59fc48e086f77463b1118392",
+									"5fce0cf655375d18a253eff0",
+									"5cf4fb76d7f00c065703d3ac",
+									"5b057b4f5acfc4771e1bd3e9",
+									"5c791e872e2216001219c40a",
+									"558032614bdc2de7118b4585",
+									"58c157be86f77403c74b2bb6",
+									"58c157c886f774032749fb06",
+									"5f6340d3ca442212f4047eb2",
+									"591af28e86f77414a27a9e1d",
+									"5c1cd46f2e22164bef5cfedb",
+									"5c1bc4812e22164bef5cfde7",
+									"5c1bc5612e221602b5429350",
+									"5c1bc5af2e221602b412949b",
+									"5c1bc5fb2e221602b1779b32",
+									"5c1bc7432e221602b412949d",
+									"5c1bc7752e221602b1779b34",
+									"66806fa80f466cb82a215008",
+									"668070f11aff0d6b0cd7fb13",
+									"66a5465a96a99e2e3fc3cb15",
+									"66ea3770d7c670434b6ed74f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
 		},
 		"locales": {
 			"en": {
-				"name": "four",
-				"shortName": "placeholder",
-				"description": "placeholder"
+				"name": "Midwest Industries Drop-In Carbine Handguard",
+				"shortName": "MI Carbine",
+				"description": "The Midwest Industries Drop-In Carbine Handguard is lightweight, resilient against wear and weather. It has a simple drop-in installation, making it the ideal platform to mount your accessories of choice and support your attack readiness long term."
 			}
 		},
 		"clearClonedProps": false,
@@ -1324,7 +1747,143 @@
 				"6836e6fef34cc1ae734b444c"
 			],
 			"Weight": 0.63,
-			"Slots": []
+			"Slots": [
+				{
+					"_name": "mod_mount_000",
+					"_id": "684b3ad04caea9adbc50729e",
+					"_parent": "683efdaed6c2ff9b59d1feaa",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_001",
+					"_id": "684b3acdad734bc66d483c44",
+					"_parent": "683efdaed6c2ff9b59d1feaa",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical",
+					"_id": "684b3acc6bb91b333c323ec7",
+					"_parent": "683efdaed6c2ff9b59d1feaa",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57fd23e32459772d0805bcf1",
+									"544909bb4bdc2d6f028b4577",
+									"5c06595c0db834001a66af6c",
+									"5d2369418abbc306c62e0c80",
+									"5a7b483fe899ef0016170d15",
+									"61605d88ffa6e502ac5e7eeb",
+									"5c5952732e2216398b5abda2",
+									"626becf9582c3e319310b837",
+									"644a3df63b0b6f03e101e065"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_sight_front",
+					"_id": "684b3acbca6da5a2df718833",
+					"_parent": "683efdaed6c2ff9b59d1feaa",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ba26b01d4351e0085325a51",
+									"5dfa3d950dee1b22f862eae0",
+									"5c17804b2e2216152006c02f",
+									"5fb6567747ce63734e3fa1dc",
+									"5bc09a30d4351e00367fb7c8",
+									"5c18b90d2e2216152142466b",
+									"5fc0fa362770a0045c59c677",
+									"5894a73486f77426d259076c",
+									"55d4af3a4bdc2d972f8b456f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_foregrip",
+					"_id": "684b3ac98b4f7365c5f73cfc",
+					"_parent": "683efdaed6c2ff9b59d1feaa",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5c7fc87d2e221644f31c0298",
+									"5cda9bcfd7f00c0c0b53e900",
+									"59f8a37386f7747af3328f06",
+									"619386379fb0c665d5490dbe",
+									"5c87ca002e221600114cb150",
+									"588226d124597767ad33f787",
+									"588226dd24597767ad33f789",
+									"588226e62459776e3e094af7",
+									"588226ef24597767af46e39c",
+									"59fc48e086f77463b1118392",
+									"5fce0cf655375d18a253eff0",
+									"5cf4fb76d7f00c065703d3ac",
+									"5b057b4f5acfc4771e1bd3e9",
+									"5c791e872e2216001219c40a",
+									"558032614bdc2de7118b4585",
+									"58c157be86f77403c74b2bb6",
+									"58c157c886f774032749fb06",
+									"5f6340d3ca442212f4047eb2",
+									"591af28e86f77414a27a9e1d",
+									"5c1cd46f2e22164bef5cfedb",
+									"5c1bc4812e22164bef5cfde7",
+									"5c1bc5612e221602b5429350",
+									"5c1bc5af2e221602b412949b",
+									"5c1bc5fb2e221602b1779b32",
+									"5c1bc7432e221602b412949d",
+									"5c1bc7752e221602b1779b34",
+									"66806fa80f466cb82a215008",
+									"668070f11aff0d6b0cd7fb13",
+									"66a5465a96a99e2e3fc3cb15",
+									"66ea3770d7c670434b6ed74f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
 		},
 		"locales": {
 			"en": {
@@ -1593,7 +2152,7 @@
 				"path": "Attachments/Handguards/handguard_ar15_mlok_gasblock_cutout.bundle",
 				"rcid": ""
 			},
-		"ConflictingItems": [
+			"ConflictingItems": [
 				"6357c98711fb55120211f7e1",
 				"5d440b9fa4b93601354d480c",
 				"5d440b93a4b9364276578d4b",
@@ -2278,7 +2837,7 @@
 			}
 		]
 	},
-		"684b0ebacd8783bec9435103": {
+	"684b0ebacd8783bec9435103": {
 		"itemTplToClone": "619b5db699fb192e7430664f",
 		"parentId": "55818a104bdc2db9688b4569",
 		"handbookParentId": "5b5f75e486f77447ec5d7712",
@@ -2298,7 +2857,6 @@
 			"Ergonomics": 7,
 			"Width": 2,
 			"ExtraSizeLeft": 1
-			
 		},
 		"locales": {
 			"en": {
