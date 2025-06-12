@@ -1296,13 +1296,14 @@
                 "path": "Attachments/Stocks/stock_ar15_m16a1.bundle",
                 "rcid": ""
             },
-            "CanSellOnRagfair": true
+            "CanSellOnRagfair": true,
+            "Recoil": -21
         },
         "locales": {
             "en": {
-                "name": "Echoes Defense Retro M16A1 Stock",
-                "shortName": "M16A1 Stock",
-                "description": "The Echoes Defense Retro M16A1 Stock is a rugged, fixed polymer stock modeled after the original Vietnam-era design. Its classic shape offers solid recoil control and a timeless aesthetic for vintage rifle builds."
+                "name": "AR-15 Armalite M16A1-style stock",
+                "shortName": "M16A1",
+                "description": "The Armalite M16A1 Stock is a rugged, fixed polymer stock modeled after the original Vietnam-era design. Its classic shape offers solid recoil control and a timeless aesthetic for vintage rifle builds."
             }
         },
         "clearClonedProps": false,
