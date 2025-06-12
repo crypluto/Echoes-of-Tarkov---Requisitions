@@ -1227,7 +1227,7 @@
         ]
     },
     "683f0510d6e616e483b9bbcb": {
-        "itemTplToClone": "5d4406a8a4b9361e4f6eb8b7",
+        "itemTplToClone": "58d2946386f774496974c37e",
         "parentId": "STOCK",
         "handbookParentId": "MOD_STOCK",
         "overrideProperties": {
@@ -1239,9 +1239,9 @@
         },
         "locales": {
             "en": {
-                "name": "PLacerholder",
-                "shortName": "help me",
-                "description": "AHHHHHH"
+                "name": "DPMS CAR-15 Fiberlite Stock",
+                "shortName": "Car-15",
+                "description": "he Retro DPMS CAR-15 Kit alows you to add some throw back vibes with some modern features to your new build. Everything you need to complete out the stock assembly is included with this kit and will give your new build or existing lower that old school flare you have been craving."
             }
         },
         "clearClonedProps": false,
@@ -1300,9 +1300,9 @@
         },
         "locales": {
             "en": {
-                "name": "PLacerholder",
-                "shortName": "help me",
-                "description": "AHHHHHH"
+                "name": "Echoes Defense Retro M16A1 Stock",
+                "shortName": "M16A1 Stock",
+                "description": "The Echoes Defense Retro M16A1 Stock is a rugged, fixed polymer stock modeled after the original Vietnam-era design. Its classic shape offers solid recoil control and a timeless aesthetic for vintage rifle builds."
             }
         },
         "clearClonedProps": false,
@@ -1361,9 +1361,9 @@
         },
         "locales": {
             "en": {
-                "name": "PLacerholder",
-                "shortName": "help me",
-                "description": "AHHHHHH"
+                "name": "NCR Ranger M16A1 Wooden stock",
+                "shortName": "NCR Stock",
+                "description": "Patrolling the Mojave almost makes you wish for a nuclear winter"
             }
         },
         "clearClonedProps": false,
@@ -1410,8 +1410,8 @@
         ]
     },
     "683f0586083dc0841a3ae0fc": {
-        "itemTplToClone": "5649be884bdc2d79388b4577",
-        "parentId": "STOCK",
+        "itemTplToClone": "591aef7986f774139d495f03",
+        "parentId": "55818a594bdc2db9688b456a",
         "handbookParentId": "MOD_STOCK",
         "overrideProperties": {
             "Prefab": {
@@ -1422,9 +1422,9 @@
         },
         "locales": {
             "en": {
-                "name": "PLacerholder",
-                "shortName": "help me",
-                "description": "AHHHHHH"
+                "name": "Battle Arms AR-15 VERT GEN2 PDW Stock",
+                "shortName": "VERT EXTENDED",
+                "description": "Battle Arms AR-15 VERT PDW Stock System. With lightweight engineering this stock system is only 19.5 oz!  That's 30%-40% lighter that traditional PDW Stock Systems.  And with simple \"bolt on\" installation this stock system is compatible with most AR-15 style lower receivers."
             }
         },
         "clearClonedProps": false,
@@ -1471,8 +1471,8 @@
         ]
     },
     "683f05abfde64f8d79afaa5e": {
-        "itemTplToClone": "5649be884bdc2d79388b4577",
-        "parentId": "STOCK",
+        "itemTplToClone": "591aef7986f774139d495f03",
+        "parentId": "55818a594bdc2db9688b456a",
         "handbookParentId": "MOD_STOCK",
         "overrideProperties": {
             "Prefab": {
@@ -1482,10 +1482,10 @@
             "CanSellOnRagfair": true
         },
         "locales": {
-            "en": {
-                "name": "PLacerholder",
-                "shortName": "help me",
-                "description": "AHHHHHH"
+           "en": {
+                "name": "ODIN WORKS Padded Pistol Buffer Tube",
+                "shortName": "ODIN WORKS",
+                "description": "Padded pistol buffer tube "
             }
         },
         "clearClonedProps": false,
@@ -1532,8 +1532,8 @@
         ]
     },
     "683f059f370de8b72f4eb839": {
-        "itemTplToClone": "5649be884bdc2d79388b4577",
-        "parentId": "STOCK",
+        "itemTplToClone": "591aef7986f774139d495f03",
+        "parentId": "55818a594bdc2db9688b456a",
         "handbookParentId": "MOD_STOCK",
         "overrideProperties": {
             "Prefab": {
@@ -1544,9 +1544,9 @@
         },
         "locales": {
             "en": {
-                "name": "PLacerholder",
-                "shortName": "help me",
-                "description": "AHHHHHH"
+                "name": "Battle Arms AR-15 VERT GEN2 PDW Stock",
+                "shortName": "VERT Collapsed",
+                "description": "Battle Arms AR-15 VERT PDW Stock System. With lightweight engineering this stock system is only 19.5 oz!  That's 30%-40% lighter that traditional PDW Stock Systems.  And with simple \"bolt on\" installation this stock system is compatible with most AR-15 style lower receivers."
             }
         },
         "clearClonedProps": false,
