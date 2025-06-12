@@ -294,7 +294,7 @@
 		"addtoInventorySlots": [],
 		"addtoModSlots": true,
 		"modSlot": [
-			"mod_mount",
+			"mod_scope",
 			"mod_scope_000",
 			"mod_scope_001"
 		],
@@ -417,7 +417,7 @@
 		"addtoInventorySlots": [],
 		"addtoModSlots": true,
 		"modSlot": [
-			"mod_mount",
+			"mod_scope",
 			"mod_scope_000",
 			"mod_scope_001"
 		],
@@ -540,7 +540,7 @@
 		"addtoInventorySlots": [],
 		"addtoModSlots": true,
 		"modSlot": [
-			"mod_mount",
+			"mod_scope",
 			"mod_scope_000",
 			"mod_scope_001"
 		],
@@ -663,7 +663,7 @@
 		"addtoInventorySlots": [],
 		"addtoModSlots": true,
 		"modSlot": [
-			"mod_mount",
+			"mod_scope",
 			"mod_scope_000",
 			"mod_scope_001"
 		],
