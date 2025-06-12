@@ -63,7 +63,9 @@
 		"addtoInventorySlots": [],
 		"addtoModSlots": false,
 		"modSlot": [],
-		"ModdableItemWhitelist": [],
+		"ModdableItemWhitelist": [
+			"5ae30bad5acfc400185c2dc4"
+		],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 27000,
 		"handbookPriceRoubles": 3500,
@@ -87,27 +89,27 @@
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-				"Probability": 1600
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-				"Probability": 1600
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-				"Probability": 1600
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
-				"Probability": 1600
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
-				"Probability": 1600
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-				"Probability": 1600
+				"Probability": 6
 			}
 		]
 	},
@@ -175,7 +177,9 @@
 		"addtoInventorySlots": [],
 		"addtoModSlots": false,
 		"modSlot": [],
-		"ModdableItemWhitelist": [],
+		"ModdableItemWhitelist": [
+			"5ae30bad5acfc400185c2dc4"
+		],
 		"ModdableItemBlacklist": [],
 		"fleaPriceRoubles": 27000,
 		"handbookPriceRoubles": 3500,
@@ -199,27 +203,27 @@
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-				"Probability": 1600
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-				"Probability": 1600
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-				"Probability": 1600
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
-				"Probability": 1600
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
-				"Probability": 1600
+				"Probability": 6
 			},
 			{
 				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
-				"Probability": 1600
+				"Probability": 6
 			}
 		]
 	},

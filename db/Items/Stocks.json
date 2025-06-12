@@ -30,7 +30,10 @@
             "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "traderId": "MECHANIC",
         "traderItems": [
             {
@@ -98,7 +101,10 @@
             "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "traderId": "MECHANIC",
         "traderItems": [
             {
@@ -166,7 +172,10 @@
             "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "traderId": "MECHANIC",
         "traderItems": [
             {
@@ -234,7 +243,10 @@
             "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "traderId": "MECHANIC",
         "traderItems": [
             {
@@ -302,7 +314,10 @@
             "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "traderId": "MECHANIC",
         "traderItems": [
             {
@@ -370,7 +385,10 @@
             "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "traderId": "MECHANIC",
         "traderItems": [
             {
@@ -432,7 +450,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 6751,
         "handbookPriceRoubles": 3780,
         "addtoStaticLootContainers": true,
@@ -480,7 +501,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 4510,
         "handbookPriceRoubles": 3780,
         "addtoStaticLootContainers": true,
@@ -528,7 +552,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 3510,
         "handbookPriceRoubles": 3780,
         "addtoStaticLootContainers": true,
@@ -576,7 +603,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 4530,
         "handbookPriceRoubles": 3780,
         "addtoStaticLootContainers": true,
@@ -624,7 +654,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 8642,
         "handbookPriceRoubles": 3780,
         "addtoStaticLootContainers": true,
@@ -675,7 +708,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 41032,
         "handbookPriceRoubles": 8500,
         "addtoStaticLootContainers": true,
@@ -726,7 +762,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 41032,
         "handbookPriceRoubles": 8500,
         "addtoStaticLootContainers": true,
@@ -778,7 +817,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 69420,
         "handbookPriceRoubles": 69420,
         "addtoStaticLootContainers": true,
@@ -830,7 +872,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 41032,
         "handbookPriceRoubles": 28500,
         "addtoStaticLootContainers": true,
@@ -882,7 +927,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 41032,
         "handbookPriceRoubles": 28500,
         "addtoStaticLootContainers": true,
@@ -934,7 +982,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 41032,
         "handbookPriceRoubles": 28500,
         "addtoStaticLootContainers": true,
@@ -986,7 +1037,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 41032,
         "handbookPriceRoubles": 28500,
         "addtoStaticLootContainers": true,
@@ -1038,7 +1092,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 41032,
         "handbookPriceRoubles": 28500,
         "addtoStaticLootContainers": true,
@@ -1090,7 +1147,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 41032,
         "handbookPriceRoubles": 28500,
         "addtoStaticLootContainers": true,
@@ -1142,7 +1202,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "fleaPriceRoubles": 41032,
         "handbookPriceRoubles": 28500,
         "addtoStaticLootContainers": true,
@@ -1190,7 +1253,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "traderItems": [
             {
                 "unlimitedCount": true,
@@ -1252,7 +1318,10 @@
             "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "traderItems": [
             {
                 "unlimitedCount": true,
@@ -1314,7 +1383,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "traderItems": [
             {
                 "unlimitedCount": true,
@@ -1375,7 +1447,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "traderItems": [
             {
                 "unlimitedCount": true,
@@ -1436,7 +1511,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "traderItems": [
             {
                 "unlimitedCount": true,
@@ -1497,7 +1575,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "traderItems": [
             {
                 "unlimitedCount": true,
@@ -1558,7 +1639,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "traderItems": [
             {
                 "unlimitedCount": true,
