@@ -1227,7 +1227,7 @@
         ]
     },
     "683f0510d6e616e483b9bbcb": {
-        "itemTplToClone": "58d2946386f774496974c37e",
+        "itemTplToClone": "55d4ae6c4bdc2d8b2f8b456e",
         "parentId": "STOCK",
         "handbookParentId": "MOD_STOCK",
         "overrideProperties": {
@@ -1248,7 +1248,8 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "modSlot": [
-            "mod_stock"
+            "MOD_STOCK",
+            "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [],
@@ -1483,7 +1484,7 @@
             "CanSellOnRagfair": true
         },
         "locales": {
-           "en": {
+            "en": {
                 "name": "ODIN WORKS Padded Pistol Buffer Tube",
                 "shortName": "ODIN WORKS",
                 "description": "Padded pistol buffer tube "

@@ -1017,6 +1017,24 @@
 					"_proto": "55d30c4c4bdc2db4468b457e"
 				},
 				{
+					"_name": "mod_scope_000",
+					"_id": "684b48e20b60657b071528b1",
+					"_parent": "683efdcfceb019abc8a0e386",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5649a2464bdc2d91118b45a8"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
 					"_name": "mod_sight_front",
 					"_id": "684b3be8a7c4574ca26f8055",
 					"_parent": "683efdcfceb019abc8a0e386",
@@ -1361,6 +1379,24 @@
 					"_proto": "55d30c4c4bdc2db4468b457e"
 				},
 				{
+					"_name": "mod_scope_000",
+					"_id": "684b4901ed3ed2786f61937a",
+					"_parent": "683efdbae549dfcc0132c41d",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5649a2464bdc2d91118b45a8"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
 					"_name": "mod_mount_001",
 					"_id": "684b3b99ce00b782b6df507a",
 					"_parent": "683efdbae549dfcc0132c41d",
@@ -1576,6 +1612,24 @@
 					"_proto": "55d30c4c4bdc2db4468b457e"
 				},
 				{
+					"_name": "mod_scope_000",
+					"_id": "684b496bddf41e5596699229",
+					"_parent": "683efdb7db86d6db51c97819",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5649a2464bdc2d91118b45a8"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
 					"_name": "mod_mount_001",
 					"_id": "684576943bac1d6f71d0bbb2",
 					"_parent": "683efdb7db86d6db51c97819",
@@ -1757,6 +1811,24 @@
 							{
 								"Filter": [
 									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_scope_000",
+					"_id": "684b4989006fbf57604549af",
+					"_parent": "683efdaed6c2ff9b59d1feaa",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5649a2464bdc2d91118b45a8"
 								],
 								"Shift": 0
 							}
@@ -2187,6 +2259,24 @@
 					"_proto": "55d30c4c4bdc2db4468b457e"
 				},
 				{
+					"_name": "mod_scope_000",
+					"_id": "684b49a6e9801eec169a58f6",
+					"_parent": "683efd7cb750cc7bddbd232f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5649a2464bdc2d91118b45a8"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
 					"_name": "mod_mount_001",
 					"_id": "684576943bac1d6f71d0bbb2",
 					"_parent": "683efdb7db86d6db51c97819",
@@ -2372,6 +2462,24 @@
 					"_proto": "55d30c4c4bdc2db4468b457e"
 				},
 				{
+					"_name": "mod_scope_000",
+					"_id": "684b49c095e9e345219217c7",
+					"_parent": "683efd71f59c98d2c4627562",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5649a2464bdc2d91118b45a8"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
 					"_name": "mod_mount_001",
 					"_id": "684ae580ed3b7c227e6718fc",
 					"_parent": "683efd71f59c98d2c4627562",
@@ -2540,6 +2648,24 @@
 							{
 								"Filter": [
 									"55818b164bdc2ddc698b456c"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_scope_000",
+					"_id": "684b49e5758d9535457ec896",
+					"_parent": "683efd600f2babf75038dc1c",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5649a2464bdc2d91118b45a8"
 								],
 								"Shift": 0
 							}
