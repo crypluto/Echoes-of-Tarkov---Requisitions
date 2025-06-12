@@ -11,12 +11,16 @@
         "Echoes of Tarkov - Junker",
         "Virtual's Custom Quest Loader"
     ],
-	"loadAfter": [],
+	"loadAfter": [
+        "EpicRangeTime-Weapons"
+    ],
     "isBundleMod": true,
-	"incompatibilities": [],
+	"incompatibilities": [
+        "Eukyre-BaseplateMags"
+    ],
 	"contributors": [
         "Pigeon",
-        "defonotmaple",
+        "ProbablyEukyre",
         "WTT Team"
     ],
     "scripts": {

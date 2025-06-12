@@ -1936,7 +1936,9 @@
 				"path": "Attachments/Handguards/handguard_ar15_slash_quad_rail.bundle",
 				"rcid": ""
 			},
-			"ConflictingItems": [],
+			"ConflictingItems": [
+				"5bffcf7a0db83400232fea79"
+			],
 			"Weight": 0.63,
 			"Slots": [
 				{
@@ -1947,8 +1949,7 @@
 						"filters": [
 							{
 								"Filter": [
-									"59e0bdb186f774156f04ce82",
-									"623c2f652febb22c2777d8d7"
+									"55818b164bdc2ddc698b456c"
 								],
 								"Shift": 0
 							}
@@ -1966,8 +1967,7 @@
 						"filters": [
 							{
 								"Filter": [
-									"59e0bdb186f774156f04ce82",
-									"623c2f652febb22c2777d8d7"
+									"55818b164bdc2ddc698b456c"
 								],
 								"Shift": 0
 							}
@@ -2051,9 +2051,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Defense AR-15 \"Resonate\" Handguard",
-				"shortName": "Resonate",
-				"description": "The Resonate Handguard from Echoes Defense is a top-of-the-line quality quad rail handguard"
+				"name": "Echoes Defense AR-15 \"Resonant\" Handguard",
+				"shortName": "Resonant",
+				"description": "The Resonant Handguard from Echoes Defense is a top-of-the-line quality quad rail handguard"
 			}
 		},
 		"clearClonedProps": false,
