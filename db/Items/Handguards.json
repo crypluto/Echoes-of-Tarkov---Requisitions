@@ -1673,7 +1673,7 @@
 			}
 		]
 	},
-	"683efd600f2babf75038dc1c": {
+	"683efd600f2babf75038dc1c": { FIXXXXXXXXXXXXXXXXXX MEEEEEEEEEEEEEEEEEEEEEE
 		"itemTplToClone": "619b5db699fb192e7430664f",
 		"parentId": "55818a104bdc2db9688b4569",
 		"handbookParentId": "5b5f75e486f77447ec5d7712",
@@ -1689,9 +1689,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "placeholder m16 handguard",
-				"shortName": "placeholder",
-				"description": "placeholder"
+				"name": "Echoes Defense AR-15 \"Resonate\" Handguard",
+				"shortName": "Resonate",
+				"description": "The Resonate Handguard from Echoes Defense is a top-of-the-line quality quad rail handguard"
 			}
 		},
 		"clearClonedProps": false,
