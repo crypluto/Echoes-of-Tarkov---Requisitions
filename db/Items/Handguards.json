@@ -2217,5 +2217,79 @@
 				"Probability": 1
 			}
 		]
+	},
+		"684b0ebacd8783bec9435103": {
+		"itemTplToClone": "619b5db699fb192e7430664f",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/m16a1short.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"5bffcf7a0db83400232fea79",
+				"6837716de936d83c13099eea",
+				"68398cd864a9d113ebab1b77",
+				"6357c98711fb55120211f7e1"
+			],
+			"Weight": 0.63,
+			"Ergonomics": 7,
+			"Width": 2,
+			"ExtraSizeLeft": 1
+			
+		},
+		"locales": {
+			"en": {
+				"name": "Colt M16A1 Triangular short handguard",
+				"shortName": "M16A1",
+				"description": ""
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 39,
+				"_tpl": "EUROS"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 7934,
+		"handbookPriceRoubles": 5831,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
