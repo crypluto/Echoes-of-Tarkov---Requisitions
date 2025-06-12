@@ -1,0 +1,492 @@
+{
+    "684b257022b8260501141308": {
+        "itemTplToClone": "5a7ae0c351dfba0017554310",
+        "parentId": "5447b5cf4bdc2d65278b4567",
+        "handbookParentId": "5b5f792486f77447ed5636b3",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponPitViper/weapon_pitviper_container.bundle",
+                "rcid": ""
+            },
+            "RecoilForceBack": 230,
+            "Ergonomics": 90,
+            "BaseMalfunctionChance": 0.14,
+            "RecoilForceUp": 285,
+            "RecoilDampingHandRotation": 0.62,
+            "ExaminedByDefault": true,
+            "defMagType": "684b261ee900b79b5be17c74",
+            "defAmmo": "58864a4f2459770fcc257101",
+            "Slots": [
+                {
+                    "_id": "684b2612a06e16484cb3c442",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_barrel",
+                    "_parent": "684b257022b8260501141308",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "684b2662bab8ebd87f683c57"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "684b2610406197d607ad8ae9",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_reciever",
+                    "_parent": "684b257022b8260501141308",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "684b2623dd333cf908b7c695"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "684b260d108c64b829b0b52f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_magazine",
+                    "_parent": "684b257022b8260501141308",
+                    "_props": {
+                        "filters": [
+                            {
+                                "AnimationIndex": 0,
+                                "Filter": [
+                                    "684b261ee900b79b5be17c74"
+                                   
+                                ]
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c394bdc2dae468b4577",
+                    "_required": false
+                },
+                {
+                    "_id": "684b260a79b6401964688f1a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_trigger",
+                    "_parent": "684b257022b8260501141308",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "684b2626a61732cce6be2fdc"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "684b26084c725c983ea60d67",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_hammer",
+                    "_parent": "684b257022b8260501141308",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "684b262a5aa7a321ae3a7b5b"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "684b2605f3b60045f3622936",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_tactical",
+                    "_parent": "684b257022b8260501141308",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a800961159bd4315e3a1657",
+                                    "5cc9c20cd7f00c001336c65d",
+                                    "5d2369418abbc306c62e0c80",
+                                    "5b07dd285acfc4001754240d",
+                                    "56def37dd2720bec348b456a",
+                                    "5a7b483fe899ef0016170d15",
+                                    "5a5f1ce64f39f90b401987bc",
+                                    "560d657b4bdc2da74d8b4572",
+                                    "6272370ee4013c5d7e31f418",
+                                    "6272379924e29f06af4d5ecb"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "JW4 TTI Pit Viper",
+                "shortName": "Pit Viper",
+                "description": "test"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 31800,
+        "handbookPriceRoubles": 10500,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": true,
+        "masterySections": [
+            {
+                "Level2": 75,
+                "Level3": 100,
+                "Name": "m1911",
+                "Templates": [
+                    "684b257022b8260501141308"
+                ]
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_changeWeaponName": false,
+                "_encyclopedia": "684b257022b8260501141308",
+                "_id": "684b262f1e6023175139a2f4",
+                "_items": [
+                    {
+                        "_id": "684b26335b08392e42191c2e",
+                        "_tpl": "684b257022b8260501141308",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            },
+                            "FireMode": {
+                                "FireMode": "single"
+                            }
+                        }
+                    },
+                    {
+                        "_id": "684b264b499c134f89ce72dd",
+                        "_tpl": "684b2662bab8ebd87f683c57",
+                        "parentId": "684b26335b08392e42191c2e",
+                        "slotId": "mod_barrel"
+                    },
+                    {
+                        "_id": "684b26435da35db736e481df",
+                        "_tpl": "684b2623dd333cf908b7c695",
+                        "parentId": "684b26335b08392e42191c2e",
+                        "slotId": "mod_reciever"
+                    },
+                    {
+                        "_id": "684b2648b2cecac1e69d1922",
+                        "_tpl": "684b262a5aa7a321ae3a7b5b",
+                        "parentId": "684b26335b08392e42191c2e",
+                        "slotId": "mod_hammer"
+                    },
+                    {
+                        "_id": "684b26415b83c84e6b697007",
+                        "_tpl": "684b271ce72d12cf50b2a0dd",
+                        "parentId": "684b26435da35db736e481df",
+                        "slotId": "mod_scope"
+                    },
+                    {
+                        "_id": "684b263fcfc60a304bf49b1a",
+                        "_tpl": "684b2626a61732cce6be2fdc",
+                        "parentId": "684b26335b08392e42191c2e",
+                        "slotId": "mod_trigger"
+                    },
+                    {
+                        "_id": "684b263da3bbc4d81ebd881f",
+                        "_tpl": "684b261ee900b79b5be17c74",
+                        "parentId": "684b26335b08392e42191c2e",
+                        "slotId": "mod_magazine"
+                    }
+                ],
+                "_name": "PitViperStandard",
+                "_parent": "684b26335b08392e42191c2e",
+                "_type": "Preset"
+            }
+        ],
+        "traders": {}
+    },
+    "684b2662bab8ebd87f683c57": {
+        "itemTplToClone": "5f3e7801153b8571434a924c",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponPitViper/viper_barrel.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "Recoil": -4,
+            "Ergonomics": -3,
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "JW4 TTI Pit Viper 9x19mm barrel",
+                "shortName": "Pit Viper",
+                "description": "A 9x19mm barrel with front sight post for the JW4 TTI Pit Viper 9x19mm pistol."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 9250,
+        "handbookPriceRoubles": 5050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "684b2623dd333cf908b7c695": {
+        "itemTplToClone": "5f3e7823ddc4f03b010e2045",
+        "parentId": "55818a304bdc2db5418b457d",
+        "handbookParentId": "5b5f764186f77447ec5d7714",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponPitViper/viper_slide.bundle",
+                "rcid": ""
+            },
+            "Ergonomics": 3.5,
+            "Slots": [
+                {
+                    "_id": "684b26fe5d0b416cd36cffaa",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_scope",
+                    "_parent": "684b2623dd333cf908b7c695",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737",
+                                    "58d268fc86f774111273f8c2",
+                                    "615d8da4d3a39d50044c10e8",
+                                    "577d141e24597739c5255e01",
+                                    "684b271ce72d12cf50b2a0dd"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ],
+            "ExaminedByDefault": true
+        },
+        "locales": {
+            "en": {
+                "name": "JW4 TTI Pit Viper 9x19mm slide",
+                "shortName": "Pit Viper",
+                "description": "An optics-ready slide for the JW4 TTI Pit Viper 9x19mm pistol."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_receiver"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 16890,
+        "handbookPriceRoubles": 7940,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "684b262a5aa7a321ae3a7b5b": {
+        "itemTplToClone": "5f3e76d86cda304dcc634054",
+        "parentId": "5a74651486f7744e73386dd1",
+        "handbookParentId": "5b5f74cc86f77447ec5d770a",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponPitViper/viper_hammer.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true
+        },
+        "locales": {
+            "en": {
+                "name": "JW4 TTI Pit Viper hammer",
+                "shortName": "Pit Viper",
+                "description": "A lightweight hammer for the JW4 Pit Viper 9x19mm pistol."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_hammer"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 5052,
+        "handbookPriceRoubles": 3050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "684b2626a61732cce6be2fdc": {
+        "itemTplToClone": "5f3e772a670e2a7b01739a52",
+        "parentId": "5a74651486f7744e73386dd1",
+        "handbookParentId": "5b5f74cc86f77447ec5d770a",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponPitViper/viper_trigger.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true
+        },
+        "locales": {
+            "en": {
+                "name": "JW4 TTI Pit Viper trigger",
+                "shortName": "Pit Viper",
+                "description": "Standard lightweight trigger for the JW4 TTI Pit Viper 9x19mm handgun."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_trigger"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 1900,
+        "handbookPriceRoubles": 1100,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "684b261ee900b79b5be17c74": {
+        "itemTplToClone": "5a718da68dc32e000d46d264",
+        "parentId": "5448bc234bdc2d3c308b4569",
+        "handbookParentId": "5b5f754a86f774094242f19b",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponPitViper/viper_magazine.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "magAnimationIndex": 0
+        },
+        "locales": {
+            "en": {
+                "name": "JW4 TTI Pit Viper 21-round 9x19mm magazine",
+                "shortName": "Pit Viper",
+                "description": "Standard 21-round magazine for the JW4 TTI Pit Viper 9x19mm pistol."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_magazine"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 3890,
+        "handbookPriceRoubles": 2500,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "684b271ce72d12cf50b2a0dd": {
+        "itemTplToClone": "630765cb962d0247b029dc45",
+        "parentId": "55818ac54bdc2d5b648b456e",
+        "handbookParentId": "5b5f746686f77447ec5d7708",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "WeaponPitViper/viper_rs.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "JW4 TTI Pit Viper rear sight",
+                "shortName": "Pit Viper RS",
+                "description": "Standard JW4 TTI Pit Viper rear pistol sight."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4950,
+        "handbookPriceRoubles": 2560,
+        "addtoTraders": false,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 7240,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": []
+    }
+}
