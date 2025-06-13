@@ -14,6 +14,7 @@
             "RecoilForceUp": 285,
             "RecoilDampingHandRotation": 0.62,
             "ExaminedByDefault": true,
+            "SingleFireRate": 550,
             "defMagType": "684b261ee900b79b5be17c74",
             "defAmmo": "58864a4f2459770fcc257101",
             "Slots": [
@@ -64,7 +65,6 @@
                                 "AnimationIndex": 0,
                                 "Filter": [
                                     "684b261ee900b79b5be17c74"
-                                   
                                 ]
                             }
                         ]
@@ -139,9 +139,9 @@
         },
         "locales": {
             "en": {
-                "name": "JW4 TTI Pit Viper",
+                "name": "Taran Tactical Pit Viper 9x19 pistol",
                 "shortName": "Pit Viper",
-                "description": "test"
+                "description": "The TTI Pit Viper 9x19 pistol is an american-built high-performance pistol built around speed and precision; it features a 5 inch (127mm) barrel with a built-in compensator for recoil reduction alongside a fast-reset trigger which allows for a higher rate of fire. Manufactured by Taran Tactical Innovations."
             }
         },
         "clearClonedProps": false,
@@ -256,9 +256,9 @@
         },
         "locales": {
             "en": {
-                "name": "JW4 TTI Pit Viper 9x19mm barrel",
+                "name": "TTI Pit Viper 9x19mm barrel",
                 "shortName": "Pit Viper",
-                "description": "A 9x19mm barrel with front sight post for the JW4 TTI Pit Viper 9x19mm pistol."
+                "description": "A 5 inch 9x19mm barrel with front sight post for the TTI Pit Viper 9x19mm pistol."
             }
         },
         "clearClonedProps": false,
@@ -316,9 +316,9 @@
         },
         "locales": {
             "en": {
-                "name": "JW4 TTI Pit Viper 9x19mm slide",
+                "name": "TTI Pit Viper 9x19mm pistol slide",
                 "shortName": "Pit Viper",
-                "description": "An optics-ready slide for the JW4 TTI Pit Viper 9x19mm pistol."
+                "description": "An optics-ready slide for the TTI Pit Viper 9x19mm pistol."
             }
         },
         "clearClonedProps": false,
@@ -351,9 +351,9 @@
         },
         "locales": {
             "en": {
-                "name": "JW4 TTI Pit Viper hammer",
+                "name": "TTI Pit Viper hammer",
                 "shortName": "Pit Viper",
-                "description": "A lightweight hammer for the JW4 Pit Viper 9x19mm pistol."
+                "description": "A lightweight hammer for the TTI Pit Viper 9x19mm pistol."
             }
         },
         "clearClonedProps": false,
@@ -386,9 +386,9 @@
         },
         "locales": {
             "en": {
-                "name": "JW4 TTI Pit Viper trigger",
+                "name": "TTI Pit Viper lightweight trigger",
                 "shortName": "Pit Viper",
-                "description": "Standard lightweight trigger for the JW4 TTI Pit Viper 9x19mm handgun."
+                "description": "Standard lightweight trigger for the TTI Pit Viper 9x19mm handgun."
             }
         },
         "clearClonedProps": false,
@@ -422,9 +422,9 @@
         },
         "locales": {
             "en": {
-                "name": "JW4 TTI Pit Viper 21-round 9x19mm magazine",
+                "name": "TTI Pit Viper 21-round 9x19mm magazine",
                 "shortName": "Pit Viper",
-                "description": "Standard 21-round magazine for the JW4 TTI Pit Viper 9x19mm pistol."
+                "description": "Standard 21-round magazine for the TTI Pit Viper 9x19mm pistol."
             }
         },
         "clearClonedProps": false,
@@ -457,9 +457,9 @@
         },
         "locales": {
             "en": {
-                "name": "JW4 TTI Pit Viper rear sight",
+                "name": "TTI Pit Viper rear sight",
                 "shortName": "Pit Viper RS",
-                "description": "Standard JW4 TTI Pit Viper rear pistol sight."
+                "description": "Standard TTI Pit Viper rear pistol sight."
             }
         },
         "clearClonedProps": false,
