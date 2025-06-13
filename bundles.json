@@ -209,7 +209,7 @@
             ]
         },
         {
-            "key": "Attachments/m16a1short.bundle",
+            "key": "Attachments/Handguards/m16a1short.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
