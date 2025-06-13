@@ -36,6 +36,7 @@ var __importStar = (this && this.__importStar) || (function () {
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs = __importStar(require("fs"));
 const path = __importStar(require("path"));
+const LogTextColor_1 = require("C:/snapshot/project/obj/models/spt/logging/LogTextColor");
 // WTT imports
 const WTTInstanceManager_1 = require("./WTTInstanceManager");
 const EpicsEdits_1 = require("./EpicsEdits");
@@ -56,29 +57,31 @@ class AAAViperItems {
     customAssortSchemeService = new CustomAssortSchemeService_1.CustomAssortSchemeService();
     customWeaponPresets = new CustomWeaponPresets_1.CustomWeaponPresets();
     debug = false;
-    // Anything that needs done on preSptLoad, place here.
     preSptLoad(container) {
-        // Initialize the instance manager DO NOTHING ELSE BEFORE THIS
         this.Instance.preSptLoad(container, this.modName);
         this.Instance.debug = this.debug;
-        // EVERYTHING AFTER HERE MUST USE THE INSTANCE
         this.getVersionFromJson();
-        // Custom Bosses
         this.customItemService.preSptLoad(this.Instance);
         this.customAssortSchemeService.preSptLoad(this.Instance);
         this.customWeaponPresets.preSptLoad(this.Instance);
         this.epicItemClass.preSptLoad(this.Instance);
     }
-    // Anything that needs done on postDBLoad, place here.
     postDBLoad(container) {
-        // Initialize the instance manager DO NOTHING ELSE BEFORE THIS
         this.Instance.postDBLoad(container);
-        // EVERYTHING AFTER HERE MUST USE THE INSTANCE
-        // Bosses
         this.customItemService.postDBLoad();
         this.customAssortSchemeService.postDBLoad();
         this.customWeaponPresets.postDBLoad();
         this.epicItemClass.postDBLoad();
+        // Inject bg.png override
+        const imageRouter = container.resolve("ImageRouter");
+        const imagePath = path.resolve(__dirname, "../assets/images/launcher/bg.png");
+        if (fs.existsSync(imagePath)) {
+            this.Instance.logger.log("Overriding launcher background with custom bg.png", LogTextColor_1.LogTextColor.MAGENTA);
+            imageRouter.addRoute("/files/launcher/bg", imagePath);
+        }
+        else {
+            this.Instance.logger.warning("Custom bg.png not found at expected path: " + imagePath);
+        }
     }
     getVersionFromJson() {
         const packageJsonPath = path.join(__dirname, "../package.json");
