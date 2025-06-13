@@ -64,7 +64,6 @@
                                 "AnimationIndex": 0,
                                 "Filter": [
                                     "684b261ee900b79b5be17c74"
-                                   
                                 ]
                             }
                         ]
@@ -141,7 +140,7 @@
             "en": {
                 "name": "JW4 TTI Pit Viper",
                 "shortName": "Pit Viper",
-                "description": "test"
+                "description": "Purpose-built for speed and control, the Pit Viper is a tuned, competition-grade 2011 that bridges the gap between Hollywood flair and real-world performance. Featuring a single-port compensator, flared magwell, and aggressive slide serrations, it’s designed for fast follow-up shots and confident handling—whether on the range or in the thick of a fight. All show, all go."
             }
         },
         "clearClonedProps": false,

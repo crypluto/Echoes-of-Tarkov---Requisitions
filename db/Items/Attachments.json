@@ -1497,7 +1497,7 @@
 		"handbookParentId": "5b5f761f86f774094242f1a1",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/Kungfublk.bundle",
+				"path": "Attachments/kungfublk.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.1,
@@ -1564,7 +1564,7 @@
 		"handbookParentId": "5b5f761f86f774094242f1a1",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/Kungfutan.bundle",
+				"path": "Attachments/kungfutan.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.1,
@@ -1632,7 +1632,7 @@
 		"handbookParentId": "5b5f761f86f774094242f1a1",
 		"overrideProperties": {
 			"Prefab": {
-				"path": "Attachments/Kungfugreen.bundle",
+				"path": "Attachments/kungfugreen.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.1,
