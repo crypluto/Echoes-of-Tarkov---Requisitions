@@ -2,7 +2,7 @@ import os
 import json
 
 # Path to the folder containing JSON files
-FOLDER_PATH = "./json_folder"  # Change this to your target folder path
+FOLDER_PATH = "./items"  # Change this to your target folder path
 OUTPUT_FILE = "names_output.txt"
 
 def extract_names_from_file(filepath):
