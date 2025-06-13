@@ -667,7 +667,16 @@
 				"path": "Attachments/Handguards/handguard_ar15_kittykat_picc.bundle",
 				"rcid": ""
 			},
-			"ConflictingItems": [],
+			"ConflictingItems": [
+				"6357c98711fb55120211f7e1",
+				"5d440b9fa4b93601354d480c",
+				"55d35ee94bdc2d61338b4568",
+				"5c0e2f94d174af029f650d56",
+				"55d3632e4bdc2d972f8b4569",
+				"5d440b93a4b9364276578d4b",
+				"63d3d44a2a49307baf09386d",
+				"63d3ce0446bd475bcb50f55f"
+			],
 			"Weight": 0.63,
 			"Slots": [
 				{
@@ -825,9 +834,9 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Echoes Defense \"Kat Scratch\" M4A1 Piccitiny rail",
-				"shortName": "Kat Scratch",
-				"description": "Compact and mean, the Kat Scratch delivers no-nonsense grip and rail space in a lightweight, minimalist package. Its aggressive slash-cut vents give it a distinctive look and enhanced cooling for rapid-fire runs."
+				"name": "AR-15 Echoes Defense \"Kat Skratch\" 4 inch handguard",
+				"shortName": "\"Kat Skratch\"",
+				"description": "Compact and mean, the Kat Skratch delivers no-nonsense grip and rail space in a lightweight, minimalist package. Its aggressive slash-cut vents give it a distinctive look and enhanced cooling for rapid-fire runs."
 			}
 		},
 		"clearClonedProps": false,
@@ -885,15 +894,24 @@
 				"path": "Attachments/Handguards/handguard_ar15_kittykat.bundle",
 				"rcid": ""
 			},
-			"ConflictingItems": [],
+			"ConflictingItems": [
+				"6357c98711fb55120211f7e1",
+				"5d440b9fa4b93601354d480c",
+				"55d35ee94bdc2d61338b4568",
+				"5c0e2f94d174af029f650d56",
+				"55d3632e4bdc2d972f8b4569",
+				"5d440b93a4b9364276578d4b",
+				"63d3d44a2a49307baf09386d",
+				"63d3ce0446bd475bcb50f55f"
+			],
 			"Weight": 0.63,
 			"Slots": []
 		},
 		"locales": {
 			"en": {
-				"name": "DPMS \"Kitty Kat\" 7.5\" 5.56 C7 FSB CAR Brace Pistol",
-				"shortName": "Kitty Kat",
-				"description": "Built for the bite-sized beast, the Kitty Kat handguard is a stubby, no-frills CAR-style unit that hugs the 7.5\" barrel tight. Classic round polymer ribs offer a retro grip feel, while the short length keeps things nimble for fast, up-close work. Old school, compact, and ready to bark."
+				"name": "AR-15 DPMS \"Kitty Kat\" 4 inch free-float handguard",
+				"shortName": "\"Kitty Kat\"",
+				"description": "A compact 4 inch (102mm) free-float aluminum handguard designed for AR-platform SBRs. Lightweight and durable, it offers improved barrel stability and limited rail space for essential attachments. Favored in close-quarters builds where speed and maneuverability are critical."
 			}
 		},
 		"clearClonedProps": false,
@@ -942,7 +960,7 @@
 		]
 	},
 	"683efdcfceb019abc8a0e386": {
-		"itemTplToClone": "5ea16ada09aa976f2e7a51be",
+		"itemTplToClone": "5c9a25172e2216000f20314e",
 		"parentId": "55818a104bdc2db9688b4569",
 		"handbookParentId": "5b5f75e486f77447ec5d7712",
 		"overrideProperties": {
@@ -951,7 +969,9 @@
 				"path": "Attachments/Handguards/handguard_ar15_dd_ris_iii_blk.bundle",
 				"rcid": ""
 			},
-			"ConflictingItems": [],
+			"ConflictingItems": [
+				"6357c98711fb55120211f7e1"
+			],
 			"Weight": 0.63,
 			"Slots": [
 				{
@@ -1111,8 +1131,8 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Daniel Defense RIS II M4A1 AR-15 Handguard - 12.25\" Black",
-				"shortName": "RIS II",
+				"name": "AR-15 Daniel Defense RIS II 12.25 handguard (Black)",
+				"shortName": "RIS II 12.25\"",
 				"description": "The Daniel Defense Rail Interface System (RIS II) was designed at the request of the United States Special Operations Command (SOCOM) for the SOPMOD II program. SOCOM had a specific requirement for a free float M203 solution and Daniel Defense responded, designing a revolutionary product to meet the government’s need. The Daniel Defense RIS II allows the individual operator to free float the M203 grenade launcher without additional parts. As important, special tools are not required to mount the M203 grenade launcher. This was accomplished by integrating all of the needed parts to free float the M203 into the rail itself. The Daniel Defense RIS II is to be used in conjunction with the MK12 Low Profile Gas Block."
 			}
 		},
@@ -1357,7 +1377,9 @@
 				"path": "Attachments/Handguards/handguard_ar15_kac_short_quad_rail.bundle",
 				"rcid": ""
 			},
-			"ConflictingItems": [],
+			"ConflictingItems": [
+				"6357c98711fb55120211f7e1"
+			],
 			"Weight": 0.63,
 			"Slots": [
 				{
@@ -1517,7 +1539,7 @@
 		},
 		"locales": {
 			"en": {
-				"name": "Midwest Industries Drop-In Carbine Handguard",
+				"name": "AR-15 Midwest Industries Drop-In Carbine length Handguard",
 				"shortName": "MI Carbine",
 				"description": "The Midwest Industries Drop-In Carbine Handguard is lightweight, resilient against wear and weather. It has a simple drop-in installation, making it the ideal platform to mount your accessories of choice and support your attack readiness long term."
 			}
@@ -2019,7 +2041,9 @@
 				"path": "Attachments/Handguards/handguard_ar15_m16a1_wood.bundle",
 				"rcid": ""
 			},
-			"ConflictingItems": [],
+			"ConflictingItems": [
+				"6357c98711fb55120211f7e1"
+			],
 			"Weight": 0.63,
 			"Slots": []
 		},
@@ -2085,7 +2109,9 @@
 				"path": "Attachments/Handguards/handguard_ar15_m16a1.bundle",
 				"rcid": ""
 			},
-			"ConflictingItems": [],
+			"ConflictingItems": [
+				"6357c98711fb55120211f7e1"
+			],
 			"Weight": 0.63,
 			"Slots": []
 		},
@@ -2439,7 +2465,9 @@
 				"path": "Attachments/Handguards/handguard_ar15_round_mlok.bundle",
 				"rcid": ""
 			},
-			"ConflictingItems": [],
+			"ConflictingItems": [
+				"6357c98711fb55120211f7e1"
+			],
 			"Weight": 0.63,
 			"Slots": [
 				{
@@ -2634,6 +2662,7 @@
 			},
 			"ConflictingItems": [
 				"5bffcf7a0db83400232fea79",
+				"6357c98711fb55120211f7e1",
 				"6837716de936d83c13099eea",
 				"68398cd864a9d113ebab1b77"
 			],
@@ -2964,13 +2993,13 @@
 		]
 	},
 	"684b0ebacd8783bec9435103": {
-		"itemTplToClone": "619b5db699fb192e7430664f",
+		"itemTplToClone": "5ae30db85acfc408fb139a05",
 		"parentId": "55818a104bdc2db9688b4569",
 		"handbookParentId": "5b5f75e486f77447ec5d7712",
 		"overrideProperties": {
 			"ExaminedByDefault": true,
 			"Prefab": {
-				"path": "Attachments/m16a1short.bundle",
+				"path": "Attachments/Handguards/m16a1short.bundle",
 				"rcid": ""
 			},
 			"ConflictingItems": [
@@ -2980,15 +3009,15 @@
 				"6357c98711fb55120211f7e1"
 			],
 			"Weight": 0.63,
-			"Ergonomics": 7,
+			"Ergonomics": 2,
 			"Width": 2,
 			"ExtraSizeLeft": 1
 		},
 		"locales": {
 			"en": {
-				"name": "Colt M16A1 Triangular short handguard",
-				"shortName": "M16A1",
-				"description": ""
+				"name": "AR-15 Colt carbine length triangular handguard",
+				"shortName": "Tri. Carbine",
+				"description": "Classic triangular polymer handguard in a shortened, carbine-length profile. Designed for retro-style AR-15 builds, it offers vintage aesthetics with modern durability. Fits standard delta ring setups and includes aluminum heat shields for heat resistance during sustained fire. Manufactured by Colt."
 			}
 		},
 		"clearClonedProps": false,
