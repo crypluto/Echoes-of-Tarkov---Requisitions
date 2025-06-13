@@ -1424,7 +1424,7 @@
             ]
         },
         {
-            "key": "WeaponPitViper/sandviper_magazine.bundle",
+            "key": "WeaponPitViper/sandviper_mag.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",

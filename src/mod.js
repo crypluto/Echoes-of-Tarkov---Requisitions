@@ -63,6 +63,7 @@ class AAAViperItems {
         this.Instance.debug = this.debug;
         // EVERYTHING AFTER HERE MUST USE THE INSTANCE
         this.getVersionFromJson();
+        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions       | RheddElBozo - ProbablyEukyre - Pigeon`);
         // Custom Bosses
         this.customItemService.preSptLoad(this.Instance);
         this.customAssortSchemeService.preSptLoad(this.Instance);

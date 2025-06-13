@@ -47,6 +47,8 @@ class AAAViperItems
 
         this.getVersionFromJson();
 
+        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions       | RheddElBozo - ProbablyEukyre - Pigeon`)
+
         // Custom Bosses
         this.customItemService.preSptLoad(this.Instance);
 
