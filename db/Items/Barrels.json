@@ -743,5 +743,77 @@
 				"Probability": 1
 			}
 		]
+	},
+	"684b8286dde6947266032faa": {
+		"itemTplToClone": "5d440b9fa4b93601354d480c",
+		"parentId": "BARREL",
+		"handbookParentId": "MOD_BARREL",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Barrels/barrel_ar15_508mm_dissipator.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"5c0e2f5cd174af02a012cfc9",
+				"5ae30db85acfc408fb139a05",
+				"55d459824bdc2d892f8b4573",
+				"5c78f2792e221600106f4683",
+				"5c78f26f2e221601da3581d1",
+				"5d00e0cbd7ad1a6c6566a42d",
+				"5d00f63bd7ad1a59283b1c1e"
+			],
+			"CenterOfImpact": 0.034
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 M16-series 5.56x45 20 inch dissipator barrel",
+				"shortName": "M16 20\"",
+				"description": "A barrel for AR-15 based weapons for 5.56x45 NATO ammo, 20 inches long."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_barrel"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 341,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 4,
+		"fleaPriceRoubles": 90867,
+		"handbookPriceRoubles": 36560,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
