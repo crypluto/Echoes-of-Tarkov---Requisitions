@@ -601,6 +601,22 @@
             ]
         },
         {
+            "key": "Attachments/Handguards/handguard_ar15_jsoc_fiberglass_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/handguard_ar15_jsoc_fiberglass_od.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Attachments/Handguards/handguard_l1a1_wood.bundle",
             "dependencyKeys": [
                 "shaders",
