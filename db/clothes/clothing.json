@@ -1,0 +1,58 @@
+[
+	{
+		"type": "top",
+		"outfitId": "66ee1e04c8e6c7c4c2221d54",
+		"name": "Polevoi EMR",
+		"topBundlePath": "Tops/top_polevoi_emr.bundle",
+		"handsBaseID": "5e9da26286f7741d2e3424a5",
+		"handsBundlePath": "Hands/hands_polevoi_emr.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 150,
+		"functionalbool": true
+	},
+	{
+		"type": "top",
+		"outfitId": "66ee1e031093689b1316e260",
+		"name": "Tiger EMR",
+		"topBundlePath": "Tops/top_tiger_emr.bundle",
+		"handsBaseID": "5e9da26286f7741d2e3424a5",
+		"handsBundlePath": "Hands/hands_tiger_emr.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 150,
+		"functionalbool": true
+	},
+	{
+		"type": "bottom",
+		"outfitId": "66ee1e05fa39ed668b284750",
+		"name": "Polevoi EMR",
+		"bundlePath": "Bottoms/bottom_polevoi_emr.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 150,
+		"functionalbool": true
+	},
+	{
+		"type": "bottom",
+		"outfitId": "66ee1e070b2c46dfcbc7aada",
+		"name": "Combat Pants EMR",
+		"bundlePath": "Bottoms/bottom_combat_emr.bundle",
+		"traderId": "5ac3b934156ae10c4430e83c",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 150,
+		"functionalbool": true
+	}
+]
