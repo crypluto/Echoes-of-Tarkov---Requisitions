@@ -1992,7 +1992,9 @@
 		"modSlot": [
 			"mod_handguard"
 		],
-		"ModdableItemWhitelist": [],
+		"ModdableItemWhitelist": [
+			"5ae30e795acfc408fb139a0b"
+		],
 		"ModdableItemBlacklist": [],
 		"addtoTraders": false,
 		"traderId": "MECHANIC",
