@@ -1816,11 +1816,8 @@
 			},
 			"ConflictingItems": [
 				"55d35ee94bdc2d61338b4568",
-				"6357c98711fb55120211f7e1",
-				"5ae30e795acfc408fb139a0b",
-				"6835a63bdbc98d9bc34e025b",
-				"6835ec3c422a8b7b258768af",
-				"6836e6fef34cc1ae734b444c"
+				"6357c98711fb55120211f7e1"
+				
 			],
 			"Weight": 0.63,
 			"Slots": [
