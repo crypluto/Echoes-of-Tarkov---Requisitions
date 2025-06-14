@@ -47,7 +47,6 @@ class AAAViperItems
 
         this.getVersionFromJson();
 
-        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions       | RheddElBozo - ProbablyEukyre - Pigeon`)
 
         // Custom Bosses
         this.customItemService.preSptLoad(this.Instance);
@@ -65,6 +64,7 @@ class AAAViperItems
         this.Instance.postDBLoad(container);
         // EVERYTHING AFTER HERE MUST USE THE INSTANCE
 
+        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions Loaded | Got a package for ya Rook`)
 
         // Bosses
         this.customItemService.postDBLoad();
@@ -87,6 +87,8 @@ class AAAViperItems
             this.version = jsonData.version;
         });
     }
+
+
 }
 
 module.exports = { mod: new AAAViperItems() };
