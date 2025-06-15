@@ -1471,7 +1471,7 @@
             ]
         },
         {
-            "key": "WeaponPitViper/blackdviper_slide.bundle",
+            "key": "WeaponPitViper/blackviper_slide.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
