@@ -209,14 +209,6 @@
             ]
         },
         {
-            "key": "Attachments/Handguards/m16a1short.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "Attachments/m4ssblk.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -385,6 +377,14 @@
             ]
         },
         {
+            "key": "Attachments/Barrels/barrel_ar15_508mm_dissipator.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Attachments/Barrels/barrel_ar15_7.5inch.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -497,6 +497,22 @@
             ]
         },
         {
+            "key": "Attachments/Handguards/handguard_ar15_jsoc_fiberglass_black.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/handguard_ar15_jsoc_fiberglass_od.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Attachments/Handguards/handguard_ar15_kac_short_quad_rail.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -601,22 +617,6 @@
             ]
         },
         {
-            "key": "Attachments/Handguards/handguard_ar15_jsoc_fiberglass_black.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Handguards/handguard_ar15_jsoc_fiberglass_od.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "Attachments/Handguards/handguard_l1a1_wood.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -625,7 +625,23 @@
             ]
         },
         {
+            "key": "Attachments/Handguards/handguard_mp5_wood.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Attachments/Handguards/handguard_velociraptor_railed.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/m16a1short.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -866,6 +882,14 @@
         },
         {
             "key": "Attachments/Stocks/stock_m700_hogue_overmolded_typhon_stock.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Stocks/stock_mp5a2_wood.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -1129,6 +1153,14 @@
             ]
         },
         {
+            "key": "Item_Statics/boatgoesbinted.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Item_Statics/item_barter_bass_maple.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -1345,6 +1377,54 @@
             ]
         },
         {
+            "key": "WeaponPitViper/barrel_sandviper.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "WeaponPitViper/sandviper_hammer.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "WeaponPitViper/sandviper_mag.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "WeaponPitViper/sandviper_slide.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "WeaponPitViper/sandviper_trigger.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "WeaponPitViper/tti_suppressor.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "WeaponPitViper/viper_barrel.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -1408,46 +1488,6 @@
             ]
         },
         {
-            "key": "WeaponPitViper/barrel_sandviper.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/sandviper_hammer.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/sandviper_mag.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/sandviper_slide.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/sandviper_trigger.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "WeaponPitViper/weapon_sandviper_container.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -1495,30 +1535,6 @@
         },
         {
             "key": "WeaponUMP9/ump9_magazine_40.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Barrels/barrel_ar15_508mm_dissipator.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Handguards/handguard_mp5_wood.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_mp5a2_wood.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
