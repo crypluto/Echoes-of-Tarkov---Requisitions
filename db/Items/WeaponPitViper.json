@@ -1018,7 +1018,8 @@
                                 "Filter": [
                                     "684b261ee900b79b5be17c74",
                                     "684c82b542181ad26bb14ba7",
-                                    "684e0bc413760cda62d3bc83"
+                                    "684e0bc413760cda62d3bc83",
+                                    "684e0c09f79c6ec37bba1cca"
                                 ]
                             }
                         ]
@@ -1154,7 +1155,7 @@
                     },
                     {
                         "_id": "684e0b965ea47037af695316",
-                        "_tpl": "684c83519d828b835e4de523",
+                        "_tpl": "684b2662bab8ebd87f683c57",
                         "parentId": "684e0b865c7e3d3e080607f3",
                         "slotId": "mod_barrel"
                     },
@@ -1166,13 +1167,13 @@
                     },
                     {
                         "_id": "684e0b91b8258bb511c91b5e",
-                        "_tpl": "684c8311b6f88a4f907a56da",
+                        "_tpl": "684b262a5aa7a321ae3a7b5b",
                         "parentId": "684e0b865c7e3d3e080607f3",
                         "slotId": "mod_hammer"
                     },
                     {
                         "_id": "684e0b9088cb45225276ef26",
-                        "_tpl": "5a32aa8bc4a2826c6e06d737",
+                        "_tpl": "684b271ce72d12cf50b2a0dd",
                         "parentId": "684e0b92e2f946c2865e9ef7",
                         "slotId": "mod_scope"
                     },

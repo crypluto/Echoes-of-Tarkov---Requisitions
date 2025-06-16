@@ -36,6 +36,7 @@ var __importStar = (this && this.__importStar) || (function () {
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs = __importStar(require("fs"));
 const path = __importStar(require("path"));
+const LogTextColor_1 = require("C:/snapshot/project/obj/models/spt/logging/LogTextColor");
 // WTT imports
 const WTTInstanceManager_1 = require("./WTTInstanceManager");
 const EpicsEdits_1 = require("./EpicsEdits");
@@ -47,7 +48,7 @@ const CustomWeaponPresets_1 = require("./CustomWeaponPresets");
 class AAAViperItems {
     Instance = new WTTInstanceManager_1.WTTInstanceManager();
     version;
-    modName = "AAAViperItems";
+    modName = "Echoes of Tarkov - Requisitions";
     config;
     //#region CustomBosses
     customItemService = new CustomItemService_1.CustomItemService();
@@ -63,6 +64,7 @@ class AAAViperItems {
         this.Instance.debug = this.debug;
         // EVERYTHING AFTER HERE MUST USE THE INSTANCE
         this.getVersionFromJson();
+        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions Loaded | \"Got something I'm supposed to deliver - your hands only.\"`);
         // Custom Bosses
         this.customItemService.preSptLoad(this.Instance);
         this.customAssortSchemeService.preSptLoad(this.Instance);
@@ -74,7 +76,7 @@ class AAAViperItems {
         // Initialize the instance manager DO NOTHING ELSE BEFORE THIS
         this.Instance.postDBLoad(container);
         // EVERYTHING AFTER HERE MUST USE THE INSTANCE
-        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions Loaded | Got a package for ya Rook`);
+        this.Instance.logger.log(`[${this.modName}] Database: Loading complete.`, LogTextColor_1.LogTextColor.GREEN);
         // Bosses
         this.customItemService.postDBLoad();
         this.customAssortSchemeService.postDBLoad();

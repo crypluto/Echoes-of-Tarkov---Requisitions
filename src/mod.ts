@@ -10,7 +10,7 @@ import { LogTextColor } from "@spt/models/spt/logging/LogTextColor";
 
 // WTT imports
 import { WTTInstanceManager } from "./WTTInstanceManager";
-import { epicItemClass } from  "./EpicsEdits"
+import { epicItemClass } from "./EpicsEdits"
 
 // Boss imports
 import { CustomItemService } from "./CustomItemService";
@@ -25,7 +25,7 @@ class AAAViperItems
     implements IpreSptLoadMod, IPostDBLoadMod {
     private Instance: WTTInstanceManager = new WTTInstanceManager();
     private version: string;
-    private modName = "AAAViperItems";
+    private modName = "Echoes of Tarkov - Requisitions";
     private config;
 
     //#region CustomBosses
@@ -47,6 +47,8 @@ class AAAViperItems
 
         this.getVersionFromJson();
 
+        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions Loaded | \"Got something I'm supposed to deliver - your hands only.\"`)
+
 
         // Custom Bosses
         this.customItemService.preSptLoad(this.Instance);
@@ -63,8 +65,9 @@ class AAAViperItems
         // Initialize the instance manager DO NOTHING ELSE BEFORE THIS
         this.Instance.postDBLoad(container);
         // EVERYTHING AFTER HERE MUST USE THE INSTANCE
-
-        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions Loaded | Got a package for ya Rook`)
+        this.Instance.logger.log(
+            `[${this.modName}] Database: Loading complete.`,
+            LogTextColor.GREEN);
 
         // Bosses
         this.customItemService.postDBLoad();
