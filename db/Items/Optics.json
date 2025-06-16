@@ -6,7 +6,7 @@
 		"overrideProperties": {
 			"ExaminedByDefault": true,
 			"Prefab": {
-				"path": "Attachments/Sights/scope_base_trijicon_sro_blk.bundle",
+				"path": "Attachments/Sights/scope_base_trijicon_sro.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.046
