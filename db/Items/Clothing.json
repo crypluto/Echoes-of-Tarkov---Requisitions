@@ -619,5 +619,83 @@
 		],
 		"addweaponpreset": false,
 		"weaponpresets": []
+	},
+		"685166f1cf8877110a7d476f": {
+		"itemTplToClone": "5f60e784f2bcbb675b00dac7",
+		"parentId": "5a341c4086f77401f2541505",
+		"handbookParentId": "5b47574386f77428ca22b330",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "clothing/ncr_beret.bundle",
+				"rcid": ""
+			},
+			"Width": 1,
+			"Height": 1,
+			"Weight": 0.11,
+			"IsUndiscardable": false,
+			"DiscardLimit": 1,
+			"Grids": []
+		},
+		"locales": {
+			"en": {
+				"name": "Beret (NCR Ranger)",
+				"shortName": "Beret",
+				"description": "The Last Thing You'll Never See, The NCR Rangers"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 6000,
+		"handbookPriceRoubles": 6000,
+		"CanSellOnRagFair": true,
+		"addtoTraders": true,
+		"traderId": "RAGMAN",
+		"traderItems": [
+			{
+				"unlimitedCount": false,
+				"stackObjectsCount": 10
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 6765,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"addtoBots": false,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_SAFE",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_MEDICAL_SUPPLY_CRATE",
+				"Probability": 8
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_BURIED_BARREL_CACHE",
+				"Probability": 7
+			}
+		],
+		"masteries": false,
+		"masterySections": [
+			{
+				"Name": "M4",
+				"Templates": [
+					"4b81488c78c8a8ac7d37f9b9"
+				]
+			}
+		],
+		"addweaponpreset": false,
+		"weaponpresets": []
 	}
 }

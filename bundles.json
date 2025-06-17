@@ -985,6 +985,14 @@
             ]
         },
         {
+            "key": "clothing/ncr_beret.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "clothing/keegan.bundle",
             "dependencyKeys": [
                 "shaders",
