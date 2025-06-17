@@ -355,5 +355,46 @@
 				"Probability": 1000
 			}
 		]
+	},
+	"685156cf1525c3f6a8929e61": {
+		"itemTplToClone": "5bc9bc53d4351e00367fbcee",
+		"parentId": "57864a3d24597754843f8721",
+		"handbookParentId": "5b47574386f77428ca22b2f1",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Item_Statics/epicjamtime.bundle",
+				"rcid": ""
+			},
+			"Weight": 0.05,
+			"Height": 2,
+			"Width": 6,
+			"IsUndiscardable": true,
+			"addtoSpecialSlots": true,
+			"CanSellOnRagfair": false,
+			"DiscardLimit": 1
+		},
+		"locales": {
+			"en": {
+				"name": "A Soldier's Jammed Rifle",
+				"shortName": "EpicJamTime",
+				"description": "A Hard-Jammed rifle, no longer useable but a trader may still find value in it"
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"ExaminedByDefault": false,
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 265000,
+		"handbookPriceRoubles": 265000,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_GROUND_CACHE",
+				"Probability": 1000
+			}
+		]
 	}
 }

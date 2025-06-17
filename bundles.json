@@ -1159,6 +1159,13 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },{
+            "key": "Item_Statics/epicjamtime.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         },
         {
             "key": "Item_Statics/item_barter_bass_maple.bundle",
