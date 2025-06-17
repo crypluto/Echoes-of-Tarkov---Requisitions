@@ -1,5 +1,6 @@
-2025-06-14 21:10:03,488 - INFO - Bundle generation started.
-2025-06-14 21:10:03,495 - INFO - Added extra dependencies to WeaponPitViper/weapon_pitviper_container.bundle
-2025-06-14 21:10:03,495 - INFO - Added extra dependencies to WeaponPitViper/weapon_sandviper_container.bundle
-2025-06-14 21:10:03,495 - INFO - Added extra dependencies to WeaponUMP9/ump9_container.bundle
-2025-06-14 21:10:03,499 - INFO - bundles.json file has been generated.
+2025-06-17 14:11:51,785 - INFO - Bundle generation started.
+2025-06-17 14:11:51,792 - INFO - Added extra dependencies to WeaponPitViper/weapon_blackviper_container.bundle
+2025-06-17 14:11:51,792 - INFO - Added extra dependencies to WeaponPitViper/weapon_pitviper_container.bundle
+2025-06-17 14:11:51,792 - INFO - Added extra dependencies to WeaponPitViper/weapon_sandviper_container.bundle
+2025-06-17 14:11:51,792 - INFO - Added extra dependencies to WeaponUMP9/ump9_container.bundle
+2025-06-17 14:11:51,797 - INFO - bundles.json file has been generated.
