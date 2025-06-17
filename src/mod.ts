@@ -47,7 +47,6 @@ class AAAViperItems
 
         this.getVersionFromJson();
 
-        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions Loaded | \"Got something I'm supposed to deliver - your hands only.\"`)
 
 
         // Custom Bosses
@@ -64,10 +63,9 @@ class AAAViperItems
     postDBLoad(container: DependencyContainer): void {
         // Initialize the instance manager DO NOTHING ELSE BEFORE THIS
         this.Instance.postDBLoad(container);
-        // EVERYTHING AFTER HERE MUST USE THE INSTANCE
-        this.Instance.logger.log(
-            `[${this.modName}] Database: Loading complete.`,
-            LogTextColor.GREEN);
+
+        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions Loaded | Got something I'm supposed to deliver - your hands only.`)
+
 
         // Bosses
         this.customItemService.postDBLoad();

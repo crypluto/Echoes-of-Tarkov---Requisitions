@@ -36,7 +36,6 @@ var __importStar = (this && this.__importStar) || (function () {
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs = __importStar(require("fs"));
 const path = __importStar(require("path"));
-const LogTextColor_1 = require("C:/snapshot/project/obj/models/spt/logging/LogTextColor");
 // WTT imports
 const WTTInstanceManager_1 = require("./WTTInstanceManager");
 const EpicsEdits_1 = require("./EpicsEdits");
@@ -64,7 +63,6 @@ class AAAViperItems {
         this.Instance.debug = this.debug;
         // EVERYTHING AFTER HERE MUST USE THE INSTANCE
         this.getVersionFromJson();
-        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions Loaded | \"Got something I'm supposed to deliver - your hands only.\"`);
         // Custom Bosses
         this.customItemService.preSptLoad(this.Instance);
         this.customAssortSchemeService.preSptLoad(this.Instance);
@@ -75,8 +73,7 @@ class AAAViperItems {
     postDBLoad(container) {
         // Initialize the instance manager DO NOTHING ELSE BEFORE THIS
         this.Instance.postDBLoad(container);
-        // EVERYTHING AFTER HERE MUST USE THE INSTANCE
-        this.Instance.logger.log(`[${this.modName}] Database: Loading complete.`, LogTextColor_1.LogTextColor.GREEN);
+        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions Loaded | Got something I'm supposed to deliver - your hands only.`);
         // Bosses
         this.customItemService.postDBLoad();
         this.customAssortSchemeService.postDBLoad();
