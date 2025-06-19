@@ -36,7 +36,11 @@
                                     "6851b818b2ca4d125976c7c9",
                                     "6851b81a022c968c773eb317",
                                     "6851b81c8af065063baef9e7",
-                                    "6851b7eaae4e0776eacd8f0c"
+                                    "6851b7eaae4e0776eacd8f0c",
+                                    "685418bbb6ba556d7cab99c2",
+                                    "68541753c2fb38f2aebaab59",
+                                    "6851b81a022c968c773eb317",
+                                    "685417290f365b87aefc636f"
                                 ],
                                 "Shift": 0
                             }
@@ -71,7 +75,7 @@
                 {
                     "_id": "6851bbd1249df2ac4d8318f2",
                     "_mergeSlotWithChildren": false,
-                    "_name": "mod_trigger",
+                    "_name": "weapon_trigger",
                     "_parent": "6851b6e2af2384018031916b",
                     "_props": {
                         "filters": [
@@ -124,76 +128,12 @@
                     },
                     "_proto": "55d30c4c4bdc2db4468b457e",
                     "_required": true
-                },
-                {
-                    "_id": "6851bbd7ef630b7f5aa02724",
-                    "_mergeSlotWithChildren": false,
-                    "_name": "mod_sight_rear",
-                    "_parent": "6851b6e2af2384018031916b",
-                    "_props": {
-                        "filters": [
-                            {
-                                "Filter": [
-                                    "6851bbdb62458162cb7c6cb1"
-                                ],
-                                "Shift": 0
-                            }
-                        ]
-                    },
-                    "_proto": "55d30c4c4bdc2db4468b457e",
-                    "_required": true
-                },
-                {
-                    "_id": "6851bc9cbd3cab974d80f24a",
-                    "_mergeSlotWithChildren": false,
-                    "_name": "mod_sight_front",
-                    "_parent": "6851b6e2af2384018031916b",
-                    "_props": {
-                        "filters": [
-                            {
-                                "Filter": [
-                                    "6851bcaf86f5053e58873942"
-                                ],
-                                "Shift": 0
-                            }
-                        ]
-                    },
-                    "_proto": "55d30c4c4bdc2db4468b457e",
-                    "_required": true
-                },
-                {
-                    "_id": "6851b75a02ed77dc60e19645",
-                    "_mergeSlotWithChildren": false,
-                    "_name": "mod_tactical",
-                    "_parent": "6851b6e2af2384018031916b",
-                    "_props": {
-                        "filters": [
-                            {
-                                "Filter": [
-                                    "5a800961159bd4315e3a1657",
-                                    "5cc9c20cd7f00c001336c65d",
-                                    "5d2369418abbc306c62e0c80",
-                                    "5b07dd285acfc4001754240d",
-                                    "56def37dd2720bec348b456a",
-                                    "5a7b483fe899ef0016170d15",
-                                    "5a5f1ce64f39f90b401987bc",
-                                    "560d657b4bdc2da74d8b4572",
-                                    "6272370ee4013c5d7e31f418",
-                                    "6272379924e29f06af4d5ecb",
-                                    "68363c6fbfd14a9526e8601b"
-                                ],
-                                "Shift": 0
-                            }
-                        ]
-                    },
-                    "_proto": "55d30c4c4bdc2db4468b457e",
-                    "_required": false
                 }
             ]
         },
         "locales": {
             "en": {
-                "name": "Sig Sauer P320 9x19mm Pistol",
+                "name": "Sig Sauer P320 9x19mm Fire Control Unit",
                 "shortName": "P320",
                 "description": ""
             }
@@ -250,9 +190,9 @@
         },
         "locales": {
             "en": {
-                "name": "Blank",
-                "shortName": "blank",
-                "description": "blank"
+                "name": "P320 3.9 Compact Barrel",
+                "shortName": "3.9 barrel",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -288,9 +228,47 @@
         },
         "locales": {
             "en": {
-                "name": "Blank 2",
-                "shortName": "blank 2",
-                "description": "blank 2"
+                "name": "P320 4.7 Full Size Barrel",
+                "shortName": "4.7 barrel",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 9250,
+        "handbookPriceRoubles": 5050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+      "685417290f365b87aefc636f": {
+        "itemTplToClone": "5f3e7801153b8571434a924c",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/barrel_36.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "Recoil": -4,
+            "Ergonomics": -3,
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.6 Compact Barrel",
+                "shortName": "3.6 barrel",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -326,9 +304,85 @@
         },
         "locales": {
             "en": {
-                "name": "Blank 3",
-                "shortName": "blank 3",
-                "description": "blank 3"
+                "name": "P320 3.9 PMM Barrel With PMM Duty Compensator - Black",
+                "shortName": "3.9 Duty",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 9250,
+        "handbookPriceRoubles": 5050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+     "68541753c2fb38f2aebaab59": {
+        "itemTplToClone": "5f3e7801153b8571434a924c",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/comp_36_micro_blk.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "Recoil": -4,
+            "Ergonomics": -3,
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.6 PMM Barrel With PMM Micro Compensator - Black",
+                "shortName": "3.6 Micro",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 9250,
+        "handbookPriceRoubles": 5050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+      "685418bbb6ba556d7cab99c2": {
+        "itemTplToClone": "5f3e7801153b8571434a924c",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/comp_36_micro_blk.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "Recoil": -4,
+            "Ergonomics": -3,
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.6 PMM Barrel With PMM Micro Compensator - FDE",
+                "shortName": "3.6 Micro",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -364,9 +418,9 @@
         },
         "locales": {
             "en": {
-                "name": "Blank 4",
-                "shortName": "blank 4",
-                "description": "blank 4"
+                "name": "P320 3.9 PMM Barrel With PMM Duty Compensator - FDE",
+                "shortName": "3.9 Duty",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -402,9 +456,9 @@
         },
         "locales": {
             "en": {
-                "name": "Blank 5",
-                "shortName": "blank 5",
-                "description": "blank 5"
+                "name": "P320 3.9 PMM Barrel With PMM Micro Compensator - Black",
+                "shortName": "3.9 Micro",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -440,9 +494,9 @@
         },
         "locales": {
             "en": {
-                "name": "Blank 6",
-                "shortName": "blank 6",
-                "description": "blank 6"
+                "name": "P320 3.9 PMM Barrel With PMM Micro Compensator - FDE",
+                "shortName": "3.9 Micro",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -478,9 +532,9 @@
         },
         "locales": {
             "en": {
-                "name": "Blank 7",
-                "shortName": "blank 7",
-                "description": "blank 7"
+                "name": "P320 3.9 PMM Barrel With PMM Ultra Compensator - Black",
+                "shortName": "3.9 Ultra",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -516,9 +570,9 @@
         },
         "locales": {
             "en": {
-                "name": "Blank 8",
-                "shortName": "blank 8",
-                "description": "blank 8"
+                "name": "P320 3.9 PMM Barrel With PMM Ultra Compensator - FDE",
+                "shortName": "3.9 Ultra",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -554,9 +608,9 @@
         },
         "locales": {
             "en": {
-                "name": "Blank 9",
-                "shortName": "blank 9",
-                "description": "blank 9"
+                "name": "P320 4.7 PMM Barrel With PMM Micro Compensator - Black",
+                "shortName": "4.7 Micro",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -592,9 +646,9 @@
         },
         "locales": {
             "en": {
-                "name": "Blank 11",
-                "shortName": "blank 11",
-                "description": "blank 11"
+                "name": "P320 4.7 PMM Barrel With PMM Micro Compensator - FDE",
+                "shortName": "4.7 Micro",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -624,14 +678,51 @@
                 "rcid": ""
             },
             "Ergonomics": 3.5,
-            "Slots": [],
-            "ExaminedByDefault": true
+            "ExaminedByDefault": true,
+            "Slots": [
+                {
+                    "_id": "6851bbd7ef630b7f5aa02724",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_rear",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bbdb62458162cb7c6cb1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bc9cbd3cab974d80f24a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_front",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bcaf86f5053e58873942"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
         },
         "locales": {
             "en": {
-                "name": "sigp320 slide",
-                "shortName": "sigp320 slide",
-                "description": "sigp320 slide"
+                "name": "P320 3.6 Compact Optic Ready Slide - Black",
+                "shortName": "3.6 Black",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -661,14 +752,51 @@
                 "rcid": ""
             },
             "Ergonomics": 3.5,
-            "Slots": [],
-            "ExaminedByDefault": true
+            "ExaminedByDefault": true,
+              "Slots": [
+                {
+                    "_id": "6851bbd7ef630b7f5aa02724",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_rear",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bbdb62458162cb7c6cb1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bc9cbd3cab974d80f24a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_front",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bcaf86f5053e58873942"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
         },
         "locales": {
             "en": {
-                "name": "sigp320 slide",
-                "shortName": "sigp320 slide",
-                "description": "sigp320 slide"
+                "name": "P320 3.6 Compact Optic Ready Slide - Burnt Bronze",
+                "shortName": "3.6 Bronze",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -698,14 +826,51 @@
                 "rcid": ""
             },
             "Ergonomics": 3.5,
-            "Slots": [],
-            "ExaminedByDefault": true
+            "ExaminedByDefault": true,
+                          "Slots": [
+                {
+                    "_id": "6851bbd7ef630b7f5aa02724",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_rear",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bbdb62458162cb7c6cb1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bc9cbd3cab974d80f24a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_front",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bcaf86f5053e58873942"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
         },
         "locales": {
             "en": {
-                "name": "sigp320 slide",
-                "shortName": "sigp320 slide",
-                "description": "sigp320 slide"
+                "name": "P320 3.9 Sub Compact Optic Ready Slide - Black",
+                "shortName": "3.9 Black",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -735,14 +900,51 @@
                 "rcid": ""
             },
             "Ergonomics": 3.5,
-            "Slots": [],
-            "ExaminedByDefault": true
+            "ExaminedByDefault": true,
+              "Slots": [
+                {
+                    "_id": "6851bbd7ef630b7f5aa02724",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_rear",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bbdb62458162cb7c6cb1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bc9cbd3cab974d80f24a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_front",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bcaf86f5053e58873942"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
         },
         "locales": {
             "en": {
-                "name": "sigp320 slide",
-                "shortName": "sigp320 slide",
-                "description": "sigp320 slide"
+                "name": "P320 3.9 Sub Compact Optic Ready Slide - Burnt Bronze",
+                "shortName": "3.9 Burnt Bronze",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -772,14 +974,51 @@
                 "rcid": ""
             },
             "Ergonomics": 3.5,
-            "Slots": [],
-            "ExaminedByDefault": true
+            "ExaminedByDefault": true,
+                          "Slots": [
+                {
+                    "_id": "6851bbd7ef630b7f5aa02724",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_rear",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bbdb62458162cb7c6cb1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bc9cbd3cab974d80f24a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_front",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bcaf86f5053e58873942"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
         },
         "locales": {
             "en": {
-                "name": "sigp320 slide",
-                "shortName": "sigp320 slide",
-                "description": "sigp320 slide"
+                "name": "P320 4.7 Sub Compact Optic Ready Slide - Black",
+                "shortName": "4.7 Black",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -809,14 +1048,51 @@
                 "rcid": ""
             },
             "Ergonomics": 3.5,
-            "Slots": [],
-            "ExaminedByDefault": true
+            "ExaminedByDefault": true,
+                          "Slots": [
+                {
+                    "_id": "6851bbd7ef630b7f5aa02724",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_rear",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bbdb62458162cb7c6cb1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bc9cbd3cab974d80f24a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_front",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bcaf86f5053e58873942"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
         },
         "locales": {
             "en": {
-                "name": "sigp320 slide",
-                "shortName": "sigp320 slide",
-                "description": "sigp320 slide"
+                "name": "P320 4.7 Sub Compact Optic Ready Slide - Burnt Bronze",
+                "shortName": "4.7 Bronze",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -849,9 +1125,9 @@
         },
         "locales": {
             "en": {
-                "name": "sig trig",
-                "shortName": "sig trig",
-                "description": "sig trig"
+                "name": "P320 Standard trigger",
+                "shortName": "STD trigger",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -872,7 +1148,7 @@
         "StaticLootContainers": []
     },
     "6851bb61df6b0ce4f48bc269": {
-        "itemTplToClone": "5a718da68dc32e000d46d264",
+        "itemTplToClone": "5a718b548dc32e000d46d262",
         "parentId": "5448bc234bdc2d3c308b4569",
         "handbookParentId": "5b5f754a86f774094242f19b",
         "overrideProperties": {
@@ -885,9 +1161,9 @@
         },
         "locales": {
             "en": {
-                "name": "sigmag",
-                "shortName": "sigmag",
-                "description": "sigmag"
+                "name": "P320 17 RND Standard Magazine",
+                "shortName": "P320 Mag",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -920,9 +1196,9 @@
         },
         "locales": {
             "en": {
-                "name": "sigrear",
-                "shortName": "sigrear",
-                "description": "sigrear"
+                "name": "P320 Standard Contrast Rear sight",
+                "shortName": "STD RS",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -965,9 +1241,9 @@
         },
         "locales": {
             "en": {
-                "name": "front",
-                "shortName": "front",
-                "description": "front"
+                "name": "P320 Standard Contrast Front Sight",
+                "shortName": "STD FS",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -1006,13 +1282,43 @@
                 "path": "WeaponP320/frame_47_blk.bundle",
                 "rcid": ""
             },
+             "Slots": [
+                {
+                    "_id": "6851b75a02ed77dc60e19645",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_tactical",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a800961159bd4315e3a1657",
+                                    "5cc9c20cd7f00c001336c65d",
+                                    "5d2369418abbc306c62e0c80",
+                                    "5b07dd285acfc4001754240d",
+                                    "56def37dd2720bec348b456a",
+                                    "5a7b483fe899ef0016170d15",
+                                    "5a5f1ce64f39f90b401987bc",
+                                    "560d657b4bdc2da74d8b4572",
+                                    "6272370ee4013c5d7e31f418",
+                                    "6272379924e29f06af4d5ecb",
+                                    "68363c6fbfd14a9526e8601b"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ],
             "ExaminedByDefault": true
         },
         "locales": {
             "en": {
-                "name": "frane",
-                "shortName": "franer",
-                "description": "ALEC"
+                "name": "P320 4.7 Full Size Frame - Black",
+                "shortName": "4.7 Frame",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -1041,13 +1347,43 @@
                 "path": "WeaponP320/frame_47_fde.bundle",
                 "rcid": ""
             },
+             "Slots": [
+                {
+                    "_id": "6851b75a02ed77dc60e19645",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_tactical",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a800961159bd4315e3a1657",
+                                    "5cc9c20cd7f00c001336c65d",
+                                    "5d2369418abbc306c62e0c80",
+                                    "5b07dd285acfc4001754240d",
+                                    "56def37dd2720bec348b456a",
+                                    "5a7b483fe899ef0016170d15",
+                                    "5a5f1ce64f39f90b401987bc",
+                                    "560d657b4bdc2da74d8b4572",
+                                    "6272370ee4013c5d7e31f418",
+                                    "6272379924e29f06af4d5ecb",
+                                    "68363c6fbfd14a9526e8601b"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ],
             "ExaminedByDefault": true
         },
         "locales": {
             "en": {
-                "name": "frane",
-                "shortName": "franer",
-                "description": "ALEC"
+                "name": "P320 4.7 Full Size Frame - FDE",
+                "shortName": "4.7 Frame",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -1076,13 +1412,43 @@
                 "path": "WeaponP320/frame_39_blk.bundle",
                 "rcid": ""
             },
+             "Slots": [
+                {
+                    "_id": "6851b75a02ed77dc60e19645",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_tactical",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a800961159bd4315e3a1657",
+                                    "5cc9c20cd7f00c001336c65d",
+                                    "5d2369418abbc306c62e0c80",
+                                    "5b07dd285acfc4001754240d",
+                                    "56def37dd2720bec348b456a",
+                                    "5a7b483fe899ef0016170d15",
+                                    "5a5f1ce64f39f90b401987bc",
+                                    "560d657b4bdc2da74d8b4572",
+                                    "6272370ee4013c5d7e31f418",
+                                    "6272379924e29f06af4d5ecb",
+                                    "68363c6fbfd14a9526e8601b"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ],
             "ExaminedByDefault": true
         },
         "locales": {
             "en": {
-                "name": "frane",
-                "shortName": "franer",
-                "description": "ALEC"
+                "name": "P320 3.9 Sub Compact Frame - Black",
+                "shortName": "3.9 Frame",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -1111,13 +1477,43 @@
                 "path": "WeaponP320/frame_39_fde.bundle",
                 "rcid": ""
             },
+             "Slots": [
+                {
+                    "_id": "6851b75a02ed77dc60e19645",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_tactical",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a800961159bd4315e3a1657",
+                                    "5cc9c20cd7f00c001336c65d",
+                                    "5d2369418abbc306c62e0c80",
+                                    "5b07dd285acfc4001754240d",
+                                    "56def37dd2720bec348b456a",
+                                    "5a7b483fe899ef0016170d15",
+                                    "5a5f1ce64f39f90b401987bc",
+                                    "560d657b4bdc2da74d8b4572",
+                                    "6272370ee4013c5d7e31f418",
+                                    "6272379924e29f06af4d5ecb",
+                                    "68363c6fbfd14a9526e8601b"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ],
             "ExaminedByDefault": true
         },
         "locales": {
             "en": {
-                "name": "frane",
-                "shortName": "franer",
-                "description": "ALEC"
+                "name": "P320 3.9 Sub Compact Frame - FDE",
+                "shortName": "3.9 Frame",
+                "description": ""
             }
         },
         "clearClonedProps": false,
