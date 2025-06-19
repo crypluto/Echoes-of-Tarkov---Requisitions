@@ -718,5 +718,78 @@
 				"Probability": 16
 			}
 		]
+	},
+	"685097dbb9aa83c9e35c5027": {
+		"itemTplToClone": "615d8da4d3a39d50044c10e8",
+		"parentId": "55818b224bdc2dde698b456f",
+		"handbookParentId": "5b5f755f86f77447ec5d770e",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Attachments/Mounts/mount_glock_mos_slide_cap.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "Glock MOS slide cap",
+				"shortName": "Glock Cap",
+				"description": "A plate that screws into the top of a Glock MOS pistol slide to cover the plate mounting system. Manufactured by Glock."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_mount"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 2953,
+		"handbookPriceRoubles": 1243,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1243,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 16
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+				"Probability": 16
+			}
+		]
 	}
 }

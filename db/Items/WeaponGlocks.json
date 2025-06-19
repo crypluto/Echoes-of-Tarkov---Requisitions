@@ -1,0 +1,314 @@
+	{
+	"6850956dcf12c18a4d8ed9ab": {
+		"itemTplToClone": "5a7ae0c351dfba0017554310",
+		"parentId": "HANDGUN",
+		"handbookParentId": "WEAPONS_PISTOLS",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "assets/content/weapons/glock17/weapon_glock_glock_17_gen3_9x19_container.bundle",
+				"rcid": ""
+			},
+			"SingleFireRate": 550,
+			"Slots": [
+				{
+					"_name": "mod_barrel",
+					"_id": "685095d15b9b30bd0b9daa01",
+					"_parent": "6850956dcf12c18a4d8ed9ab",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5a6b5b8a8dc32e001207faf3",
+									"5a6b5e468dc32e001207faf5",
+									"5a6b60158dc32e000a31138b",
+									"5a6b5f868dc32e000a311389",
+									"5a6b5ed88dc32e000c52ec86"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_pistol_grip",
+					"_id": "6828f65e0fbb8c4f7ca75c4e",
+					"_parent": "6850956dcf12c18a4d8ed9ab",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5a7b4960e899ef197b331a2d"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_reciever",
+					"_id": "6828f6604ee74a06a0633467",
+					"_parent": "6850956dcf12c18a4d8ed9ab",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"68509710f0df4dbc5b0ff7fe"
+								]
+							}
+						]
+					},
+					"_required": true,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_magazine",
+					"_id": "6828f661c1d08b19d52fa1fa",
+					"_parent": "6850956dcf12c18a4d8ed9ab",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"6851b17ddcbd0df4a2b4c65f"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_tactical",
+					"_id": "6828f66352cab8d1407fd9f9",
+					"_parent": "6850956dcf12c18a4d8ed9ab",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5a7ad74e51dfba0015068f45",
+									"5a800961159bd4315e3a1657",
+									"5cc9c20cd7f00c001336c65d",
+									"5d2369418abbc306c62e0c80",
+									"5b07dd285acfc4001754240d",
+									"56def37dd2720bec348b456a",
+									"5a7b483fe899ef0016170d15",
+									"5a5f1ce64f39f90b401987bc",
+									"560d657b4bdc2da74d8b4572",
+									"5a7ad4af51dfba0013379717",
+									"5a7b4900e899ef197b331a2a",
+									"6272370ee4013c5d7e31f418",
+									"6272379924e29f06af4d5ecb"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount",
+					"_id": "6828f6671f9e10d9d3a90bef",
+					"_parent": "6850956dcf12c18a4d8ed9ab",
+					"_props": {
+						"filters": [
+							{
+								"Shift": 0,
+								"Filter": [
+									"5a7ad55551dfba0015068f42"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_stock",
+					"_id": "6828f8fead9a71a05b37611a",
+					"_parent": "6850956dcf12c18a4d8ed9ab",
+					"_props": {
+						"filters": [
+							{
+								"AnimationIndex": -1,
+								"Filter": [
+									"5d1c702ad7ad1a632267f429"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c394bdc2dae468b4577"
+				}
+			],
+			"ammoCaliber": "Caliber10.2x22",
+			"defMagType": "5fb651b52b1b027b1f50bcff",
+			"Chambers": [
+				{
+					"_name": "patron_in_weapon",
+					"_id": "9efa2df053e734a66c8da122",
+					"_parent": "6850956dcf12c18a4d8ed9ab",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"6851add2caf8415c3bb32142",
+									"6851ab968c52422fbf785f59",
+									"6851a9c7efa6d303c471beb2",
+									"6851a7436b5a01959e6f54f9"
+								]
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d4af244bdc2d962f8b4571"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "Glock 22 .40 S&W pistol",
+				"shortName": "Glock 22",
+				"description": "Glock 22 is an Austrian pistol designed by Glock company for the American FBI. Thanks to both its impressive combat characteristics and reliablity it gained wide recognition and popularity as a police, shooting sports and civilian self-defense weapon."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"fleaPriceRoubles": 21245,
+		"handbookPriceRoubles": 8573,
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 8573,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"addtoBots": false,
+		"addtostaticlootcontainer": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 25
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+				"Probability": 15
+			}
+		],
+		"masteries": true,
+		"masterySections": [
+			{
+				"Name": "G17",
+				"Templates": [
+					"685098f162c54c44b342cb24"
+				]
+			}
+		],
+		"addweaponpreset": false,
+		"weaponpresets": [
+			{
+				"_changeWeaponName": false,
+				"_encyclopedia": "6828f3c5a1e409ab7d163228",
+				"_id": "685098f162c54c44b342cb24",
+				"_items": [
+					{
+						"_id": "68290e102f2bde8b2f1154ed",
+						"_tpl": "6828f3c5a1e409ab7d163228",
+						"upd": {
+							"StackObjectsCount": 99,
+							"Repairable": {
+								"MaxDurability": 100,
+								"Durability": 100
+							},
+							"FireMode": {
+								"FireMode": "single"
+							}
+						}
+					},
+					{
+						"_id": "68290e59351be344b1025859",
+						"_tpl": "5beec8ea0db834001a6f9dbf",
+						"parentId": "68290e102f2bde8b2f1154ed",
+						"slotId": "mod_pistol_grip"
+					},
+					{
+						"_id": "68290e5a425d56ba635162e2",
+						"_tpl": "57838f9f2459774a150289a0",
+						"parentId": "68290e102f2bde8b2f1154ed",
+						"slotId": "mod_magazine"
+					},
+					{
+						"_id": "68290e4d11dedd2e149fde5b",
+						"_tpl": "649ec87d8007560a9001ab36",
+						"parentId": "68290e102f2bde8b2f1154ed",
+						"slotId": "mod_stock_001"
+					},
+					{
+						"_id": "6829092098d0583cbf9d0558",
+						"_tpl": "5beec8c20db834001d2c465c",
+						"parentId": "68290e4d11dedd2e149fde5b",
+						"slotId": "mod_stock"
+					},
+					{
+						"_id": "682908135d15d23d2af25d3b",
+						"_tpl": "649ec2f3961514b22506b111",
+						"parentId": "68290e102f2bde8b2f1154ed",
+						"slotId": "mod_reciever"
+					},
+					{
+						"_id": "68290e2e3550c66792675ffc",
+						"_tpl": "649ec2da59cbb3c813042dca",
+						"parentId": "682908135d15d23d2af25d3b",
+						"slotId": "mod_sight_rear"
+					},
+					{
+						"_id": "68290e553fdbf7706c3c6508",
+						"_tpl": "649ec2cec93611967b03495e",
+						"parentId": "68290e2e3550c66792675ffc",
+						"slotId": "mod_sight_rear"
+					},
+					{
+						"_id": "68290e5625dea088e9df43a4",
+						"_tpl": "649ec107961514b22506b10c",
+						"parentId": "68290e102f2bde8b2f1154ed",
+						"slotId": "mod_gas_block"
+					},
+					{
+						"_id": "6850534dd176f8ebdba0ccd4",
+						"_tpl": "649ec127c93611967b034957",
+						"parentId": "68290e102f2bde8b2f1154ed",
+						"slotId": "mod_handguard"
+					}
+				],
+				"_name": "AK129 preset",
+				"_parent": "68290e102f2bde8b2f1154ed",
+				"_type": "Preset"
+			}
+		]
+	}
+}
