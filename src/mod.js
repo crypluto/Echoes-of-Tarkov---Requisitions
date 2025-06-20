@@ -87,6 +87,7 @@ class EchoesOfTarkovMod {
         // WTT Initializations
         this.Instance.postDBLoad(container);
         console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions Loaded | Got something I'm supposed to deliver - your hands only.`);
+        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Hoser Loaded        | Don’t ask for a discount. You want magic, you pay sorcerer prices.`);
         this.customItemService.postDBLoad();
         this.customAssortSchemeService.postDBLoad();
         this.customWeaponPresets.postDBLoad();
