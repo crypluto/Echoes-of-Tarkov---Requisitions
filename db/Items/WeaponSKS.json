@@ -1,5 +1,5 @@
 {
-    "682a543094114c092df7373e": {
+	"682a543094114c092df7373e": {
 		"itemTplToClone": "587e02ff24597743df3deaeb",
 		"parentId": "ASSAULT_CARBINE",
 		"handbookParentId": "WEAPONS_CARBINES",
@@ -61,9 +61,9 @@
 								"Shift": 0,
 								"Filter": [
 									"61695095d92c473c7702147a",
-                					"5c5970672e221602b21d7855",
-                 					"587df583245977373c4f1129",
-                  					"587df3a12459772c28142567"
+									"5c5970672e221602b21d7855",
+									"587df583245977373c4f1129",
+									"587df3a12459772c28142567"
 								]
 							}
 						]
@@ -82,7 +82,7 @@
 								"Shift": 0,
 								"Filter": [
 									"587e08ee245977446b4410cf",
-                  					"6415d33eda439c6a97048b5b"
+									"6415d33eda439c6a97048b5b"
 								]
 							}
 						]
@@ -186,11 +186,11 @@
 			{
 				"Name": "SKS",
 				"Templates": [
-					"682a5a4ecf42e9fba10cfe5e"
+					"682a543094114c092df7373e"
 				]
 			}
 		],
-		"addweaponpreset":  true,
+		"addweaponpreset": true,
 		"weaponpresets": [
 			{
 				"_changeWeaponName": false,
