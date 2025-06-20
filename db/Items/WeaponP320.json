@@ -228,7 +228,7 @@
         },
         "locales": {
             "en": {
-<<<<<<< HEAD
+
                 "name": "P320 4.7 Full Size Barrel",
                 "shortName": "4.7 barrel",
                 "description": ""
@@ -270,11 +270,8 @@
                 "name": "P320 3.6 Compact Barrel",
                 "shortName": "3.6 barrel",
                 "description": ""
-=======
-                "name": "SIG Sauer P320 9x19 4.7 inch barrel",
-                "shortName": "P320 4.7\"",
-                "description": "A Standard Issue 4.7 inch (119mm) barrel for the SIG P320."
->>>>>>> 8d04a6ffb688c89454b9ddd1b730cce9b57b2652
+
+
             }
         },
         "clearClonedProps": false,
