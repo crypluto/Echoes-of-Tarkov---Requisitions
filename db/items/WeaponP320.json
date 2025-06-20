@@ -133,9 +133,13 @@
         },
         "locales": {
             "en": {
+<<<<<<< Updated upstream
                 "name": "Sig Sauer P320 9x19mm Fire Control Unit",
+=======
+                "name": "SIG Sauer P320 9x19 pistol",
+>>>>>>> Stashed changes
                 "shortName": "P320",
-                "description": ""
+                "description": "The Sig Sauer P320 is a modular, striker-fired semi-automatic pistol known for its versatility and accuracy. It's modular design and durable construction lead to its adoption by the U.S. military and various law enforcement and military agencies globally. Manufactured by SIG Sauer."
             }
         },
         "clearClonedProps": false,
@@ -190,9 +194,15 @@
         },
         "locales": {
             "en": {
+<<<<<<< Updated upstream
                 "name": "P320 3.9 Compact Barrel",
                 "shortName": "3.9 barrel",
                 "description": ""
+=======
+                "name": "SIG Sauer P320 9x19 3.4 inch barrel",
+                "shortName": "P320 3.4\"",
+                "description": "A Standard Issue 3.4 inch (86mm) barrel for the SIG P320."
+>>>>>>> Stashed changes
             }
         },
         "clearClonedProps": false,
@@ -228,6 +238,7 @@
         },
         "locales": {
             "en": {
+<<<<<<< Updated upstream
                 "name": "P320 4.7 Full Size Barrel",
                 "shortName": "4.7 barrel",
                 "description": ""
@@ -269,6 +280,11 @@
                 "name": "P320 3.6 Compact Barrel",
                 "shortName": "3.6 barrel",
                 "description": ""
+=======
+                "name": "SIG Sauer P320 9x19 4.7 inch barrel",
+                "shortName": "P320 4.7\"",
+                "description": "A Standard Issue 4.7 inch (119mm) barrel for the SIG P320."
+>>>>>>> Stashed changes
             }
         },
         "clearClonedProps": false,
