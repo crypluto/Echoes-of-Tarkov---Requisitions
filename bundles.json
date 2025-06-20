@@ -1457,23 +1457,7 @@
             ]
         },
         {
-            "key": "WeaponP320/comp_39_delta_fde.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "WeaponP320/comp_39_micro_blk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponP320/comp_39_micro_fde.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -1489,23 +1473,7 @@
             ]
         },
         {
-            "key": "WeaponP320/comp_39_ultra_fde.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "WeaponP320/comp_47_micro.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponP320/comp_47_micro_fde.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -1712,7 +1680,7 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
-                {
+        {
             "key": "WeaponP320/barrel_36.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -1720,7 +1688,7 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
-                        {
+        {
             "key": "WeaponP320/comp_36_micro_blk.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -1728,14 +1696,7 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
-                        {
-            "key": "WeaponP320/comp_36_micro_fde.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
+
         {
             "key": "WeaponP320/slide_47_fde.bundle",
             "dependencyKeys": [
@@ -1996,6 +1957,5 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         }
-        
     ]
 }

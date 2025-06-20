@@ -250,7 +250,7 @@
         "traders": {},
         "StaticLootContainers": []
     },
-      "685417290f365b87aefc636f": {
+    "685417290f365b87aefc636f": {
         "itemTplToClone": "5f3e7801153b8571434a924c",
         "parentId": "555ef6e44bdc2de9068b457e",
         "handbookParentId": "5b5f75c686f774094242f19f",
@@ -326,7 +326,7 @@
         "traders": {},
         "StaticLootContainers": []
     },
-     "68541753c2fb38f2aebaab59": {
+    "68541753c2fb38f2aebaab59": {
         "itemTplToClone": "5f3e7801153b8571434a924c",
         "parentId": "555ef6e44bdc2de9068b457e",
         "handbookParentId": "5b5f75c686f774094242f19f",
@@ -364,7 +364,7 @@
         "traders": {},
         "StaticLootContainers": []
     },
-      "685418bbb6ba556d7cab99c2": {
+    "685418bbb6ba556d7cab99c2": {
         "itemTplToClone": "5f3e7801153b8571434a924c",
         "parentId": "555ef6e44bdc2de9068b457e",
         "handbookParentId": "5b5f75c686f774094242f19f",
@@ -382,120 +382,6 @@
             "en": {
                 "name": "P320 3.6 PMM Barrel With PMM Micro Compensator - FDE",
                 "shortName": "3.6 Micro",
-                "description": ""
-            }
-        },
-        "clearClonedProps": false,
-        "addtoInventorySlots": [],
-        "addtoModSlots": false,
-        "modSlot": [
-            "mod_barrel"
-        ],
-        "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
-        "fleaPriceRoubles": 9250,
-        "handbookPriceRoubles": 5050,
-        "addtoTraders": false,
-        "addtoBots": false,
-        "addtoStaticLootContainers": false,
-        "Probability": 250,
-        "traders": {},
-        "StaticLootContainers": []
-    },
-    "6851b818b2ca4d125976c7c9": {
-        "itemTplToClone": "5f3e7801153b8571434a924c",
-        "parentId": "555ef6e44bdc2de9068b457e",
-        "handbookParentId": "5b5f75c686f774094242f19f",
-        "overrideProperties": {
-            "Prefab": {
-                "path": "WeaponP320/comp_39_delta_fde.bundle",
-                "rcid": ""
-            },
-            "ExaminedByDefault": true,
-            "Recoil": -4,
-            "Ergonomics": -3,
-            "Slots": []
-        },
-        "locales": {
-            "en": {
-                "name": "P320 3.9 PMM Barrel With PMM Duty Compensator - FDE",
-                "shortName": "3.9 Duty",
-                "description": ""
-            }
-        },
-        "clearClonedProps": false,
-        "addtoInventorySlots": [],
-        "addtoModSlots": false,
-        "modSlot": [
-            "mod_barrel"
-        ],
-        "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
-        "fleaPriceRoubles": 9250,
-        "handbookPriceRoubles": 5050,
-        "addtoTraders": false,
-        "addtoBots": false,
-        "addtoStaticLootContainers": false,
-        "Probability": 250,
-        "traders": {},
-        "StaticLootContainers": []
-    },
-    "6851b965ab50893e256aabaf": {
-        "itemTplToClone": "5f3e7801153b8571434a924c",
-        "parentId": "555ef6e44bdc2de9068b457e",
-        "handbookParentId": "5b5f75c686f774094242f19f",
-        "overrideProperties": {
-            "Prefab": {
-                "path": "WeaponP320/comp_39_micro_blk.bundle",
-                "rcid": ""
-            },
-            "ExaminedByDefault": true,
-            "Recoil": -4,
-            "Ergonomics": -3,
-            "Slots": []
-        },
-        "locales": {
-            "en": {
-                "name": "P320 3.9 PMM Barrel With PMM Micro Compensator - Black",
-                "shortName": "3.9 Micro",
-                "description": ""
-            }
-        },
-        "clearClonedProps": false,
-        "addtoInventorySlots": [],
-        "addtoModSlots": false,
-        "modSlot": [
-            "mod_barrel"
-        ],
-        "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
-        "fleaPriceRoubles": 9250,
-        "handbookPriceRoubles": 5050,
-        "addtoTraders": false,
-        "addtoBots": false,
-        "addtoStaticLootContainers": false,
-        "Probability": 250,
-        "traders": {},
-        "StaticLootContainers": []
-    },
-    "6851b95e5cbc5001672aa311": {
-        "itemTplToClone": "5f3e7801153b8571434a924c",
-        "parentId": "555ef6e44bdc2de9068b457e",
-        "handbookParentId": "5b5f75c686f774094242f19f",
-        "overrideProperties": {
-            "Prefab": {
-                "path": "WeaponP320/comp_39_micro_fde.bundle",
-                "rcid": ""
-            },
-            "ExaminedByDefault": true,
-            "Recoil": -4,
-            "Ergonomics": -3,
-            "Slots": []
-        },
-        "locales": {
-            "en": {
-                "name": "P320 3.9 PMM Barrel With PMM Micro Compensator - FDE",
-                "shortName": "3.9 Micro",
                 "description": ""
             }
         },
@@ -554,44 +440,7 @@
         "traders": {},
         "StaticLootContainers": []
     },
-    "6851b80d7d9124134befcc83": {
-        "itemTplToClone": "5f3e7801153b8571434a924c",
-        "parentId": "555ef6e44bdc2de9068b457e",
-        "handbookParentId": "5b5f75c686f774094242f19f",
-        "overrideProperties": {
-            "Prefab": {
-                "path": "WeaponP320/comp_39_ultra_fde.bundle",
-                "rcid": ""
-            },
-            "ExaminedByDefault": true,
-            "Recoil": -4,
-            "Ergonomics": -3,
-            "Slots": []
-        },
-        "locales": {
-            "en": {
-                "name": "P320 3.9 PMM Barrel With PMM Ultra Compensator - FDE",
-                "shortName": "3.9 Ultra",
-                "description": ""
-            }
-        },
-        "clearClonedProps": false,
-        "addtoInventorySlots": [],
-        "addtoModSlots": false,
-        "modSlot": [
-            "mod_barrel"
-        ],
-        "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
-        "fleaPriceRoubles": 9250,
-        "handbookPriceRoubles": 5050,
-        "addtoTraders": false,
-        "addtoBots": false,
-        "addtoStaticLootContainers": false,
-        "Probability": 250,
-        "traders": {},
-        "StaticLootContainers": []
-    },
+    
     "6851b93d2a9eb74a5848c75f": {
         "itemTplToClone": "5f3e7801153b8571434a924c",
         "parentId": "555ef6e44bdc2de9068b457e",
@@ -630,44 +479,7 @@
         "traders": {},
         "StaticLootContainers": []
     },
-    "6851b91d0cf61a8c70b7f8e7": {
-        "itemTplToClone": "5f3e7801153b8571434a924c",
-        "parentId": "555ef6e44bdc2de9068b457e",
-        "handbookParentId": "5b5f75c686f774094242f19f",
-        "overrideProperties": {
-            "Prefab": {
-                "path": "WeaponP320/comp_47_micro_fde.bundle",
-                "rcid": ""
-            },
-            "ExaminedByDefault": true,
-            "Recoil": -4,
-            "Ergonomics": -3,
-            "Slots": []
-        },
-        "locales": {
-            "en": {
-                "name": "P320 4.7 PMM Barrel With PMM Micro Compensator - FDE",
-                "shortName": "4.7 Micro",
-                "description": ""
-            }
-        },
-        "clearClonedProps": false,
-        "addtoInventorySlots": [],
-        "addtoModSlots": false,
-        "modSlot": [
-            "mod_barrel"
-        ],
-        "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
-        "fleaPriceRoubles": 9250,
-        "handbookPriceRoubles": 5050,
-        "addtoTraders": false,
-        "addtoBots": false,
-        "addtoStaticLootContainers": false,
-        "Probability": 250,
-        "traders": {},
-        "StaticLootContainers": []
-    },
+   
     "6851b9fbf52bb35b3dd1b141": {
         "itemTplToClone": "5f3e7823ddc4f03b010e2045",
         "parentId": "55818a304bdc2db5418b457d",
@@ -680,6 +492,27 @@
             "Ergonomics": 3.5,
             "ExaminedByDefault": true,
             "Slots": [
+                {
+                    "_id": "6851bbd4298e67c26617684f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737",
+                                    "616442e4faa1272e43152193",
+                                    "684ca7ab1a059f229b96e1a3",
+                                    "684ca7a7dd567362e6a2d719"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
                 {
                     "_id": "6851bbd7ef630b7f5aa02724",
                     "_mergeSlotWithChildren": false,
@@ -753,7 +586,28 @@
             },
             "Ergonomics": 3.5,
             "ExaminedByDefault": true,
-              "Slots": [
+            "Slots": [
+               {
+                    "_id": "6851bbd4298e67c26617684f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737",
+                                    "616442e4faa1272e43152193",
+                                    "684ca7ab1a059f229b96e1a3",
+                                    "684ca7a7dd567362e6a2d719"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
                 {
                     "_id": "6851bbd7ef630b7f5aa02724",
                     "_mergeSlotWithChildren": false,
@@ -827,7 +681,28 @@
             },
             "Ergonomics": 3.5,
             "ExaminedByDefault": true,
-                          "Slots": [
+            "Slots": [
+               {
+                    "_id": "6851bbd4298e67c26617684f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737",
+                                    "616442e4faa1272e43152193",
+                                    "684ca7ab1a059f229b96e1a3",
+                                    "684ca7a7dd567362e6a2d719"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
                 {
                     "_id": "6851bbd7ef630b7f5aa02724",
                     "_mergeSlotWithChildren": false,
@@ -901,7 +776,28 @@
             },
             "Ergonomics": 3.5,
             "ExaminedByDefault": true,
-              "Slots": [
+            "Slots": [
+               {
+                    "_id": "6851bbd4298e67c26617684f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737",
+                                    "616442e4faa1272e43152193",
+                                    "684ca7ab1a059f229b96e1a3",
+                                    "684ca7a7dd567362e6a2d719"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
                 {
                     "_id": "6851bbd7ef630b7f5aa02724",
                     "_mergeSlotWithChildren": false,
@@ -975,7 +871,28 @@
             },
             "Ergonomics": 3.5,
             "ExaminedByDefault": true,
-                          "Slots": [
+            "Slots": [
+               {
+                    "_id": "6851bbd4298e67c26617684f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737",
+                                    "616442e4faa1272e43152193",
+                                    "684ca7ab1a059f229b96e1a3",
+                                    "684ca7a7dd567362e6a2d719"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
                 {
                     "_id": "6851bbd7ef630b7f5aa02724",
                     "_mergeSlotWithChildren": false,
@@ -1049,7 +966,28 @@
             },
             "Ergonomics": 3.5,
             "ExaminedByDefault": true,
-                          "Slots": [
+            "Slots": [
+               {
+                    "_id": "6851bbd4298e67c26617684f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737",
+                                    "616442e4faa1272e43152193",
+                                    "684ca7ab1a059f229b96e1a3",
+                                    "684ca7a7dd567362e6a2d719"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
                 {
                     "_id": "6851bbd7ef630b7f5aa02724",
                     "_mergeSlotWithChildren": false,
@@ -1282,7 +1220,7 @@
                 "path": "WeaponP320/frame_47_blk.bundle",
                 "rcid": ""
             },
-             "Slots": [
+            "Slots": [
                 {
                     "_id": "6851b75a02ed77dc60e19645",
                     "_mergeSlotWithChildren": false,
@@ -1347,7 +1285,7 @@
                 "path": "WeaponP320/frame_47_fde.bundle",
                 "rcid": ""
             },
-             "Slots": [
+            "Slots": [
                 {
                     "_id": "6851b75a02ed77dc60e19645",
                     "_mergeSlotWithChildren": false,
@@ -1412,7 +1350,7 @@
                 "path": "WeaponP320/frame_39_blk.bundle",
                 "rcid": ""
             },
-             "Slots": [
+            "Slots": [
                 {
                     "_id": "6851b75a02ed77dc60e19645",
                     "_mergeSlotWithChildren": false,
@@ -1477,7 +1415,7 @@
                 "path": "WeaponP320/frame_39_fde.bundle",
                 "rcid": ""
             },
-             "Slots": [
+            "Slots": [
                 {
                     "_id": "6851b75a02ed77dc60e19645",
                     "_mergeSlotWithChildren": false,
