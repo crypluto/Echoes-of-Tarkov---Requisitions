@@ -133,11 +133,7 @@
         },
         "locales": {
             "en": {
-<<<<<<< Updated upstream
-                "name": "Sig Sauer P320 9x19mm Fire Control Unit",
-=======
                 "name": "SIG Sauer P320 9x19 pistol",
->>>>>>> Stashed changes
                 "shortName": "P320",
                 "description": "The Sig Sauer P320 is a modular, striker-fired semi-automatic pistol known for its versatility and accuracy. It's modular design and durable construction lead to its adoption by the U.S. military and various law enforcement and military agencies globally. Manufactured by SIG Sauer."
             }
@@ -194,15 +190,9 @@
         },
         "locales": {
             "en": {
-<<<<<<< Updated upstream
-                "name": "P320 3.9 Compact Barrel",
-                "shortName": "3.9 barrel",
-                "description": ""
-=======
                 "name": "SIG Sauer P320 9x19 3.4 inch barrel",
                 "shortName": "P320 3.4\"",
                 "description": "A Standard Issue 3.4 inch (86mm) barrel for the SIG P320."
->>>>>>> Stashed changes
             }
         },
         "clearClonedProps": false,
@@ -238,53 +228,9 @@
         },
         "locales": {
             "en": {
-<<<<<<< Updated upstream
-                "name": "P320 4.7 Full Size Barrel",
-                "shortName": "4.7 barrel",
-                "description": ""
-            }
-        },
-        "clearClonedProps": false,
-        "addtoInventorySlots": [],
-        "addtoModSlots": false,
-        "modSlot": [
-            "mod_barrel"
-        ],
-        "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
-        "fleaPriceRoubles": 9250,
-        "handbookPriceRoubles": 5050,
-        "addtoTraders": false,
-        "addtoBots": false,
-        "addtoStaticLootContainers": false,
-        "Probability": 250,
-        "traders": {},
-        "StaticLootContainers": []
-    },
-      "685417290f365b87aefc636f": {
-        "itemTplToClone": "5f3e7801153b8571434a924c",
-        "parentId": "555ef6e44bdc2de9068b457e",
-        "handbookParentId": "5b5f75c686f774094242f19f",
-        "overrideProperties": {
-            "Prefab": {
-                "path": "WeaponP320/barrel_36.bundle",
-                "rcid": ""
-            },
-            "ExaminedByDefault": true,
-            "Recoil": -4,
-            "Ergonomics": -3,
-            "Slots": []
-        },
-        "locales": {
-            "en": {
-                "name": "P320 3.6 Compact Barrel",
-                "shortName": "3.6 barrel",
-                "description": ""
-=======
                 "name": "SIG Sauer P320 9x19 4.7 inch barrel",
                 "shortName": "P320 4.7\"",
                 "description": "A Standard Issue 4.7 inch (119mm) barrel for the SIG P320."
->>>>>>> Stashed changes
             }
         },
         "clearClonedProps": false,
