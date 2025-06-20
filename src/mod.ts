@@ -5,91 +5,110 @@ import * as path from "path";
 
 import { DependencyContainer } from "tsyringe";
 import { IPostDBLoadMod } from "@spt/models/external/IPostDBLoadMod";
-import { IpreSptLoadMod } from "@spt/models/external/IpreSptLoadMod";
-import { LogTextColor } from "@spt/models/spt/logging/LogTextColor";
+import { IPreSptLoadMod } from "@spt/models/external/IPreSptLoadMod";
+import { ConfigTypes } from "@spt/models/enums/ConfigTypes";
+import { ITraderConfig } from "@spt/models/spt/config/ITraderConfig";
+import { Traders } from "@spt/models/enums/Traders";
 
-// WTT imports
+// WTT / Viper Item Imports
 import { WTTInstanceManager } from "./WTTInstanceManager";
-import { epicItemClass } from "./EpicsEdits"
-
-// Boss imports
+import { epicItemClass } from "./EpicsEdits";
 import { CustomItemService } from "./CustomItemService";
-
-// Custom Trader Assort Items
 import { CustomAssortSchemeService } from "./CustomAssortSchemeService";
 import { CustomWeaponPresets } from "./CustomWeaponPresets";
 
+// Trader Imports
+import { References } from "./Refs/References";
+import { TraderData } from "./Trader/TraderTemplate";
+import { TraderUtils } from "./Refs/Utils";
+import * as baseJson from "../db/base.json";
+import * as questAssort from "../db/questassort.json";
 
+class EchoesOfTarkovMod implements IPreSptLoadMod, IPostDBLoadMod {
+	private modName = "Echoes of Tarkov - Requisitions & hoser";
+	private version: string;
+	private debug = false;
 
-class AAAViperItems
-    implements IpreSptLoadMod, IPostDBLoadMod {
-    private Instance: WTTInstanceManager = new WTTInstanceManager();
-    private version: string;
-    private modName = "Echoes of Tarkov - Requisitions";
-    private config;
+	// WTT-related Services
+	private Instance: WTTInstanceManager = new WTTInstanceManager();
+	private customItemService: CustomItemService = new CustomItemService();
+	private customAssortSchemeService: CustomAssortSchemeService = new CustomAssortSchemeService();
+	private customWeaponPresets: CustomWeaponPresets = new CustomWeaponPresets();
+	private epicItemClass: epicItemClass = new epicItemClass();
 
-    //#region CustomBosses
-    private customItemService: CustomItemService = new CustomItemService();
-    private epicItemClass: epicItemClass = new epicItemClass();
-    //#endregion
+	// Trader-related Services
+	private ref: References = new References();
 
-    private customAssortSchemeService: CustomAssortSchemeService = new CustomAssortSchemeService();
-    private customWeaponPresets: CustomWeaponPresets = new CustomWeaponPresets();
+	public preSptLoad(container: DependencyContainer): void {
+		// WTT Initializations
+		this.Instance.preSptLoad(container, this.modName);
+		this.Instance.debug = this.debug;
+		this.getVersionFromJson();
 
-    debug = false;
+		this.customItemService.preSptLoad(this.Instance);
+		this.customAssortSchemeService.preSptLoad(this.Instance);
+		this.customWeaponPresets.preSptLoad(this.Instance);
+		this.epicItemClass.preSptLoad(this.Instance);
 
-    // Anything that needs done on preSptLoad, place here.
-    public preSptLoad(container: DependencyContainer): void {
-        // Initialize the instance manager DO NOTHING ELSE BEFORE THIS
-        this.Instance.preSptLoad(container, this.modName);
-        this.Instance.debug = this.debug;
-        // EVERYTHING AFTER HERE MUST USE THE INSTANCE
+		// Trader Initializations
+		this.ref.preSptLoad(container);
+		const ragfair = this.ref.configServer.getConfig(ConfigTypes.RAGFAIR);
+		const traderConfig: ITraderConfig = this.ref.configServer.getConfig<ITraderConfig>(ConfigTypes.TRADER);
+		const traderUtils = new TraderUtils();
+		const traderData = new TraderData(traderConfig, this.ref, traderUtils);
 
-        this.getVersionFromJson();
+		traderData.registerProfileImage();
+		traderData.setupTraderUpdateTime();
 
+		// Register hoser for Ragfair
+		Traders[baseJson._id] = baseJson._id;
+		ragfair.traders[baseJson._id] = true;
+	}
 
+	public postDBLoad(container: DependencyContainer): void {
+		// WTT Initializations
+		this.Instance.postDBLoad(container);
 
-        // Custom Bosses
-        this.customItemService.preSptLoad(this.Instance);
+		console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions Loaded | Got something I'm supposed to deliver - your hands only.`);
+				console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Hoser Loaded        | Don’t ask for a discount. You want magic, you pay sorcerer prices.`);
 
-        this.customAssortSchemeService.preSptLoad(this.Instance);
+		this.customItemService.postDBLoad();
+		this.customAssortSchemeService.postDBLoad();
+		this.customWeaponPresets.postDBLoad();
+		this.epicItemClass.postDBLoad();
 
-        this.customWeaponPresets.preSptLoad(this.Instance);
+		// Trader Setup
+		this.ref.postDBLoad(container);
+		const traderConfig: ITraderConfig = this.ref.configServer.getConfig<ITraderConfig>(ConfigTypes.TRADER);
+		const traderUtils = new TraderUtils();
+		const traderData = new TraderData(traderConfig, this.ref, traderUtils);
 
-        this.epicItemClass.preSptLoad(this.Instance);
-    }
+		traderData.pushTrader();
+		this.ref.tables.traders[baseJson._id].questassort = questAssort;
 
-    // Anything that needs done on postDBLoad, place here.
-    postDBLoad(container: DependencyContainer): void {
-        // Initialize the instance manager DO NOTHING ELSE BEFORE THIS
-        this.Instance.postDBLoad(container);
+		traderData.addTraderToLocales(
+			this.ref.tables,
+			baseJson.name,
+			"Hoser",
+			baseJson.nickname,
+			baseJson.location,
+			"Hoser is a profit-driven ex-Canadian combat engineer turned black market mod dealer, selling high-end gun parts to anyone with the cash—no loyalties, no questions."
+		);
 
-        console.log(`\x1b[94m[Echoes of Tarkov] \x1b[93m Requisitions Loaded | Got something I'm supposed to deliver - your hands only.`)
+	}
 
+	private getVersionFromJson(): void {
+		const packageJsonPath = path.join(__dirname, "../package.json");
 
-        // Bosses
-        this.customItemService.postDBLoad();
-
-        this.customAssortSchemeService.postDBLoad();
-        this.customWeaponPresets.postDBLoad();
-        this.epicItemClass.postDBLoad();
-    }
-
-    private getVersionFromJson(): void {
-        const packageJsonPath = path.join(__dirname, "../package.json");
-
-        fs.readFile(packageJsonPath, "utf-8", (err, data) => {
-            if (err) {
-                console.error("Error reading file:", err);
-                return;
-            }
-
-            const jsonData = JSON.parse(data);
-            this.version = jsonData.version;
-        });
-    }
-
-
+		fs.readFile(packageJsonPath, "utf-8", (err, data) => {
+			if (err) {
+				console.error("Error reading file:", err);
+				return;
+			}
+			const jsonData = JSON.parse(data);
+			this.version = jsonData.version;
+		});
+	}
 }
 
-module.exports = { mod: new AAAViperItems() };
+module.exports = { mod: new EchoesOfTarkovMod() };

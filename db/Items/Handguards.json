@@ -1817,7 +1817,6 @@
 			"ConflictingItems": [
 				"55d35ee94bdc2d61338b4568",
 				"6357c98711fb55120211f7e1"
-				
 			],
 			"Weight": 0.63,
 			"Slots": [
@@ -3243,6 +3242,232 @@
 		"loyallevelitems": 1,
 		"fleaPriceRoubles": 11294,
 		"handbookPriceRoubles": 4830,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6853451cff5342daf833734a": {
+		"itemTplToClone": "6034e3e20ddce744014cb878",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_colt_c7a2.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"6357c98711fb55120211f7e1",
+				"5d440b9fa4b93601354d480c",
+				"55d35ee94bdc2d61338b4568",
+				"5c0e2f94d174af029f650d56",
+				"55d3632e4bdc2d972f8b4569",
+				"5d440b93a4b9364276578d4b"
+			],
+			"Weight": 0.215,
+			"Width": 3,
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 Diemaco C7A2 12 inch polymer handguard",
+				"shortName": "C7A2 12\"",
+				"description": "The AR-15 A2 Handguard features a traditional two-piece construction with standard all-black polymer as the key material. This one is likely a reproduction model for the civilian market."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 1,
+		"fleaPriceRoubles": 4014,
+		"handbookPriceRoubles": 3002,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6854fc746b14c40157c24657": {
+		"itemTplToClone": "5ae30db85acfc408fb139a05",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_colt_c8a2_top.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Slots": [
+				{
+					"_name": "mod_handguard",
+					"_id": "6854fca0642bcce1462745b1",
+					"_parent": "6854fc746b14c40157c24657",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"6854fd553cac02391571d46d"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 Diemaco C8A2 Carbine Length handguard",
+				"shortName": "C8 Carbine",
+				"description": "A carbine length handguard manufactured by Diemaco/Colt Canada, a standard-issue handguard for the C8A2 assault rifles."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": true,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 1424,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 3210,
+		"handbookPriceRoubles": 1424,
+		"addtoStaticLootContainers": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"6854fd553cac02391571d46d": {
+		"itemTplToClone": "637f57a68d137b27f70c4968",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_colt_c8a2_bottom.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [],
+			"Slots": []
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 Diemaco C8A2 Carbine Length lower handguard",
+				"shortName": "C8 Carbine",
+				"description": "A carbine length lower handguard part manufactured by Diemaco/Colt Canada, a standard-issue handguard for the C8A2 assault rifles."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": false,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [
+			"6357c98711fb55120211f7e1",
+			"68536b5a8533ef3b3f1312c6"
+		],
+		"addtoTraders": true,
+		"traderId": "PEACEKEEPER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 9,
+				"_tpl": "DOLLARS"
+			}
+		],
+		"loyallevelitems": 1,
+		"fleaPriceRoubles": 3210,
+		"handbookPriceRoubles": 1424,
 		"addtoStaticLootContainers": true,
 		"StaticLootContainers": [
 			{

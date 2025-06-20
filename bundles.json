@@ -1956,6 +1956,54 @@
                 "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
+        },
+        {
+            "key": "Attachments/Grips/pistolgrip_ar15_colt_c7a2.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/handguard_ar15_colt_c7a2.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/handguard_ar15_colt_c8a2_top.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/handguard_ar15_colt_c8a2_bottom.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Stocks/stock_ar15_colt_c7a2.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/gasBlocks/gas_block_c7a2_tri.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
         }
     ]
 }

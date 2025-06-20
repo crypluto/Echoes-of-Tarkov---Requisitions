@@ -1306,8 +1306,8 @@
         "locales": {
             "en": {
                 "name": "DPMS CAR-15 Fiberlite Stock",
-                "shortName": "Car-15",
-                "description": "he Retro DPMS CAR-15 Kit alows you to add some throw back vibes with some modern features to your new build. Everything you need to complete out the stock assembly is included with this kit and will give your new build or existing lower that old school flare you have been craving."
+                "shortName": "CAR-15",
+                "description": "The Retro DPMS CAR-15 Kit alows you to add some throw back vibes with some modern features to your new build. Everything you need to complete out the stock assembly is included with this kit and will give your new build or existing lower that old school flare you have been craving."
             }
         },
         "clearClonedProps": false,
@@ -1320,7 +1320,8 @@
         "ModdableItemWhitelist": [],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
-            "5a33e75ac4a2826c6e06d759"
+            "5a33e75ac4a2826c6e06d759",
+            "5beec8b20db834001961942a"
         ],
         "traderItems": [
             {
@@ -1721,6 +1722,75 @@
         "loyallevelitems": 1,
         "fleaPriceRoubles": 48672,
         "handbookPriceRoubles": 3686,
+        "addtoStaticLootContainers": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ]
+    },
+    "6853451a659f4ba885e37fd3": {
+        "itemTplToClone": "55d4ae6c4bdc2d8b2f8b456e",
+        "parentId": "STOCK",
+        "handbookParentId": "MOD_STOCK",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Attachments/Stocks/stock_ar15_colt_c7a2.bundle",
+                "rcid": ""
+            },
+            "CanSellOnRagfair": true,
+            "Ergonomics": 5
+        },
+        "locales": {
+            "en": {
+                "name": "AR-15 Diemaco C7A2 Fiberlite stock",
+                "shortName": "C7A2",
+                "description": "The C7A2 stock is a slightly modified version of the CAR-15 stock and features a bumpy texture for better grip in cold or CBRN (chemical, biological, radiological, and nuclear) conditions. Manufactured by Diemaco (a.k.a. Colt Canada)"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "MOD_STOCK",
+            "MOD_STOCK_000"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759",
+            "5beec8b20db834001961942a"
+        ],
+        "addtoTraders": true,
+        "traderId": "PEACEKEEPER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 29,
+                "_tpl": "DOLLARS"
+            }
+        ],
+        "loyallevelitems": 1,
+        "fleaPriceRoubles": 3000,
+        "handbookPriceRoubles": 3400,
         "addtoStaticLootContainers": true,
         "StaticLootContainers": [
             {
