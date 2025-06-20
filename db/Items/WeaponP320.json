@@ -1,0 +1,1480 @@
+{
+    "6851b6e2af2384018031916b": {
+        "itemTplToClone": "5a7ae0c351dfba0017554310",
+        "parentId": "5447b5cf4bdc2d65278b4567",
+        "handbookParentId": "5b5f792486f77447ed5636b3",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/sigp320.bundle",
+                "rcid": ""
+            },
+            "RecoilForceBack": 230,
+            "Ergonomics": 90,
+            "BaseMalfunctionChance": 0.14,
+            "RecoilForceUp": 285,
+            "RecoilDampingHandRotation": 0.62,
+            "ExaminedByDefault": true,
+            "SingleFireRate": 550,
+            "defMagType": "684b261ee900b79b5be17c74",
+            "defAmmo": "58864a4f2459770fcc257101",
+            "Slots": [
+                {
+                    "_id": "6851bbd4298e67c26617684f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_barrel",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851b91d0cf61a8c70b7f8e7",
+                                    "6851b93d2a9eb74a5848c75f",
+                                    "6851b80d7d9124134befcc83",
+                                    "6851b9742c25a4ca59b66f56",
+                                    "6851b95e5cbc5001672aa311",
+                                    "6851b965ab50893e256aabaf",
+                                    "6851b818b2ca4d125976c7c9",
+                                    "6851b81a022c968c773eb317",
+                                    "6851b81c8af065063baef9e7",
+                                    "6851b7eaae4e0776eacd8f0c",
+                                    "685418bbb6ba556d7cab99c2",
+                                    "68541753c2fb38f2aebaab59",
+                                    "6851b81a022c968c773eb317",
+                                    "685417290f365b87aefc636f"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "6851bbd356104b9e299dbd3c",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_reciever",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851ba413a4b2ace19713b82",
+                                    "6851b9fbf52bb35b3dd1b141",
+                                    "6851ba48142a766a3ddbf068",
+                                    "6851ba58e3df25a92eb1f1e7",
+                                    "6851ba70c4ecd7d4866368f1",
+                                    "6851ba63dde19f7ba9376418"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "6851bbd1249df2ac4d8318f2",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "weapon_trigger",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bad98f3bd02ba613fd8a"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "6851bbd0bc347d189df15b9f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_magazine",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "AnimationIndex": 0,
+                                "Filter": [
+                                    "6851bb61df6b0ce4f48bc269"
+                                ]
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c394bdc2dae468b4577",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bbcf3c5c35ff66ebc951",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_pistol_grip",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bd3f607f3681aabf337d",
+                                    "6851bd9eaf266d68a7f46e08",
+                                    "6851bd95705951bda42e2ea9",
+                                    "6851bd8a22decaf508db4dd9"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "SIG Sauer P320 9x19 pistol",
+                "shortName": "P320",
+                "description": "The Sig Sauer P320 is a modular, striker-fired semi-automatic pistol known for its versatility and accuracy. It's modular design and durable construction lead to its adoption by the U.S. military and various law enforcement and military agencies globally. Manufactured by SIG Sauer."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 31800,
+        "handbookPriceRoubles": 10500,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": true,
+        "masterySections": [
+            {
+                "Level2": 75,
+                "Level3": 100,
+                "Name": "m1911",
+                "Templates": [
+                    "6851b6e2af2384018031916b"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": [],
+        "traders": {}
+    },
+    "6851b7eaae4e0776eacd8f0c": {
+        "itemTplToClone": "5f3e7801153b8571434a924c",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/barrel_39.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "Recoil": -4,
+            "Ergonomics": -3,
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "SIG Sauer P320 9x19 3.4 inch barrel",
+                "shortName": "P320 3.4\"",
+                "description": "A Standard Issue 3.4 inch (86mm) barrel for the SIG P320."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 9250,
+        "handbookPriceRoubles": 5050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851b81c8af065063baef9e7": {
+        "itemTplToClone": "5f3e7801153b8571434a924c",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/barrel_47.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "Recoil": -4,
+            "Ergonomics": -3,
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+<<<<<<< HEAD
+                "name": "P320 4.7 Full Size Barrel",
+                "shortName": "4.7 barrel",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 9250,
+        "handbookPriceRoubles": 5050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "685417290f365b87aefc636f": {
+        "itemTplToClone": "5f3e7801153b8571434a924c",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/barrel_36.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "Recoil": -4,
+            "Ergonomics": -3,
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.6 Compact Barrel",
+                "shortName": "3.6 barrel",
+                "description": ""
+=======
+                "name": "SIG Sauer P320 9x19 4.7 inch barrel",
+                "shortName": "P320 4.7\"",
+                "description": "A Standard Issue 4.7 inch (119mm) barrel for the SIG P320."
+>>>>>>> 8d04a6ffb688c89454b9ddd1b730cce9b57b2652
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 9250,
+        "handbookPriceRoubles": 5050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851b81a022c968c773eb317": {
+        "itemTplToClone": "5f3e7801153b8571434a924c",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/comp_39_delta_blk.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "Recoil": -4,
+            "Ergonomics": -3,
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.9 PMM Barrel With PMM Duty Compensator - Black",
+                "shortName": "3.9 Duty",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 9250,
+        "handbookPriceRoubles": 5050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "68541753c2fb38f2aebaab59": {
+        "itemTplToClone": "5f3e7801153b8571434a924c",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/comp_36_micro_blk.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "Recoil": -4,
+            "Ergonomics": -3,
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.6 PMM Barrel With PMM Micro Compensator - Black",
+                "shortName": "3.6 Micro",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 9250,
+        "handbookPriceRoubles": 5050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "685418bbb6ba556d7cab99c2": {
+        "itemTplToClone": "5f3e7801153b8571434a924c",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/comp_36_micro_blk.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "Recoil": -4,
+            "Ergonomics": -3,
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.6 PMM Barrel With PMM Micro Compensator - FDE",
+                "shortName": "3.6 Micro",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 9250,
+        "handbookPriceRoubles": 5050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851b9742c25a4ca59b66f56": {
+        "itemTplToClone": "5f3e7801153b8571434a924c",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/comp_39_ultra_blk.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "Recoil": -4,
+            "Ergonomics": -3,
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.9 PMM Barrel With PMM Ultra Compensator - Black",
+                "shortName": "3.9 Ultra",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 9250,
+        "handbookPriceRoubles": 5050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    
+    "6851b93d2a9eb74a5848c75f": {
+        "itemTplToClone": "5f3e7801153b8571434a924c",
+        "parentId": "555ef6e44bdc2de9068b457e",
+        "handbookParentId": "5b5f75c686f774094242f19f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/comp_47_micro.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "Recoil": -4,
+            "Ergonomics": -3,
+            "Slots": []
+        },
+        "locales": {
+            "en": {
+                "name": "P320 4.7 PMM Barrel With PMM Micro Compensator - Black",
+                "shortName": "4.7 Micro",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_barrel"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 9250,
+        "handbookPriceRoubles": 5050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+   
+    "6851b9fbf52bb35b3dd1b141": {
+        "itemTplToClone": "5f3e7823ddc4f03b010e2045",
+        "parentId": "55818a304bdc2db5418b457d",
+        "handbookParentId": "5b5f764186f77447ec5d7714",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/slide_36_blk.bundle",
+                "rcid": ""
+            },
+            "Ergonomics": 3.5,
+            "ExaminedByDefault": true,
+            "Slots": [
+                {
+                    "_id": "6851bbd4298e67c26617684f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737",
+                                    "616442e4faa1272e43152193",
+                                    "684ca7ab1a059f229b96e1a3",
+                                    "684ca7a7dd567362e6a2d719"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bbd7ef630b7f5aa02724",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_rear",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bbdb62458162cb7c6cb1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bc9cbd3cab974d80f24a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_front",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bcaf86f5053e58873942"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.6 Compact Optic Ready Slide - Black",
+                "shortName": "3.6 Black",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_receiver"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 16890,
+        "handbookPriceRoubles": 7940,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851ba413a4b2ace19713b82": {
+        "itemTplToClone": "5f3e7823ddc4f03b010e2045",
+        "parentId": "55818a304bdc2db5418b457d",
+        "handbookParentId": "5b5f764186f77447ec5d7714",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/slide_36_fde.bundle",
+                "rcid": ""
+            },
+            "Ergonomics": 3.5,
+            "ExaminedByDefault": true,
+            "Slots": [
+               {
+                    "_id": "6851bbd4298e67c26617684f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737",
+                                    "616442e4faa1272e43152193",
+                                    "684ca7ab1a059f229b96e1a3",
+                                    "684ca7a7dd567362e6a2d719"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bbd7ef630b7f5aa02724",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_rear",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bbdb62458162cb7c6cb1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bc9cbd3cab974d80f24a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_front",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bcaf86f5053e58873942"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.6 Compact Optic Ready Slide - Burnt Bronze",
+                "shortName": "3.6 Bronze",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_receiver"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 16890,
+        "handbookPriceRoubles": 7940,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851ba48142a766a3ddbf068": {
+        "itemTplToClone": "5f3e7823ddc4f03b010e2045",
+        "parentId": "55818a304bdc2db5418b457d",
+        "handbookParentId": "5b5f764186f77447ec5d7714",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/slide_39_blk.bundle",
+                "rcid": ""
+            },
+            "Ergonomics": 3.5,
+            "ExaminedByDefault": true,
+            "Slots": [
+               {
+                    "_id": "6851bbd4298e67c26617684f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737",
+                                    "616442e4faa1272e43152193",
+                                    "684ca7ab1a059f229b96e1a3",
+                                    "684ca7a7dd567362e6a2d719"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bbd7ef630b7f5aa02724",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_rear",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bbdb62458162cb7c6cb1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bc9cbd3cab974d80f24a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_front",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bcaf86f5053e58873942"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.9 Sub Compact Optic Ready Slide - Black",
+                "shortName": "3.9 Black",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_receiver"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 16890,
+        "handbookPriceRoubles": 7940,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851ba58e3df25a92eb1f1e7": {
+        "itemTplToClone": "5f3e7823ddc4f03b010e2045",
+        "parentId": "55818a304bdc2db5418b457d",
+        "handbookParentId": "5b5f764186f77447ec5d7714",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/slide_39_fde.bundle",
+                "rcid": ""
+            },
+            "Ergonomics": 3.5,
+            "ExaminedByDefault": true,
+            "Slots": [
+               {
+                    "_id": "6851bbd4298e67c26617684f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737",
+                                    "616442e4faa1272e43152193",
+                                    "684ca7ab1a059f229b96e1a3",
+                                    "684ca7a7dd567362e6a2d719"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bbd7ef630b7f5aa02724",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_rear",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bbdb62458162cb7c6cb1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bc9cbd3cab974d80f24a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_front",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bcaf86f5053e58873942"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.9 Sub Compact Optic Ready Slide - Burnt Bronze",
+                "shortName": "3.9 Burnt Bronze",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_receiver"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 16890,
+        "handbookPriceRoubles": 7940,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851ba63dde19f7ba9376418": {
+        "itemTplToClone": "5f3e7823ddc4f03b010e2045",
+        "parentId": "55818a304bdc2db5418b457d",
+        "handbookParentId": "5b5f764186f77447ec5d7714",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/slide_47_blk.bundle",
+                "rcid": ""
+            },
+            "Ergonomics": 3.5,
+            "ExaminedByDefault": true,
+            "Slots": [
+               {
+                    "_id": "6851bbd4298e67c26617684f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737",
+                                    "616442e4faa1272e43152193",
+                                    "684ca7ab1a059f229b96e1a3",
+                                    "684ca7a7dd567362e6a2d719"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bbd7ef630b7f5aa02724",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_rear",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bbdb62458162cb7c6cb1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bc9cbd3cab974d80f24a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_front",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bcaf86f5053e58873942"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "P320 4.7 Sub Compact Optic Ready Slide - Black",
+                "shortName": "4.7 Black",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_receiver"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 16890,
+        "handbookPriceRoubles": 7940,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851ba70c4ecd7d4866368f1": {
+        "itemTplToClone": "5f3e7823ddc4f03b010e2045",
+        "parentId": "55818a304bdc2db5418b457d",
+        "handbookParentId": "5b5f764186f77447ec5d7714",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/slide_47_fde.bundle",
+                "rcid": ""
+            },
+            "Ergonomics": 3.5,
+            "ExaminedByDefault": true,
+            "Slots": [
+               {
+                    "_id": "6851bbd4298e67c26617684f",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_mount",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737",
+                                    "616442e4faa1272e43152193",
+                                    "684ca7ab1a059f229b96e1a3",
+                                    "684ca7a7dd567362e6a2d719"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bbd7ef630b7f5aa02724",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_rear",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bbdb62458162cb7c6cb1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                },
+                {
+                    "_id": "6851bc9cbd3cab974d80f24a",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_sight_front",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6851bcaf86f5053e58873942"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "P320 4.7 Sub Compact Optic Ready Slide - Burnt Bronze",
+                "shortName": "4.7 Bronze",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_receiver"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 16890,
+        "handbookPriceRoubles": 7940,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851bad98f3bd02ba613fd8a": {
+        "itemTplToClone": "5f3e772a670e2a7b01739a52",
+        "parentId": "5a74651486f7744e73386dd1",
+        "handbookParentId": "5b5f74cc86f77447ec5d770a",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/trigger.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true
+        },
+        "locales": {
+            "en": {
+                "name": "P320 Standard trigger",
+                "shortName": "STD trigger",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_trigger"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 1900,
+        "handbookPriceRoubles": 1100,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851bb61df6b0ce4f48bc269": {
+        "itemTplToClone": "5a718b548dc32e000d46d262",
+        "parentId": "5448bc234bdc2d3c308b4569",
+        "handbookParentId": "5b5f754a86f774094242f19b",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/mag_std.bundle",
+                "rcid": ""
+            },
+            "ExaminedByDefault": true,
+            "magAnimationIndex": 0
+        },
+        "locales": {
+            "en": {
+                "name": "P320 17 RND Standard Magazine",
+                "shortName": "P320 Mag",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_magazine"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 3890,
+        "handbookPriceRoubles": 2500,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851bbdb62458162cb7c6cb1": {
+        "itemTplToClone": "630765cb962d0247b029dc45",
+        "parentId": "55818ac54bdc2d5b648b456e",
+        "handbookParentId": "5b5f746686f77447ec5d7708",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "WeaponP320/sight_rear.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "P320 Standard Contrast Rear sight",
+                "shortName": "STD RS",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4950,
+        "handbookPriceRoubles": 2560,
+        "addtoTraders": false,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 7240,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": []
+    },
+    "6851bcaf86f5053e58873942": {
+        "itemTplToClone": "630765cb962d0247b029dc45",
+        "parentId": "55818ac54bdc2d5b648b456e",
+        "handbookParentId": "5b5f746686f77447ec5d7708",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "WeaponP320/sight_front.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "P320 Standard Contrast Front Sight",
+                "shortName": "STD FS",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4950,
+        "handbookPriceRoubles": 2560,
+        "addtoTraders": false,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 7240,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": []
+    },
+    "6851bd3f607f3681aabf337d": {
+        "itemTplToClone": "5f3e76d86cda304dcc634054",
+        "parentId": "5a74651486f7744e73386dd1",
+        "handbookParentId": "5b5f74cc86f77447ec5d770a",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/frame_47_blk.bundle",
+                "rcid": ""
+            },
+            "Slots": [
+                {
+                    "_id": "6851b75a02ed77dc60e19645",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_tactical",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a800961159bd4315e3a1657",
+                                    "5cc9c20cd7f00c001336c65d",
+                                    "5d2369418abbc306c62e0c80",
+                                    "5b07dd285acfc4001754240d",
+                                    "56def37dd2720bec348b456a",
+                                    "5a7b483fe899ef0016170d15",
+                                    "5a5f1ce64f39f90b401987bc",
+                                    "560d657b4bdc2da74d8b4572",
+                                    "6272370ee4013c5d7e31f418",
+                                    "6272379924e29f06af4d5ecb",
+                                    "68363c6fbfd14a9526e8601b"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ],
+            "ExaminedByDefault": true
+        },
+        "locales": {
+            "en": {
+                "name": "P320 4.7 Full Size Frame - Black",
+                "shortName": "4.7 Frame",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_pistol_grip"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 5052,
+        "handbookPriceRoubles": 3050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851bd9eaf266d68a7f46e08": {
+        "itemTplToClone": "5f3e76d86cda304dcc634054",
+        "parentId": "5a74651486f7744e73386dd1",
+        "handbookParentId": "5b5f74cc86f77447ec5d770a",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/frame_47_fde.bundle",
+                "rcid": ""
+            },
+            "Slots": [
+                {
+                    "_id": "6851b75a02ed77dc60e19645",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_tactical",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a800961159bd4315e3a1657",
+                                    "5cc9c20cd7f00c001336c65d",
+                                    "5d2369418abbc306c62e0c80",
+                                    "5b07dd285acfc4001754240d",
+                                    "56def37dd2720bec348b456a",
+                                    "5a7b483fe899ef0016170d15",
+                                    "5a5f1ce64f39f90b401987bc",
+                                    "560d657b4bdc2da74d8b4572",
+                                    "6272370ee4013c5d7e31f418",
+                                    "6272379924e29f06af4d5ecb",
+                                    "68363c6fbfd14a9526e8601b"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ],
+            "ExaminedByDefault": true
+        },
+        "locales": {
+            "en": {
+                "name": "P320 4.7 Full Size Frame - FDE",
+                "shortName": "4.7 Frame",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_pistol_grip"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 5052,
+        "handbookPriceRoubles": 3050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851bd95705951bda42e2ea9": {
+        "itemTplToClone": "5f3e76d86cda304dcc634054",
+        "parentId": "5a74651486f7744e73386dd1",
+        "handbookParentId": "5b5f74cc86f77447ec5d770a",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/frame_39_blk.bundle",
+                "rcid": ""
+            },
+            "Slots": [
+                {
+                    "_id": "6851b75a02ed77dc60e19645",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_tactical",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a800961159bd4315e3a1657",
+                                    "5cc9c20cd7f00c001336c65d",
+                                    "5d2369418abbc306c62e0c80",
+                                    "5b07dd285acfc4001754240d",
+                                    "56def37dd2720bec348b456a",
+                                    "5a7b483fe899ef0016170d15",
+                                    "5a5f1ce64f39f90b401987bc",
+                                    "560d657b4bdc2da74d8b4572",
+                                    "6272370ee4013c5d7e31f418",
+                                    "6272379924e29f06af4d5ecb",
+                                    "68363c6fbfd14a9526e8601b"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ],
+            "ExaminedByDefault": true
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.9 Sub Compact Frame - Black",
+                "shortName": "3.9 Frame",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_pistol_grip"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 5052,
+        "handbookPriceRoubles": 3050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    },
+    "6851bd8a22decaf508db4dd9": {
+        "itemTplToClone": "5f3e76d86cda304dcc634054",
+        "parentId": "5a74651486f7744e73386dd1",
+        "handbookParentId": "5b5f74cc86f77447ec5d770a",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "WeaponP320/frame_39_fde.bundle",
+                "rcid": ""
+            },
+            "Slots": [
+                {
+                    "_id": "6851b75a02ed77dc60e19645",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_tactical",
+                    "_parent": "6851b6e2af2384018031916b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a800961159bd4315e3a1657",
+                                    "5cc9c20cd7f00c001336c65d",
+                                    "5d2369418abbc306c62e0c80",
+                                    "5b07dd285acfc4001754240d",
+                                    "56def37dd2720bec348b456a",
+                                    "5a7b483fe899ef0016170d15",
+                                    "5a5f1ce64f39f90b401987bc",
+                                    "560d657b4bdc2da74d8b4572",
+                                    "6272370ee4013c5d7e31f418",
+                                    "6272379924e29f06af4d5ecb",
+                                    "68363c6fbfd14a9526e8601b"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ],
+            "ExaminedByDefault": true
+        },
+        "locales": {
+            "en": {
+                "name": "P320 3.9 Sub Compact Frame - FDE",
+                "shortName": "3.9 Frame",
+                "description": ""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_pistol_grip"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 5052,
+        "handbookPriceRoubles": 3050,
+        "addtoTraders": false,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "Probability": 250,
+        "traders": {},
+        "StaticLootContainers": []
+    }
+}
