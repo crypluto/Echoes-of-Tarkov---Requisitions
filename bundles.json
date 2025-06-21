@@ -1918,46 +1918,6 @@
             ]
         },
         {
-            "key": "Attachments/Receivers/reciever_glock_22_mos_slide.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/40sw/patron_40sw_fmj.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/40sw/patron_40sw_jhp.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/40sw/patron_40sw_plus_p.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/40sw/patron_40sw_tracer.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "Attachments/Grips/pistolgrip_ar15_colt_c7a2.bundle",
             "dependencyKeys": [
                 "shaders",
