@@ -109,6 +109,7 @@
 		"loyallevelitems": 1,
 		"addtoBots": false,
 		"addtostaticlootcontainer": false,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -210,6 +211,7 @@
 		"loyallevelitems": 3,
 		"addtoBots": false,
 		"addtostaticlootcontainer": false,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
@@ -289,6 +291,7 @@
 		"fleaPriceRoubles": 91954,
 		"handbookPriceRoubles": 16118,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
@@ -439,6 +442,7 @@
 		"fleaPriceRoubles": 75983,
 		"handbookPriceRoubles": 16118,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
@@ -582,6 +586,7 @@
 		"fleaPriceRoubles": 31920,
 		"handbookPriceRoubles": 19410,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
@@ -725,6 +730,7 @@
 		"fleaPriceRoubles": 29580,
 		"handbookPriceRoubles": 16118,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
@@ -797,6 +803,7 @@
 		"fleaPriceRoubles": 90867,
 		"handbookPriceRoubles": 36560,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
