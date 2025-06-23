@@ -190,9 +190,9 @@
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 9x19 3.4 inch barrel",
-                "shortName": "P320 3.4\"",
-                "description": "A Standard Issue 3.4 inch (86mm) barrel for the SIG P320."
+                "name": "SIG Sauer P320 9x19 3.9 inch barrel",
+                "shortName": "P320 3.9",
+                "description": ""
             }
         },
         "clearClonedProps": false,
@@ -367,44 +367,7 @@
         "traders": {},
         "StaticLootContainers": []
     },
-    "685418bbb6ba556d7cab99c2": {
-        "itemTplToClone": "5f3e7801153b8571434a924c",
-        "parentId": "555ef6e44bdc2de9068b457e",
-        "handbookParentId": "5b5f75c686f774094242f19f",
-        "overrideProperties": {
-            "Prefab": {
-                "path": "WeaponP320/comp_36_micro_blk.bundle",
-                "rcid": ""
-            },
-            "ExaminedByDefault": true,
-            "Recoil": -4,
-            "Ergonomics": -3,
-            "Slots": []
-        },
-        "locales": {
-            "en": {
-                "name": "P320 3.6 PMM Barrel With PMM Micro Compensator - FDE",
-                "shortName": "3.6 Micro",
-                "description": ""
-            }
-        },
-        "clearClonedProps": false,
-        "addtoInventorySlots": [],
-        "addtoModSlots": false,
-        "modSlot": [
-            "mod_barrel"
-        ],
-        "ModdableItemWhitelist": [],
-        "ModdableItemBlacklist": [],
-        "fleaPriceRoubles": 9250,
-        "handbookPriceRoubles": 5050,
-        "addtoTraders": false,
-        "addtoBots": false,
-        "addtoStaticLootContainers": false,
-        "Probability": 250,
-        "traders": {},
-        "StaticLootContainers": []
-    },
+
     "6851b9742c25a4ca59b66f56": {
         "itemTplToClone": "5f3e7801153b8571434a924c",
         "parentId": "555ef6e44bdc2de9068b457e",
