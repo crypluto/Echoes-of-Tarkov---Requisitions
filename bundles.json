@@ -17,6 +17,14 @@
             ]
         },
         {
+            "key": "Attachments/Handguards/handguard_ar15_bcm_alpha_13_keymod.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Ammo/patron_65cm_eldx.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -1696,7 +1704,6 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
-
         {
             "key": "WeaponP320/slide_47_fde.bundle",
             "dependencyKeys": [
@@ -1911,46 +1918,6 @@
         },
         {
             "key": "Attachments/Mounts/mount_glock_mos_slide_cap.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Receivers/reciever_glock_22_mos_slide.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/40sw/patron_40sw_fmj.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/40sw/patron_40sw_jhp.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/40sw/patron_40sw_plus_p.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Ammo/40sw/patron_40sw_tracer.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",

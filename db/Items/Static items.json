@@ -33,6 +33,7 @@
 		"fleaPriceRoubles": 1000000,
 		"handbookPriceRoubles": 1000000,
 		"addtoStaticLootContainers": false,
+		"addtoragfair": false,
 		"StaticLootContainers": []
 	},
 	"674a83abcb7ed7b7ca176fed": {

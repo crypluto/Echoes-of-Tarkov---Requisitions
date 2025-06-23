@@ -158,6 +158,7 @@
 		"fleaPriceRoubles": 12000,
 		"handbookPriceRoubles": 12000,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
@@ -336,6 +337,7 @@
 		"fleaPriceRoubles": 12000,
 		"handbookPriceRoubles": 12000,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
@@ -459,6 +461,7 @@
 		"fleaPriceRoubles": 36863,
 		"handbookPriceRoubles": 1700,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
@@ -602,133 +605,7 @@
 		"fleaPriceRoubles": 36863,
 		"handbookPriceRoubles": 1700,
 		"addtoStaticLootContainers": true,
-		"StaticLootContainers": [
-			{
-				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
-				"Probability": 7
-			},
-			{
-				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
-				"Probability": 6
-			},
-			{
-				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
-				"Probability": 5
-			},
-			{
-				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
-				"Probability": 1
-			}
-		]
-	},
-	"68509710f0df4dbc5b0ff7fe": {
-		"itemTplToClone": "615d8dbd290d254f5e6b2ed6",
-		"parentId": "RECEIVER",
-		"handbookParentId": "MOD_RECEIVER",
-		"overrideProperties": {
-			"Prefab": {
-				"path": "Attachments/Receivers/reciever_glock_22_mos_slide.bundle",
-				"rcid": ""
-			},
-			"Slots": [
-				{
-					"_name": "mod_sight_rear",
-					"_id": "6850971720b11c54d899c04a",
-					"_parent": "68509710f0df4dbc5b0ff7fe",
-					"_props": {
-						"filters": [
-							{
-								"Filter": [
-									"5a7d9122159bd4001438dbf4",
-									"5a6f5d528dc32e00094b97d9",
-									"5a71e0fb8dc32e00094b97f2",
-									"630765cb962d0247b029dc45"
-								],
-								"Shift": 0
-							}
-						]
-					},
-					"_required": false,
-					"_mergeSlotWithChildren": false,
-					"_proto": "55d30c4c4bdc2db4468b457e"
-				},
-				{
-					"_name": "mod_sight_front",
-					"_id": "685097184b5e263700b2de1d",
-					"_parent": "68509710f0df4dbc5b0ff7fe",
-					"_props": {
-						"filters": [
-							{
-								"Filter": [
-									"5a7d90eb159bd400165484f1",
-									"5a6f58f68dc32e000a311390",
-									"5a71e0048dc32e000c52ecc8",
-									"630765777d50ff5e8a1ea718"
-								],
-								"Shift": 0
-							}
-						]
-					},
-					"_required": false,
-					"_mergeSlotWithChildren": false,
-					"_proto": "55d30c4c4bdc2db4468b457e"
-				},
-				{
-					"_name": "mod_mount",
-					"_id": "6850971aa0108c5754924dc8",
-					"_parent": "68509710f0df4dbc5b0ff7fe",
-					"_props": {
-						"filters": [
-							{
-								"Filter": [
-									"615d8da4d3a39d50044c10e8",
-									"685097dbb9aa83c9e35c5027"
-								],
-								"Shift": 0
-							}
-						]
-					},
-					"_required": false,
-					"_mergeSlotWithChildren": false,
-					"_proto": "55d30c4c4bdc2db4468b457e"
-				}
-			]
-		},
-		"locales": {
-			"en": {
-				"name": "Glock 22 MOS pistol slide",
-				"shortName": "G MOS",
-				"description": "The MOS (Modular Optic System) slide designed for Glock .40S&W pistols. Manufactured by Glock."
-			}
-		},
-		"clearClonedProps": false,
-		"addtoInventorySlots": [],
-		"addtoModSlots": true,
-		"modSlot": [
-			"mod_reciever"
-		],
-		"ModdableItemWhitelist": [],
-		"ModdableItemBlacklist": [
-			"5a7ae0c351dfba0017554310"
-		],
-		"addtoTraders": true,
-		"traderId": "MECHANIC",
-		"traderItems": [
-			{
-				"unlimitedCount": true,
-				"stackObjectsCount": 99
-			}
-		],
-		"barterScheme": [
-			{
-				"count": 4700,
-				"_tpl": "ROUBLES"
-			}
-		],
-		"loyallevelitems": 2,
-		"fleaPriceRoubles": 4929,
-		"handbookPriceRoubles": 4700,
-		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",

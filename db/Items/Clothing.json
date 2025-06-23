@@ -45,6 +45,7 @@
 		"fleaPriceRoubles": 5000,
 		"handbookPriceRoubles": 5000,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_SAFE",
@@ -110,6 +111,7 @@
 		"fleaPriceRoubles": 500,
 		"handbookPriceRoubles": 500,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_SAFE",
@@ -175,6 +177,7 @@
 		"fleaPriceRoubles": 500,
 		"handbookPriceRoubles": 500,
 		"addtoStaticLootContainers": false,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_SAFE",
@@ -240,6 +243,7 @@
 		"fleaPriceRoubles": 263250,
 		"handbookPriceRoubles": 199600,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_SAFE",
@@ -393,6 +397,7 @@
 		"fleaPriceRoubles": 50000,
 		"handbookPriceRoubles": 50000,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_SAFE",
@@ -458,6 +463,7 @@
 		"fleaPriceRoubles": 3000,
 		"handbookPriceRoubles": 3000,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_DRAWER",
@@ -523,6 +529,7 @@
 		"fleaPriceRoubles": 9000,
 		"handbookPriceRoubles": 3000,
 		"addtoStaticLootContainers": false,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_SAFE",
@@ -590,6 +597,7 @@
 		"loyallevelitems": 2,
 		"addtoBots": false,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_SAFE",
@@ -620,7 +628,7 @@
 		"addweaponpreset": false,
 		"weaponpresets": []
 	},
-		"685166f1cf8877110a7d476f": {
+	"685166f1cf8877110a7d476f": {
 		"itemTplToClone": "5f60e784f2bcbb675b00dac7",
 		"parentId": "5a341c4086f77401f2541505",
 		"handbookParentId": "5b47574386f77428ca22b330",
@@ -668,6 +676,7 @@
 		"loyallevelitems": 2,
 		"addtoBots": false,
 		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
 		"StaticLootContainers": [
 			{
 				"ContainerName": "LOOTCONTAINER_SAFE",

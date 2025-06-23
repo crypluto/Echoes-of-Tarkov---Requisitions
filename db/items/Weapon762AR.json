@@ -1,0 +1,1770 @@
+{
+    "685986b9f3b3a12b2546f999": {
+        "itemTplToClone": "5447a9cd4bdc2dbd208b4567",
+        "parentId": "ASSAULT_CARBINE",
+        "handbookParentId": "WEAPONS_CARBINES",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "assets/content/weapons/m4a1/weapon_colt_m4a1_556x45_container.bundle",
+                "rcid": ""
+            },
+            "weapFireType": [
+                "single"
+            ],
+            "ConflictingItems": [],
+            "defAmmo": "59e6542b86f77411dc52a77a",
+            "RecoilForceBack": 431,
+            "RecoilForceUp": 129,
+            "SingleFireRate": 500,
+            "Chambers": [
+                {
+                    "_id": "685986c0afb5734746650747",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "patron_in_weapon",
+                    "_parent": "685986b9f3b3a12b2546f999",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "59e655cb86f77411dc52a77b",
+                                    "59e6542b86f77411dc52a77a",
+                                    "59e6658b86f77411d949b250",
+                                    "5f0596629e22f464da6bbdd9"
+                                ]
+                            }
+                        ]
+                    },
+                    "_proto": "55d4af244bdc2d962f8b4571",
+                    "_required": false
+                }
+            ],
+            "ammoCaliber": "Caliber366TKM",
+            "Slots": [
+                {
+                    "_id": "685986c61b597c67f1bfc3f5",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_pistol_grip",
+                    "_parent": "685986b9f3b3a12b2546f999",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5c0e2ff6d174af02a1659d4a",
+                                    "5a33e75ac4a2826c6e06d759",
+                                    "55d4b9964bdc2d1d4e8b456e",
+                                    "571659bb2459771fb2755a12",
+                                    "602e71bd53a60014f9705bfa",
+                                    "6113c3586c780c1e710c90bc",
+                                    "6113cc78d3a39d50044c065a",
+                                    "6113cce3d92c473c770200c7",
+                                    "5cc9bcaed7f00c011c04e179",
+                                    "5bb20e18d4351e00320205d5",
+                                    "5bb20e0ed4351e3bac1212dc",
+                                    "6193dcd0f8ee7e52e4210a28",
+                                    "5d025cc1d7ad1a53845279ef",
+                                    "5c6d7b3d2e221600114c9b7d",
+                                    "57c55efc2459772d2c6271e7",
+                                    "57af48872459771f0b2ebf11",
+                                    "57c55f092459772d291a8463",
+                                    "57c55f112459772d28133310",
+                                    "57c55f172459772d27602381",
+                                    "5a339805c4a2826c6e06d73d",
+                                    "55802f5d4bdc2dac148b458f",
+                                    "5d15cf3bd7ad1a67e71518b2",
+                                    "59db3a1d86f77429e05b4e92",
+                                    "5fbcbd6c187fea44d52eda14",
+                                    "59db3acc86f7742a2c4ab912",
+                                    "59db3b0886f77429d72fb895",
+                                    "615d8faecabb9b7ad90f4d5d",
+                                    "5b07db875acfc40dc528a5f6",
+                                    "63f5feead259b42f0b4d6d0f",
+                                    "652911675ae2ae97b80fdf3c"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "685986caf158c45c3d8b3818",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_magazine",
+                    "_parent": "685986b9f3b3a12b2546f999",
+                    "_props": {
+                        "filters": [
+                            {
+                                "AnimationIndex": -1,
+                                "Filter": [
+                                    "68340d1d407f065e9c181c4b",
+                                    "683410a82481761ba836b719",
+                                    "683427e8e0e4e228b35746b2",
+                                    "6838002ebc797af7bb290126"
+                                ]
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c394bdc2dae468b4577",
+                    "_required": false
+                },
+                {
+                    "_id": "685986cc853dbce4e30a8871",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_reciever",
+                    "_parent": "685986b9f3b3a12b2546f999",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6859871963864f672853b1e1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "685986cf66b01e3db01bf222",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_stock",
+                    "_parent": "685986b9f3b3a12b2546f999",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a33ca0fc4a282000d72292f",
+                                    "5c0faeddd174af02a962601f",
+                                    "5649be884bdc2d79388b4577",
+                                    "5d120a10d7ad1a4e1026ba85",
+                                    "5b0800175acfc400153aebd4",
+                                    "5947e98b86f774778f1448bc",
+                                    "5947eab886f77475961d96c5",
+                                    "602e3f1254072b51b239f713",
+                                    "5c793fb92e221644f31bfb64",
+                                    "5c793fc42e221600114ca25d",
+                                    "591aef7986f774139d495f03",
+                                    "591af10186f774139d495f0e",
+                                    "627254cc9c563e6e442c398f",
+                                    "638de3603a1a4031d8260b8c",
+                                    "6761777a1f08ed5e8800b7ac"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "685986d28f28c34bde842cb6",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_charge",
+                    "_parent": "685986b9f3b3a12b2546f999",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5c0faf68d174af02a96260b8",
+                                    "56ea7165d2720b6e518b4583",
+                                    "55d44fd14bdc2d962f8b456e",
+                                    "5ea16d4d5aad6446a939753d",
+                                    "5bb20dbcd4351e44f824c04e",
+                                    "6033749e88382f4fab3fd2c5",
+                                    "5b2240bf5acfc40dc528af69",
+                                    "5d44334ba4b9362b346d1948",
+                                    "5f633ff5c444ce7e3c30a006",
+                                    "651bf5617b3b552ef6712cb7"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "685986dc823a51069e52f418",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_charge_001",
+                    "_parent": "685986b9f3b3a12b2546f999",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "675307301f7c19a9780f2668"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "ORSIS AR-15J .366 TKM assault carbine",
+                "shortName": "AR-15J",
+                "description": "The ORSIS-AR15J is a Russian civilian carbine developed in the late 2010s from the AR-15 platform chambered in .366 TKM and featuring a smoothbore barrel; this carbine is legally defined as a shotgun under Russian law."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 77310,
+        "handbookPriceRoubles": 25397,
+        "addtoTraders": true,
+        "traderId": "PRAPOR",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 25397,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": true,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "685986b9f3b3a12b2546f999"
+                ]
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_id": "68599533cff33a3d365e4e67",
+                "_changeWeaponName": false,
+                "_encyclopedia": "685986b9f3b3a12b2546f999",
+                "_items": [
+                    {
+                        "_id": "685988f3f0e46494dc0452b2",
+                        "_tpl": "685986b9f3b3a12b2546f999",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            },
+                            "FireMode": {
+                                "FireMode": "single"
+                            }
+                        }
+                    },
+                    {
+                        "_id": "685988f3f0e46494dc0452b3",
+                        "_tpl": "55d4b9964bdc2d1d4e8b456e",
+                        "slotId": "mod_pistol_grip",
+                        "parentId": "685988f3f0e46494dc0452b2"
+                    },
+                    {
+                        "_id": "685988f3f0e46494dc0452b4",
+                        "_tpl": "68340d1d407f065e9c181c4b",
+                        "slotId": "mod_magazine",
+                        "parentId": "685988f3f0e46494dc0452b2"
+                    },
+                    {
+                        "_id": "685988f3f0e46494dc0452b5",
+                        "_tpl": "6859871963864f672853b1e1",
+                        "slotId": "mod_reciever",
+                        "parentId": "685988f3f0e46494dc0452b2"
+                    },
+                    {
+                        "_id": "685988f3f0e46494dc0452b6",
+                        "_tpl": "5649be884bdc2d79388b4577",
+                        "slotId": "mod_stock",
+                        "parentId": "685988f3f0e46494dc0452b2"
+                    },
+                    {
+                        "_id": "685988f3f0e46494dc0452b7",
+                        "_tpl": "55d44fd14bdc2d962f8b456e",
+                        "slotId": "mod_charge",
+                        "parentId": "685988f3f0e46494dc0452b2"
+                    },
+                    {
+                        "_id": "685988f3f0e46494dc0452b8",
+                        "_tpl": "685986ffb813072ae5e3a91c",
+                        "slotId": "mod_barrel",
+                        "parentId": "685988f3f0e46494dc0452b5"
+                    },
+                    {
+                        "_id": "685988f3f0e46494dc0452b9",
+                        "_tpl": "619b5db699fb192e7430664f",
+                        "slotId": "mod_handguard",
+                        "parentId": "685988f3f0e46494dc0452b5"
+                    },
+                    {
+                        "_id": "685988f3f0e46494dc0452ba",
+                        "_tpl": "5894a81786f77427140b8347",
+                        "slotId": "mod_sight_rear",
+                        "upd": {
+                            "Sight": {
+                                "ScopesCurrentCalibPointIndexes": [
+                                    0
+                                ],
+                                "ScopesSelectedModes": [
+                                    0
+                                ],
+                                "SelectedScope": 0,
+                                "ScopeZoomValue": 0
+                            }
+                        },
+                        "parentId": "685988f3f0e46494dc0452b5"
+                    },
+                    {
+                        "_id": "685988f3f0e46494dc0452bb",
+                        "_tpl": "55d4ae6c4bdc2d8b2f8b456e",
+                        "slotId": "mod_stock_000",
+                        "parentId": "685988f3f0e46494dc0452b6"
+                    },
+                    {
+                        "_id": "685988f3f0e46494dc0452bc",
+                        "_tpl": "56eabcd4d2720b66698b4574",
+                        "slotId": "mod_gas_block",
+                        "parentId": "685988f3f0e46494dc0452b8"
+                    },
+                    {
+                        "_id": "685988f3f0e46494dc0452bd",
+                        "_tpl": "5894a73486f77426d259076c",
+                        "slotId": "mod_sight_front",
+                        "upd": {
+                            "Sight": {
+                                "ScopesCurrentCalibPointIndexes": [
+                                    0
+                                ],
+                                "ScopesSelectedModes": [
+                                    0
+                                ],
+                                "SelectedScope": 0,
+                                "ScopeZoomValue": 0
+                            }
+                        },
+                        "parentId": "685988f3f0e46494dc0452b9"
+                    }
+                ],
+                "_name": "AR15jstandard",
+                "_parent": "685988f3f0e46494dc0452b2",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "685986e77e1518fb3729a164": {
+        "itemTplToClone": "5d440b9fa4b93601354d480c",
+        "parentId": "BARREL",
+        "handbookParentId": "MOD_BARREL",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "assets/content/items/mods/barrels/barrel_ar15_508mm.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5c0e2f5cd174af02a012cfc9",
+                "5ae30db85acfc408fb139a05",
+                "55d459824bdc2d892f8b4573",
+                "5c78f2792e221600106f4683",
+                "5c78f26f2e221601da3581d1",
+                "5d00e0cbd7ad1a6c6566a42d",
+                "5d00f63bd7ad1a59283b1c1e"
+            ],
+            "Recoil": -6,
+            "CenterOfImpact": 0.082,
+            "Slots": [
+                {
+                    "_name": "mod_muzzle",
+                    "_id": "685986f2bd6fe381bbfba345",
+                    "_parent": "685986b9f3b3a12b2546f999",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "59bffc1f86f77435b128b872",
+                                    "68343c10334d72dc0066a8f3",
+                                    "68343b29f48104d3a6265db3"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_gas_block",
+                    "_id": "685986f4d25d99885da3b1af",
+                    "_parent": "685986b9f3b3a12b2546f999",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5ae30e795acfc408fb139a0b",
+                                    "56eabcd4d2720b66698b4574",
+                                    "5d00ec68d7ad1a04a067e5be",
+                                    "56ea8d2fd2720b7c698b4570",
+                                    "63d3ce281fe77d0f2801859e"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "AR-15J .366 TKM 20 inch barrel",
+                "shortName": "AR-15J 20\"",
+                "description": "A barrel for AR-15 based weapons for .366 TKM ammo, 20 inches long."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_barrel",
+            "mod_gas_block"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 36567,
+        "handbookPriceRoubles": 36567,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3951,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "685986ffb813072ae5e3a91c": {
+        "itemTplToClone": "5c0e2f94d174af029f650d56",
+        "parentId": "BARREL",
+        "handbookParentId": "MOD_BARREL",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "assets/content/items/mods/barrels/barrel_ar15_adar_406mm.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5ae30db85acfc408fb139a05",
+                "55d459824bdc2d892f8b4573"
+            ],
+            "CenterOfImpact": 0.094,
+            "Recoil": -4,
+            "Slots": [
+                {
+                    "_name": "mod_muzzle",
+                    "_id": "6859870f19d7d4e667327e04",
+                    "_parent": "685986ffb813072ae5e3a91c",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "59bffc1f86f77435b128b872",
+                                    "68343c10334d72dc0066a8f3",
+                                    "68343b29f48104d3a6265db3"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_gas_block",
+                    "_id": "68598711276d6a3452dd4063",
+                    "_parent": "685986ffb813072ae5e3a91c",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5ae30e795acfc408fb139a0b",
+                                    "56eabcd4d2720b66698b4574",
+                                    "5d00ec68d7ad1a04a067e5be",
+                                    "56ea8d2fd2720b7c698b4570",
+                                    "63d3ce281fe77d0f2801859e"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "AR-15J .366 TKM 16 inch barrel",
+                "shortName": "AR-15J 16\"",
+                "description": "A barrel for AR-15 based weapons for .366 TKM ammo, 16 inches long."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_barrel",
+            "mod_gas_block"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 16200,
+        "handbookPriceRoubles": 16200,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3951,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "6859871963864f672853b1e1": {
+        "itemTplToClone": "55d355e64bdc2d962f8b4569",
+        "parentId": "RECEIVER",
+        "handbookParentId": "MOD_RECEIVER",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "assets/content/items/mods/recievers/reciever_ar15_colt_m4a1_std.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5447a9cd4bdc2dbd208b4567",
+                "5c07c60e0db834002330051f",
+                "5d43021ca4b9362eab4b5e25",
+                "5bb2475ed4351e00853264e3"
+            ],
+            "CenterOfImpact": 0.264,
+            "Recoil": -4,
+            "Slots": [
+                {
+                    "_name": "mod_scope",
+                    "_id": "6859871f2bc077e9debc0b0f",
+                    "_parent": "6859871963864f672853b1e1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "57ac965c24597706be5f975c",
+                                    "57aca93d2459771f2c7e26db",
+                                    "544a3f024bdc2d1d388b4568",
+                                    "544a3a774bdc2d3a388b4567",
+                                    "5d2dc3e548f035404a1a4798",
+                                    "57adff4f24597737f373b6e6",
+                                    "5c0517910db83400232ffee5",
+                                    "591c4efa86f7741030027726",
+                                    "570fd79bd2720bc7458b4583",
+                                    "570fd6c2d2720bc6458b457f",
+                                    "558022b54bdc2dac148b458d",
+                                    "5c07dd120db834001c39092d",
+                                    "5c0a2cec0db834001b7ce47d",
+                                    "58491f3324597764bc48fa02",
+                                    "584924ec24597768f12ae244",
+                                    "5b30b0dc5acfc400153b7124",
+                                    "6165ac8c290d254f5e6b2f6c",
+                                    "60a23797a37c940de7062d02",
+                                    "5d2da1e948f035477b1ce2ba",
+                                    "5c0505e00db834001b735073",
+                                    "609a63b6e2ff132951242d09",
+                                    "584984812459776a704a82a6",
+                                    "59f9d81586f7744c7506ee62",
+                                    "570fd721d2720bc5458b4596",
+                                    "57ae0171245977343c27bfcf",
+                                    "5dfe6104585a0c3e995c7b82",
+                                    "544a3d0a4bdc2d1b388b4567",
+                                    "5d1b5e94d7ad1a2b865a96b0",
+                                    "609bab8b455afd752b2e6138",
+                                    "58d39d3d86f77445bb794ae7",
+                                    "616554fe50224f204c1da2aa",
+                                    "5c7d55f52e221644f31bff6a",
+                                    "616584766ef05c2ce828ef57",
+                                    "5b3b6dc75acfc47a8773fb1e",
+                                    "615d8d878004cc50514c3233",
+                                    "5b2389515acfc4771e1be0c0",
+                                    "577d128124597739d65d0e56",
+                                    "618b9643526131765025ab35",
+                                    "618bab21526131765025ab3f",
+                                    "5c86592b2e2216000e69e77c",
+                                    "5a37ca54c4a282000d72296a",
+                                    "5d0a29fed7ad1a002769ad08",
+                                    "5c064c400db834001d23f468",
+                                    "58d2664f86f7747fec5834f6",
+                                    "57c69dd424597774c03b7bbc",
+                                    "5b3b99265acfc4704b4a1afb",
+                                    "5aa66a9be5b5b0214e506e89",
+                                    "5aa66c72e5b5b00016327c93",
+                                    "5c1cdd302e221602b3137250",
+                                    "61714b2467085e45ef140b2c",
+                                    "6171407e50224f204c1da3c5",
+                                    "61713cc4d8e3106d9806c109",
+                                    "5b31163c5acfc400153b71cb",
+                                    "5a33b652c4a28232996e407c",
+                                    "5a33b2c9c4a282000c5a9511",
+                                    "59db7eed86f77461f8380365",
+                                    "5a1ead28fcdbcb001912fa9f",
+                                    "5dff77c759400025ea5150cf",
+                                    "626bb8532c923541184624b4",
+                                    "62811f461d5df4475f46a332",
+                                    "63fc449f5bd61c6cf3784a88",
+                                    "6477772ea8a38bb2050ed4db",
+                                    "6478641c19d732620e045e17",
+                                    "64785e7c19d732620e045e15",
+                                    "65392f611406374f82152ba5",
+                                    "653931da5db71d30ab1d6296",
+                                    "655f13e0a246670fb0373245",
+                                    "6567e751a715f85433025998",
+                                    "6761759e7ee06333f108bf86",
+                                    "67641a851b2899700609901a"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_barrel",
+                    "_id": "68598723515054cad09a0990",
+                    "_parent": "6859871963864f672853b1e1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "685986ffb813072ae5e3a91c",
+                                    "685986b9f3b3a12b2546f999"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_handguard",
+                    "_id": "68598725d76e101e4b285d0d",
+                    "_parent": "6859871963864f672853b1e1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5c0e2f5cd174af02a012cfc9",
+                                    "619b5db699fb192e7430664f",
+                                    "5b2cfa535acfc432ff4db7a0",
+                                    "5ae30db85acfc408fb139a05",
+                                    "5c9a25172e2216000f20314e",
+                                    "55f84c3c4bdc2d5f408b4576",
+                                    "588b56d02459771481110ae2",
+                                    "5c9a26332e2216001219ea70",
+                                    "5ea16ada09aa976f2e7a51be",
+                                    "5ea16acdfadf1d18c87b0784",
+                                    "55d459824bdc2d892f8b4573",
+                                    "5d122e7bd7ad1a07102d6d7f",
+                                    "5d123102d7ad1a004e475fe5",
+                                    "5d4405f0a4b9361e6a4e6bd9",
+                                    "5c78f2792e221600106f4683",
+                                    "5c78f26f2e221601da3581d1",
+                                    "5c78f2492e221600114c9f04",
+                                    "5c78f2612e221600114c9f0d",
+                                    "6034e3e20ddce744014cb878",
+                                    "6034e3d953a60014f970617b",
+                                    "6034e3cb0ddce744014cb870",
+                                    "5c6d5d8b2e221644fc630b39",
+                                    "5d00e0cbd7ad1a6c6566a42d",
+                                    "5d00f63bd7ad1a59283b1c1e",
+                                    "6087e0336d0bd7580617bb7a",
+                                    "595cfa8b86f77427437e845b",
+                                    "595cf16b86f77427440c32e2",
+                                    "63888bbd28e5cc32cc09d2b6",
+                                    "63f4ba71f31d4a33b87bd046",
+                                    "640b20359ab20e15ee445fa9",
+                                    "647de824196bf69818044c93"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_sight_rear",
+                    "_id": "68598727539d303a00d01bde",
+                    "_parent": "6859871963864f672853b1e1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5bb20e49d4351e3bac1212de",
+                                    "5ba26b17d4351e00367f9bdd",
+                                    "5dfa3d7ac41b2312ea33362a",
+                                    "5c1780312e221602b66cc189",
+                                    "5fb6564947ce63734e3fa1da",
+                                    "5bc09a18d4351e003562b68e",
+                                    "5c18b9192e2216398b5a8104",
+                                    "5fc0fa957283c4046c58147e",
+                                    "5894a81786f77427140b8347",
+                                    "55d5f46a4bdc2d1b198b4567",
+                                    "5ae30bad5acfc400185c2dc4"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "AR-15J .366 TKM upper receiver",
+                "shortName": "AR-15J",
+                "description": "An upper receiver for the AR-15J assault carbine manufactured by ORSIS. Equipped with a mount for attaching additional devices."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_reciever",
+            "mod_scope",
+            "mod_barrel",
+            "mod_handguard",
+            "mod_sight_rear"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 16200,
+        "handbookPriceRoubles": 16200,
+        "addtoTraders": false,
+        "traderId": "SKIER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 3951,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "6859872fb5698809d7a4f446": {
+        "itemTplToClone": "5447a9cd4bdc2dbd208b4567",
+        "parentId": "ASSAULT_RIFLE",
+        "handbookParentId": "WEAPONS_ASSAULTRIFLES",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "assets/content/weapons/m4a1/weapon_colt_m4a1_556x45_container.bundle",
+                "rcid": ""
+            },
+            "weapFireType": [
+                "single",
+                "fullauto"
+            ],
+            "ConflictingItems": [],
+            "defAmmo": "59e4d3d286f774176a36250a",
+            "RecoilForceBack": 377,
+            "RecoilForceUp": 152,
+            "SingleFireRate": 500,
+            "Chambers": [
+                {
+                    "_id": "6859873a69f7f7edbcf74074",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "patron_in_weapon",
+                    "_parent": "6859872fb5698809d7a4f446",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "59e0d99486f7744a32234762",
+                                    "59e4d3d286f774176a36250a",
+                                    "5656d7c34bdc2d9d198b4587",
+                                    "59e4cf5286f7741778269d8a",
+                                    "59e4d24686f7741776641ac7",
+                                    "601aa3d2b2bcb34913271e6d",
+                                    "64b7af5a8532cf95ee0a0dbd",
+                                    "64b7af434b75259c590fa893",
+                                    "64b7af734b75259c590fa895"
+                                ]
+                            }
+                        ]
+                    },
+                    "_proto": "55d4af244bdc2d962f8b4571",
+                    "_required": false
+                }
+            ],
+            "ammoCaliber": "Caliber762x39",
+            "Slots": [
+                {
+                    "_id": "6859873f58df8da42b0accca",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_pistol_grip",
+                    "_parent": "6859872fb5698809d7a4f446",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5c0e2ff6d174af02a1659d4a",
+                                    "5a33e75ac4a2826c6e06d759",
+                                    "55d4b9964bdc2d1d4e8b456e",
+                                    "571659bb2459771fb2755a12",
+                                    "602e71bd53a60014f9705bfa",
+                                    "6113c3586c780c1e710c90bc",
+                                    "6113cc78d3a39d50044c065a",
+                                    "6113cce3d92c473c770200c7",
+                                    "5cc9bcaed7f00c011c04e179",
+                                    "5bb20e18d4351e00320205d5",
+                                    "5bb20e0ed4351e3bac1212dc",
+                                    "6193dcd0f8ee7e52e4210a28",
+                                    "5d025cc1d7ad1a53845279ef",
+                                    "5c6d7b3d2e221600114c9b7d",
+                                    "57c55efc2459772d2c6271e7",
+                                    "57af48872459771f0b2ebf11",
+                                    "57c55f092459772d291a8463",
+                                    "57c55f112459772d28133310",
+                                    "57c55f172459772d27602381",
+                                    "5a339805c4a2826c6e06d73d",
+                                    "55802f5d4bdc2dac148b458f",
+                                    "5d15cf3bd7ad1a67e71518b2",
+                                    "59db3a1d86f77429e05b4e92",
+                                    "5fbcbd6c187fea44d52eda14",
+                                    "59db3acc86f7742a2c4ab912",
+                                    "59db3b0886f77429d72fb895",
+                                    "615d8faecabb9b7ad90f4d5d",
+                                    "5b07db875acfc40dc528a5f6",
+                                    "63f5feead259b42f0b4d6d0f",
+                                    "652911675ae2ae97b80fdf3c"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "685987461e4a0efaf32c3cdc",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_magazine",
+                    "_parent": "6859872fb5698809d7a4f446",
+                    "_props": {
+                        "filters": [
+                            {
+                                "AnimationIndex": -1,
+                                "Filter": [
+                                    "68340d1d407f065e9c181c4b",
+                                    "683410a82481761ba836b719",
+                                    "683427e8e0e4e228b35746b2",
+                                    "6838002ebc797af7bb290126"
+                                ]
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c394bdc2dae468b4577",
+                    "_required": false
+                },
+                {
+                    "_id": "685987487591039e66478582",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_reciever",
+                    "_parent": "6859872fb5698809d7a4f446",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6859877193867246761215df"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "6859874a49d21618bb62eac4",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_stock",
+                    "_parent": "6859872fb5698809d7a4f446",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5a33ca0fc4a282000d72292f",
+                                    "5c0faeddd174af02a962601f",
+                                    "5649be884bdc2d79388b4577",
+                                    "5d120a10d7ad1a4e1026ba85",
+                                    "5b0800175acfc400153aebd4",
+                                    "5947e98b86f774778f1448bc",
+                                    "5947eab886f77475961d96c5",
+                                    "602e3f1254072b51b239f713",
+                                    "5c793fb92e221644f31bfb64",
+                                    "5c793fc42e221600114ca25d",
+                                    "591aef7986f774139d495f03",
+                                    "591af10186f774139d495f0e",
+                                    "627254cc9c563e6e442c398f",
+                                    "638de3603a1a4031d8260b8c",
+                                    "6761777a1f08ed5e8800b7ac"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "6859874cae6ee51be65864e6",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_charge",
+                    "_parent": "6859872fb5698809d7a4f446",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5c0faf68d174af02a96260b8",
+                                    "56ea7165d2720b6e518b4583",
+                                    "55d44fd14bdc2d962f8b456e",
+                                    "5ea16d4d5aad6446a939753d",
+                                    "5bb20dbcd4351e44f824c04e",
+                                    "6033749e88382f4fab3fd2c5",
+                                    "5b2240bf5acfc40dc528af69",
+                                    "5d44334ba4b9362b346d1948",
+                                    "5f633ff5c444ce7e3c30a006",
+                                    "651bf5617b3b552ef6712cb7"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": true
+                },
+                {
+                    "_id": "6859874e2be7c4bb358b81c4",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_charge_001",
+                    "_parent": "6859872fb5698809d7a4f446",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "675307301f7c19a9780f2668"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Anderson AM-15 7.62x39 assault rifle",
+                "shortName": "AM-15",
+                "description": "The Anderson AM-15 7.62x39 assault rifle is a 7.62x39mm assault rifle based on the AR-15 platform, offering the modularity of the AR platform with the stopping power of the 7.62x39mm round. Manufactured by Anderson Manufacturing."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 139182,
+        "handbookPriceRoubles": 69371,
+        "addtoTraders": true,
+        "traderId": "PEACEKEEPER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 569,
+                "_tpl": "DOLLARS"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtostaticlootcontainer": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 25
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 15
+            }
+        ],
+        "masteries": true,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "6859872fb5698809d7a4f446"
+                ]
+            }
+        ],
+        "addweaponpreset": true,
+        "weaponpresets": [
+            {
+                "_id": "68598b17ba1a85956de0e247",
+                "_changeWeaponName": false,
+                "_encyclopedia": "6859872fb5698809d7a4f446",
+                "_items": [
+                    {
+                        "_id": "68598972f0e46494dc0452be",
+                        "_tpl": "6859872fb5698809d7a4f446",
+                        "upd": {
+                            "Repairable": {
+                                "MaxDurability": 100,
+                                "Durability": 100
+                            },
+                            "FireMode": {
+                                "FireMode": "single"
+                            }
+                        }
+                    },
+                    {
+                        "_id": "68598972f0e46494dc0452bf",
+                        "_tpl": "571659bb2459771fb2755a12",
+                        "slotId": "mod_pistol_grip",
+                        "parentId": "68598972f0e46494dc0452be"
+                    },
+                    {
+                        "_id": "68598972f0e46494dc0452c0",
+                        "_tpl": "68340d1d407f065e9c181c4b",
+                        "slotId": "mod_magazine",
+                        "parentId": "68598972f0e46494dc0452be"
+                    },
+                    {
+                        "_id": "68598972f0e46494dc0452c1",
+                        "_tpl": "6859877193867246761215df",
+                        "slotId": "mod_reciever",
+                        "parentId": "68598972f0e46494dc0452be"
+                    },
+                    {
+                        "_id": "68598972f0e46494dc0452c2",
+                        "_tpl": "5649be884bdc2d79388b4577",
+                        "slotId": "mod_stock",
+                        "parentId": "68598972f0e46494dc0452be"
+                    },
+                    {
+                        "_id": "68598972f0e46494dc0452c3",
+                        "_tpl": "5ea16d4d5aad6446a939753d",
+                        "slotId": "mod_charge",
+                        "parentId": "68598972f0e46494dc0452be"
+                    },
+                    {
+                        "_id": "68598972f0e46494dc0452c4",
+                        "_tpl": "68598764b693cb1d960bc175",
+                        "slotId": "mod_barrel",
+                        "parentId": "68598972f0e46494dc0452c1"
+                    },
+                    {
+                        "_id": "68598972f0e46494dc0452c5",
+                        "_tpl": "5ea16ada09aa976f2e7a51be",
+                        "slotId": "mod_handguard",
+                        "parentId": "68598972f0e46494dc0452c1"
+                    },
+                    {
+                        "_id": "68598972f0e46494dc0452c6",
+                        "_tpl": "5c18b9192e2216398b5a8104",
+                        "slotId": "mod_sight_rear",
+                        "upd": {
+                            "Sight": {
+                                "ScopesCurrentCalibPointIndexes": [
+                                    0
+                                ],
+                                "ScopesSelectedModes": [
+                                    0
+                                ],
+                                "SelectedScope": 0,
+                                "ScopeZoomValue": 0
+                            }
+                        },
+                        "parentId": "68598972f0e46494dc0452c1"
+                    },
+                    {
+                        "_id": "68598972f0e46494dc0452c7",
+                        "_tpl": "6529370c405a5f51dd023db8",
+                        "slotId": "mod_stock_000",
+                        "parentId": "68598972f0e46494dc0452c2"
+                    },
+                    {
+                        "_id": "68598972f0e46494dc0452c8",
+                        "_tpl": "5dcbe965e4ed22586443a79d",
+                        "slotId": "mod_muzzle",
+                        "parentId": "68598972f0e46494dc0452c4"
+                    },
+                    {
+                        "_id": "68598972f0e46494dc0452c9",
+                        "_tpl": "56eabcd4d2720b66698b4574",
+                        "slotId": "mod_gas_block",
+                        "parentId": "68598972f0e46494dc0452c4"
+                    },
+                    {
+                        "_id": "68598972f0e46494dc0452ca",
+                        "_tpl": "5c18b90d2e2216152142466b",
+                        "slotId": "mod_sight_front",
+                        "upd": {
+                            "Sight": {
+                                "ScopesCurrentCalibPointIndexes": [
+                                    0
+                                ],
+                                "ScopesSelectedModes": [
+                                    0
+                                ],
+                                "SelectedScope": 0,
+                                "ScopeZoomValue": 0
+                            }
+                        },
+                        "parentId": "68598972f0e46494dc0452c5"
+                    }
+                ],
+                "_name": "AM15standard",
+                "_parent": "68598972f0e46494dc0452be",
+                "_type": "Preset"
+            }
+        ]
+    },
+    "68598755a24f2d1dc31ff114": {
+        "itemTplToClone": "5d440b9fa4b93601354d480c",
+        "parentId": "BARREL",
+        "handbookParentId": "MOD_BARREL",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "assets/content/items/mods/barrels/barrel_ar15_508mm.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5c0e2f5cd174af02a012cfc9",
+                "5ae30db85acfc408fb139a05",
+                "55d459824bdc2d892f8b4573",
+                "5c78f2792e221600106f4683",
+                "5c78f26f2e221601da3581d1",
+                "5d00e0cbd7ad1a6c6566a42d",
+                "5d00f63bd7ad1a59283b1c1e"
+            ],
+            "Recoil": -4,
+            "Slots": [
+                {
+                    "_name": "mod_muzzle",
+                    "_id": "6859875b47de52f3166838c3",
+                    "_parent": "68598755a24f2d1dc31ff114",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5b7d693d5acfc43bca706a3d",
+                                    "5a34fd2bc4a282329a73b4c5",
+                                    "6065c6e7132d4d12c81fd8e1",
+                                    "5d1f819086f7744b355c219b",
+                                    "5dcbe965e4ed22586443a79d",
+                                    "5d026791d7ad1a04a067ea63",
+                                    "5dfa3cd1b33c0951220c079b",
+                                    "5cdd7685d7f00c000f260ed2",
+                                    "5c878e9d2e2216000f201903",
+                                    "5d02677ad7ad1a04a15c0f95",
+                                    "5bbdb8bdd4351e4502011460",
+                                    "5cdd7693d7f00c0010373aa5",
+                                    "607ffb988900dc2d9a55b6e4",
+                                    "615d8eb350224f204c1da1cf",
+                                    "5d443f8fa4b93678dd4a01aa",
+                                    "5c7954d52e221600106f4cc7",
+                                    "5fbc22ccf24b94483f726483",
+                                    "59bffc1f86f77435b128b872",
+                                    "5fbe7618d6fa9c00c571bb6c",
+                                    "612e0e3c290d254f5e6b291d",
+                                    "6130c43c67085e45ef1405a1",
+                                    "628a66b41d5e41750e314f34",
+                                    "618178aa1cb55961fa0fdc80",
+                                    "6642f63667f5cb56a00662eb",
+                                    "5cf78496d7f00c065703d6ca"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_gas_block",
+                    "_id": "6859875e6ca3ae201f1f8ac8",
+                    "_parent": "68598755a24f2d1dc31ff114",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5ae30e795acfc408fb139a0b",
+                                    "56eabcd4d2720b66698b4574",
+                                    "5d00ec68d7ad1a04a067e5be",
+                                    "56ea8d2fd2720b7c698b4570",
+                                    "63d3ce281fe77d0f2801859e"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "AM-15 7.62x39 20 inch barrel",
+                "shortName": "AM-15 20\"",
+                "description": "A barrel for AR-15 based weapons for 7.62x39 ammo, 20 inches long."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_barrel",
+            "mod_gas_block"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 36567,
+        "handbookPriceRoubles": 36567,
+        "addtoTraders": true,
+        "traderId": "PEACEKEEPER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 29,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "68598764b693cb1d960bc175": {
+        "itemTplToClone": "5c0e2f94d174af029f650d56",
+        "parentId": "BARREL",
+        "handbookParentId": "MOD_BARREL",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "assets/content/items/mods/barrels/barrel_ar15_adar_406mm.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5ae30db85acfc408fb139a05",
+                "55d459824bdc2d892f8b4573"
+            ],
+            "Recoil": -1,
+            "Slots": [
+                {
+                    "_name": "mod_muzzle",
+                    "_id": "6859876a497f7ab5374d7fc8",
+                    "_parent": "68598764b693cb1d960bc175",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5b7d693d5acfc43bca706a3d",
+                                    "5a34fd2bc4a282329a73b4c5",
+                                    "6065c6e7132d4d12c81fd8e1",
+                                    "5d1f819086f7744b355c219b",
+                                    "5dcbe965e4ed22586443a79d",
+                                    "5d026791d7ad1a04a067ea63",
+                                    "5dfa3cd1b33c0951220c079b",
+                                    "5cdd7685d7f00c000f260ed2",
+                                    "5c878e9d2e2216000f201903",
+                                    "5d02677ad7ad1a04a15c0f95",
+                                    "5bbdb8bdd4351e4502011460",
+                                    "5cdd7693d7f00c0010373aa5",
+                                    "607ffb988900dc2d9a55b6e4",
+                                    "615d8eb350224f204c1da1cf",
+                                    "5d443f8fa4b93678dd4a01aa",
+                                    "5c7954d52e221600106f4cc7",
+                                    "5fbc22ccf24b94483f726483",
+                                    "59bffc1f86f77435b128b872",
+                                    "5fbe7618d6fa9c00c571bb6c",
+                                    "612e0e3c290d254f5e6b291d",
+                                    "6130c43c67085e45ef1405a1",
+                                    "628a66b41d5e41750e314f34",
+                                    "618178aa1cb55961fa0fdc80",
+                                    "6642f63667f5cb56a00662eb",
+                                    "5cf78496d7f00c065703d6ca"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_gas_block",
+                    "_id": "6859876c153cbd44dc71eed0",
+                    "_parent": "68598764b693cb1d960bc175",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5ae30e795acfc408fb139a0b",
+                                    "56eabcd4d2720b66698b4574",
+                                    "5d00ec68d7ad1a04a067e5be",
+                                    "56ea8d2fd2720b7c698b4570",
+                                    "63d3ce281fe77d0f2801859e"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "AM-15 7.62x39 16 inch barrel",
+                "shortName": "AM-15 16\"",
+                "description": "A barrel for AR-15 based weapons for 7.62x39 ammo, 16 inches long."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_barrel",
+            "mod_gas_block"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 16200,
+        "handbookPriceRoubles": 16200,
+        "addtoTraders": true,
+        "traderId": "PEACEKEEPER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 30,
+                "_tpl": "DOLLARS"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "6859877193867246761215df": {
+        "itemTplToClone": "55d355e64bdc2d962f8b4569",
+        "parentId": "RECEIVER",
+        "handbookParentId": "MOD_RECEIVER",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "assets/content/items/mods/recievers/reciever_ar15_colt_m4a1_std.bundle",
+                "rcid": ""
+            },
+            "ConflictingItems": [
+                "5447a9cd4bdc2dbd208b4567",
+                "5c07c60e0db834002330051f",
+                "5d43021ca4b9362eab4b5e25",
+                "5bb2475ed4351e00853264e3"
+            ],
+            "Slots": [
+                {
+                    "_name": "mod_scope",
+                    "_id": "68598779b8c797de5cc77781",
+                    "_parent": "6859877193867246761215df",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "57ac965c24597706be5f975c",
+                                    "57aca93d2459771f2c7e26db",
+                                    "544a3f024bdc2d1d388b4568",
+                                    "544a3a774bdc2d3a388b4567",
+                                    "5d2dc3e548f035404a1a4798",
+                                    "57adff4f24597737f373b6e6",
+                                    "5c0517910db83400232ffee5",
+                                    "591c4efa86f7741030027726",
+                                    "570fd79bd2720bc7458b4583",
+                                    "570fd6c2d2720bc6458b457f",
+                                    "558022b54bdc2dac148b458d",
+                                    "5c07dd120db834001c39092d",
+                                    "5c0a2cec0db834001b7ce47d",
+                                    "58491f3324597764bc48fa02",
+                                    "584924ec24597768f12ae244",
+                                    "5b30b0dc5acfc400153b7124",
+                                    "6165ac8c290d254f5e6b2f6c",
+                                    "60a23797a37c940de7062d02",
+                                    "5d2da1e948f035477b1ce2ba",
+                                    "5c0505e00db834001b735073",
+                                    "609a63b6e2ff132951242d09",
+                                    "584984812459776a704a82a6",
+                                    "59f9d81586f7744c7506ee62",
+                                    "570fd721d2720bc5458b4596",
+                                    "57ae0171245977343c27bfcf",
+                                    "5dfe6104585a0c3e995c7b82",
+                                    "544a3d0a4bdc2d1b388b4567",
+                                    "5d1b5e94d7ad1a2b865a96b0",
+                                    "609bab8b455afd752b2e6138",
+                                    "58d39d3d86f77445bb794ae7",
+                                    "616554fe50224f204c1da2aa",
+                                    "5c7d55f52e221644f31bff6a",
+                                    "616584766ef05c2ce828ef57",
+                                    "5b3b6dc75acfc47a8773fb1e",
+                                    "615d8d878004cc50514c3233",
+                                    "5b2389515acfc4771e1be0c0",
+                                    "577d128124597739d65d0e56",
+                                    "618b9643526131765025ab35",
+                                    "618bab21526131765025ab3f",
+                                    "5c86592b2e2216000e69e77c",
+                                    "5a37ca54c4a282000d72296a",
+                                    "5d0a29fed7ad1a002769ad08",
+                                    "5c064c400db834001d23f468",
+                                    "58d2664f86f7747fec5834f6",
+                                    "57c69dd424597774c03b7bbc",
+                                    "5b3b99265acfc4704b4a1afb",
+                                    "5aa66a9be5b5b0214e506e89",
+                                    "5aa66c72e5b5b00016327c93",
+                                    "5c1cdd302e221602b3137250",
+                                    "61714b2467085e45ef140b2c",
+                                    "6171407e50224f204c1da3c5",
+                                    "61713cc4d8e3106d9806c109",
+                                    "5b31163c5acfc400153b71cb",
+                                    "5a33b652c4a28232996e407c",
+                                    "5a33b2c9c4a282000c5a9511",
+                                    "59db7eed86f77461f8380365",
+                                    "5a1ead28fcdbcb001912fa9f",
+                                    "5dff77c759400025ea5150cf",
+                                    "626bb8532c923541184624b4",
+                                    "62811f461d5df4475f46a332",
+                                    "63fc449f5bd61c6cf3784a88",
+                                    "6477772ea8a38bb2050ed4db",
+                                    "6478641c19d732620e045e17",
+                                    "64785e7c19d732620e045e15",
+                                    "65392f611406374f82152ba5",
+                                    "653931da5db71d30ab1d6296",
+                                    "655f13e0a246670fb0373245",
+                                    "6567e751a715f85433025998",
+                                    "6761759e7ee06333f108bf86",
+                                    "67641a851b2899700609901a"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_barrel",
+                    "_id": "6859877ccf453ca882512247",
+                    "_parent": "6859877193867246761215df",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "68598764b693cb1d960bc175",
+                                    "68598755a24f2d1dc31ff114"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_handguard",
+                    "_id": "6859877e65551ef7ca407daa",
+                    "_parent": "6859877193867246761215df",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5c0e2f5cd174af02a012cfc9",
+                                    "619b5db699fb192e7430664f",
+                                    "5b2cfa535acfc432ff4db7a0",
+                                    "5ae30db85acfc408fb139a05",
+                                    "5c9a25172e2216000f20314e",
+                                    "55f84c3c4bdc2d5f408b4576",
+                                    "588b56d02459771481110ae2",
+                                    "5c9a26332e2216001219ea70",
+                                    "5ea16ada09aa976f2e7a51be",
+                                    "5ea16acdfadf1d18c87b0784",
+                                    "55d459824bdc2d892f8b4573",
+                                    "5d122e7bd7ad1a07102d6d7f",
+                                    "5d123102d7ad1a004e475fe5",
+                                    "5d4405f0a4b9361e6a4e6bd9",
+                                    "5c78f2792e221600106f4683",
+                                    "5c78f26f2e221601da3581d1",
+                                    "5c78f2492e221600114c9f04",
+                                    "5c78f2612e221600114c9f0d",
+                                    "6034e3e20ddce744014cb878",
+                                    "6034e3d953a60014f970617b",
+                                    "6034e3cb0ddce744014cb870",
+                                    "5c6d5d8b2e221644fc630b39",
+                                    "5d00e0cbd7ad1a6c6566a42d",
+                                    "5d00f63bd7ad1a59283b1c1e",
+                                    "6087e0336d0bd7580617bb7a",
+                                    "595cfa8b86f77427437e845b",
+                                    "595cf16b86f77427440c32e2",
+                                    "63888bbd28e5cc32cc09d2b6",
+                                    "63f4ba71f31d4a33b87bd046",
+                                    "640b20359ab20e15ee445fa9",
+                                    "647de824196bf69818044c93"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": true,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_sight_rear",
+                    "_id": "6859878082695a508d84f16d",
+                    "_parent": "6859877193867246761215df",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5bb20e49d4351e3bac1212de",
+                                    "5ba26b17d4351e00367f9bdd",
+                                    "5dfa3d7ac41b2312ea33362a",
+                                    "5c1780312e221602b66cc189",
+                                    "5fb6564947ce63734e3fa1da",
+                                    "5bc09a18d4351e003562b68e",
+                                    "5c18b9192e2216398b5a8104",
+                                    "5fc0fa957283c4046c58147e",
+                                    "5894a81786f77427140b8347",
+                                    "55d5f46a4bdc2d1b198b4567",
+                                    "5ae30bad5acfc400185c2dc4"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "AM-15 7.62x39 upper receiver",
+                "shortName": "AM-15",
+                "description": "An upper receiver for the AM-15 assault rifle manufactured by Anderson Manufacturing. Equipped with a mount for attaching additional devices."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_reciever",
+            "mod_scope",
+            "mod_barrel",
+            "mod_handguard",
+            "mod_sight_rear"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 16200,
+        "handbookPriceRoubles": 16200,
+        "addtoTraders": true,
+        "traderId": "PEACEKEEPER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 44,
+                "_tpl": "DOLLARS"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    }
+}
