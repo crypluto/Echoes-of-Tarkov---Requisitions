@@ -1033,6 +1033,7 @@
 									"61605d88ffa6e502ac5e7eeb",
 									"5c5952732e2216398b5abda2",
 									"626becf9582c3e319310b837",
+									"5d10b49bd7ad1a1a560708b0",
 									"644a3df63b0b6f03e101e065"
 								],
 								"Shift": 0
@@ -1264,6 +1265,7 @@
 									"61605d88ffa6e502ac5e7eeb",
 									"5c5952732e2216398b5abda2",
 									"626becf9582c3e319310b837",
+									"5d10b49bd7ad1a1a560708b0",
 									"644a3df63b0b6f03e101e065"
 								],
 								"Shift": 0
@@ -1461,6 +1463,7 @@
 									"61605d88ffa6e502ac5e7eeb",
 									"5c5952732e2216398b5abda2",
 									"626becf9582c3e319310b837",
+									"5d10b49bd7ad1a1a560708b0",
 									"644a3df63b0b6f03e101e065"
 								],
 								"Shift": 0
@@ -1696,6 +1699,7 @@
 									"61605d88ffa6e502ac5e7eeb",
 									"5c5952732e2216398b5abda2",
 									"626becf9582c3e319310b837",
+									"5d10b49bd7ad1a1a560708b0",
 									"644a3df63b0b6f03e101e065"
 								],
 								"Shift": 0
@@ -1901,6 +1905,7 @@
 									"61605d88ffa6e502ac5e7eeb",
 									"5c5952732e2216398b5abda2",
 									"626becf9582c3e319310b837",
+									"5d10b49bd7ad1a1a560708b0",
 									"644a3df63b0b6f03e101e065"
 								],
 								"Shift": 0
@@ -2350,6 +2355,7 @@
 									"61605d88ffa6e502ac5e7eeb",
 									"5c5952732e2216398b5abda2",
 									"626becf9582c3e319310b837",
+									"5d10b49bd7ad1a1a560708b0",
 									"644a3df63b0b6f03e101e065"
 								],
 								"Shift": 0
@@ -2556,6 +2562,7 @@
 									"61605d88ffa6e502ac5e7eeb",
 									"5c5952732e2216398b5abda2",
 									"626becf9582c3e319310b837",
+									"5d10b49bd7ad1a1a560708b0",
 									"644a3df63b0b6f03e101e065"
 								],
 								"Shift": 0
@@ -2753,6 +2760,7 @@
 									"61605d88ffa6e502ac5e7eeb",
 									"5c5952732e2216398b5abda2",
 									"626becf9582c3e319310b837",
+									"5d10b49bd7ad1a1a560708b0",
 									"644a3df63b0b6f03e101e065"
 								],
 								"Shift": 0
@@ -3493,6 +3501,221 @@
 		"loyallevelitems": 1,
 		"fleaPriceRoubles": 3210,
 		"handbookPriceRoubles": 1424,
+		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
+	},
+	"68599a3ea897c112c06b300a": {
+		"itemTplToClone": "595cfa8b86f77427437e845b",
+		"parentId": "55818a104bdc2db9688b4569",
+		"handbookParentId": "5b5f75e486f77447ec5d7712",
+		"overrideProperties": {
+			"ExaminedByDefault": true,
+			"Prefab": {
+				"path": "Attachments/Handguards/handguard_ar15_bcm_alpha_13_keymod.bundle",
+				"rcid": ""
+			},
+			"ConflictingItems": [
+				"6357c98711fb55120211f7e1",
+				"5d440b9fa4b93601354d480c",
+				"5d440b93a4b9364276578d4b",
+				"5c0e2f94d174af029f650d56",
+				"63d3d44a2a49307baf09386d",
+				"6835a63bdbc98d9bc34e025b",
+				"6835ec3c422a8b7b258768af",
+				"6836e6fef34cc1ae734b444c"
+			],
+			"Ergonomics": 8,
+			"Width": 2,
+			"ExtraSizeLeft": 3,
+			"Weight": 0.28,
+			"Slots": [
+				{
+					"_name": "mod_mount_002",
+					"_id": "68599a51378df6d6c6a97869",
+					"_parent": "68599a3ea897c112c06b300a",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"59e0bdb186f774156f04ce82",
+									"623c2f652febb22c2777d8d7"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_001",
+					"_id": "68599a49050f0245d036c317",
+					"_parent": "68599a3ea897c112c06b300a",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"59e0bdb186f774156f04ce82",
+									"623c2f652febb22c2777d8d7"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_000",
+					"_id": "68599a464b537fd40c84101c",
+					"_parent": "68599a3ea897c112c06b300a",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57fd23e32459772d0805bcf1",
+									"544909bb4bdc2d6f028b4577",
+									"5c06595c0db834001a66af6c",
+									"5d2369418abbc306c62e0c80",
+									"5a7b483fe899ef0016170d15",
+									"61605d88ffa6e502ac5e7eeb",
+									"5c5952732e2216398b5abda2",
+									"626becf9582c3e319310b837",
+									"5d10b49bd7ad1a1a560708b0",
+									"644a3df63b0b6f03e101e065"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_003",
+					"_id": "68599a42b0a1a32148d1b2f9",
+					"_parent": "68599a3ea897c112c06b300a",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"615d8fd3290d254f5e6b2edc",
+									"5fc0f9b5d724d907e2077d82",
+									"5fc0f9cbd6fa9c00c571bb90",
+									"5a9d6d13a2750c00164f6b03",
+									"59e0bed186f774156f04ce84"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_mount_004",
+					"_id": "6859a8d5da9ec6a7fc049fdb",
+					"_parent": "68599a3ea897c112c06b300a",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5649a2464bdc2d91118b45a8",
+									"6845a930e3dfd938256267a2",
+									"6845a394ddfdb4cac936974e",
+									"6845a36582114b67fdc12a16",
+									"6845a2443b726a816a6ca79e"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				},
+				{
+					"_name": "mod_sight_front",
+					"_id": "684b3be8a7c4574ca26f8055",
+					"_parent": "68599a3ea897c112c06b300a",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ba26b01d4351e0085325a51",
+									"5dfa3d950dee1b22f862eae0",
+									"5c17804b2e2216152006c02f",
+									"5fb6567747ce63734e3fa1dc",
+									"5bc09a30d4351e00367fb7c8",
+									"5c18b90d2e2216152142466b",
+									"5fc0fa362770a0045c59c677",
+									"5894a73486f77426d259076c",
+									"55d4af3a4bdc2d972f8b456f"
+								],
+								"Shift": 0
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d30c4c4bdc2db4468b457e"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "AR-15 BCM® KMR Alpha 13 inch KeyMod handguard",
+				"shortName": "BCM Alpha 13\"",
+				"description": "Manufactured from aluminum, it is lightweight yet durable. Also featuring a proprietary patent pending mounting, indexing and lock up system that mitigates 12:00 rail movement under heat generated from the barrel nut."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_handguard"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "MECHANIC",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 3002,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 2,
+		"fleaPriceRoubles": 39500,
+		"handbookPriceRoubles": 3002,
 		"addtoStaticLootContainers": true,
 		"addtoragfair": true,
 		"StaticLootContainers": [

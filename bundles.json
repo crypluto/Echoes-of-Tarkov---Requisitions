@@ -17,6 +17,14 @@
             ]
         },
         {
+            "key": "Attachments/Handguards/handguard_ar15_bcm_alpha_13_keymod.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Ammo/patron_65cm_eldx.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -1696,7 +1704,6 @@
                 "assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
-
         {
             "key": "WeaponP320/slide_47_fde.bundle",
             "dependencyKeys": [
