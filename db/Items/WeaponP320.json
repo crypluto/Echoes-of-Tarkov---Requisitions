@@ -190,7 +190,7 @@
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer SIG Sauer P320 9x19 3.9\\\" inch barrel",
+                "name": "SIG Sauer SIG Sauer P320 9x19 3.9\" inch barrel",
                 "shortName": "P320 3.9",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations."
             }
@@ -222,13 +222,13 @@
                 "rcid": ""
             },
             "ExaminedByDefault": true,
-            "Recoil": -4,
-            "Ergonomics": -3,
+            "Recoil": -8,
+            "Ergonomics": -5,
             "Slots": []
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 4.7\\\" Full Size barrel",
+                "name": "SIG Sauer P320 4.7\" Full Size barrel",
                 "shortName": "4.7 barrel",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations."
             }
@@ -260,13 +260,13 @@
                 "rcid": ""
             },
             "ExaminedByDefault": true,
-            "Recoil": -4,
-            "Ergonomics": -3,
+            "Recoil": -3,
+            "Ergonomics": -2,
             "Slots": []
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 3.6\\\" Compact barrel",
+                "name": "SIG Sauer P320 3.6\" Compact barrel",
                 "shortName": "3.6 barrel",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations."
             }
@@ -298,13 +298,13 @@
                 "rcid": ""
             },
             "ExaminedByDefault": true,
-            "Recoil": -4,
-            "Ergonomics": -3,
+            "Recoil": -12,
+            "Ergonomics": -5,
             "Slots": []
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 3.9\\\" PMM barrel with PMM Duty compensator (Black)",
+                "name": "SIG Sauer P320 3.9\" PMM barrel with PMM Duty compensator (Black)",
                 "shortName": "3.9 Duty",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations."
             }
@@ -336,13 +336,13 @@
                 "rcid": ""
             },
             "ExaminedByDefault": true,
-            "Recoil": -4,
+            "Recoil": -9,
             "Ergonomics": -3,
             "Slots": []
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 3.6\\\" PMM barrel with PMM Micro compensator (Black)",
+                "name": "SIG Sauer P320 3.6\" PMM barrel with PMM Micro compensator (Black)",
                 "shortName": "3.6 Micro",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations."
             }
@@ -374,13 +374,13 @@
                 "rcid": ""
             },
             "ExaminedByDefault": true,
-            "Recoil": -4,
+            "Recoil": -14,
             "Ergonomics": -3,
             "Slots": []
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 3.9\\\" PMM barrel with PMM Ultra compensator (Black)",
+                "name": "SIG Sauer P320 3.9\" PMM barrel with PMM Ultra compensator (Black)",
                 "shortName": "3.9 Ultra",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations."
             }
@@ -412,13 +412,13 @@
                 "rcid": ""
             },
             "ExaminedByDefault": true,
-            "Recoil": -4,
-            "Ergonomics": -3,
+            "Recoil": -13,
+            "Ergonomics": -4,
             "Slots": []
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 4.7\\\" PMM barrel with PMM Micro compensator (Black)",
+                "name": "SIG Sauer P320 4.7\" PMM barrel with PMM Micro compensator (Black)",
                 "shortName": "4.7 Micro",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Barrel designed to balance recoil and ergonomics for various configurations."
             }
@@ -513,7 +513,7 @@
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 3.6\\\" Compact Optic Ready slide (Black)",
+                "name": "SIG Sauer P320 3.6\" Compact Optic Ready slide (Black)",
                 "shortName": "3.6 Black",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Slide engineered for optic compatibility and durability in combat conditions."
             }
@@ -608,7 +608,7 @@
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 3.6\\\" Compact Optic Ready slide (Burnt Bronze)",
+                "name": "SIG Sauer P320 3.6\" Compact Optic Ready slide (Burnt Bronze)",
                 "shortName": "3.6 Bronze",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Slide engineered for optic compatibility and durability in combat conditions."
             }
@@ -703,7 +703,7 @@
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 3.9\\\" Sub Compact Optic Ready slide (Black)",
+                "name": "SIG Sauer P320 3.9\" Sub Compact Optic Ready slide (Black)",
                 "shortName": "3.9 Black",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Slide engineered for optic compatibility and durability in combat conditions."
             }
@@ -798,7 +798,7 @@
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 3.9\\\" Sub Compact Optic Ready slide (Burnt Bronze)",
+                "name": "SIG Sauer P320 3.9\" Sub Compact Optic Ready slide (Burnt Bronze)",
                 "shortName": "3.9 Burnt Bronze",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Slide engineered for optic compatibility and durability in combat conditions."
             }
@@ -893,7 +893,7 @@
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 4.7\\\" Sub Compact Optic Ready slide (Black)",
+                "name": "SIG Sauer P320 4.7\" Sub Compact Optic Ready slide (Black)",
                 "shortName": "4.7 Black",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Slide engineered for optic compatibility and durability in combat conditions."
             }
@@ -988,7 +988,7 @@
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 4.7\\\" Sub Compact Optic Ready slide (Burnt Bronze)",
+                "name": "SIG Sauer P320 4.7\" Sub Compact Optic Ready slide (Burnt Bronze)",
                 "shortName": "4.7 Bronze",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Slide engineered for optic compatibility and durability in combat conditions."
             }
@@ -1214,7 +1214,7 @@
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 4.7\\\" Full Size Frame (Black)",
+                "name": "SIG Sauer P320 4.7\" Full Size Frame (Black)",
                 "shortName": "4.7 Frame",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Accessory component for custom builds."
             }
@@ -1279,7 +1279,7 @@
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 4.7\\\" Full Size Frame (FDE)",
+                "name": "SIG Sauer P320 4.7\" Full Size Frame (FDE)",
                 "shortName": "4.7 Frame",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Accessory component for custom builds."
             }
@@ -1344,7 +1344,7 @@
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 3.9\\\" Sub Compact Frame (Black)",
+                "name": "SIG Sauer P320 3.9\" Sub Compact Frame (Black)",
                 "shortName": "3.9 Frame",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Accessory component for custom builds."
             }
@@ -1409,7 +1409,7 @@
         },
         "locales": {
             "en": {
-                "name": "SIG Sauer P320 3.9\\\" Sub Compact Frame (FDE)",
+                "name": "SIG Sauer P320 3.9\" Sub Compact Frame (FDE)",
                 "shortName": "3.9 Frame",
                 "description": "Component for the modular SIG Sauer P320 9x19 pistol platform. Accessory component for custom builds."
             }
