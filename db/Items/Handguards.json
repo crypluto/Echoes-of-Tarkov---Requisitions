@@ -442,7 +442,7 @@
 		"barterScheme": [
 			{
 				"count": 10,
-				"_tpl": "ROUBLES"
+				"_tpl": "DOLLARS"
 			}
 		],
 		"loyallevelitems": 1,
@@ -3340,8 +3340,8 @@
 		],
 		"barterScheme": [
 			{
-				"count": 3002,
-				"_tpl": "ROUBLES"
+				"count": 23,
+				"_tpl": "DOLLARS"
 			}
 		],
 		"loyallevelitems": 1,
