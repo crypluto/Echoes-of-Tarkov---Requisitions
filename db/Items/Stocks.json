@@ -1586,11 +1586,16 @@
                 "path": "Attachments/Stocks/stock_ar15_padded_buffertube.bundle",
                 "rcid": ""
             },
-            "CanSellOnRagfair": true
+            "CanSellOnRagfair": true,
+            "Recoil": -1,
+            "Ergonomics": 0,
+            "HasShoulderContact": false,
+            "IsShoulderContact": false,
+            "Slots": []
         },
         "locales": {
             "en": {
-                "name": "ODIN WORKS Padded Pistol Buffer Tube",
+                "name": "AR-15 ODIN Works Padded Pistol Buffer Tube",
                 "shortName": "ODIN",
                 "description": "Padded pistol buffer tube."
             }
