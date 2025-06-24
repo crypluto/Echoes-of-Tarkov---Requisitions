@@ -17,14 +17,6 @@
             ]
         },
         {
-            "key": "Attachments/Handguards/handguard_ar15_bcm_alpha_13_keymod.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "Ammo/patron_65cm_eldx.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -409,6 +401,22 @@
             ]
         },
         {
+            "key": "Attachments/gasBlocks/gas_block_c7a2_tri.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Grips/pistolgrip_ar15_colt_c7a2.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Attachments/Grips/pistolgrip_ar15_metal+wood_nobeavertail.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -482,6 +490,38 @@
         },
         {
             "key": "Attachments/Grips/pistolgrip_m1911_rubber.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/handguard_ar15_bcm_alpha_13_keymod.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/handguard_ar15_colt_c7a2.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/handguard_ar15_colt_c8a2_bottom.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Handguards/handguard_ar15_colt_c8a2_top.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -697,6 +737,14 @@
             ]
         },
         {
+            "key": "Attachments/Mounts/mount_glock_mos_slide_cap.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Attachments/Mounts/mount_gooseneck.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -753,6 +801,126 @@
             ]
         },
         {
+            "key": "Attachments/scope_rings/30mm/arc_acro.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/scope_rings/30mm/arc_burris.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/scope_rings/30mm/arc_diving.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/scope_rings/30mm/arc_rmr.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/scope_rings/30mm/caparc.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/scope_rings/30mm/capmicro.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/scope_rings/30mm/frontscopecap.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/scope_rings/30mm/rearscopecap.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/scope_rings/30mm/ringbase.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/scope_rings/34mm/cap_arc34.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/scope_rings/34mm/cap_front34.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/scope_rings/34mm/cap_microh234.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/scope_rings/34mm/cap_rear34.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/scope_rings/34mm/ringbase34.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Sights/scope_all_eotech_exps_3_1_blk.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Attachments/Sights/scope_base_trijicon_sro.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -786,6 +954,14 @@
         },
         {
             "key": "Attachments/Sights/scope_sig_romeo_3.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/Stocks/stock_ar15_colt_c7a2.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -1441,6 +1617,14 @@
             ]
         },
         {
+            "key": "WeaponP320/barrel_36.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "WeaponP320/barrel_39.bundle",
             "dependencyKeys": [
                 "shaders",
@@ -1450,6 +1634,14 @@
         },
         {
             "key": "WeaponP320/barrel_47.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "WeaponP320/comp_36_micro_blk.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -1482,6 +1674,14 @@
         },
         {
             "key": "WeaponP320/comp_47_micro.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "WeaponP320/comp_47_micro_fde.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -1522,94 +1722,6 @@
         },
         {
             "key": "WeaponP320/mag_std.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/sandviper_hammer.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/sandviper_mag.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/sandviper_slide.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/sandviper_trigger.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/tti_suppressor.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/viper_barrel.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/viper_hammer.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/viper_magazine.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/viper_rs.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/viper_slide.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponPitViper/viper_trigger.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -1682,22 +1794,6 @@
         },
         {
             "key": "WeaponP320/slide_47_blk.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponP320/barrel_36.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "WeaponP320/comp_36_micro_blk.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
@@ -1910,62 +2006,6 @@
         },
         {
             "key": "WeaponUMP9/ump9_magazine_40.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Mounts/mount_glock_mos_slide_cap.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Grips/pistolgrip_ar15_colt_c7a2.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Handguards/handguard_ar15_colt_c7a2.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Handguards/handguard_ar15_colt_c8a2_top.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Handguards/handguard_ar15_colt_c8a2_bottom.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/Stocks/stock_ar15_colt_c7a2.bundle",
-            "dependencyKeys": [
-                "shaders",
-                "cubemaps",
-                "assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "Attachments/gasBlocks/gas_block_c7a2_tri.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",

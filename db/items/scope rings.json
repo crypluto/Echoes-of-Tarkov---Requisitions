@@ -1,0 +1,1252 @@
+{
+    "66489a0f8b2d733829c2a848": {
+        "itemTplToClone": "618b9643526131765025ab35",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/30mm/ringbase.bundle",
+                "rcid": ""
+            },
+            "Width": 2,
+            "Height": 1,
+            "Weight": 0.184,
+            "Ergonomics": 2,
+            "Accuracy": 25,
+            "EffectiveDistance": 999,
+            "Slots": [
+                {
+                    "_name": "mod_scope",
+                    "_id": "66489fe966a2851dfdbc3f06",
+                    "_parent": "618b9643526131765025ab35",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5b2388675acfc4771e1be0be",
+                                    "5b3b99475acfc432ff4dcbee",
+                                    "5a37cb10c4a282329a73b4e7",
+                                    "57c5ac0824597754771e88a9",
+                                    "618ba27d9008e4636a67f61d",
+                                    "617151c1d92c473c770214ab",
+                                    "6567e7681265c8a131069b0f"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_slot_rear",
+                    "_id": "66489ff0ee3119efcffdf477",
+                    "_parent": "66489a0f8b2d733829c2a848",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "66489a17e9aa56cc1efbcf4c"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_slot_front",
+                    "_id": "66489ff38d34a440e38ffaad",
+                    "_parent": "66489a0f8b2d733829c2a848",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "6648aa276deca06885f91c70",
+                                    "66489a21ddfc86045cf5142f",
+                                    "66499b2a03b43d33d26ae528"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Badger Ordinance COMM30 base with accessories",
+                "shortName": "BOCO BASE",
+                "description": "new and improved remote surgery scope rings."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_scope",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 32300,
+        "handbookPriceRoubles": 30000,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 29000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "66489a17e9aa56cc1efbcf4c": {
+        "itemTplToClone": "618b9671d14d6d5ab879c5ea",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/30mm/rearscopecap.bundle",
+                "rcid": ""
+            },
+            "Width": 1,
+            "Height": 1,
+            "Weight": 0.017
+        },
+        "locales": {
+            "en": {
+                "name": "Badger Ordinance COMM30 rear scope ring cap",
+                "shortName": "BOCO Rear",
+                "description": "Rear scope ring cap for the COMM30"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_slot_rear",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 2000,
+        "handbookPriceRoubles": 2100,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 1306,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "6648aa276deca06885f91c70": {
+        "itemTplToClone": "618b9682a3884f56c957ca78",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/30mm/capmicro.bundle",
+                "rcid": ""
+            },
+            "Width": 1,
+            "Height": 1,
+            "Weight": 0.017,
+            "Slots": [
+                {
+                    "_name": "mod_slot_h2",
+                    "_id": "6648ac72f00b3b44a71a42f1",
+                    "_parent": "6648aa276deca06885f91c70",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "61657230d92c473c770213d7"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Badger Ordinance COMM30 H2 cap",
+                "shortName": "BOCO H2",
+                "description": "H2 compatible Scope ring cap for the COMM30"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_slot_front",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 2000,
+        "handbookPriceRoubles": 2100,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 1300,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "66489a21ddfc86045cf5142f": {
+        "itemTplToClone": "618b9682a3884f56c957ca78",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/30mm/caparc.bundle",
+                "rcid": ""
+            },
+            "Width": 1,
+            "Height": 1,
+            "Weight": 0.037,
+            "Slots": [
+                {
+                    "_name": "mod_slot_top",
+                    "_id": "6648af23169cd304d3532f59",
+                    "_parent": "66489a21ddfc86045cf5142f",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "66489a354e6d72ea3fba90ed",
+                                    "66489a39c0934d7383ea2e07",
+                                    "66489a3c79abb2e661bb9a9f",
+                                    "66489a3f7fb92aa831ba9078"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Badger Ordinance COMM30 ARC System cap",
+                "shortName": "BOCO ARC",
+                "description": "ARC System Scope ring cap for mounting different optic 'footprints' to the COMM30. Because piggyback > 45 offset."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_slot_front",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 2600,
+        "handbookPriceRoubles": 2700,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 1906,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "66489a354e6d72ea3fba90ed": {
+        "itemTplToClone": "5a33b2c9c4a282000c5a9511",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/30mm/arc_rmr.bundle",
+                "rcid": ""
+            },
+            "Width": 1,
+            "Height": 1,
+            "Weight": 0.017,
+            "Slots": [
+                {
+                    "_name": "mod_slot_rmr",
+                    "_id": "6648b635e4043b9d8197f370",
+                    "_parent": "66489a354e6d72ea3fba90ed",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "5a32aa8bc4a2826c6e06d737"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "ARC System RMR Footprint",
+                "shortName": "BOCO RMR",
+                "description": "Badger Ordinance's ARC system RMR Footprint'"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_slot_top",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 2554,
+        "handbookPriceRoubles": 2600,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 1806,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "66489a39c0934d7383ea2e07": {
+        "itemTplToClone": "618b9682a3884f56c957ca78",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/30mm/arc_diving.bundle",
+                "rcid": ""
+            },
+            "Width": 1,
+            "Height": 1,
+            "Weight": 0.087,
+            "Slots": [
+                {
+                    "_name": "mod_slot_diving",
+                    "_id": "6648b4119c0bb4eb6d23c4d4",
+                    "_parent": "66489a39c0934d7383ea2e07",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "61605d88ffa6e502ac5e7eeb"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "ARC System Diving Board",
+                "shortName": "BOCO DIV",
+                "description": "Badger Ordinance's ARC system 'Diving Board' pic rail attachment for big, important, expensive things"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_slot_top",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 3554,
+        "handbookPriceRoubles": 3600,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 2806,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "66489a3c79abb2e661bb9a9f": {
+        "itemTplToClone": "5a33b2c9c4a282000c5a9511",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/30mm/arc_burris.bundle",
+                "rcid": ""
+            },
+            "Width": 1,
+            "Height": 1,
+            "Weight": 0.017,
+            "Slots": [
+                {
+                    "_name": "mod_slot_burris",
+                    "_id": "6648b4119c0bb4eb6d23c4d4",
+                    "_parent": "66489a3c79abb2e661bb9a9f",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "577d141e24597739c5255e01",
+                                    "58d268fc86f774111273f8c2"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "ARC System Burris Footprint",
+                "shortName": "BOCO Bur",
+                "description": "Badger Ordinance's ARC system Footprint mount for the Burris Fastfire, and, by popular demand, the Delta-Point."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_slot_top",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 1954,
+        "handbookPriceRoubles": 1000,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 1206,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "66489a3f7fb92aa831ba9078": {
+        "itemTplToClone": "5a33b2c9c4a282000c5a9511",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/30mm/arc_acro.bundle",
+                "rcid": ""
+            },
+            "Width": 1,
+            "Height": 1,
+            "Weight": 0.047,
+            "Slots": [
+                {
+                    "_name": "mod_slot_acro",
+                    "_id": "6648b7f4aa90405dcbf4c8f8",
+                    "_parent": "66489a3f7fb92aa831ba9078",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "616442e4faa1272e43152193"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "ARC System Acro Footprint",
+                "shortName": "BOCO Acro",
+                "description": "Badger Ordinance's ARC system Footprint mount for the Aimpoint Acro"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_slot_top",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 1954,
+        "handbookPriceRoubles": 1000,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 1206,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "66499b2a03b43d33d26ae528": {
+        "itemTplToClone": "618b9671d14d6d5ab879c5ea",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/30mm/frontscopecap.bundle",
+                "rcid": ""
+            },
+            "Width": 1,
+            "Height": 1,
+            "Weight": 0.017
+        },
+        "locales": {
+            "en": {
+                "name": "Badger Ordinance COMM30 front scope ring cap",
+                "shortName": "BOCO front",
+                "description": "front scope ring cap for the COMM30"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_slot_front",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 2000,
+        "handbookPriceRoubles": 2100,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 1306,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "664aa07d00fc82b15f32c52b": {
+        "itemTplToClone": "618b9643526131765025ab35",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/34mm/ringbase34.bundle",
+                "rcid": ""
+            },
+            "Width": 2,
+            "Height": 1,
+            "Weight": 0.182,
+            "Ergonomics": 2,
+            "Accuracy": 25,
+            "EffectiveDistance": 999,
+            "Slots": [
+                {
+                    "_name": "mod_scope",
+                    "_id": "66489fe966a2851dfdbc3f06",
+                    "_parent": "618b9643526131765025ab35",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "56ea70acd2720b844b8b4594",
+                                    "5aa66be6e5b5b0214e506e97",
+                                    "61714eec290d254f5e6b2ffc",
+                                    "62850c28da09541f43158cca"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_slot_rear",
+                    "_id": "66489ff0ee3119efcffdf477",
+                    "_parent": "664aa07d00fc82b15f32c52b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "664aa089de7dfc65aaf6d432"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_slot_front",
+                    "_id": "66489ff38d34a440e38ffaad",
+                    "_parent": "664aa07d00fc82b15f32c52b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "664aa0900e2025edfe324584",
+                                    "664aa094a212ec90b6fcbb3a",
+                                    "664aa098f5f14b010f8b5fc1"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Badger Ordinance COMM34 base with accessories",
+                "shortName": "BOCO BASE 34",
+                "description": "new and improved 34mm remote surgery scope rings."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_scope",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 32267,
+        "handbookPriceRoubles": 30000,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 28903,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "664aa089de7dfc65aaf6d432": {
+        "itemTplToClone": "618b9671d14d6d5ab879c5ea",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/34mm/cap_rear34.bundle",
+                "rcid": ""
+            },
+            "Width": 1,
+            "Height": 1,
+            "Weight": 0.015
+        },
+        "locales": {
+            "en": {
+                "name": "Badger Ordinance COMM34 rear scope ring cap",
+                "shortName": "BOCO Rear 34",
+                "description": "Rear scope ring cap for the COMM34"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_slot_rear",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 1954,
+        "handbookPriceRoubles": 2000,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 1206,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "664aa0900e2025edfe324584": {
+        "itemTplToClone": "618b9671d14d6d5ab879c5ea",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/34mm/cap_front34.bundle",
+                "rcid": ""
+            },
+            "Width": 1,
+            "Height": 1,
+            "Weight": 0.015
+        },
+        "locales": {
+            "en": {
+                "name": "Badger Ordinance COMM34 front scope ring cap",
+                "shortName": "BOCO front 34",
+                "description": "front scope ring cap for the COMM34"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_slot_front",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 1954,
+        "handbookPriceRoubles": 2000,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 1206,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "664aa094a212ec90b6fcbb3a": {
+        "itemTplToClone": "618b9682a3884f56c957ca78",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/34mm/cap_microh234.bundle",
+                "rcid": ""
+            },
+            "Width": 1,
+            "Height": 1,
+            "Weight": 0.015,
+            "Slots": [
+                {
+                    "_name": "mod_slot_h2",
+                    "_id": "6648ac72f00b3b44a71a42f1",
+                    "_parent": "664aa094a212ec90b6fcbb3a",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "61657230d92c473c770213d7"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Badger Ordinance COMM34 H2 cap",
+                "shortName": "BOCO H2",
+                "description": "H2 compatible Scope ring cap for the COMM34"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_slot_front",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 1954,
+        "handbookPriceRoubles": 2000,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 1206,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "664aa098f5f14b010f8b5fc1": {
+        "itemTplToClone": "618b9682a3884f56c957ca78",
+        "parentId": "55818b224bdc2dde698b456f",
+        "handbookParentId": "5b5f755f86f77447ec5d770e",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Attachments/scope_rings/34mm/cap_arc34.bundle",
+                "rcid": ""
+            },
+            "Width": 1,
+            "Height": 1,
+            "Weight": 0.035,
+            "Slots": [
+                {
+                    "_name": "mod_slot_top",
+                    "_id": "6648af23169cd304d3532f59",
+                    "_parent": "664aa098f5f14b010f8b5fc1",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Shift": 0,
+                                "Filter": [
+                                    "66489a354e6d72ea3fba90ed",
+                                    "66489a39c0934d7383ea2e07",
+                                    "66489a3c79abb2e661bb9a9f",
+                                    "66489a3f7fb92aa831ba9078"
+                                ]
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ]
+        },
+        "locales": {
+            "en": {
+                "name": "Badger Ordinance COMM34 ARC System cap",
+                "shortName": "BOCO ARC",
+                "description": "ARC System Scope ring cap for mounting different optic 'footprints' to the COMM34. Because piggyback > 45 offset."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": "mod_slot_front",
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 2554,
+        "handbookPriceRoubles": 2600,
+        "addtoTraders": true,
+        "traderId": "MECHANIC",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 1806,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 250
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_DEAD_SCAV",
+                "Probability": 150
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "4b81488c78c8a8ac7d37f9b9"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    }
+}
