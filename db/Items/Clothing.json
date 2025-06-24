@@ -12,6 +12,7 @@
 			"Height": 1,
 			"Width": 1,
 			"IsUndiscardable": false,
+			"InsuranceDisabled": false,
 			"DiscardLimit": 1
 		},
 		"locales": {
@@ -78,6 +79,7 @@
 			"Height": 1,
 			"Width": 1,
 			"IsUndiscardable": false,
+			"InsuranceDisabled": false,
 			"DiscardLimit": 1
 		},
 		"locales": {
@@ -144,6 +146,7 @@
 			"Height": 1,
 			"Width": 1,
 			"IsUndiscardable": false,
+			"InsuranceDisabled": false,
 			"DiscardLimit": 1
 		},
 		"locales": {
@@ -210,6 +213,7 @@
 			"Height": 2,
 			"Width": 2,
 			"IsUndiscardable": false,
+			"InsuranceDisabled": false,
 			"DiscardLimit": 1
 		},
 		"locales": {
@@ -334,6 +338,7 @@
 			"Height": 2,
 			"Width": 2,
 			"IsUndiscardable": false,
+			"InsuranceDisabled": false,
 			"DiscardLimit": 1,
 			"BlocksEarpiece": false,
 			"BlocksEyewear": true,
@@ -430,6 +435,7 @@
 			"Height": 1,
 			"Width": 2,
 			"IsUndiscardable": false,
+			"InsuranceDisabled": false,
 			"DiscardLimit": 1
 		},
 		"locales": {
@@ -496,6 +502,7 @@
 			"Height": 1,
 			"Width": 2,
 			"IsUndiscardable": false,
+			"InsuranceDisabled": false,
 			"DiscardLimit": 1
 		},
 		"locales": {
@@ -563,6 +570,7 @@
 			"Height": 1,
 			"Weight": 0.11,
 			"IsUndiscardable": false,
+			"InsuranceDisabled": false,
 			"DiscardLimit": 1,
 			"Grids": []
 		},
@@ -642,6 +650,7 @@
 			"Height": 1,
 			"Weight": 0.11,
 			"IsUndiscardable": false,
+			"InsuranceDisabled": false,
 			"DiscardLimit": 1,
 			"Grids": []
 		},
