@@ -63,12 +63,14 @@ Super QXL Diving flashlight
 Super QXL Diving flashlight (Woodland Wrap)
 AR-15 Noveske KX3 5.56x45 flash hider (Desert)
 AR-15 Noveske KX3 5.56x45 flash hider (OD)
+AR-15 Diemaco C7-style front sight tri-rail with gas block
 VPO-208 .366 TKM 520mm smoothbore barrel
 AR-15 5.56x45 7.5 inch barrel
 MCX .300 BLK 16 inch barrel
 MCX 5.56x45 16 inch barrel
 MCX 5.56x45 9 inch barrel
 MCX 5.56x45 6.75 inch barrel
+AR-15 M16-series 5.56x45 20 inch rifle length barrel
 Balaclava (Ryzhy)
 Cigarette
 Echoes Defense Black Half Mask
@@ -78,16 +80,22 @@ M50 Tinted Gas Mask
 Pit Viper sunglasses
 Echoes Defense Blackout™
 Boss Cap (Black)
+Beret (NCR Ranger)
+EOTech EXPS3 holographic sight cover (Woodland)
+EOTech EXPS3 holographic sight cover (Red)
+EOTech EXPS3 holographic sight cover (Multicam Woodland)
+EOTech EXPS3 holographic sight cover (Digital Multicam)
+EOTech EXPS3 holographic sight cover (Hexagon)
 DS ARMS RPD metal handguard
 AR-15 JSOC Delta Force free-floating handguard
 AR-15 Colt M4 Carbine Length FSB lower handguard
 Velociraptor polymer handguard with M-LOK rail
 SA58/FAL Belgian Style Wooden 3-hole handguard
-Echoes Defense "Kat Scratch" M4A1 Piccitiny rail
-DPMS "Kitty Kat" 7.5" 5.56 C7 FSB CAR Brace Pistol
-Daniel Defense RIS II M4A1 AR-15 Handguard - 12.25" Black
+AR-15 Echoes Defense "Kat Skratch" 4 inch handguard
+AR-15 DPMS "Kitty Kat" 4 inch free-float handguard
+AR-15 Daniel Defense RIS II 12.25 handguard (Black)
 AR-15 Precision Reflex GEN III Delta Carbon carbine length handguard
-Midwest Industries Drop-In Carbine Handguard
+AR-15 Midwest Industries Drop-In Carbine length Handguard
 AR-15 NcSTAR/VISM 13 inch KeyMod handguard
 AR-15 Midwest Industries AR10 Gen2 rifle length handguard
 AR-15 Model 601/M16A1 12 inch triangular handguard (Wood)
@@ -97,7 +105,14 @@ AR-15 NcSTAR 13 inch M-LOK handguard
 AR-15 Lancer Tactical modified lightweight 12 inch handguard
 AR-15 Echoes Defense "Resonant" handguard
 AR-15 Wooden 6.6 inch M-LOK handguard
-Colt M16A1 Triangular short handguard
+AR-15 Colt carbine length triangular handguard
+Echoes Defense JSOC Fiberglass 12" Handguard (Black)
+Echoes Defense JSOC Fiberglass 12" Handguard (Olive Drab)
+HK MP5 G3-Style wooden handguard
+AR-15 Diemaco C7A2 12 inch polymer handguard
+AR-15 Diemaco C8A2 Carbine Length handguard
+AR-15 Diemaco C8A2 Carbine Length lower handguard
+AR-15 BCM® KMR Alpha 13 inch KeyMod handguard
 AR-15 DURAMAG SS 7.62x39 28-round magazine
 AR-15 DURAMAG SS 7.62x39 28-round magazine (FDE)
 AR-15 DURAMAG SS 7.62x39 28-round magazine (Banana)
@@ -129,11 +144,19 @@ CN Armament DUAL45 Backup mount
 CN Armament DUAL45 Backup mount (FDE)
 CN Armament DUAL45 Backup mount (Anthracite)
 CN Armament DUAL45 Backup mount (Olive Drab)
+Glock MOS slide cap
+Trijicon SRO reflex sight
+Trijicon SRO reflex sight (FDE)
+SIG Sauer ROMEO3 reflex sight
+SIG Sauer ROMEO3 reflex sight (FDE)
+SIG Sauer ROMEO3 reflex sight (Graphite)
+EOTech EXPS3 holographic sight (Black)
 AR-15 Indignant Arms Streamline pistol grip (Walnut)
 AR-15 Hogue MSR-15 polymer pistol grip
 AR-15 Promag Industries Tactical pistol grip
 AR-15 Magpul MOE-K Low Profile pistol grip
 AR-15 ergonomic wooden pistol grip
+AR-15 Diemaco C7A2 pistol grip
 M16A2 5.56x45 upper reciever
 M16A1 5.56x45 upper reciever
 Echoes Defence M45A1 custom pistol slide with ACRO mount
@@ -142,6 +165,8 @@ Tron's Judgement
 Large Ammo Box
 Echoes Defense Armor Plate Box
 Eukyre's Jazz Bass
+Gigi Murin Origami Figure
+A Soldier's Jammed Rifle
 AR-15 Magpul CTR Carbine stock with Cheek-riser
 AR-15 Magpul CTR Carbine stock with Cheek-riser (FDE)
 AR-15 Magpul CTR Carbine stock with Cheek-riser (Green)
@@ -168,8 +193,10 @@ DPMS CAR-15 Fiberlite Stock
 AR-15 Armalite M16A1-style stock
 NCR Ranger M16A1 Wooden stock
 Battle Arms AR-15 VERT GEN2 PDW Stock
-ODIN WORKS Padded Pistol Buffer Tube
+AR-15 ODIN Works Padded Pistol Buffer Tube
 Battle Arms AR-15 VERT GEN2 PDW Stock
+HK MP5 A2 wooden stock
+AR-15 Diemaco C7A2 Fiberlite stock
 ORSIS AR-15J .366 TKM assault carbine
 AR-15J .366 TKM 20 inch barrel
 AR-15J .366 TKM 16 inch barrel
@@ -188,16 +215,45 @@ M700 6.5x48mm 20 inch stainless steel threaded barrel
 M700 6.5x48mm 26 inch barrel
 M700 6.5x48mm 20 inch threaded barrel
 M700 6.5x48mm 26 inch stainless steel barrel
-M700 6.5x48 Wyatt's Outdoor 5-round magazine
-M700 6.5x48 Wyatt's Outdoor 10-round magazine
 SIG MCX Multicaliber assault rifle
-JW4 TTI Pit Viper
-JW4 TTI Pit Viper 9x19mm barrel
-JW4 TTI Pit Viper 9x19mm slide
-JW4 TTI Pit Viper hammer
-JW4 TTI Pit Viper trigger
-JW4 TTI Pit Viper 21-round 9x19mm magazine
-JW4 TTI Pit Viper rear sight
+SIG Sauer P320 9x19 pistol
+SIG Sauer SIG Sauer P320 9x19 3.9 inch barrel
+SIG Sauer P320 9x19 4.7 inch barrel
+SIG Sauer P320 9x19 3.6 inch barrel
+SIG Sauer P320 9x19 3.9 inch barrel with PMM Duty compensator (Black)
+SIG Sauer P320 9x19 3.6 inch barrel with PMM Micro compensator (Black)
+SIG Sauer P320 9x19 3.9 inch barrel with PMM Ultra compensator (Black)
+SIG Sauer P320 9x19 4.7 inch barrel with PMM Micro compensator (Black)
+SIG Sauer P320 3.6 inch pistol slide (Black)
+SIG Sauer P320 3.6 inch pistol slide (Burnt Bronze)
+SIG Sauer P320 3.9 inch pistol slide (Black)
+SIG Sauer P320 3.9 inch pistol slide (Burnt Bronze)
+SIG Sauer P320 4.7 inch pistol slide (Black)
+SIG Sauer P320 4.7 inch pistol slide (Burnt Bronze)
+SIG Sauer P320 standard trigger
+SIG Sauer P320 9x19 17-round magazine (Black)
+SIG Sauer P320 standard rear sight
+SIG Sauer P320 standard front sight
+SIG Sauer P320 4.7 inch frame (Black)
+SIG Sauer P320 4.7 inch frame (FDE)
+SIG Sauer P320 3.9 inch frame (Black)
+SIG Sauer P320 3.9 inch frame (FDE)
+Taran Tactical Pit Viper 9x19 pistol
+TTI Pit Viper 9x19mm barrel
+TTI Pit Viper 9x19mm pistol slide
+TTI Pit Viper hammer
+TTI Viper 2011-style lightweight trigger
+TTI Pit Viper 21-round 9x19mm magazine
+TTI Pit Viper rear sight
+Taran Tactical Sand Viper 9x19 pistol
+TTI Viper 2011-series 9x19 barrel (Black)
+TTI Sand Viper 9x19mm pistol slide
+TTI Viper 2011-series hammer (Black)
+TTI Viper 2011-style lightweight trigger (Black)
+TTI Sand Viper 21-round 9x19mm magazine
+Taran Tactical Pit Viper 9x19 pistol (Black)
+TTI Pit Viper 21-round 9x19mm magazine (Black)
+TTI Pit Viper 9x19mm pistol slide (Black)
 FN SCAR-L MK2 .300 Blackout assault rifle
 FN SCAR-L MK.2 .300 Blackout 10 inch barrel
 FN SCAR-L MK.2 .300 Blackout 14 inch barrel
