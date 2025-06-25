@@ -434,7 +434,7 @@
 		"overrideProperties": {
 			"ExaminedByDefault": true,
 			"Prefab": {
-				"path": "Attachments/Sights/scope_all_eotech_exps_3_1_blk.bundle",
+				"path": "Attachments/Sights/scope_all_eotech_exps3_0_black.bundle",
 				"rcid": ""
 			},
 			"Weight": 0.070,
@@ -456,7 +456,7 @@
 					"_proto": "55d30c4c4bdc2db4468b457e"
 				},
 				{
-					"_name": "mod_mount",
+					"_name": "mod_tactical",
 					"_id": "685b413c844db3723159d3ec",
 					"_parent": "685b40db60670990eb71ca2d",
 					"_props": {
