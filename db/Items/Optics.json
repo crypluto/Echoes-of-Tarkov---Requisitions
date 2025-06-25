@@ -438,6 +438,16 @@
 				"rcid": ""
 			},
 			"Weight": 0.070,
+			"Zooms": [
+				[
+					1,
+					1
+				]
+			],
+			"ModesCount": [
+				2
+			],
+			"sightModType": "holo",
 			"Slots": [
 				{
 					"_name": "mod_mount",
