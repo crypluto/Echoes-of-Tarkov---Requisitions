@@ -2619,8 +2619,13 @@
 			},
 			"loudness": -30,
 			"Ergonomics": -20,
+			"Recoil": -7,
 			"ExtraSizeLeft": 1,
-			"Width": 2
+			"Width": 2,
+			"Velocity": 0.7,
+			"DurabilityBurnModificator": 1.7,
+			"HeatFactor": 1.13,
+			"Slots": []
 		},
 		"locales": {
 			"en": {
@@ -2671,8 +2676,13 @@
 			},
 			"loudness": -30,
 			"Ergonomics": -20,
+			"Recoil": -7,
 			"ExtraSizeLeft": 1,
-			"Width": 2
+			"Width": 2,
+			"Velocity": 0.7,
+			"DurabilityBurnModificator": 1.7,
+			"HeatFactor": 1.13,
+			"Slots": []
 		},
 		"locales": {
 			"en": {
