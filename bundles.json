@@ -913,7 +913,7 @@
             ]
         },
         {
-            "key": "Attachments/Sights/scope_all_eotech_exps_3_1_blk.bundle",
+            "key": "Attachments/Sights/scope_all_eotech_exps3_0_black.bundle",
             "dependencyKeys": [
                 "shaders",
                 "cubemaps",
