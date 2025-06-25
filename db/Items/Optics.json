@@ -440,12 +440,11 @@
 			"Weight": 0.070,
 			"Zooms": [
 				[
-					1,
 					1
 				]
 			],
 			"ModesCount": [
-				2
+				1
 			],
 			"sightModType": "holo",
 			"Slots": [
