@@ -455,7 +455,13 @@
 					"_props": {
 						"filters": [
 							{
-								"Filter": [],
+								"Filter": [
+									"685c6c973ffb1957dcca18c6",
+									"685c6cfe99d360ee6cbc7985",
+									"685c6ce8c15fc38b32190fa9",
+									"685c6cbbaa9e444cb67c6e7b",
+									"685c6ca10bfdee0262637b4f"
+								],
 								"Shift": 0
 							}
 						]
