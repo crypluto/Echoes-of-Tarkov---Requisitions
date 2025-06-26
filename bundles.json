@@ -409,6 +409,30 @@
             ]
         },
         {
+            "key": "Attachments/eotech/eotech_skin_artic.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/eotech/eotech_skin_tiger.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "Attachments/eotech/eotech_skin_partisan.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Attachments/eotech/eotech_skin_hex.bundle",
             "dependencyKeys": [
                 "shaders",
