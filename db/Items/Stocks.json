@@ -1,4 +1,4 @@
-{
+ {
     "68261c84b56f34d8f6a39e1f": {
         "itemTplToClone": "5d135e83d7ad1a21b83f42d8",
         "parentId": "55818a594bdc2db9688b456a",
@@ -1586,9 +1586,12 @@
                 "path": "Attachments/Stocks/stock_ar15_padded_buffertube.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "58ac1bf086f77420ed183f9f"
+            ],
             "CanSellOnRagfair": true,
             "Recoil": -1,
-            "Ergonomics": 0,
+            "Ergonomics": 1,
             "HasShoulderContact": false,
             "IsShoulderContact": false,
             "Slots": []
