@@ -982,7 +982,7 @@
 		},
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
-		"addtoModSlots": true,
+		"addtoModSlots": false,
 		"modSlot": [
 			"mod_scope",
 			"mod_barrel",
