@@ -1,4 +1,4 @@
- {
+{
     "68261c84b56f34d8f6a39e1f": {
         "itemTplToClone": "5d135e83d7ad1a21b83f42d8",
         "parentId": "55818a594bdc2db9688b456a",
@@ -8,6 +8,10 @@
                 "path": "Attachments/ctrblk.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.265,
             "Height": 1,
             "Width": 2,
@@ -80,6 +84,10 @@
                 "path": "Attachments/ctrfde.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.265,
             "Height": 1,
             "Width": 2,
@@ -152,6 +160,10 @@
                 "path": "Attachments/ctrgreen.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.265,
             "Height": 1,
             "Width": 2,
@@ -224,6 +236,10 @@
                 "path": "Attachments/m4ssblk.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.735,
             "Height": 1,
             "Width": 2,
@@ -296,6 +312,10 @@
                 "path": "Attachments/m4sstan.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.735,
             "Height": 1,
             "Width": 2,
@@ -368,6 +388,10 @@
                 "path": "Attachments/m4ssgrn.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.735,
             "Height": 1,
             "Width": 2,
@@ -440,6 +464,10 @@
                 "path": "Attachments/Stocks/stock_sv98_digital_flora.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "CanSellOnRagfair": true
         },
         "locales": {
@@ -492,6 +520,10 @@
                 "path": "Attachments/Stocks/stock_sv98_flora_winter.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "CanSellOnRagfair": true
         },
         "locales": {
@@ -544,6 +576,10 @@
                 "path": "Attachments/Stocks/stock_sv98_kmlk.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "CanSellOnRagfair": true
         },
         "locales": {
@@ -596,6 +632,10 @@
                 "path": "Attachments/Stocks/stock_sv98_mandrake.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "CanSellOnRagfair": true
         },
         "locales": {
@@ -648,6 +688,10 @@
                 "path": "Attachments/Stocks/stock_sv98_tiger.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "CanSellOnRagfair": true
         },
         "locales": {
@@ -700,6 +744,10 @@
                 "path": "Attachments/Stocks/stock_m700_hogue_overmolded_kryptek_highlander_stock.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.265,
             "InsuranceDisabled": false,
             "Ergonomics": 14,
@@ -755,6 +803,10 @@
                 "path": "Attachments/Stocks/stock_m700_hogue_overmolded_cadpat.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.265,
             "InsuranceDisabled": false,
             "Ergonomics": 14,
@@ -810,6 +862,10 @@
                 "path": "Attachments/Stocks/stock_m700_hogue_overmolded_ahegao_stock.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.285,
             "InsuranceDisabled": false,
             "Ergonomics": 14,
@@ -866,6 +922,10 @@
                 "path": "Attachments/Stocks/stock_m700_hogue_overmolded_dpm_stock.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.285,
             "InsuranceDisabled": false,
             "Ergonomics": 14,
@@ -922,6 +982,10 @@
                 "path": "Attachments/Stocks/stock_m700_hogue_overmolded_black_stock.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.255,
             "InsuranceDisabled": false,
             "Ergonomics": 14,
@@ -978,6 +1042,10 @@
                 "path": "Attachments/Stocks/stock_m700_hogue_overmolded_olive_stock.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.215,
             "InsuranceDisabled": false,
             "Ergonomics": 13.5,
@@ -1034,6 +1102,10 @@
                 "path": "Attachments/Stocks/stock_m700_hogue_overmolded_badlands_stock.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.215,
             "InsuranceDisabled": false,
             "Ergonomics": 13.5,
@@ -1090,6 +1162,10 @@
                 "path": "Attachments/Stocks/stock_m700_hogue_overmolded_erdl_stock.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.215,
             "InsuranceDisabled": false,
             "Ergonomics": 13.5,
@@ -1146,6 +1222,10 @@
                 "path": "Attachments/Stocks/stock_m700_hogue_overmolded_hunting_stock.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.215,
             "InsuranceDisabled": false,
             "Ergonomics": 13.5,
@@ -1202,6 +1282,10 @@
                 "path": "Attachments/Stocks/stock_m700_hogue_overmolded_typhon_stock.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "Weight": 0.215,
             "InsuranceDisabled": false,
             "Ergonomics": 13.5,
@@ -1258,6 +1342,10 @@
                 "path": "Attachments/Stocks/stock_l1a1_wood.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "CanSellOnRagfair": true
         },
         "locales": {
@@ -1323,6 +1411,10 @@
                 "path": "Attachments/Stocks/stock_ar15_fiberlite.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "CanSellOnRagfair": true
         },
         "locales": {
@@ -1390,6 +1482,10 @@
                 "path": "Attachments/Stocks/stock_ar15_m16a1.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "CanSellOnRagfair": true,
             "Recoil": -21
         },
@@ -1456,6 +1552,10 @@
                 "path": "Attachments/Stocks/stock_ar15_wood_m16a1.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "CanSellOnRagfair": true
         },
         "locales": {
@@ -1521,6 +1621,10 @@
                 "path": "Attachments/Stocks/stock_ar15_pdw_extended.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "CanSellOnRagfair": true
         },
         "locales": {
@@ -1586,6 +1690,10 @@
                 "path": "Attachments/Stocks/stock_ar15_padded_buffertube.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "ConflictingItems": [
                 "58ac1bf086f77420ed183f9f"
             ],
@@ -1659,6 +1767,10 @@
                 "path": "Attachments/Stocks/stock_ar15_pdw_collapsed.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "CanSellOnRagfair": true
         },
         "locales": {
@@ -1724,6 +1836,10 @@
                 "path": "Attachments/Stocks/stock_mp5a2_wood.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "CanSellOnRagfair": true
         },
         "locales": {
@@ -1788,6 +1904,10 @@
                 "path": "Attachments/Stocks/stock_ar15_colt_c7a2.bundle",
                 "rcid": ""
             },
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
             "CanSellOnRagfair": true,
             "Ergonomics": 5
         },

@@ -64,7 +64,7 @@
 		},
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
-		"addtoModSlots": true,
+		"addtoModSlots": false,
 		"modSlot": [
 			"mod_magazine"
 		],
@@ -157,7 +157,7 @@
 		},
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
-		"addtoModSlots": true,
+		"addtoModSlots": false,
 		"modSlot": [
 			"mod_magazine"
 		],
@@ -250,7 +250,7 @@
 		},
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
-		"addtoModSlots": true,
+		"addtoModSlots": false,
 		"modSlot": [
 			"mod_magazine"
 		],
@@ -343,7 +343,7 @@
 		},
 		"clearClonedProps": false,
 		"addtoInventorySlots": [],
-		"addtoModSlots": true,
+		"addtoModSlots": false,
 		"modSlot": [
 			"mod_magazine"
 		],
