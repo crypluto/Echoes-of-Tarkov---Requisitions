@@ -1,4 +1,4 @@
- {
+{
     "68261c84b56f34d8f6a39e1f": {
         "itemTplToClone": "5d135e83d7ad1a21b83f42d8",
         "parentId": "55818a594bdc2db9688b456a",
@@ -30,6 +30,10 @@
             "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -102,6 +106,10 @@
             "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -174,6 +182,10 @@
             "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -246,6 +258,10 @@
             "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -318,6 +334,10 @@
             "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -390,6 +410,10 @@
             "MOD_STOCK_000"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -456,6 +480,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -508,6 +536,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -560,6 +592,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -612,6 +648,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -664,6 +704,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -719,6 +763,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -774,6 +822,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -830,6 +882,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -886,6 +942,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -942,6 +1002,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -998,6 +1062,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -1054,6 +1122,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -1110,6 +1182,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -1166,6 +1242,10 @@
         "addtoInventorySlots": [],
         "addtoModSlots": true,
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -1222,6 +1302,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -1274,6 +1358,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -1407,6 +1495,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -1472,6 +1564,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -1537,6 +1633,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -1610,6 +1710,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
@@ -1675,6 +1779,10 @@
             "mod_stock"
         ],
         "ModdableItemWhitelist": [],
+        "ConflictingItems": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759"
+        ],
         "ModdableItemBlacklist": [
             "5c0e2ff6d174af02a1659d4a",
             "5a33e75ac4a2826c6e06d759"
