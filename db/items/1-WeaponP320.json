@@ -1268,7 +1268,7 @@
         },
         "clearClonedProps": false,
         "addtoInventorySlots": [],
-        "addtoModSlots": true,
+        "addtoModSlots": false,
         "modSlot": [
             "mod_pistol_grip"
         ],
@@ -1335,7 +1335,7 @@
         },
         "clearClonedProps": false,
         "addtoInventorySlots": [],
-        "addtoModSlots": true,
+        "addtoModSlots": false,
         "modSlot": [
             "mod_pistol_grip"
         ],
@@ -1401,7 +1401,7 @@
         },
         "clearClonedProps": false,
         "addtoInventorySlots": [],
-        "addtoModSlots": true,
+        "addtoModSlots": false,
         "modSlot": [
             "mod_pistol_grip"
         ],
@@ -1467,7 +1467,7 @@
         },
         "clearClonedProps": false,
         "addtoInventorySlots": [],
-        "addtoModSlots": true,
+        "addtoModSlots": false,
         "modSlot": [
             "mod_pistol_grip"
         ],
