@@ -1033,6 +1033,14 @@
             ]
         },
         {
+            "key": "Attachments/Stocks/stock_picc_adapter_zenitco.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Attachments/Stocks/stock_ar15_fiberlite.bundle",
             "dependencyKeys": [
                 "shaders",

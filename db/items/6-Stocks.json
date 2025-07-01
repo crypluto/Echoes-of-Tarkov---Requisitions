@@ -1966,5 +1966,100 @@
                 "Probability": 1
             }
         ]
+    },
+    "6863fe73d2c7849544e2993e": {
+        "itemTplToClone": "58ac1bf086f77420ed183f9f",
+        "parentId": "55818a594bdc2db9688b456a",
+        "handbookParentId": "5b5f757486f774093e6cb507",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "Attachments/Stocks/stock_picc_adapter_zenitco.bundle",
+                "rcid": ""
+            },
+            "Slots": [
+                {
+                    "_id": "6863fee3334aa95cf5e1f562",
+                    "_mergeSlotWithChildren": false,
+                    "_name": "mod_stock",
+                    "_parent": "6863fe73d2c7849544e2993e",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "59ecc3dd86f7746dc827481c",
+                                    "5b222d405acfc400153af4fe"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_proto": "55d30c4c4bdc2db4468b457e",
+                    "_required": false
+                }
+            ],
+            "ConflictingItems": [
+                "5c0e2ff6d174af02a1659d4a",
+                "5a33e75ac4a2826c6e06d759"
+            ],
+            "CanSellOnRagfair": true,
+            "Ergonomics": 5
+        },
+        "locales": {
+            "en": {
+                "name": "ZenitCo 1913 Adapter",
+                "shortName": "1913",
+                "description": "The 1913 ZenitCo Adapter is an adapter that lets you mount your ZenitoCo PT-1 or PT-3 to any 1913 rail compatible gun.   Machined out of steel these adapters are built to last"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "MOD_STOCK",
+            "MOD_STOCK_000"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [
+            "5c0e2ff6d174af02a1659d4a",
+            "5a33e75ac4a2826c6e06d759",
+            "5beec8b20db834001961942a"
+        ],
+        "addtoTraders": true,
+        "traderId": "PEACEKEEPER",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 29,
+                "_tpl": "DOLLARS"
+            }
+        ],
+        "loyallevelitems": 1,
+        "fleaPriceRoubles": 3000,
+        "handbookPriceRoubles": 3400,
+        "addtoStaticLootContainers": true,
+        "addtoragfair": true,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 7
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 6
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 5
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 1
+            }
+        ]
     }
 }
