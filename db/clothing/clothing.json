@@ -1,0 +1,20 @@
+[
+	{
+		"type": "top",
+		"suiteId": "6866b73845a4590f1dc3a4a9",
+		"outfitId": "6866b73930772ee9b2655b0e",
+		"topId": "6866b73abc9e80cee8f3b8d2",
+		"handsId": "6866b73ff5a33af2530617ff",
+		"locales": {
+			"en": "Echoes Defense Hawaii Tactical"
+		},
+		"topBundlePath": "clothing/Tops/top_hawaii.bundle",
+		"handsBundlePath": "clothing/Hands/hands_hawaii.bundle",
+		"traderId": "RAGMAN",
+		"loyaltyLevel": 1,
+		"profileLevel": 1,
+		"standing": 0,
+		"currencyId": "ROUBLES",
+		"price": 150
+	}
+]

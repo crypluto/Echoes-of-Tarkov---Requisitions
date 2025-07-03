@@ -47,17 +47,20 @@ const CustomWeaponPresets_1 = require("./CustomWeaponPresets");
 const References_1 = require("./Refs/References");
 const TraderTemplate_1 = require("./Trader/TraderTemplate");
 const Utils_1 = require("./Refs/Utils");
+const CustomClothingService_1 = require("./CustomClothingService");
 const baseJson = __importStar(require("../db/base.json"));
 const questAssort = __importStar(require("../db/questassort.json"));
 class EchoesOfTarkovMod {
     modName = "Echoes of Tarkov - Requisitions & hoser";
     version;
     debug = false;
+    instanceManager = new WTTInstanceManager_1.WTTInstanceManager();
     Instance = new WTTInstanceManager_1.WTTInstanceManager();
     customItemService = new CustomItemService_1.CustomItemService();
     customAssortSchemeService = new CustomAssortSchemeService_1.CustomAssortSchemeService();
     customWeaponPresets = new CustomWeaponPresets_1.CustomWeaponPresets();
     epicItemClass = new EpicsEdits_1.epicItemClass();
+    customClothingService = new CustomClothingService_1.CustomClothingService();
     ref = new References_1.References();
     preSptLoad(container) {
         this.Instance.preSptLoad(container, this.modName);
@@ -72,6 +75,11 @@ class EchoesOfTarkovMod {
         const traderConfig = this.ref.configServer.getConfig(ConfigTypes_1.ConfigTypes.TRADER);
         const traderUtils = new Utils_1.TraderUtils();
         const traderData = new TraderTemplate_1.TraderData(traderConfig, this.ref, traderUtils);
+        this.instanceManager.preSptLoad(container, this.modName);
+        this.instanceManager.debug = this.debug;
+        // EVERYTHING AFTER HERE MUST USE THE INSTANCE
+        this.getVersionFromJson();
+        this.customClothingService.preSptLoad(this.instanceManager);
         traderData.registerProfileImage();
         traderData.setupTraderUpdateTime();
         Traders_1.Traders[baseJson._id] = baseJson._id;
@@ -85,6 +93,9 @@ class EchoesOfTarkovMod {
         this.customAssortSchemeService.postDBLoad();
         this.customWeaponPresets.postDBLoad();
         this.epicItemClass.postDBLoad();
+        this.instanceManager.postDBLoad(container);
+        // EVERYTHING AFTER HERE MUST USE THE INSTANCE
+        this.customClothingService.postDBLoad();
         this.ref.postDBLoad(container);
         const traderConfig = this.ref.configServer.getConfig(ConfigTypes_1.ConfigTypes.TRADER);
         const traderUtils = new Utils_1.TraderUtils();

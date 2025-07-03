@@ -1289,6 +1289,22 @@
             ]
         },
         {
+            "key": "clothing/Tops/top_hawaii.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "clothing/Hands/hands_hawaii.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "clothing/m50.bundle",
             "dependencyKeys": [
                 "shaders",

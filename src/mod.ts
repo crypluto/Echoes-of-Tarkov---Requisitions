@@ -19,6 +19,7 @@ import { CustomWeaponPresets } from "./CustomWeaponPresets";
 import { References } from "./Refs/References";
 import { TraderData } from "./Trader/TraderTemplate";
 import { TraderUtils } from "./Refs/Utils";
+import { CustomClothingService } from "./CustomClothingService";
 import * as baseJson from "../db/base.json";
 import * as questAssort from "../db/questassort.json";
 
@@ -26,12 +27,14 @@ class EchoesOfTarkovMod implements IPreSptLoadMod, IPostDBLoadMod {
 	private modName = "Echoes of Tarkov - Requisitions & hoser";
 	private version: string;
 	private debug = false;
+	private instanceManager: WTTInstanceManager = new WTTInstanceManager();
 
 	private Instance: WTTInstanceManager = new WTTInstanceManager();
 	private customItemService: CustomItemService = new CustomItemService();
 	private customAssortSchemeService: CustomAssortSchemeService = new CustomAssortSchemeService();
 	private customWeaponPresets: CustomWeaponPresets = new CustomWeaponPresets();
 	private epicItemClass: epicItemClass = new epicItemClass();
+	private customClothingService: CustomClothingService = new CustomClothingService();
 
 	private ref: References = new References();
 
@@ -51,6 +54,14 @@ class EchoesOfTarkovMod implements IPreSptLoadMod, IPostDBLoadMod {
 		const traderUtils = new TraderUtils();
 		const traderData = new TraderData(traderConfig, this.ref, traderUtils);
 
+		this.instanceManager.preSptLoad(container, this.modName);
+		this.instanceManager.debug = this.debug;
+		// EVERYTHING AFTER HERE MUST USE THE INSTANCE
+
+		this.getVersionFromJson();
+
+		this.customClothingService.preSptLoad(this.instanceManager);
+
 		traderData.registerProfileImage();
 		traderData.setupTraderUpdateTime();
 
@@ -68,7 +79,9 @@ class EchoesOfTarkovMod implements IPreSptLoadMod, IPostDBLoadMod {
 		this.customAssortSchemeService.postDBLoad();
 		this.customWeaponPresets.postDBLoad();
 		this.epicItemClass.postDBLoad();
-
+		this.instanceManager.postDBLoad(container);
+		// EVERYTHING AFTER HERE MUST USE THE INSTANCE
+		this.customClothingService.postDBLoad();
 		this.ref.postDBLoad(container);
 		const traderConfig: ITraderConfig = this.ref.configServer.getConfig<ITraderConfig>(ConfigTypes.TRADER);
 		const traderUtils = new TraderUtils();
