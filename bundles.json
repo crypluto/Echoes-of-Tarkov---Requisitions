@@ -1537,6 +1537,14 @@
             ]
         },
         {
+            "key": "Mags/magazine_ak74_cutout.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "Mags/mag_ak74_pufgun_545x39_60_od.bundle",
             "dependencyKeys": [
                 "shaders",

@@ -2062,5 +2062,99 @@
 				"Probability": 1
 			}
 		]
+	},
+	"686766e88f9b6a0f8138905c": {
+		"itemTplToClone": "649ec30cb013f04a700e60fb",
+		"parentId": "MAGAZINE",
+		"handbookParentId": "MOD_MAGAZINE",
+		"overrideProperties": {
+			"Prefab": {
+				"path": "Mags/magazine_ak74_cutout.bundle",
+				"rcid": ""
+			},
+			"VisibleAmmoRangesString": "1-30",
+			"Cartridges": [
+				{
+					"_name": "cartridges",
+					"_id": "68676705c30d3bbf1a56d901",
+					"_parent": "686766e88f9b6a0f8138905c",
+					"_max_count": 30,
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5c0d5e4486f77478390952fe",
+									"61962b617c6c7b169525f168",
+									"56dfef82d2720bbd668b4567",
+									"56dff026d2720bb8668b4567",
+									"56dff061d2720bb5668b4567",
+									"56dff0bed2720bb0668b4567",
+									"56dff216d2720bbd668b4568",
+									"56dff2ced2720bb4668b4567",
+									"56dff338d2720bbd668b4569",
+									"56dff3afd2720bba668b4567",
+									"56dff421d2720b5f5a8b4567",
+									"56dff4a2d2720bbd668b456a",
+									"56dff4ecd2720b5f5a8b4568"
+								]
+							}
+						]
+					},
+					"_proto": "5748538b2459770af276a261"
+				}
+			]
+		},
+		"locales": {
+			"en": {
+				"name": "AK-74 5.45x39 Echoes Defense \"Crew\" 30-Round Cutout Magazine",
+				"shortName": "Crew",
+				"description": "A 60-round 5.45x39 quad-stack polymer PUFGUN magazine for AK-74 and compatible systems. Produced in a small batch, never serialized."
+			}
+		},
+		"clearClonedProps": false,
+		"addtoInventorySlots": [],
+		"addtoModSlots": true,
+		"modSlot": [
+			"mod_magazine"
+		],
+		"ModdableItemWhitelist": [],
+		"ModdableItemBlacklist": [],
+		"addtoTraders": false,
+		"traderId": "SKIER",
+		"traderItems": [
+			{
+				"unlimitedCount": true,
+				"stackObjectsCount": 99
+			}
+		],
+		"barterScheme": [
+			{
+				"count": 6453,
+				"_tpl": "ROUBLES"
+			}
+		],
+		"loyallevelitems": 3,
+		"fleaPriceRoubles": 45230,
+		"handbookPriceRoubles": 28938,
+		"addtoStaticLootContainers": true,
+		"addtoragfair": true,
+		"StaticLootContainers": [
+			{
+				"ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+				"Probability": 7
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+				"Probability": 6
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+				"Probability": 5
+			},
+			{
+				"ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+				"Probability": 1
+			}
+		]
 	}
 }
